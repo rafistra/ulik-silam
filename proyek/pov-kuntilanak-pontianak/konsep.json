@@ -1,0 +1,637 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-19T22:38:58.853Z",
+  "judulDokumen": "Kuntilanak di Balik Nama Pontianak",
+  "judul": "POV: Kamu Mendengar Kuntilanak di Balik Nama Pontianak",
+  "slug": "pov-kuntilanak-pontianak",
+  "versi": "v2 · 2026-11-20",
+  "lapisan": [
+    "Legenda",
+    "Sejarah"
+  ],
+  "latar": "Sungai Kapuas, Pontianak",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Pendayung muda (fiktif) di perahu paling depan, pengikut rombongan dari Mempawah",
+  "ringkasan": {
+    "Judul": "POV: Kamu Mendengar Kuntilanak di Balik Nama Pontianak",
+    "Slug": "pov-kuntilanak-pontianak",
+    "Versi": "v2 · 2026-11-20",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan saat ini ±2:45 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Pendayung muda (fiktif) di perahu paling depan, pengikut rombongan dari Mempawah",
+    "Jumlah ilustrasi": "19 (16 adegan + 3 lembar karakter: Pendayung, Wak Saleh, Kuntilanak)",
+    "Lapisan": "Legenda, Sejarah",
+    "Latar": "Sungai Kapuas, Pontianak",
+    "Jenis": "Legenda (legenda setempat asal-usul nama kota)",
+    "Tradisi": "Melayu Pontianak, Kalimantan Barat",
+    "Versi acuan": "Versi populer Pemkot Pontianak: rombongan diganggu tangis dan tawa kuntilanak saat menyusuri Kapuas, meriam ditembakkan, tempat jatuhnya peluru menjadi permukiman. Rincian pohon besar dan penolakan menepi mengikuti penuturan yang dikutip Timo Duile.",
+    "Kesakralan": "Dihormati: Syarif Abdurrahman pendiri Kesultanan Kadriah yang masih ada, makamnya di Batu Layang diziarahi. Kuntilanak sendiri: Terbuka.",
+    "Premis": "Legenda pendirian kota dilihat dari bawah: bukan dari perahu pemimpin, tetapi dari pendayung yang paling dekat dengan pohon itu.",
+    "Benang merah": "Tawa yang berubah jadi tangis. Meriam mengusir suaranya, tapi tidak menjawab tangisnya.",
+    "Dipilih karena": "Hook terkuat dari brainstorming, sejarah dan legenda menyatu, akhir ambigu paling menghantui (alur A, akhir 2)."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Senja di Kapuas",
+      "suasana": "Tenang yang terlalu sunyi",
+      "palet": "Amber dan merah darah senja, siluet pohon hitam, air cokelat gelap",
+      "cahaya": "Matahari rendah dari belakang pohon, bayangan panjang"
+    },
+    {
+      "babak": 2,
+      "nama": "Tawa dari pohon tinggi",
+      "suasana": "Teror pertama",
+      "palet": "Ungu-kelabu redup, pohon hampir hitam, kabut kelabu dingin",
+      "cahaya": "Sisa senja dan satu obor jingga kecil"
+    },
+    {
+      "babak": 3,
+      "nama": "Perahu berhenti",
+      "suasana": "Panik tertahan",
+      "palet": "Hitam pekat, jingga obor, kabut kelabu tebal",
+      "cahaya": "Obor berkedip dari bawah wajah"
+    },
+    {
+      "babak": 4,
+      "nama": "Dentuman",
+      "suasana": "Ledakan lalu hening",
+      "palet": "Hitam, kilat jingga-putih, asap kelabu",
+      "cahaya": "Satu kilatan sesaat, lalu bara redup di asap"
+    },
+    {
+      "babak": 5,
+      "nama": "Fajar di pertemuan sungai",
+      "suasana": "Lega yang rapuh",
+      "palet": "Kelabu kebiruan pucat, hijau pudar, garis emas tipis",
+      "cahaya": "Fajar berkabut, cahaya datar"
+    },
+    {
+      "babak": 6,
+      "nama": "Malam pertama",
+      "suasana": "Teror kembali, pelan",
+      "palet": "Hitam pekat, kuning pelita, kabut pucat",
+      "cahaya": "Pelita kecil hampir padam"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Senja di Kapuas",
+    "2": "Tawa dari pohon tinggi",
+    "3": "Perahu berhenti",
+    "4": "Dentuman",
+    "5": "Fajar di pertemuan sungai",
+    "6": "Malam pertama"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Senja di Kapuas",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Bidikan orang pertama dari haluan perahu terdepan saat senja. Kedua tangan \"kamu\" memegang dayung, berhenti di tengah kayuhan. Di depan, Kapuas melebar, pohon-pohon tinggi menghitam di tepi kiri.",
+      "narasiSuara": "[tense] Kamu mendengar suara tawa seram itu lebih dulu dari siapa pun. [nervous] Karena perahumu paling depan.",
+      "narasi": "Kamu mendengar suara tawa seram itu lebih dulu dari siapa pun. Karena perahumu paling depan.",
+      "teksLayar": [
+        "Sungai Kapuas, 1771."
+      ],
+      "suara": "Kecipak dayung, serangga senja; di ujung adegan tawa samar sangat jauh.",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Senja di Kapuas",
+      "waktu": "0:08–0:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Bidikan lebar dari atas air: iring-iringan perahu kakap di belakang perahu terdepan. Di perahu tengah, sosok Syarif Abdurrahman berdiri kecil dan jauh, membelakangi kamera.",
+      "narasiSuara": "[calm] Sore itu, rombongan Syarif Abdurrahman menyusuri Sungai Kapuas. [calm] Mereka berangkat dari Mempawah, mencari tanah untuk dihuni. [serious] Dan kamu yang membuka jalan.",
+      "narasi": "Sore itu, rombongan Syarif Abdurrahman menyusuri Sungai Kapuas. Mereka berangkat dari Mempawah, mencari tanah untuk dihuni. Dan kamu yang membuka jalan.",
+      "teksLayar": [],
+      "suara": "Kayuhan banyak dayung, air.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Senja di Kapuas",
+      "waktu": "0:18–0:30",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "\"Kamu\" menoleh ke buritan: Wak Saleh, juru mudi tua, memegang kemudi dengan rahang mengeras, matanya menatap tepi sungai, bukan ke \"kamu\".",
+      "narasiSuara": "[calm] Di buritan, Wak Saleh memegang kemudi. [serious] Sudah puluhan tahun ia hidup di sungai. [nervous] Tapi sejak tengah hari, ia tidak bicara sepatah kata pun.",
+      "narasi": "Di buritan, Wak Saleh memegang kemudi. Sudah puluhan tahun ia hidup di sungai. Tapi sejak tengah hari, ia tidak bicara sepatah kata pun.",
+      "teksLayar": [],
+      "suara": "Kayu kemudi berderit.",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Tawa dari pohon tinggi",
+      "waktu": "0:30–0:41",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Matahari baru tenggelam; pertemuan sungai samar di kejauhan. Sebatang pohon besar menjulang di tepi kanan, dahannya gelap. Jauh di antara dahan, sosok pucat berambut panjang nyaris tak terlihat, seperti kabut. Tangan kanan \"kamu\" berhenti mendayung.",
+      "narasiSuara": "[nervous] Matahari tenggelam saat pertemuan sungai mulai terlihat. [whispers] Lalu dari pohon besar di tepi sungai... terdengar tawa. [tense] Tinggi. [tense] Panjang. [tense] Suara perempuan.",
+      "narasi": "Matahari tenggelam saat pertemuan sungai mulai terlihat. Lalu dari pohon besar di tepi sungai... terdengar tawa. Tinggi. Panjang. Suara perempuan.",
+      "teksLayar": [],
+      "suara": "Serangga mendadak diam; tawa perempuan melengking dari pohon.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Tawa dari pohon tinggi",
+      "waktu": "0:41–0:51",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sorotan Wak Saleh dari depan perahu: ia mencondongkan badan, telunjuk di bibir, tangan lain menunjuk ke depan. Ia menatap \"kamu\" (kontak mata disengaja).",
+      "narasiSuara": "[whispers] Wak Saleh mendesis dari belakang. [serious] Jangan menoleh ke pohon itu, katanya. [nervous] Jangan berhenti. [nervous] Terus dayung, apa pun yang kau dengar.",
+      "narasi": "Wak Saleh mendesis dari belakang. Jangan menoleh ke pohon itu, katanya. Jangan berhenti. Terus dayung, apa pun yang kau dengar.",
+      "teksLayar": [],
+      "suara": "Bisikan; tawa menjauh lalu mendekat.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Tawa dari pohon tinggi",
+      "waktu": "0:51–1:01",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dahan-dahan pohon di tepi bergoyang satu per satu tanpa angin, seakan sesuatu berpindah di atasnya. Sekilas, di pohon tengah, sosok pucat berambut hitam panjang setengah tersembunyi di dedaunan; wajahnya tertutup rambut.",
+      "narasiSuara": "[tense] Tapi tawa itu ikut bergerak, dari satu pohon ke pohon berikutnya, mengikuti perahumu. [sad] Lalu, tiba-tiba, tawanya berubah... menjadi tangis.",
+      "narasi": "Tapi tawa itu ikut bergerak, dari satu pohon ke pohon berikutnya, mengikuti perahumu. Lalu, tiba-tiba, tawanya berubah... menjadi tangis.",
+      "teksLayar": [],
+      "suara": "Tawa berpindah arah, lalu berubah jadi tangis.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Perahu berhenti",
+      "waktu": "1:01–1:11",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Bidikan lebar perahu-perahu: para pendayung mengangkat dayung, wajah pucat diterangi obor, beberapa saling berpandangan.",
+      "narasiSuara": "[sad] Tangisnya panjang, seperti perempuan yang kehilangan sesuatu. [tense] Satu per satu, para pendayung mengangkat dayungnya. [nervous] Tak seorang pun mau menepi malam itu.",
+      "narasi": "Tangisnya panjang, seperti perempuan yang kehilangan sesuatu. Satu per satu, para pendayung mengangkat dayungnya. Tak seorang pun mau menepi malam itu.",
+      "teksLayar": [],
+      "suara": "Tangis panjang; obor berdesis.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Perahu berhenti",
+      "waktu": "1:11–1:22",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Perahu \"kamu\" hanyut pelan ke tepi; akar-akar pohon besar muncul dari air di depan. Dari dahan tepat di atas kepala, rambut hitam panjang menjuntai hampir menyentuh air, ujung kain putih pudar bergoyang; wajah tidak terlihat. Kedua tangan gemetar menggenggam dayung yang tidak bergerak.",
+      "narasiSuara": "[nervous] Tanpa dayung, arus menyeret perahumu pelan ke tepi. [whispers] Ke bawah pohon itu. [tense] Kamu ingin mendayung, tapi tanganmu tidak mau bergerak.",
+      "narasi": "Tanpa dayung, arus menyeret perahumu pelan ke tepi. Ke bawah pohon itu. Kamu ingin mendayung, tapi tanganmu tidak mau bergerak.",
+      "teksLayar": [],
+      "suara": "Arus, ranting bergesek lambung perahu, tangis di atas kepala.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Perahu berhenti",
+      "waktu": "1:22–1:31",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dari jauh di perahu belakang: siluet orang-orang menyiapkan meriam, moncongnya diarahkan ke pepohonan. Syarif Abdurrahman hanya tampak sebagai siluet kecil.",
+      "narasiSuara": "[serious] Lalu terdengar perintah dari perahu Syarif Abdurrahman di belakang. [tense] Orang-orang menyiapkan meriam. [whispers] Moncongnya diarahkan ke pepohonan di tepi sungai.",
+      "narasi": "Lalu terdengar perintah dari perahu Syarif Abdurrahman di belakang. Orang-orang menyiapkan meriam. Moncongnya diarahkan ke pepohonan di tepi sungai.",
+      "teksLayar": [],
+      "suara": "Perintah samar dari jauh (tanpa kata yang terdengar jelas).",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Dentuman",
+      "waktu": "1:31–1:40",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kilatan meriam memantul di air hitam; burung-burung berhamburan dari dahan. Tangan \"kamu\" mencengkeram sisi perahu.",
+      "narasiSuara": "[shouting] Dentuman membelah malam! [tense] Cahayanya memantul di air, dan perahumu ikut bergetar. [nervous] Burung-burung terbang dari dahan sekaligus.",
+      "narasi": "Dentuman membelah malam! Cahayanya memantul di air, dan perahumu ikut bergetar. Burung-burung terbang dari dahan sekaligus.",
+      "teksLayar": [],
+      "suara": "Dentuman meriam, kepak sayap.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Dentuman",
+      "waktu": "1:40–1:50",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Asap meriam mengambang rendah di atas air; pohon besar diam. Tangan \"kamu\" terbuka di pangkuan.",
+      "narasiSuara": "[whispers] Lalu... sunyi. [whispers] Tak ada tawa. [whispers] Tak ada tangis. [calm] Hanya asap meriam di atas air, dan napasmu sendiri.",
+      "narasi": "Lalu... sunyi. Tak ada tawa. Tak ada tangis. Hanya asap meriam di atas air, dan napasmu sendiri.",
+      "teksLayar": [],
+      "suara": "Hening; hanya napas dan riak air.",
+      "hening": true,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 5,
+      "namaBabak": "Fajar di pertemuan sungai",
+      "waktu": "1:50–2:00",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Bidikan lebar saat fajar: perahu-perahu menepi di pertemuan dua sungai berkabut, hutan rapat di daratan.",
+      "narasiSuara": "[calm] Menjelang fajar, rombongan tiba di pertemuan Sungai Kapuas dan Sungai Landak. [curious] Konon, di sekitar sinilah peluru meriam semalam jatuh.",
+      "narasi": "Menjelang fajar, rombongan tiba di pertemuan Sungai Kapuas dan Sungai Landak. Konon, di sekitar sinilah peluru meriam semalam jatuh.",
+      "teksLayar": [
+        "Pertemuan Kapuas dan Landak."
+      ],
+      "suara": "Burung pagi, air tenang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Fajar di pertemuan sungai",
+      "waktu": "2:00–2:10",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Para pengikut mengayunkan kapak ke pohon-pohon besar; sebatang pohon tinggi mulai miring tumbang.",
+      "narasiSuara": "[serious] Kapak-kapak mulai diayunkan. [calm] Hutan dibuka, pohon-pohon besar ditebang untuk balai dan rumah. [tense] Pohon tinggi yang semalam bersuara... ikut tumbang.",
+      "narasi": "Kapak-kapak mulai diayunkan. Hutan dibuka, pohon-pohon besar ditebang untuk balai dan rumah. Pohon tinggi yang semalam bersuara... ikut tumbang.",
+      "teksLayar": [],
+      "suara": "Kapak, kayu retak, pohon tumbang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Fajar di pertemuan sungai",
+      "waktu": "2:10–2:20",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "\"Kamu\" memegang kapak di tangan kanan; di depan, orang-orang tertawa lega di antara batang tumbang, tidak menatap \"kamu\".",
+      "narasiSuara": "[calm] Orang-orang tertawa lega. [calm] Kata mereka, hantunya sudah pergi. [serious] Tapi kamu masih ingat tangis itu, dan kamu tidak ikut tertawa.",
+      "narasi": "Orang-orang tertawa lega. Kata mereka, hantunya sudah pergi. Tapi kamu masih ingat tangis itu, dan kamu tidak ikut tertawa.",
+      "teksLayar": [],
+      "suara": "Tawa lega orang-orang, kapak berhenti.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Malam pertama",
+      "waktu": "2:20–2:30",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Di dalam pondok darurat beratap daun, pelita kecil hampir padam; orang-orang tidur di tikar. Lewat celah dinding, sungai gelap.",
+      "narasiSuara": "[calm] Malam pertama di tanah baru. [whispers] Pelita di pondok hampir padam. [nervous] Semua orang sudah tidur, kecuali kamu. [nervous] Matamu terus menatap sungai.",
+      "narasi": "Malam pertama di tanah baru. Pelita di pondok hampir padam. Semua orang sudah tidur, kecuali kamu. Matamu terus menatap sungai.",
+      "teksLayar": [
+        "Malam pertama."
+      ],
+      "suara": "Dengkur pelan, jangkrik, air.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Malam pertama",
+      "waktu": "2:30–2:40",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari celah dinding pondok: seberang sungai berkabut, satu pohon tinggi yang belum ditebang berdiri sendirian. Di bawahnya, sosok pucat berambut panjang berdiri samar dalam kabut, kecil dan jauh, wajahnya tertutup rambut. Mungkin hanya kabut.",
+      "narasiSuara": "[whispers] Lalu dari seberang sungai, terdengar tangis. [sad] Pelan sekali, nyaris hilang dibawa arus. [whispers] Seperti seseorang yang masih mencari jalan pulang.",
+      "narasi": "Lalu dari seberang sungai, terdengar tangis. Pelan sekali, nyaris hilang dibawa arus. Seperti seseorang yang masih mencari jalan pulang.",
+      "teksLayar": [],
+      "suara": "Tangis sangat pelan dari seberang, nyaris hilang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Pendayung",
+      "prompt": "Character reference sheet of Pendayung.\nPendayung, a young Malay river paddler of about twenty from the Mempawah coast of West Borneo, a follower in a founder's boat party in 1771. Lean, wiry build; warm brown sun-darkened skin; oval face with wary dark eyes under straight thick brows, a broad nose and full lips; short black hair mostly hidden. A faded indigo plain cotton destar headcloth tied simply around the head with a small knot at the back. A loose collarless undyed off-white cotton shirt with sleeves rolled to just below the elbow; a checked cotton sarong in dark red and brown squares, hitched up and tucked at the waist so it falls to the knees; barefoot. A thin plaited rattan cord bracelet on the right wrist; no other jewelry and no weapon. Carries himself watchful and tense, shoulders slightly hunched, always gripping something.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the sarong check pattern and headcloth knot, and one first-person panel of his hands and forearms resting on a paddle: Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings, plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Wak Saleh",
+      "prompt": "Character reference sheet of Wak Saleh.\nWak Saleh, a Malay river helmsman in his late fifties from the Mempawah coast of West Borneo, 1771. Thin, sinewy and slightly stooped; deep brown weathered skin; narrow face with creased hollow cheeks, hooded heavy-lidded eyes, sparse grey eyebrows, a thin grey moustache and a wisp of grey chin beard; lips stained red-brown from chewing betel; short grey hair. A plain dark brown cotton destar headcloth knotted at the side of the head. A faded dark brown collarless cotton shirt hanging open at the chest; a dark green and black checked cotton sarong hitched to the knee; barefoot. A small plain cloth pouch for betel tucked into the waist of the sarong; no jewelry. Sits low and still at the stern, both hands firm on the long steering oar, eyes always on the riverbank.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the sarong check pattern and headcloth knot, plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kuntilanak",
+      "prompt": "Character reference sheet of Kuntilanak.\nKuntilanak, a female spirit of Malay folklore in West Borneo, 1771, only ever glimpsed and never clearly seen. A tall, very thin woman's figure; pale grey-white skin; her face always completely hidden behind very long straight black hair that falls past her knees. A long, loose, plain off-white cotton garment, simple and old, its ragged hem drifting as if underwater. Long thin pale arms hanging at her sides; bare pale feet that never quite touch the ground; no jewelry. Utterly still, head slightly tilted, as if listening.\nFull-body front, side and back views floating upright, the face fully hidden behind hair in every view, one detail panel of the hair and the ragged garment hem, plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faithful to Malay folklore of West Borneo.\nAvoid visible face, gore, blood, wounds, sexualized body, modern nightgown, lace, film-costume look, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Kamu mendengar suara tawa seram itu lebih dulu dari siapa pun. Karena perahumu paling depan.",
+      "prompt": "The viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot at eye level from the bow of the leading boat at sunset on the Kapuas River.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. Both hands grip a wooden paddle, frozen mid-stroke just above the water, knuckles tight.\nAhead, the brown river widens into the dusk; on the left bank tall rainforest trees stand black against the red sky, one enormous tree leaning over the water. Ripples spread from the paddle blade.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dying amber and blood-red sunset glow behind black tree silhouettes, deep brown water, long shadows, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:18",
+      "narasi": "Sore itu, rombongan Syarif Abdurrahman menyusuri Sungai Kapuas. Mereka berangkat dari Mempawah, mencari tanah untuk dihuni. Dan kamu yang membuka jalan.",
+      "prompt": "Same character as the Pendayung reference image.\nWide high-angle shot over the water at sunset, looking down the river from behind the leading boat.\nPendayung kneels small at the bow of the leading boat, back to the camera, paddling. Behind him a line of long narrow wooden boats follows, each with several rowers leaning into their strokes. In a larger boat in the middle, a tall far-off figure in a long robe and turban stands still, seen only from behind as a small dark silhouette. The rowers are different people from Pendayung: varied ages and builds, some bare-chested, headcloths in white, dark red and black, no rattan bracelets.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dying amber and blood-red sunset glow behind black tree silhouettes, deep brown water, long shadows, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:30",
+      "narasi": "Di buritan, Wak Saleh memegang kemudi. Sudah puluhan tahun ia hidup di sungai. Tapi sejak tengah hari, ia tidak bicara sepatah kata pun.",
+      "prompt": "Same character as the Wak Saleh reference image.\nThe viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot at eye level, turning back toward the stern of the boat at late sunset.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. The left hand rests on the boat's wooden side; the right hand holds the paddle across the knees.\nWak Saleh sits low at the stern, both hands clamped on the long steering oar, jaw set hard, lips pressed thin, deep lines between his brows; his hooded eyes are fixed on the dark riverbank to his right, not on the viewer. A thin trail of mist starts to crawl over the water behind him.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dying amber and blood-red sunset glow behind black tree silhouettes, deep brown water, long shadows, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:41",
+      "narasi": "Matahari tenggelam saat pertemuan sungai mulai terlihat. Lalu dari pohon besar di tepi sungai... terdengar tawa. Tinggi. Panjang. Suara perempuan.",
+      "prompt": "Same character as the Kuntilanak reference image.\nThe viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium-wide shot at eye level, just after sunset; the meeting of two rivers is a faint pale line far ahead.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. The right hand has stopped mid-stroke, paddle blade hovering above the water; the left hand grips the boat's side.\nOn the right bank a huge dark tree towers over the water, its crown a black mass against the violet sky; long aerial roots hang toward the river. High in the branches, almost lost in shadow, a pale thin shape sits perfectly still: a long fall of black hair and the faint edge of an off-white cloth, so dim it could almost be mist. Mist hangs low over the still water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky violet-grey twilight with near-black trees and one small orange torch flame, cold grey mist on the water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, visible face, gore, blood, wounds, sexualized body, modern nightgown, lace, film-costume look, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:41–0:51",
+      "narasi": "Wak Saleh mendesis dari belakang. Jangan menoleh ke pohon itu, katanya. Jangan berhenti. Terus dayung, apa pun yang kau dengar.",
+      "prompt": "Same character as the Wak Saleh reference image.\nMedium close-up from the middle of the boat, slightly low angle, at twilight.\nWak Saleh leans forward from the stern, one finger pressed hard to his betel-stained lips, his other hand jabbing forward downriver; brows drawn tight, eyes wide and urgent, looking straight at the viewer. Behind him, beyond his shoulder, the black wall of riverbank trees, and the faint glow of a torch on the next boat.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky violet-grey twilight with near-black trees and one small orange torch flame, cold grey mist on the water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:51–1:01",
+      "narasi": "Tapi tawa itu ikut bergerak, dari satu pohon ke pohon berikutnya, mengikuti perahumu. Lalu, tiba-tiba, tawanya berubah... menjadi tangis.",
+      "prompt": "Same character as the Kuntilanak reference image.\nThe viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nLow-angle shot at eye level, looking up at the riverbank trees in deep twilight.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. Both hands clench the paddle against the chest, the shaft trembling.\nAlong the bank, the branches of three tall trees bend one after another as if something heavy has just passed through them, though the river is perfectly calm. In the middle tree, half-hidden among the leaves, the pale figure crouches on a high branch, her face buried behind long black hair, one thin pale arm and a strip of off-white cloth trailing down through the leaves. She is small in the frame and partly covered by branches.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky violet-grey twilight with near-black trees and one small orange torch flame, cold grey mist on the water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, visible face, gore, blood, wounds, sexualized body, modern nightgown, lace, film-costume look, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:01–1:11",
+      "narasi": "Tangisnya panjang, seperti perempuan yang kehilangan sesuatu. Satu per satu, para pendayung mengangkat dayungnya. Tak seorang pun mau menepi malam itu.",
+      "prompt": "Wide shot at water level among the boats, at night.\nThe boats have drifted close together. Rowers lift their paddles out of the water and freeze, faces pale and sweating in the orange torchlight: a young man with wide eyes and parted lips, an older man clutching his headcloth, two rowers glancing at each other in fear, one turning away from the bank. Torches lean in a draft. The rowers are varied ages and builds, headcloths in white, dark red and black.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, near-total darkness, flickering orange torchlight on frightened faces, thick grey mist, black water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:22",
+      "narasi": "Tanpa dayung, arus menyeret perahumu pelan ke tepi. Ke bawah pohon itu. Kamu ingin mendayung, tapi tanganmu tidak mau bergerak.",
+      "prompt": "Same character as the Kuntilanak reference image.\nThe viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot, slightly low angle, at night, the boat drifting sideways under the overhanging tree.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. Both hands grip the motionless paddle, fingers trembling, the rattan bracelet dark with river water.\nThick roots rise out of black water just ahead. Directly overhead, from a low branch, very long black hair hangs straight down almost to the water, and above it the ragged hem of an off-white garment sways gently; only the hair, the hem and a pale bare foot are inside the frame, no face. Behind, small orange torches of the other boats glow far away in the mist.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, near-total darkness, flickering orange torchlight on frightened faces, thick grey mist, black water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, visible face, gore, blood, wounds, sexualized body, modern nightgown, lace, film-costume look, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:22–1:31",
+      "narasi": "Lalu terdengar perintah dari perahu Syarif Abdurrahman di belakang. Orang-orang menyiapkan meriam. Moncongnya diarahkan ke pepohonan di tepi sungai.",
+      "prompt": "Wide shot from a distance at night, looking back across the water at a larger boat.\nOn the larger boat, small silhouetted men crouch around a short bronze swivel cannon set on a forked cagak mount at the rail, turning its muzzle toward the black trees; one holds a smoking slow-match. Further back, a tall far-off figure in a long robe and turban stands as a small dark silhouette, seen from behind. Torchlight glints on the bronze barrel and the dark water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, near-total darkness, flickering orange torchlight on frightened faces, thick grey mist, black water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:31–1:40",
+      "narasi": "Dentuman membelah malam! Cahayanya memantul di air, dan perahumu ikut bergetar. Burung-burung terbang dari dahan sekaligus.",
+      "prompt": "The viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium-wide shot at eye level at night, the instant of the cannon firing.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. The left hand clamps the boat's side, the right hand is flung up against the blast, fingers spread.\nA burst of orange-white muzzle flash from the far boat lights the river for one instant, reflected in a long streak on the black water; dozens of birds explode out of the riverbank trees into the night; the water around the boat shivers with ripples.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, one harsh orange-white muzzle flash against black night, then drifting grey smoke and deep darkness, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:40–1:50",
+      "narasi": "Lalu... sunyi. Tak ada tawa. Tak ada tangis. Hanya asap meriam di atas air, dan napasmu sendiri.",
+      "prompt": "The viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot at eye level at night, a still moment after the blast.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. Both hands lie open and empty on the knees, palms up, still shaking slightly.\nThick grey gunsmoke drifts low across the still black water; the great tree on the bank stands motionless and dark; nothing moves, not a leaf. A faint ember glow lingers inside the smoke.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, one harsh orange-white muzzle flash against black night, then drifting grey smoke and deep darkness, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:50–2:00",
+      "narasi": "Menjelang fajar, rombongan tiba di pertemuan Sungai Kapuas dan Sungai Landak. Konon, di sekitar sinilah peluru meriam semalam jatuh.",
+      "prompt": "Same character as the Pendayung reference image.\nWide shot at eye level at dawn over the confluence of two rivers.\nThe long wooden boats nose onto a muddy bank where two broad rivers meet in a pale mist; dense rainforest rises behind. Pendayung steps from the leading boat into ankle-deep water, back half-turned, looking up at the trees; other followers climb out with ropes and axes, some yawning, some staring at the forest. The followers are varied ages and builds, headcloths in white, dark red and black.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale grey-blue dawn mist with a thin warm gold line on the horizon, desaturated greens, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:00–2:10",
+      "narasi": "Kapak-kapak mulai diayunkan. Hutan dibuka, pohon-pohon besar ditebang untuk balai dan rumah. Pohon tinggi yang semalam bersuara... ikut tumbang.",
+      "prompt": "Medium-wide shot from a low angle in the forest clearing at early morning.\nFollowers swing axes into the trunks of huge trees; wood chips fly; one very tall tree begins to tilt and crack, its crown tearing through the mist. A wiry older man shouts a warning with one arm raised while two younger men step back, eyes on the falling trunk. The followers are varied ages and builds, headcloths in white, dark red and black.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale grey-blue dawn mist with a thin warm gold line on the horizon, desaturated greens, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:10–2:20",
+      "narasi": "Orang-orang tertawa lega. Kata mereka, hantunya sudah pergi. Tapi kamu masih ingat tangis itu, dan kamu tidak ikut tertawa.",
+      "prompt": "The viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot at eye level in the half-cleared forest, morning.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. The right hand holds a wood-handled axe loosely at the side, the left hand rests on a freshly cut stump.\nAhead, among fallen trunks, a few followers laugh with relief, one slapping another's shoulder, one wiping sweat with his headcloth; none of them look toward the viewer. Beyond them, across the river, the far bank is still dark with untouched trees.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale grey-blue dawn mist with a thin warm gold line on the horizon, desaturated greens, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung's or Wak Saleh's face or outfit, identical faces, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:20–2:30",
+      "narasi": "Malam pertama di tanah baru. Pelita di pondok hampir padam. Semua orang sudah tidur, kecuali kamu. Matamu terus menatap sungai.",
+      "prompt": "The viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nMedium shot at eye level inside a makeshift hut of wooden poles and palm-leaf thatch at night.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. The right hand cups around a small clay oil lamp whose flame is shrinking; the left hand rests on a woven mat.\nMen sleep on woven mats along the floor, curled under sarongs. Through gaps in the woven wall, the river outside is black and still, mist rising from it.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, a dim yellow oil-lamp glow inside a dark hut, pale cold mist outside on black water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, gore, blood, any visible ghost or woman figure, white-dressed woman, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:30–2:40",
+      "narasi": "Lalu dari seberang sungai, terdengar tangis. Pelan sekali, nyaris hilang dibawa arus. Seperti seseorang yang masih mencari jalan pulang.",
+      "prompt": "Same character as the Kuntilanak reference image.\nThe viewer is Pendayung: the hands and forearms in the foreground match the first-person panel of the Pendayung reference image.\nClose medium shot at eye level through a gap in the hut's woven palm-leaf wall at night.\nFirst-person point of view. Young man's hands and forearms with warm brown sun-darkened skin, wiry tendons, calloused palms, short blunt nails and water-wrinkled fingertips; the sleeves of a loose undyed off-white cotton shirt rolled up to just below the elbow; a thin plaited rattan cord bracelet on the right wrist; no rings. Both hands part two strips of the woven wall to look through, fingers pale in the last of the lamplight.\nAcross the black river, in thick pale mist, one tall tree that was never cut stands alone on the far bank. Beneath it, at the water's edge, a tall pale figure with very long black hair stands facing the hut, tiny and blurred by the mist, her face hidden. It might be only mist.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, a dim yellow oil-lamp glow inside a dark hut, pale cold mist outside on black water, faithful to 18th-century coastal Malay life in West Borneo: plain cotton destar headcloths, collarless loose shirts or bare chests, checked cotton sarongs hitched for rowing, long narrow wooden plank river boats paddled by several rowers, a wide brown tropical river lined with tall dark rainforest trees.\nAvoid characters looking at the camera, stiff symmetrical poses, visible face, gore, blood, wounds, sexualized body, modern nightgown, lace, film-costume look, parang batik pattern, Teluk Belanga collar, songkok caps, modern clothing, generic fantasy costume, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice berat dan rendah yang tetap jelas saat berbisik; tag tidak bisa memaksa voice lembut terdengar mencekam.\n\n- Babak 1: pelan dan rendah, tegang yang ditahan.\n- Babak 2: tempo melambat, banyak berbisik, jeda panjang sebelum \"terdengar tawa\".\n- Babak 3: napas tertahan, sedikit lebih cepat, panik di ujung kalimat.\n- Babak 4: satu ledakan suara di \"Dentuman\", lalu bisikan nyaris tanpa suara.\n- Babak 5: tenang, lega yang terdengar rapuh.\n- Babak 6: bisikan paling pelan, jeda panjang, kalimat terakhir hampir hilang.",
+    "arahanBabak": {
+      "1": "pelan dan rendah, tegang yang ditahan.",
+      "2": "tempo melambat, banyak berbisik, jeda panjang sebelum \"terdengar tawa\".",
+      "3": "napas tertahan, sedikit lebih cepat, panik di ujung kalimat.",
+      "4": "satu ledakan suara di \"Dentuman\", lalu bisikan nyaris tanpa suara.",
+      "5": "tenang, lega yang terdengar rapuh.",
+      "6": "bisikan paling pelan, jeda panjang, kalimat terakhir hampir hilang."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu mendengar suara tawa seram itu lebih dulu dari siapa pun. [nervous] Karena perahumu paling depan...\n\n[calm] Sore itu, rombongan Syarif Abdurrahman menyusuri Sungai Kapuas. [calm] Mereka berangkat dari Mempawah, mencari tanah untuk dihuni. [serious] Dan kamu yang membuka jalan...\n\n[calm] Di buritan, Wak Saleh memegang kemudi. [serious] Sudah puluhan tahun ia hidup di sungai. [nervous] Tapi sejak tengah hari, ia tidak bicara sepatah kata pun...",
+    "2": "[nervous] Matahari tenggelam saat pertemuan sungai mulai terlihat. [whispers] Lalu dari pohon besar di tepi sungai... terdengar tawa. [tense] Tinggi. [tense] Panjang. [tense] Suara perempuan...\n\n[whispers] Wak Saleh mendesis dari belakang. [serious] Jangan menoleh ke pohon itu, katanya. [nervous] Jangan berhenti. [nervous] Terus dayung, apa pun yang kau dengar...\n\n[tense] Tapi tawa itu ikut bergerak, dari satu pohon ke pohon berikutnya, mengikuti perahumu. [sad] Lalu, tiba-tiba, tawanya berubah... menjadi tangis...",
+    "3": "[sad] Tangisnya panjang, seperti perempuan yang kehilangan sesuatu. [tense] Satu per satu, para pendayung mengangkat dayungnya. [nervous] Tak seorang pun mau menepi malam itu...\n\n[nervous] Tanpa dayung, arus menyeret perahumu pelan ke tepi. [whispers] Ke bawah pohon itu. [tense] Kamu ingin mendayung, tapi tanganmu tidak mau bergerak...\n\n[serious] Lalu terdengar perintah dari perahu Syarif Abdurrahman di belakang. [tense] Orang-orang menyiapkan meriam. [whispers] Moncongnya diarahkan ke pepohonan di tepi sungai...",
+    "4": "[shouting] Dentuman membelah malam! [tense] Cahayanya memantul di air, dan perahumu ikut bergetar. [nervous] Burung-burung terbang dari dahan sekaligus...\n\n[whispers] Lalu... sunyi. [whispers] Tak ada tawa. [whispers] Tak ada tangis. [calm] Hanya asap meriam di atas air, dan napasmu sendiri...",
+    "5": "[calm] Menjelang fajar, rombongan tiba di pertemuan Sungai Kapuas dan Sungai Landak. [curious] Konon, di sekitar sinilah peluru meriam semalam jatuh...\n\n[serious] Kapak-kapak mulai diayunkan. [calm] Hutan dibuka, pohon-pohon besar ditebang untuk balai dan rumah. [tense] Pohon tinggi yang semalam bersuara... ikut tumbang...\n\n[calm] Orang-orang tertawa lega. [calm] Kata mereka, hantunya sudah pergi. [serious] Tapi kamu masih ingat tangis itu, dan kamu tidak ikut tertawa...",
+    "6": "[calm] Malam pertama di tanah baru. [whispers] Pelita di pondok hampir padam. [nervous] Semua orang sudah tidur, kecuali kamu. [nervous] Matamu terus menatap sungai...\n\n[whispers] Lalu dari seberang sungai, terdengar tangis. [sad] Pelan sekali, nyaris hilang dibawa arus. [whispers] Seperti seseorang yang masih mencari jalan pulang..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Senja dan tawa",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:10",
+      "suasana": "Sunyi yang mengancam, mengencang saat tawa muncul",
+      "style": "Dark Malay riverine ambient, low droning bowed strings and deep frame-drum pulses, sparse plucked gambus notes, distant breathy bamboo flute, eerie and foreboding, starts almost silent and slowly tightens with dissonant swells, about 70 seconds long (1:10), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electronic drums, synth lead, pop, upbeat"
+    },
+    {
+      "nomor": 2,
+      "nama": "Ketakutan dan dentuman",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "0:55",
+      "suasana": "Detak berat, memuncak di dentuman, lalu nyaris hening",
+      "style": "Tense horror ambient with Malay percussion, heavy low rebana and gendang hits like a slow heartbeat, scraping bowed strings and rising tremolo, builds to one sudden peak then cuts to near silence, about 55 seconds long (0:55), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electronic drums, synth lead, pop, upbeat"
+    },
+    {
+      "nomor": 3,
+      "nama": "Fajar dan tangis",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "0:55",
+      "suasana": "Tenang yang dingin, makin sepi dan menghantui",
+      "style": "Haunting minimal ambient, cold sustained low drone with a lone slow gambus melody and soft wind textures, an uneasy calm at dawn that turns colder and lonelier, fades into silence, about 55 seconds long (0:55), with a clear ending, 50 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electronic drums, synth lead, pop, upbeat"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Kecipak dayung dan serangga senja",
+      "kataKunci": "river paddle splash, tropical insects dusk",
+      "prompt": "Gentle wooden paddle strokes on a calm tropical river at dusk with dense cicadas and insects"
+    },
+    {
+      "nomor": 2,
+      "adegan": 4,
+      "bunyi": "Serangga mendadak diam, lalu tawa perempuan melengking dari kejauhan (sulit; cadangan: senar tinggi di cue 1)",
+      "kataKunci": "eerie female laughter distant, horror laugh echo",
+      "prompt": "Insects suddenly falling silent, then a distant high-pitched eerie female laugh echoing from treetops over a river at night"
+    },
+    {
+      "nomor": 3,
+      "adegan": 6,
+      "bunyi": "Tawa berpindah arah lalu berubah jadi tangis (sulit; cadangan: tremolo cue 1)",
+      "kataKunci": "woman crying distant echo, ghost crying",
+      "prompt": "A distant woman's eerie laugh moving between trees that slowly turns into long mournful sobbing, night forest, reverb"
+    },
+    {
+      "nomor": 4,
+      "adegan": 7,
+      "bunyi": "Obor berdesis, air beriak",
+      "kataKunci": "torch fire crackle, water lapping",
+      "prompt": "Burning torches crackling and hissing in a light breeze beside lapping water at night"
+    },
+    {
+      "nomor": 5,
+      "adegan": 8,
+      "bunyi": "Ranting bergesek lambung perahu",
+      "kataKunci": "branches scraping wood, boat creak",
+      "prompt": "Leafy branches scraping slowly along a wooden boat hull, water gurgling, quiet night"
+    },
+    {
+      "nomor": 6,
+      "adegan": 10,
+      "bunyi": "Dentuman meriam dan kepak sayap",
+      "kataKunci": "cannon blast, birds flying away",
+      "prompt": "A single deep old bronze cannon blast echoing across a river at night, followed by a flock of birds bursting from trees"
+    },
+    {
+      "nomor": 7,
+      "adegan": 11,
+      "bunyi": "Hening, riak air pelan",
+      "kataKunci": "quiet water ripples night",
+      "prompt": "Near silence after an explosion, faint ringing, soft water ripples against a boat"
+    },
+    {
+      "nomor": 8,
+      "adegan": 13,
+      "bunyi": "Kapak dan pohon tumbang",
+      "kataKunci": "axe chopping, tree falling",
+      "prompt": "Several axes chopping hardwood, then a huge tree cracking and crashing down in a forest at dawn"
+    },
+    {
+      "nomor": 9,
+      "adegan": 15,
+      "bunyi": "Jangkrik, dengkur pelan, air",
+      "kataKunci": "crickets night, snoring, river",
+      "prompt": "Crickets at night inside a thatched hut, a man snoring softly, a river flowing outside"
+    },
+    {
+      "nomor": 10,
+      "adegan": 16,
+      "bunyi": "Tangis sangat pelan dari seberang sungai (sulit; cadangan: drone cue 3)",
+      "kataKunci": "faint woman sobbing far away",
+      "prompt": "A very faint woman's sobbing far across a misty river at night, almost lost in the sound of flowing water"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Menurutmu, yang diusir meriam malam itu hantu, atau bajak laut?",
+    "sumber": "Legenda Melayu Pontianak; versi: Pemkot Pontianak; tafsir hantu sebagai kiasan perompak: Syafaruddin Daeng Usman (detikKalimantan)",
+    "kata": 10,
+    "pertanyaan": true
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mendengar Kuntilanak di Balik Nama Pontianak",
+      "catatan": "Alternatif judul: POV: Kamu Mendengar Tawa Kuntilanak di Sungai Kapuas / POV: Kamu Diganggu Kuntilanak Sebelum Pontianak Berdiri\n**Judul di layar sampul:** POV: Kuntilanak di Balik Nama Pontianak",
+      "caption": "Tawa itu terdengar dari pohon besar di tepi Kapuas. Lalu berubah jadi tangis.\n\nDalam legenda Melayu Pontianak, rombongan Syarif Abdurrahman Alkadrie diganggu kuntilanak saat menyusuri Sungai Kapuas pada 1771, hingga meriam ditembakkan. Kamu ada di perahu paling depan. Konon dari makhluk inilah nama Pontianak berasal, meski ada yang mengaitkannya dengan pohon punti.\n\nDi daerahmu, kuntilanak dikenal dengan ciri apa?\n\nDiceritakan dari legenda Melayu Pontianak, mengikuti versi populer Pemkot Pontianak. Sudut pandang \"kamu\" adalah tafsir Ulik Silam.\n\n#UlikSilam #legenda #kuntilanak #pontianak #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Mendengar Kuntilanak di Balik Nama Pontianak",
+      "catatan": "",
+      "caption": "Tawa itu terdengar dari pohon besar di tepi Kapuas. Lalu berubah jadi tangis.\n\nDalam legenda Melayu Pontianak, rombongan Syarif Abdurrahman Alkadrie diganggu kuntilanak saat menyusuri Sungai Kapuas pada 1771, hingga meriam ditembakkan. Kamu ada di perahu paling depan. Konon dari makhluk inilah nama Pontianak berasal, meski ada yang mengaitkannya dengan pohon punti.\n\nDi daerahmu, kuntilanak dikenal dengan ciri apa?\n\nDiceritakan dari legenda Melayu Pontianak, mengikuti versi populer Pemkot Pontianak. Sudut pandang \"kamu\" adalah tafsir Ulik Silam.\n\n#UlikSilam #legenda #kuntilanak #pontianak #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 6,
+    "totalKata": 307,
+    "kataPerBabak": {
+      "1": 59,
+      "2": 59,
+      "3": 60,
+      "4": 33,
+      "5": 57,
+      "6": 39
+    },
+    "karakterPerBabak": {
+      "1": 462,
+      "2": 523,
+      "3": 521,
+      "4": 296,
+      "5": 478,
+      "6": 337
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 159.6,
+      "denganMerek": 164.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 154.3,
+      "denganMerek": 159.3
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

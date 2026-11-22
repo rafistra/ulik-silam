@@ -1,0 +1,21 @@
+judul: "POV: Kamu Pendayung Kenyah ke Long Iram, 1916"
+slug: pov-pendayung-kenyah-long-iram
+format: POV
+lapisan: ["Sejarah"]
+latar: "Long Iram dan Apo Kayan"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-11-01"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Pendayung Kenyah", "Teman Pengukir"]
+aset: {ilustrasi: 16, narasi: 21, musik: 3, sfx: 13}
+render: "out/pov-pendayung-kenyah-long-iram.mp4"
+tanggal_render: 2026-11-12
+tautan: {"shorts": "https://youtube.com/shorts/rHzIgImUt5k", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7707289039384169749"}
+arsip_lama: "pov/pov-pendayung-kenyah-long-iram"
+catatan: ""
+metrik_shorts: {"views": 3271, "jam_tonton": 54.6, "rata_tonton_detik": 60.1, "durasi_detik": 150, "persen_ditonton": 40.1, "subscriber": 15, "impresi": 825, "ctr": 11.15, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 18603, "suka": 1699, "komentar": 34, "bagikan": 107, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-12", "tiktok": "2026-11-13"}

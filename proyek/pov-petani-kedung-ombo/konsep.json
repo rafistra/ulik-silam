@@ -1,0 +1,648 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-27T02:13:17.960Z",
+  "judulDokumen": "Tragedi Kedung Ombo",
+  "judul": "POV: Kamu Petani yang Menolak Pindah dari Kedung Ombo",
+  "slug": "pov-petani-kedung-ombo",
+  "versi": "v1 · 2026-10-27",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Kemusu, Boyolali",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Petani padi (fiktif), laki-laki sekitar 40 tahun, desa di Kecamatan Kemusu, Boyolali; ayah dari anak perempuan sekitar 9 tahun",
+  "ringkasan": {
+    "Judul": "POV: Kamu Petani yang Menolak Pindah dari Kedung Ombo",
+    "Slug": "pov-petani-kedung-ombo",
+    "Versi": "v1 · 2026-10-27",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Petani padi (fiktif), laki-laki sekitar 40 tahun, desa di Kecamatan Kemusu, Boyolali; ayah dari anak perempuan sekitar 9 tahun",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter: Petani Kemusu, Anak Petani)",
+    "Lapisan": "Sejarah",
+    "Latar": "Kemusu, Boyolali",
+    "Premis": "Negara butuh lembahmu untuk waduk; kamu menolak harga tanahmu, dan air datang juga.",
+    "Benang merah": "Tanah warisan yang tak bisa dijual murah, berakhir sebagai nama desa yang ditulis seorang anak di buku.",
+    "Dipilih karena": "Gabungan pilihan 1 (petani bertahan) dan 2 (anak dan perahu relawan) saat brainstorming; alur A (1985–1991) dengan akhir penutup tenang",
+    "Asumsi": "Nama desa \"kamu\" tidak disebut agar tidak tertukar dengan desa sungguhan; anak perempuan sekitar 9 tahun; istri tampil sebagai figuran; Romo Mangunwijaya hanya disebut, tanpa dialog rekaan"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Lembah yang Memberi Makan",
+      "suasana": "Damai, hangat",
+      "palet": "Hijau padi, oker tanah, emas jerami",
+      "cahaya": "Matahari pagi rendah keemasan"
+    },
+    {
+      "babak": 2,
+      "nama": "Harga Sebuah Sawah",
+      "suasana": "Gerah, menekan",
+      "palet": "Cokelat debu, khaki pudar, putih kertas, satu aksen merah bendera",
+      "cahaya": "Siang terik berkabut, lalu sore jingga"
+    },
+    {
+      "babak": 3,
+      "nama": "Air Datang",
+      "suasana": "Mencekam, sunyi",
+      "palet": "Cokelat lumpur, abu kabut, hijau pudar; malam biru-hitam",
+      "cahaya": "Fajar berkabut; malam dengan satu nyala pelita"
+    },
+    {
+      "babak": 4,
+      "nama": "Perahu Drum",
+      "suasana": "Harapan kecil",
+      "palet": "Hitam aspal, biru pudar, oranye terpal usang, cokelat tanah",
+      "cahaya": "Pagi cerah lembut"
+    },
+    {
+      "babak": 5,
+      "nama": "Nama di Halaman Buku",
+      "suasana": "Reflektif",
+      "palet": "Cokelat gelap, emas pelita, biru malam",
+      "cahaya": "Siang redup, lalu malam dengan satu pelita"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Lembah yang Memberi Makan",
+    "2": "Harga Sebuah Sawah",
+    "3": "Air Datang",
+    "4": "Perahu Drum",
+    "5": "Nama di Halaman Buku"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Lembah yang Memberi Makan",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Dekat sejajar mata, sawah padi hijau pagi hari. Kedua tangan \"kamu\" yang kapalan menggenggam gagang cangkul; di kejauhan dua petugas berbaju safari menarik pita meteran melintasi pematang.",
+      "narasiSuara": "[calm] Sawah ini dicangkul kakekmu, lalu bapakmu, lalu kamu. [tense] Hari ini, petugas proyek datang mengukurnya dengan meteran.",
+      "narasi": "Sawah ini dicangkul kakekmu, lalu bapakmu, lalu kamu. Hari ini, petugas proyek datang mengukurnya dengan meteran.",
+      "teksLayar": [
+        "Kemusu, Boyolali, pertengahan 1980-an."
+      ],
+      "suara": "Angin di padi, burung sawah, bunyi meteran ditarik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Lembah yang Memberi Makan",
+      "waktu": "0:08–0:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang-lebar dari belakang bahu. \"Kamu\" berdiri di pematang dengan caping; anak perempuanmu menunjuk patok kayu bercat merah di pematang dan menatapmu bertanya. Sungai Serang berkelok di dasar lembah.",
+      "narasiSuara": "[calm] Lembah Sungai Serang ini memberimu makan. [curious] Anakmu bertanya, untuk apa patok-patok itu ditancapkan di pematang. [resigned] Kamu belum punya jawaban.",
+      "narasi": "Lembah Sungai Serang ini memberimu makan. Anakmu bertanya, untuk apa patok-patok itu ditancapkan di pematang. Kamu belum punya jawaban.",
+      "teksLayar": [],
+      "suara": "Aliran sungai, burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Lembah yang Memberi Makan",
+      "waktu": "0:18–0:29",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Sedang, dalam balai desa berdinding papan. Tangan kiri \"kamu\" meremas caping di pangkuan; di depan, petugas menunjuk peta lembah yang diarsir biru. Warga duduk di bangku kayu, saling berpandangan cemas.",
+      "narasiSuara": "[serious] Di balai desa, petugas menjelaskan: lembah ini akan jadi waduk. [tense] Tiga puluh tujuh desa di tiga kabupaten harus pindah. [nervous] Desamu salah satunya.",
+      "narasi": "Di balai desa, petugas menjelaskan: lembah ini akan jadi waduk. Tiga puluh tujuh desa di tiga kabupaten harus pindah. Desamu salah satunya.",
+      "teksLayar": [],
+      "suara": "Gumam warga, kipas kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Harga Sebuah Sawah",
+      "waktu": "0:29–0:39",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang, teras rumah tetangga. Tetangga tua menghitung lembaran uang kertas di telapak tangannya, wajahnya kosong; \"kamu\" berdiri di sampingnya, rahang mengeras.",
+      "narasiSuara": "[serious] Kabarnya, Menteri menyebut ganti rugi tiga ribu rupiah per meter. [angry] Yang sampai ke tangan tetanggamu... dua ratus lima puluh.",
+      "narasi": "Kabarnya, Menteri menyebut ganti rugi tiga ribu rupiah per meter. Yang sampai ke tangan tetanggamu... dua ratus lima puluh.",
+      "teksLayar": [
+        "Disebut Menteri: Rp3.000 per m²",
+        "Diterima warga: Rp250 per m²"
+      ],
+      "suara": "Lembaran uang dihitung, ayam di halaman",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Harga Sebuah Sawah",
+      "waktu": "0:39–0:47",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Sedang, ruang depan rumahmu. Seorang petugas menyodorkan map berisi formulir dan pulpen ke arah penonton, menatap \"kamu\"; tangan kanan \"kamu\" terangkat menolak, telapak terbuka.",
+      "narasiSuara": "[tense] Petugas menyodorkan kertas untuk ditandatangani. [serious] Kamu menggeleng. [calm] Uang sebanyak itu tak cukup untuk membeli sawah baru.",
+      "narasi": "Petugas menyodorkan kertas untuk ditandatangani. Kamu menggeleng. Uang sebanyak itu tak cukup untuk membeli sawah baru.",
+      "teksLayar": [],
+      "suara": "Map diletakkan di meja kayu",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Harga Sebuah Sawah",
+      "waktu": "0:47–0:57",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, jalan desa berdebu. Keluarga-keluarga memuat lemari, tikar, dan kandang ayam ke truk; seorang nenek menoleh ke rumahnya. \"Kamu\" dan anakmu melihat dari tepi jalan.",
+      "narasiSuara": "[sad] Satu per satu, tetanggamu menyerah. [sad] Ada yang pindah ke permukiman baru, ada yang berangkat transmigrasi ke luar Jawa.",
+      "narasi": "Satu per satu, tetanggamu menyerah. Ada yang pindah ke permukiman baru, ada yang berangkat transmigrasi ke luar Jawa.",
+      "teksLayar": [],
+      "suara": "Mesin truk, ayam berkotek, langkah",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Harga Sebuah Sawah",
+      "waktu": "0:57–1:08",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Sedang, sore, sawahmu. Kedua tangan \"kamu\" menancapkan tiang bambu berbendera merah putih ke lumpur pematang; di jalan, dua pria berseragam hijau mengamati dari dekat sepeda motor.",
+      "narasiSuara": "[tense] Lalu datang tuduhan yang paling ditakuti zaman itu. [whispers] Yang menolak pindah, disebut PKI. [serious] Kamu menancapkan merah putih di sawahmu, dan tetap tinggal.",
+      "narasi": "Lalu datang tuduhan yang paling ditakuti zaman itu. Yang menolak pindah, disebut PKI. Kamu menancapkan merah putih di sawahmu, dan tetap tinggal.",
+      "teksLayar": [],
+      "suara": "Bambu ditancap ke lumpur, angin sore, bendera berkibar",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Air Datang",
+      "waktu": "1:08–1:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar dari ketinggian, lembah di pagi berkabut. Air cokelat merayap di antara petak sawah; \"kamu\" berdiri kecil di pematang terakhir yang masih kering.",
+      "narasiSuara": "[calm] Januari, pintu bendungan ditutup. [tense] Air tidak datang seperti banjir. [nervous] Ia merayap, sejengkal demi sejengkal, ke sawah yang kemarin kamu bajak.",
+      "narasi": "Januari, pintu bendungan ditutup. Air tidak datang seperti banjir. Ia merayap, sejengkal demi sejengkal, ke sawah yang kemarin kamu bajak.",
+      "teksLayar": [
+        "Januari 1989."
+      ],
+      "suara": "Air merembes, kabut, sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Air Datang",
+      "waktu": "1:18–1:27",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Sedang, ambang pintu rumah kayu. Air setinggi mata kaki menggenangi tangga; istrimu menggulung tikar pandan, anakmu memeluk tumpukan buku tulis di dada dan menatap \"kamu\" ketakutan.",
+      "narasiSuara": "[tense] Pagi ini, air sudah sampai di tangga rumahmu. [nervous] Istrimu menggulung tikar. [sad] Anakmu lebih dulu menyelamatkan buku sekolahnya.",
+      "narasi": "Pagi ini, air sudah sampai di tangga rumahmu. Istrimu menggulung tikar. Anakmu lebih dulu menyelamatkan buku sekolahnya.",
+      "teksLayar": [],
+      "suara": "Air beriak di tangga, tikar digulung",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Air Datang",
+      "waktu": "1:27–1:37",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, lereng bukit berhutan jati. \"Kamu\" mengikat batang bambu dengan tali ijuk; istrimu menaikkan karung beras, anakmu memegang seekor ayam. Gubuk darurat beratap seng di belakang.",
+      "narasiSuara": "[serious] Kalian pindah ke lereng, makin tinggi setiap pekan. [calm] Kamu mengikat batang bambu menjadi rakit. [resigned] Beras dan ayam ikut naik ke atasnya.",
+      "narasi": "Kalian pindah ke lereng, makin tinggi setiap pekan. Kamu mengikat batang bambu menjadi rakit. Beras dan ayam ikut naik ke atasnya.",
+      "teksLayar": [],
+      "suara": "Bambu diikat, ayam, angin lereng",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 11,
+      "babak": 3,
+      "namaBabak": "Air Datang",
+      "waktu": "1:37–1:46",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Lebar, malam, di atas rakit. Tangan \"kamu\" memegang galah bambu; di tengah air tenang yang memantulkan bulan, hanya bubungan atap rumahmu yang tersisa.",
+      "narasiSuara": "[sad] [whispers] Malam itu, yang tersisa dari rumahmu hanya bubungan atap... dan suara jangkrik.",
+      "narasi": "Malam itu, yang tersisa dari rumahmu hanya bubungan atap... dan suara jangkrik.",
+      "teksLayar": [],
+      "suara": "Jangkrik, riak air pelan",
+      "hening": true,
+      "epilog": false,
+      "kata": 12
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Perahu Drum",
+      "waktu": "1:46–1:55",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sedang dari samping, siang. Anakmu duduk memeluk lutut di tepi genangan; di air, ujung tiang bendera sekolah mencuat. \"Kamu\" mengawasi dari belakang.",
+      "narasiSuara": "[sad] Sekolah anakmu sudah di bawah air. [sad] Berminggu-minggu ia hanya duduk di tepi genangan, memandangi tempat sekolahnya dulu berdiri.",
+      "narasi": "Sekolah anakmu sudah di bawah air. Berminggu-minggu ia hanya duduk di tepi genangan, memandangi tempat sekolahnya dulu berdiri.",
+      "teksLayar": [],
+      "suara": "Air diam, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Perahu Drum",
+      "waktu": "1:55–2:05",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Sedang, tepi genangan. Perahu dari drum minyak bekas berlapis aspal merapat; tiga relawan muda berkaus menurunkan kardus buku dan tersenyum ke arah \"kamu\"; tangan \"kamu\" menangkap tali perahu.",
+      "narasiSuara": "[curious] Lalu suatu pagi, sebuah perahu aneh merapat. [excited] Badannya dari drum minyak bekas, dilapisi aspal. [calm] Isinya anak-anak muda dari kota, membawa buku.",
+      "narasi": "Lalu suatu pagi, sebuah perahu aneh merapat. Badannya dari drum minyak bekas, dilapisi aspal. Isinya anak-anak muda dari kota, membawa buku.",
+      "teksLayar": [],
+      "suara": "Air ditepuk dayung, drum berbunyi tumpul, tawa relawan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Perahu Drum",
+      "waktu": "2:05–2:16",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang, sekolah darurat beratap terpal di lereng. Anak-anak duduk di tikar; anakmu menulis di buku sambil tertawa bersama relawan perempuan. \"Kamu\" mengintip dari tiang gubuk, mata basah.",
+      "narasiSuara": "[calm] Mereka relawan yang dipanggil Romo Mangunwijaya. [excited] Di sekolah darurat, anakmu memegang pensil lagi. [sad] Untuk pertama kalinya sejak air datang, kamu melihatnya tertawa.",
+      "narasi": "Mereka relawan yang dipanggil Romo Mangunwijaya. Di sekolah darurat, anakmu memegang pensil lagi. Untuk pertama kalinya sejak air datang, kamu melihatnya tertawa.",
+      "teksLayar": [],
+      "suara": "Anak-anak mengeja bersama, pensil di kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Nama di Halaman Buku",
+      "waktu": "2:16–2:27",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang, dalam gubuk, siang. Radio transistor di atas peti kayu; \"kamu\" duduk sendiri mendengarkan dengan wajah datar; dari celah dinding tampak waduk luas yang tenang.",
+      "narasiSuara": "[serious] Radio mengabarkan, Presiden meresmikan Waduk Kedung Ombo. [calm] Airnya akan mengalir ke sawah-sawah di hilir. [resigned] Bukan ke sawahmu. [sad] Sawahmu ada di dasarnya.",
+      "narasi": "Radio mengabarkan, Presiden meresmikan Waduk Kedung Ombo. Airnya akan mengalir ke sawah-sawah di hilir. Bukan ke sawahmu. Sawahmu ada di dasarnya.",
+      "teksLayar": [
+        "Mei 1991."
+      ],
+      "suara": "Suara radio samar, angin di seng",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Nama di Halaman Buku",
+      "waktu": "2:27–2:36",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Dekat, malam, dalam gubuk. Pelita minyak di lantai; anakmu membuka buku tulis baru dan menoleh ke \"kamu\" dengan pensil di tangan; tangan kanan \"kamu\" menunjuk halaman kosong.",
+      "narasiSuara": "[calm] Malam itu, di bawah pelita, anakmu membuka buku pemberian relawan. [curious] Ia bertanya, bagaimana menulis nama desa kita?",
+      "narasi": "Malam itu, di bawah pelita, anakmu membuka buku pemberian relawan. Ia bertanya, bagaimana menulis nama desa kita?",
+      "teksLayar": [],
+      "suara": "Nyala pelita, jangkrik",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Nama di Halaman Buku",
+      "waktu": "2:36–2:45",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dekat dari atas bahu, cahaya pelita. Tangan anakmu menulis huruf demi huruf di buku; \"kamu\" membungkuk di sampingnya. Di luar pintu, permukaan waduk gelap.",
+      "narasiSuara": "[sad] Kamu mengejanya pelan, huruf demi huruf. [whispers] Desa yang sudah hilang dari peta... masih ada di halaman itu.",
+      "narasi": "Kamu mengejanya pelan, huruf demi huruf. Desa yang sudah hilang dari peta... masih ada di halaman itu.",
+      "teksLayar": [],
+      "suara": "Pensil di kertas, jangkrik",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Petani Kemusu",
+      "prompt": "Character reference sheet of Petani Kemusu.\nPetani Kemusu, a Javanese rice farmer about 40 years old from a village in Kemusu, Boyolali, Central Java, in the late 1980s. Lean, wiry build with sun-darkened warm brown skin; square face with high cheekbones, deep-set dark brown eyes with crow's feet, thick straight brows, broad flat nose, thin lips, short black stubble; short black hair with a few grey strands, pushed back. Outdoors he wears a woven bamboo caping (a wide, shallow conical farmer's hat); a faded off-white short-sleeved cotton T-shirt, worn thin and stretched at the collar; knee-length dark brown cotton shorts; a faded brown-and-maroon checked cotton sarong slung over one shoulder or tied at the waist; barefoot in the fields, worn black rubber sandals at home. A cheap steel wristwatch with a scratched face on his left wrist; no other jewelry. Carries himself with quiet stubbornness: shoulders squared, chin slightly lowered, hands rarely still.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the caping weave, the checked sarong and the wristwatch, and one first-person panel of his hands and forearms seen from his own point of view: Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1980s Central Javanese village farmer clothing.\nAvoid blangkon, beskap, court batik, modern clothing, sneakers, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Anak Petani",
+      "prompt": "Character reference sheet of Anak Petani.\nAnak Petani, a Javanese village girl about 9 years old from Kemusu, Boyolali, Central Java, in the late 1980s. Small and thin, warm brown skin; round face, large dark brown eyes, short straight brows, small rounded nose, slightly chapped lips; straight black shoulder-length hair held back by a plain red plastic hair clip on the left side. Wears a faded pink short-sleeved cotton blouse with a small round collar and two white buttons, and a knee-length plain navy-blue cotton skirt; barefoot or in thin blue rubber sandals. No jewelry. Moves quickly and curiously, often clutching something to her chest, and tilts her head when she asks a question.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the blouse collar, buttons and hair clip. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1980s Central Javanese village girl's everyday clothing.\nAvoid school uniform, modern clothing, hijab, sneakers, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Sawah ini dicangkul kakekmu, lalu bapakmu, lalu kamu. Hari ini, petugas proyek datang mengukurnya dengan meteran.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nClose shot at eye level, a rice field in a river valley at dawn, low golden sun behind the hills.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. Both hands grip the worn wooden handle of a hoe planted in wet soil, knuckles tight.\nIn the middle distance two project surveyors stride along the dike pulling a long cloth measuring tape between them, one bending to read it, the other pointing across the field; they look at the tape and the field, not at the viewer. The surveyors are different people from Petani Kemusu: one older and heavy-set with glasses, one young and thin, both in pale khaki short-sleeved safari shirts and dark trousers, with no caping.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fresh rice green, ochre soil and straw gold, deep soft shadows, low golden morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:18",
+      "narasi": "Lembah Sungai Serang ini memberimu makan. Anakmu bertanya, untuk apa patok-patok itu ditancapkan di pematang. Kamu belum punya jawaban.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nSame character as the Anak Petani reference image.\nMedium-wide shot from behind the farmer's shoulder, slightly high angle, late morning on a rice-field dike above the winding Serang River in its valley.\nPetani Kemusu stands on the dike in his caping, sarong over one shoulder, half-turned toward his daughter, brows drawn together, mouth closed tight, eyes on the red-painted wooden stake. Anak Petani crouches mid-step beside the stake, one hand pointing at it, head tilted up toward her father, eyebrows raised, lips parted in a question.\nA row of identical red-tipped wooden stakes runs away along the dikes into the distance.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fresh rice green, ochre soil and straw gold, deep soft shadows, low golden morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:29",
+      "narasi": "Di balai desa, petugas menjelaskan: lembah ini akan jadi waduk. Tiga puluh tujuh desa di tiga kabupaten harus pindah. Desamu salah satunya.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nMedium shot at eye level inside a village meeting hall with teak plank walls and an open shutter, midday light in hazy beams.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. The left hand crushes the brim of the woven caping resting on the knee; the right hand rests flat on the wooden bench.\nAt the front, an official in a grey safari shirt points with a ruler at a large hand-drawn map of the valley with a blue-shaded area, looking at the map, mouth mid-sentence. On the benches, village men and women turn to one another: an old man with a white stubble frowns at his hands, a woman in a faded batik kain covers her mouth, a young man leans forward with narrowed eyes. The officials and villagers are different people from Petani Kemusu, with varied ages, faces and plain clothes, no caping indoors.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fresh rice green, ochre soil and straw gold, deep soft shadows, low golden morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:29–0:39",
+      "narasi": "Kabarnya, Menteri menyebut ganti rugi tiga ribu rupiah per meter. Yang sampai ke tangan tetanggamu... dua ratus lima puluh.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nMedium shot at eye level on the front porch of a neighbour's teak house, harsh midday sun and short shadows.\nAn elderly neighbour, bony and stooped, with grey hair, a faded striped shirt and a dark sarong, slowly counts a few thin banknotes in his open palm, his face empty, eyes fixed on the money. Petani Kemusu stands beside him in mid-turn, caping in hand, jaw clenched, brows pulled down, staring at the banknotes. The neighbour is a different person from Petani Kemusu, older and thinner, without a wristwatch.\nA few chickens peck in the dusty yard.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dusty brown, faded khaki and paper white with one accent of flag red, hot hazy midday light turning to orange late-afternoon light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:47",
+      "narasi": "Petugas menyodorkan kertas untuk ditandatangani. Kamu menggeleng. Uang sebanyak itu tak cukup untuk membeli sawah baru.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nMedium shot at eye level in the front room of a teak plank house, afternoon light through a wooden window.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. The right hand is raised in front of the chest, palm open, refusing; the left hand rests on the edge of a low wooden table.\nA middle-aged project official, round-faced with a thin moustache and neatly combed hair, in a pale khaki safari shirt, leans forward across the table pushing an open cardboard folder with a printed form and a ballpoint pen toward the viewer; he looks straight at the viewer with a patient, tight-lipped smile and raised eyebrows. He is a different person from Petani Kemusu.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dusty brown, faded khaki and paper white with one accent of flag red, hot hazy midday light turning to orange late-afternoon light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:57",
+      "narasi": "Satu per satu, tetanggamu menyerah. Ada yang pindah ke permukiman baru, ada yang berangkat transmigrasi ke luar Jawa.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nSame character as the Anak Petani reference image.\nWide shot at eye level of a dusty village road, hazy late morning.\nNeighbouring families load wooden cupboards, rolled pandan mats and bamboo chicken cages onto an old blue cargo truck; a young man heaves a cupboard up while another pulls it from the truck bed; an old woman in a faded kebaya and batik kain pauses mid-step and looks back at her empty house. At the roadside, Petani Kemusu stands with arms folded, lips pressed thin, watching the truck; Anak Petani holds his sarong with one hand and looks up at the old woman, eyes glistening. The neighbours are different people from Petani Kemusu and Anak Petani, in varied ages, faces and faded clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dusty brown, faded khaki and paper white with one accent of flag red, hot hazy midday light turning to orange late-afternoon light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:57–1:08",
+      "narasi": "Lalu datang tuduhan yang paling ditakuti zaman itu. Yang menolak pindah, disebut PKI. Kamu menancapkan merah putih di sawahmu, dan tetap tinggal.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nMedium shot from a low angle on a rice-field dike, late afternoon, long orange light.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. Both hands drive a tall bamboo pole into the mud of the dike; a red-and-white Indonesian flag snaps in the wind at its top.\nOn the dirt road beyond the field, two men in plain olive-green military uniforms stand beside an old motorcycle, one with arms crossed, the other shading his eyes, both watching the flag with neutral, unreadable faces. They are different people from Petani Kemusu, younger, with short military haircuts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dusty brown, faded khaki and paper white with one accent of flag red, hot hazy midday light turning to orange late-afternoon light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:08–1:18",
+      "narasi": "Januari, pintu bendungan ditutup. Air tidak datang seperti banjir. Ia merayap, sejengkal demi sejengkal, ke sawah yang kemarin kamu bajak.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nWide shot from a high angle over the valley at dawn, thin mist lying on the fields.\nMuddy brown water creeps between the rice plots, swallowing the lower dikes, the young rice tops just breaking its surface. Petani Kemusu stands small on the last dry dike, caping on, shoulders hunched, head turned down toward the water at his feet, one hand gripping his sarong. Distant teak trees on the hills.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of mud brown, misty grey and faded green, cold grey dawn light through mist, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:18–1:27",
+      "narasi": "Pagi ini, air sudah sampai di tangga rumahmu. Istrimu menggulung tikar. Anakmu lebih dulu menyelamatkan buku sekolahnya.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nSame character as the Anak Petani reference image.\nMedium shot at eye level from a wooden doorway, grey early morning.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. The left hand grips the door frame; the right hand reaches out toward the girl.\nAnkle-deep brown water covers the stone steps and floods into the room. Anak Petani stands on the bottom step clutching a stack of school exercise books to her chest with both arms, shoulders raised, eyes wide and looking straight at the viewer, lips trembling. Behind her, the farmer's wife, a woman in her mid-thirties with a small hair bun, a faded brown kebaya and batik kain hitched to her knees, bends to roll up a pandan mat, eyes on the mat. The wife is a different person from Anak Petani.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of mud brown, misty grey and faded green, cold grey early-morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:27–1:37",
+      "narasi": "Kalian pindah ke lereng, makin tinggi setiap pekan. Kamu mengikat batang bambu menjadi rakit. Beras dan ayam ikut naik ke atasnya.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nSame character as the Anak Petani reference image.\nMedium-wide shot at eye level on a teak-forested hillside, cloudy midday, the flooded valley below.\nPetani Kemusu kneels on one knee, pulling tight a black palm-fibre rope around a row of thick bamboo poles, teeth gritted, eyes on the knot. Anak Petani stands beside the raft holding a struggling brown hen against her chest, looking down at it. The farmer's wife, a woman in her mid-thirties with a small hair bun and a faded brown kebaya, heaves a rice sack onto the bamboo, eyes on the sack. Behind them a makeshift hut with a rusty corrugated-iron roof. The wife is a different person from Anak Petani.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of mud brown, misty grey and faded green, flat overcast light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:37–1:46",
+      "narasi": "Malam itu, yang tersisa dari rumahmu hanya bubungan atap... dan suara jangkrik.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nWide shot at eye level at night on a bamboo raft on still water, a pale moon reflected on the surface.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. Both hands hold a long bamboo punting pole planted in the water, still.\nAhead, alone in the middle of the flat black water, only the clay-tile ridge of a house roof breaks the surface. A small oil lamp on the raft casts a single warm glow on the bamboo. No people in view.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep blue-black night palette with pale moonlight and a single warm oil-lamp glow, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, people, human figures, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:46–1:55",
+      "narasi": "Sekolah anakmu sudah di bawah air. Berminggu-minggu ia hanya duduk di tepi genangan, memandangi tempat sekolahnya dulu berdiri.",
+      "prompt": "Same character as the Anak Petani reference image.\nSame character as the Petani Kemusu reference image.\nMedium shot from the side at eye level, overcast midday, at the edge of the floodwater.\nAnak Petani sits hugging her knees on the muddy bank, chin resting on her knees, eyes fixed on the water. A few metres out, the tip of a school flagpole sticks out of the water. Behind her, Petani Kemusu stands still, caping in hand, watching her with sad, heavy eyes, shoulders slumped.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of faded blue, grey-brown water and earthy brown, flat overcast midday light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:55–2:05",
+      "narasi": "Lalu suatu pagi, sebuah perahu aneh merapat. Badannya dari drum minyak bekas, dilapisi aspal. Isinya anak-anak muda dari kota, membawa buku.",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nMedium shot at eye level at the edge of the floodwater, gentle clear morning.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. The right hand catches the boat's rope; the left hand reaches toward a cardboard box.\nA small boat built from old oil drums coated in black asphalt, lashed under a bamboo frame, glides to the bank. Three young volunteers in their early twenties: a tall thin young man with longish hair and a faded green T-shirt, a short young woman with a ponytail and a white T-shirt, and a stocky young man with glasses in a checked shirt. The young man in front lifts a cardboard box of books and smiles straight at the viewer; the other two look at the bank as they steady the boat with paddles. The volunteers are different people from Petani Kemusu, with no caping.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of asphalt black, faded blue, worn orange tarpaulin and earthy brown, gentle clear morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:05–2:16",
+      "narasi": "Mereka relawan yang dipanggil Romo Mangunwijaya. Di sekolah darurat, anakmu memegang pensil lagi. Untuk pertama kalinya sejak air datang, kamu melihatnya tertawa.",
+      "prompt": "Same character as the Anak Petani reference image.\nSame character as the Petani Kemusu reference image.\nMedium shot at a slightly high angle inside an emergency school shelter with a worn orange tarpaulin roof on bamboo posts on a hillside, soft morning light.\nVillage children sit on pandan mats writing in exercise books. Anak Petani leans over her book mid-laugh, pencil in hand, eyes crinkled, looking at a young female volunteer with a ponytail and a white T-shirt who kneels beside her, pointing at the page and laughing. At the edge of the frame, Petani Kemusu peeks from behind a bamboo post, eyes glistening, a small trembling smile. The other children and the volunteer are different people from Anak Petani and Petani Kemusu, with varied faces and clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of asphalt black, faded blue, worn orange tarpaulin and earthy brown, gentle clear morning light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:16–2:27",
+      "narasi": "Radio mengabarkan, Presiden meresmikan Waduk Kedung Ombo. Airnya akan mengalir ke sawah-sawah di hilir. Bukan ke sawahmu. Sawahmu ada di dasarnya.",
+      "prompt": "Same character as the Petani Kemusu reference image.\nMedium shot at eye level inside a makeshift hut with plank walls, dim afternoon light through gaps.\nPetani Kemusu sits alone on a low wooden bench beside a small transistor radio on a wooden crate, leaning slightly toward it, hands loose between his knees, face flat and tired, eyes looking past the radio through a gap in the wall. Through the gap, the vast calm reservoir stretches to the hills.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim reflective palette of dark brown and faded wood, muted afternoon light through gaps in the walls, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:27–2:36",
+      "narasi": "Malam itu, di bawah pelita, anakmu membuka buku pemberian relawan. Ia bertanya, bagaimana menulis nama desa kita?",
+      "prompt": "The viewer is Petani Kemusu: the hands and forearms in the foreground match the first-person panel of the Petani Kemusu reference image.\nSame character as the Anak Petani reference image.\nClose shot at eye level inside the hut at night, a small oil lamp on the floor as the only light.\nFirst-person point of view. Sun-darkened warm brown hands and forearms of a 40-year-old rice farmer: thick calloused palms, cracked knuckles, short blunt nails with soil under them, raised veins, a small pale scar across the back of the right hand; the short sleeves of a faded off-white cotton T-shirt end just above the elbows; a cheap steel wristwatch with a scratched face on the left wrist; no rings. The right index finger points at the blank page of an open exercise book; the left hand rests on the floor beside the lamp.\nAnak Petani sits cross-legged with a new exercise book open on her lap and a pencil in her hand, turning her head toward the viewer, eyebrows raised, looking straight at the viewer with a hopeful question in her eyes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim reflective palette of dark brown, lamp gold and deep night blue, a single warm oil-lamp as the only light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:36–2:45",
+      "narasi": "Kamu mengejanya pelan, huruf demi huruf. Desa yang sudah hilang dari peta... masih ada di halaman itu.",
+      "prompt": "Same character as the Anak Petani reference image.\nSame character as the Petani Kemusu reference image.\nClose shot over the girl's shoulder at a slightly high angle inside the hut at night, warm oil-lamp light.\nAnak Petani's small hand carefully writes letters with a pencil on the lined page, her lips moving silently, eyes on the page. Petani Kemusu bends close beside her, one hand on her back, eyes on the page, a quiet sad smile. Through the open doorway behind them, the dark reservoir water reflects a faint moon. The letters on the page are illegible pencil strokes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim reflective palette of dark brown, lamp gold and deep night blue, a single warm oil-lamp as the only light, historically accurate late-1980s rural Central Java (Kemusu, Boyolali): village houses with hipped clay-tile roofs, teak plank and woven bamboo walls, rice fields in a river valley, teak forest on the hills.\nAvoid characters looking at the camera, readable words, stiff symmetrical poses, background figures copying Petani Kemusu's or Anak Petani's face or outfit, identical faces, modern clothing, smartphones, modern motorbikes, concrete houses, caricatured officials, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki atau perempuan dewasa yang hangat, tenang, dan sedikit serak; voice yang terlalu lembut sulit mengikuti tag [angry] dan [tense].\n\n- Babak 1: tenang dan hangat, tempo sedang, sedikit cemas di kalimat terakhir.\n- Babak 2: serius dan menekan, tempo sedikit lebih cepat, berbisik pada kata PKI.\n- Babak 3: tegang lalu sunyi; adegan 11 dibaca sangat pelan dan berbisik.\n- Babak 4: dari sedih ke harapan kecil, tempo melambat di kalimat \"kamu melihatnya tertawa\".\n- Babak 5: datar dan pasrah, lalu lembut dan berbisik di kalimat terakhir.",
+    "arahanBabak": {
+      "1": "tenang dan hangat, tempo sedang, sedikit cemas di kalimat terakhir.",
+      "2": "serius dan menekan, tempo sedikit lebih cepat, berbisik pada kata PKI.",
+      "3": "tegang lalu sunyi; adegan 11 dibaca sangat pelan dan berbisik.",
+      "4": "dari sedih ke harapan kecil, tempo melambat di kalimat \"kamu melihatnya tertawa\".",
+      "5": "datar dan pasrah, lalu lembut dan berbisik di kalimat terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Sawah ini dicangkul kakekmu, lalu bapakmu, lalu kamu. [tense] Hari ini, petugas proyek datang mengukurnya dengan meteran....\n\n[calm] Lembah Sungai Serang ini memberimu makan. [curious] Anakmu bertanya, untuk apa patok-patok itu ditancapkan di pematang. [resigned] Kamu belum punya jawaban....\n\n[serious] Di balai desa, petugas menjelaskan: lembah ini akan jadi waduk. [tense] Tiga puluh tujuh desa di tiga kabupaten harus pindah. [nervous] Desamu salah satunya....",
+    "2": "[serious] Kabarnya, Menteri menyebut ganti rugi tiga ribu rupiah per meter. [angry] Yang sampai ke tangan tetanggamu... dua ratus lima puluh....\n\n[tense] Petugas menyodorkan kertas untuk ditandatangani. [serious] Kamu menggeleng. [calm] Uang sebanyak itu tak cukup untuk membeli sawah baru....\n\n[sad] Satu per satu, tetanggamu menyerah. [sad] Ada yang pindah ke permukiman baru, ada yang berangkat transmigrasi ke luar Jawa....\n\n[tense] Lalu datang tuduhan yang paling ditakuti zaman itu. [whispers] Yang menolak pindah, disebut PKI. [serious] Kamu menancapkan merah putih di sawahmu, dan tetap tinggal....",
+    "3": "[calm] Januari, pintu bendungan ditutup. [tense] Air tidak datang seperti banjir. [nervous] Ia merayap, sejengkal demi sejengkal, ke sawah yang kemarin kamu bajak....\n\n[tense] Pagi ini, air sudah sampai di tangga rumahmu. [nervous] Istrimu menggulung tikar. [sad] Anakmu lebih dulu menyelamatkan buku sekolahnya....\n\n[serious] Kalian pindah ke lereng, makin tinggi setiap pekan. [calm] Kamu mengikat batang bambu menjadi rakit. [resigned] Beras dan ayam ikut naik ke atasnya....\n\n[sad] [whispers] Malam itu, yang tersisa dari rumahmu hanya bubungan atap... dan suara jangkrik....",
+    "4": "[sad] Sekolah anakmu sudah di bawah air. [sad] Berminggu-minggu ia hanya duduk di tepi genangan, memandangi tempat sekolahnya dulu berdiri....\n\n[curious] Lalu suatu pagi, sebuah perahu aneh merapat. [excited] Badannya dari drum minyak bekas, dilapisi aspal. [calm] Isinya anak-anak muda dari kota, membawa buku....\n\n[calm] Mereka relawan yang dipanggil Romo Mangunwijaya. [excited] Di sekolah darurat, anakmu memegang pensil lagi. [sad] Untuk pertama kalinya sejak air datang, kamu melihatnya tertawa....",
+    "5": "[serious] Radio mengabarkan, Presiden meresmikan Waduk Kedung Ombo. [calm] Airnya akan mengalir ke sawah-sawah di hilir. [resigned] Bukan ke sawahmu. [sad] Sawahmu ada di dasarnya....\n\n[calm] Malam itu, di bawah pelita, anakmu membuka buku pemberian relawan. [curious] Ia bertanya, bagaimana menulis nama desa kita?...\n\n[sad] Kamu mengejanya pelan, huruf demi huruf. [whispers] Desa yang sudah hilang dari peta... masih ada di halaman itu...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Lembah",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:15",
+      "suasana": "Pastoral hangat yang perlahan berubah gelisah",
+      "style": "Javanese rural ambient, soft saron and bonang patterns with plucked siter and gentle kendang, warm and pastoral at first, slowly turning uneasy with a low gong drone in the second half, about 75 seconds long (1:15), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, electric guitar, heavy drums"
+    },
+    {
+      "nomor": 2,
+      "nama": "Air",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:45",
+      "suasana": "Gelap, sunyi, mencekam, nyaris hening di akhir",
+      "style": "dark ambient, slow low gong strokes, bowed rebab and deep drones, sparse water-drop percussion, mournful and still, builds quiet tension then drops to near silence at the end, about 45 seconds long (0:45), with a clear ending, 55 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, cinematic trailer hits, electric guitar"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pelita",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "1:05",
+      "suasana": "Harapan kecil yang pahit, menutup tenang",
+      "style": "gentle bittersweet acoustic, solo siter and suling flute over soft gender, tender and hopeful, starts light and fades into a quiet reflective close, about 65 seconds long (1:05), with a clear ending, 65 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, piano pop, heavy drums"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Angin di sawah dan burung pagi",
+      "kataKunci": "rice field wind birds morning",
+      "prompt": "gentle morning wind through rice paddies with distant birds"
+    },
+    {
+      "nomor": 2,
+      "adegan": 1,
+      "bunyi": "Pita meteran ditarik",
+      "kataKunci": "measuring tape pull",
+      "prompt": "cloth measuring tape being pulled and reeled outdoors"
+    },
+    {
+      "nomor": 3,
+      "adegan": 2,
+      "bunyi": "Aliran sungai",
+      "kataKunci": "small river stream",
+      "prompt": "calm shallow river flowing over stones in a valley"
+    },
+    {
+      "nomor": 4,
+      "adegan": 3,
+      "bunyi": "Gumam warga di balai",
+      "kataKunci": "small crowd murmur indoor",
+      "prompt": "small group of villagers murmuring anxiously in a wooden hall"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Mesin truk tua",
+      "kataKunci": "old diesel truck idle",
+      "prompt": "old diesel cargo truck idling on a dirt road, chickens clucking"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Bendera berkibar",
+      "kataKunci": "flag flapping wind",
+      "prompt": "cloth flag flapping in strong evening wind"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Air beriak di tangga",
+      "kataKunci": "water lapping steps",
+      "prompt": "shallow water lapping against stone steps"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Jangkrik dan riak air",
+      "kataKunci": "crickets night water",
+      "prompt": "crickets at night over still lake water, faint ripples"
+    },
+    {
+      "nomor": 9,
+      "adegan": 13,
+      "bunyi": "Dayung dan drum perahu",
+      "kataKunci": "paddle water hollow metal",
+      "prompt": "paddle splashing beside a hollow metal drum boat"
+    },
+    {
+      "nomor": 10,
+      "adegan": 15,
+      "bunyi": "Radio transistor samar",
+      "kataKunci": "old radio static voice",
+      "prompt": "faint old transistor radio broadcast with static"
+    },
+    {
+      "nomor": 11,
+      "adegan": 17,
+      "bunyi": "Pensil di kertas",
+      "kataKunci": "pencil writing paper",
+      "prompt": "pencil writing slowly on paper, quiet room"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Proyek Kedung Ombo dibiayai pinjaman Bank Dunia sebesar 156 juta dolar AS.",
+    "sumber": "Wikipedia (Kedung Ombo Dam); VOI",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Petani yang Menolak Pindah dari Kedung Ombo",
+      "catatan": "Alternatif judul: POV: Kamu Bertahan Saat Desamu Jadi Waduk / POV: Kamu Petani Kemusu Saat Kedung Ombo Diairi",
+      "caption": "Menteri menyebut Rp3.000 per meter. Yang sampai ke tangan warga cuma Rp250.\n\nWaduk Kedung Ombo di Boyolali, Sragen, dan Grobogan mulai diairi Januari 1989 dan menenggelamkan 37 desa. Sebanyak 5.268 keluarga kehilangan tanah, dan sebagian memilih bertahan di tepi genangan.\n\nKalau kamu di posisinya, ambil uangnya dan pergi, atau bertahan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Kompas, Wikipedia (Kasus Kedung Ombo).\n\n#UlikSilam #sejarahindonesia #kedungombo #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Petani yang Menolak Pindah dari Kedung Ombo",
+      "catatan": "",
+      "caption": "Menteri menyebut Rp3.000 per meter. Yang sampai ke tangan warga cuma Rp250.\n\nTahun 1989, air Waduk Kedung Ombo menenggelamkan 37 desa di Boyolali, Sragen, dan Grobogan. Warga yang menolak pindah bahkan dituduh PKI.\n\nKalau kamu di posisinya, ambil uangnya dan pergi, atau bertahan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Kompas, Wikipedia (Kasus Kedung Ombo).\n\n#UlikSilam #sejarah #kedungombo #ordebaru #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 5,
+    "totalKata": 318,
+    "kataPerBabak": {
+      "1": 57,
+      "2": 75,
+      "3": 70,
+      "4": 61,
+      "5": 55
+    },
+    "karakterPerBabak": {
+      "1": 471,
+      "2": 606,
+      "3": 579,
+      "4": 504,
+      "5": 442
+    },
+    "jedaBunyi": 3,
+    "perkiraanDetik130": {
+      "narasi": 165.1,
+      "denganMerek": 170.1
+    },
+    "perkiraanDetik135": {
+      "narasi": 159.6,
+      "denganMerek": 164.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

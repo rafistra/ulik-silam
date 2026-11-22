@@ -1,0 +1,21 @@
+judul: "Cinta yang Tak Terucap, 1986"
+slug: pov-cinta-yang-tak-terucap
+format: POV
+lapisan: ["Rekaan"]
+latar: "Jakarta"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v3 · 2026-11-08"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Wartawan", "Ratna"]
+aset: {ilustrasi: 16, narasi: 22, musik: 2, sfx: 15}
+render: "out/pov-cinta-yang-tak-terucap.mp4"
+tanggal_render: 2026-11-08
+tautan: {"shorts": "https://youtube.com/shorts/DFbGVih5DZg", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7705904094874979604"}
+arsip_lama: "pov/pov-cinta-yang-tak-terucap"
+catatan: ""
+metrik_shorts: {"views": 3099, "jam_tonton": 57.1, "rata_tonton_detik": 66.4, "durasi_detik": 161, "persen_ditonton": 41.2, "subscriber": 14, "impresi": 1146, "ctr": 6.46, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-08", "tiktok": "2026-11-09"}
+metrik_tiktok: {"views": 3537, "suka": 71, "komentar": 2, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

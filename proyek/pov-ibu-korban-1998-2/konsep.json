@@ -1,0 +1,628 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-07T09:05:43.951Z",
+  "judulDokumen": "Ibu yang Anaknya Dihilangkan, 1998–2026 (Part 2)",
+  "judul": "POV: Kamu Ibu yang Anaknya Dihilangkan, 1998–2026 (Part 2)",
+  "slug": "pov-ibu-korban-1998-2",
+  "versi": "v2 · 2026-11-07",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Klaten dan Jakarta",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Ibu fiktif dari mahasiswa di Part 1, petani di Klaten, ±50 tahun pada 1998 dan ±78 tahun pada 2026",
+  "ringkasan": {
+    "Judul": "POV: Kamu Ibu yang Anaknya Dihilangkan, 1998–2026 (Part 2)",
+    "Slug": "pov-ibu-korban-1998-2",
+    "Versi": "v2 · 2026-11-07",
+    "Seri": "Part 2",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan 2:45)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Ibu fiktif dari mahasiswa di Part 1, petani di Klaten, ±50 tahun pada 1998 dan ±78 tahun pada 2026",
+    "Jumlah ilustrasi": "19 (16 adegan + 3 lembar karakter: Ibu 1998, Ibu 2026, Kawan Perempuan; Kawan Perempuan bisa memakai ulang gambar Part 1)",
+    "Lapisan": "Sejarah",
+    "Latar": "Klaten dan Jakarta",
+    "Premis": "Seorang ibu desa terus mencari dan menunggu anaknya yang dihilangkan, sementara negara berganti presiden, mengakui, dan menyesalkan, tanpa pernah memberitahunya di mana anaknya.",
+    "Benang merah": "Sepiring nasi yang selalu disisakan di meja (dari epilog Part 1).",
+    "Asumsi": "Ibu, suami, dan anak fiktif dan tidak meniru keluarga korban tertentu; tidak ada pelaku atau pejabat yang dinamai kecuali fakta umum (Soeharto mundur; presiden mengakui pada 2023 tanpa dinamai); detail pencarian (kantor, kabar burung, orang pintar) diambil dari pola kesaksian keluarga korban; penampilan ibu mengikuti ilustrasi adegan 2 Part 1 kecuali motif sarung.",
+    "Dipilih karena": "Melanjutkan Part 1 dan momentum *Laut Bercerita*; sisi keluarga yang menunggu memberi akhir yang masih berlangsung sampai hari ini."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Telepon yang tak datang",
+      "suasana": "Sunyi, rindu",
+      "palet": "Kuning bohlam, biru malam, emas padi",
+      "cahaya": "Bohlam tungsten; senja panen"
+    },
+    {
+      "babak": 2,
+      "nama": "Mei 1998",
+      "suasana": "Cemas, lalu ironi",
+      "palet": "Abu kota, biru televisi, oranye lampu jalan",
+      "cahaya": "Siang mendung; cahaya TV di ruang tamu"
+    },
+    {
+      "babak": 3,
+      "nama": "Pintu demi pintu",
+      "suasana": "Lelah",
+      "palet": "Krem teraso, hijau kantor pucat, cokelat asap kemenyan",
+      "cahaya": "Neon kantor pucat; pelita di rumah orang pintar"
+    },
+    {
+      "babak": 4,
+      "nama": "Presiden berganti",
+      "suasana": "Membeku oleh waktu",
+      "palet": "Cokelat pudar, biru-abu flanel, cahaya TV",
+      "cahaya": "Cahaya jendela siang yang datar; layar TV"
+    },
+    {
+      "babak": 5,
+      "nama": "Kamis",
+      "suasana": "Teguh",
+      "palet": "Hitam, abu langit sore, putih Istana yang jauh; kuning rumah di epilog",
+      "cahaya": "Langit sore mendung; lampu jalan; bohlam di epilog"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Telepon yang tak datang",
+    "2": "Mei 1998",
+    "3": "Pintu demi pintu",
+    "4": "Presiden berganti",
+    "5": "Kamis"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Telepon yang tak datang",
+      "waktu": "0:00–0:07",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Malam, ruang depan rumah desa di Klaten, 2026. Tangan \"kamu\" yang keriput menaruh sepiring nasi di meja berkain renda lalu menutupnya dengan tudung saji bambu; di sebelahnya telepon putar krem yang sama dengan epilog Part 1.",
+      "narasiSuara": "[sad] Sudah dua puluh delapan tahun kamu menyisakan sepiring nasi di meja. [sad] [whispers] Anakmu belum pulang.",
+      "narasi": "Sudah dua puluh delapan tahun kamu menyisakan sepiring nasi di meja. Anakmu belum pulang.",
+      "teksLayar": [
+        "Klaten, 2026."
+      ],
+      "suara": "Jangkrik, jam dinding",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Telepon yang tak datang",
+      "waktu": "0:07–0:16",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kilas balik, Maret 1998, malam. Tangan \"kamu\" (lebih muda, kulit kencang) memegang gagang telepon putar krem ke telinga, tangan lain meremas ujung kerudung; lampu bohlam kuning hangat.",
+      "narasiSuara": "[calm] Maret 1998, telepon itu datang dari Jakarta. [calm] Suaranya lelah, tapi ia tertawa kecil. [sad] Katanya... sebentar lagi pulang.",
+      "narasi": "Maret 1998, telepon itu datang dari Jakarta. Suaranya lelah, tapi ia tertawa kecil. Katanya... sebentar lagi pulang.",
+      "teksLayar": [
+        "Maret 1998."
+      ],
+      "suara": "Suara anak teredam di telepon",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Telepon yang tak datang",
+      "waktu": "0:16–0:27",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sawah keemasan saat panen; Ibu (±50) berdiri di pematang dengan caping, sabit di tangan, menoleh ke arah jalan desa yang kosong; suaminya dan buruh tani memanen di belakang. Lalu (dalam satu gambar) bayangan senja jatuh ke teras rumah.",
+      "narasiSuara": "[sad] Padi di sawah dipanen tanpa dia. [sad] Setiap sore kamu duduk di dekat telepon... [resigned] tapi telepon itu tak pernah berdering lagi.",
+      "narasi": "Padi di sawah dipanen tanpa dia. Setiap sore kamu duduk di dekat telepon... tapi telepon itu tak pernah berdering lagi.",
+      "teksLayar": [],
+      "suara": "Ani-ani dan sabit, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Mei 1998",
+      "waktu": "0:27–0:37",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Pintu rumah, malam. Kawan Perempuan dari Part 1 berdiri di ambang pintu, berbisik dengan wajah pucat; tangan \"kamu\" mencengkeram kusen pintu.",
+      "narasiSuara": "[nervous] Lalu seorang kawannya datang, berbisik di depan pintu. [tense] Anakmu tak pernah kembali ke tempat persembunyiannya. [nervous] Kamu naik bus malam ke Jakarta.",
+      "narasi": "Lalu seorang kawannya datang, berbisik di depan pintu. Anakmu tak pernah kembali ke tempat persembunyiannya. Kamu naik bus malam ke Jakarta.",
+      "teksLayar": [],
+      "suara": "Bisikan, anjing menggonggong jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Mei 1998",
+      "waktu": "0:37–0:50",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Ruang tamu tetangga, siang. Warga berkerumun di depan televisi tabung yang menyiarkan pidato (gambar samar, tanpa wajah jelas), sebagian bersorak dan bertepuk tangan; Ibu berdiri di belakang, tidak tersenyum, menatap ke arah pintu.",
+      "narasiSuara": "[excited] Dua puluh satu Mei, Soeharto mundur. [excited] Tetangga bersorak di depan televisi. [sad] Kamu hanya menatap pintu. [sad] Anakmu ikut memperjuangkan hari ini... tapi ia tidak ada.",
+      "narasi": "Dua puluh satu Mei, Soeharto mundur. Tetangga bersorak di depan televisi. Kamu hanya menatap pintu. Anakmu ikut memperjuangkan hari ini... tapi ia tidak ada.",
+      "teksLayar": [
+        "21 Mei 1998."
+      ],
+      "suara": "Sorak warga, suara TV samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Mei 1998",
+      "waktu": "0:50–0:59",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Halaman sebuah kantor di Jakarta, kerumunan wartawan dan keluarga mengelilingi beberapa pemuda kurus yang baru dibebaskan; tangan \"kamu\" memegang foto anak, terangkat di antara kerumunan.",
+      "narasiSuara": "[curious] Juni, beberapa aktivis yang diculik dibebaskan. [nervous] Kamu mencari wajah anakmu di antara mereka. [sad] [whispers] Wajah itu tidak ada.",
+      "narasi": "Juni, beberapa aktivis yang diculik dibebaskan. Kamu mencari wajah anakmu di antara mereka. Wajah itu tidak ada.",
+      "teksLayar": [],
+      "suara": "Kerumunan, kamera wartawan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Pintu demi pintu",
+      "waktu": "0:59–1:08",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Koridor kantor pemerintah berlantai teraso, Ibu dan suaminya duduk di bangku panjang menunggu, map plastik berisi fotokopi di pangkuan; pintu-pintu tertutup berderet.",
+      "narasiSuara": "[serious] Kamu mengetuk pintu demi pintu. [serious] Kantor tentara, kantor pemerintah, lembaga orang hilang. [resigned] Kamu belajar istilah baru... penghilangan paksa.",
+      "narasi": "Kamu mengetuk pintu demi pintu. Kantor tentara, kantor pemerintah, lembaga orang hilang. Kamu belajar istilah baru... penghilangan paksa.",
+      "teksLayar": [],
+      "suara": "Mesin tik di balik pintu, langkah sepatu",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Pintu demi pintu",
+      "waktu": "1:08–1:20",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Malam, rumah seorang \"orang pintar\" di desa: Ibu duduk bersimpuh di depan lelaki tua yang membakar kemenyan, foto anaknya diletakkan di tikar; asap tipis naik.",
+      "narasiSuara": "[curious] Kabar burung datang silih berganti. [curious] Katanya ia terlihat di sini, katanya di sana. [sad] Kamu bahkan mendatangi orang pintar... dan pulang dengan tangan kosong.",
+      "narasi": "Kabar burung datang silih berganti. Katanya ia terlihat di sini, katanya di sana. Kamu bahkan mendatangi orang pintar... dan pulang dengan tangan kosong.",
+      "teksLayar": [],
+      "suara": "Asap, gumam doa",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Pintu demi pintu",
+      "waktu": "1:20–1:30",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Ruang tamu, 1999. Tangan \"kamu\" memegang koran yang memuat berita sidang (tanpa teks terbaca), meremasnya perlahan.",
+      "narasiSuara": "[serious] Setahun kemudian, beberapa prajurit diadili. [serious] Tapi hanya untuk mereka yang kembali hidup. [angry] Untuk anakmu... tak ada sidang.",
+      "narasi": "Setahun kemudian, beberapa prajurit diadili. Tapi hanya untuk mereka yang kembali hidup. Untuk anakmu... tak ada sidang.",
+      "teksLayar": [
+        "1999."
+      ],
+      "suara": "Kertas diremas",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Presiden berganti",
+      "waktu": "1:30–1:40",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Dinding ruang depan yang sama dari tahun ke tahun: deretan kalender tahun berbeda tergantung bertumpuk di paku (tanpa angka terbaca), Ibu yang mulai beruban menatapnya; televisi menyala dengan gambar samar ruang sidang.",
+      "narasiSuara": "[resigned] Presiden demi presiden berganti. [serious] Komnas HAM menyimpulkan ada pelanggaran HAM berat. [serious] DPR meminta anak-anak itu dicari. [resigned] Tak ada yang mencarinya.",
+      "narasi": "Presiden demi presiden berganti. Komnas HAM menyimpulkan ada pelanggaran HAM berat. DPR meminta anak-anak itu dicari. Tak ada yang mencarinya.",
+      "teksLayar": [],
+      "suara": "Detak jam, siaran TV samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Presiden berganti",
+      "waktu": "1:40–1:49",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kamar anak yang tak berubah: kasur tipis rapi, poster tanpa teks, rak buku. Tangan \"kamu\" yang menua mengusap kemeja flanel biru-abu (sama dengan Part 1) yang terlipat di lemari.",
+      "narasiSuara": "[sad] [whispers] Kamar anakmu tetap seperti dulu. [sad] Kemeja flanelnya masih terlipat di lemari. [whispers] Kamu tak pernah mencucinya lagi.",
+      "narasi": "Kamar anakmu tetap seperti dulu. Kemeja flanelnya masih terlipat di lemari. Kamu tak pernah mencucinya lagi.",
+      "teksLayar": [],
+      "suara": "Hening, lemari kayu berderit",
+      "hening": true,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Presiden berganti",
+      "waktu": "1:49–2:01",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Ruang depan, 2023. Ibu (rambut putih) duduk di kursi rotan menonton berita di televisi layar datar kecil (gambar samar, tanpa wajah jelas), tangan di dada.",
+      "narasiSuara": "[serious] Tahun 2023, presiden mengakui peristiwa itu sebagai pelanggaran HAM berat. [sad] Ia bilang sangat menyesalkan. [sad] Tapi tak ada yang memberitahumu... di mana anakmu.",
+      "narasi": "Tahun 2023, presiden mengakui peristiwa itu sebagai pelanggaran HAM berat. Ia bilang sangat menyesalkan. Tapi tak ada yang memberitahumu... di mana anakmu.",
+      "teksLayar": [
+        "11 Januari 2023."
+      ],
+      "suara": "Suara berita samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Kamis",
+      "waktu": "2:01–2:11",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Kamar, siang. Tangan \"kamu\" mengancingkan kebaya hitam, lalu meraih payung hitam yang bersandar di lemari; di meja ada tiket bus.",
+      "narasiSuara": "[serious] Kini, setiap Kamis sore, kamu mengenakan baju hitam. [calm] Kalau ongkos cukup, kamu berangkat ke Jakarta... membawa payung hitam.",
+      "narasi": "Kini, setiap Kamis sore, kamu mengenakan baju hitam. Kalau ongkos cukup, kamu berangkat ke Jakarta... membawa payung hitam.",
+      "teksLayar": [],
+      "suara": "Kancing, payung dibuka-tutup",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Kamis",
+      "waktu": "2:11–2:22",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Seberang Istana, sore. Barisan orang berbaju hitam berdiri diam di bawah payung hitam, sebagian memegang foto anak mereka; Ibu (±78) di tengah memegang foto anaknya yang muda.",
+      "narasiSuara": "[calm] Di depan Istana, kalian berdiri diam satu jam. [sad] Ibu-ibu lain memegang foto anak mereka. [serious] Di fotomu, anakmu tetap dua puluh satu tahun.",
+      "narasi": "Di depan Istana, kalian berdiri diam satu jam. Ibu-ibu lain memegang foto anak mereka. Di fotomu, anakmu tetap dua puluh satu tahun.",
+      "teksLayar": [
+        "Jakarta, setiap Kamis sejak 2007."
+      ],
+      "suara": "Lalu lintas kota, hening barisan",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Kamis",
+      "waktu": "2:22–2:31",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ibu berjalan pelan sendirian menyusuri trotoar Jakarta selepas aksi, payung hitam tertutup sebagai tongkat; lampu jalan mulai menyala.",
+      "narasiSuara": "[sad] Suamimu sudah lebih dulu pergi. [sad] Rambutmu memutih, langkahmu makin pelan. [serious] Tapi setiap Kamis... kamu masih berdiri di sana.",
+      "narasi": "Suamimu sudah lebih dulu pergi. Rambutmu memutih, langkahmu makin pelan. Tapi setiap Kamis... kamu masih berdiri di sana.",
+      "teksLayar": [],
+      "suara": "Langkah pelan, kendaraan lewat",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Kamis",
+      "waktu": "2:31–2:40",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kembali ke adegan 1: ruang depan rumah Klaten malam hari, tangan \"kamu\" menutup piring nasi dengan tudung saji, telepon krem diam di sebelahnya.",
+      "narasiSuara": "[sad] Malam ini, kamu menyisakan sepiring nasi lagi. [serious] Kalau anakmu yang hilang... [curious] sampai kapan kamu menunggu?",
+      "narasi": "Malam ini, kamu menyisakan sepiring nasi lagi. Kalau anakmu yang hilang... sampai kapan kamu menunggu?",
+      "teksLayar": [],
+      "suara": "Jangkrik, satu nada piano",
+      "hening": false,
+      "epilog": true,
+      "kata": 15
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Ibu 1998",
+      "prompt": "Character reference sheet of Ibu 1998.\nIbu 1998, a 50-year-old Javanese farming mother from a village in Klaten, Central Java, 1998. Slim and of medium height, a straight back and wiry arms from field work; warm brown skin weathered by the sun; oval face with soft cheekbones and fine lines, calm dark eyes with gentle crow's feet, a broad nose, thin lips, a small mole on the left cheek below the eye; black hair parted in the middle, the front visible under a long beige cotton selendang scarf loosely draped over the head, one end thrown back over the left shoulder. Wears a long-sleeved hip-length kebaya blouse of cream cotton printed with faded pink rose flowers and grey-green leaves, a brown batik sarong with a small dotted floral pattern wrapped to the ankles, and plain black rubber flip-flops. Moves with quiet patience, often clutching the end of her selendang with one hand.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter close-up portrait of the face showing the mole, one detail panel of the rose-print kebaya and dotted batik sarong, and one first-person panel showing only her two hands and forearms raised at chest height holding a telephone receiver, seen from her own eyes, matching these hands: working hands of a 50-year-old Javanese farming woman, warm sun-browned skin, short square nails, calloused palms and slightly swollen knuckles, the cuff of a cream cotton kebaya sleeve printed with faded pink rose flowers at the wrist.\nUse the uploaded Part 1 scene image only as a reference for the mother's face, mole, selendang scarf and rose-print kebaya, not for the sarong pattern, pose or composition. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1990s rural Central Javanese village women's clothing.\nAvoid batik parang pattern, resemblance to any real person or actress, modern hijab styles, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Ibu 2026",
+      "prompt": "Character reference sheet of Ibu 2026.\nIbu 2026, the same Javanese mother from Klaten, now 78 years old, 2026. Same oval face and small mole on the left cheek, now deeply lined; the same gentle downturned dark eyes, now cloudy and tired; slightly stooped, thinner, moving slowly. Hair completely white, in a small low bun under a thin black headscarf. For Thursdays she wears a plain black long-sleeved kebaya blouse, a dark batik sarong and black flat sandals, carrying a folded black umbrella and a small framed photo of a young man; at home she wears a faded floral house dress. Holds herself upright with quiet stubbornness despite her slow steps.\nUse the uploaded Ibu 1998 reference image only for the face shape, eyes and mole, aged by 28 years, not for the clothing.\nFull-body front view, side view and back view in the black Thursday outfit with the folded umbrella, one full-body front view in the floral house dress, one three-quarter close-up portrait of the aged face, and one first-person panel showing only her two hands and forearms raised at chest height holding a small framed photo, seen from her own eyes, matching these hands: thin wrinkled hands of a 78-year-old Javanese woman, brown skin with age spots and raised veins, short square nails, knobbly knuckles, the cuff of a faded floral house-dress sleeve at the wrist.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 2020s elderly Central Javanese woman's clothing.\nAvoid batik parang pattern, resemblance to any real person, readable text on the photo, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kawan Perempuan",
+      "prompt": "Character reference sheet of Kawan Perempuan.\nKawan Perempuan, a 22-year-old female Javanese student activist, Yogyakarta and Jakarta, 1998. Small and wiry; warm medium-brown skin; round face, sharp dark eyes, no makeup; straight black hair tied in a practical low ponytail with loose strands. Wears a plain off-white long-sleeved cotton shirt with sleeves pushed up, dark brown loose trousers, and simple brown sandals; carries a woven cloth tote bag full of leaflets. Determined and quick, often writing in a small notebook.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter close-up portrait of the face, and one detail panel of the woven tote bag and notebook.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1998 Indonesian student activist clothing.\nAvoid resemblance to any real actor or public figure, logos, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:07",
+      "narasi": "Sudah dua puluh delapan tahun kamu menyisakan sepiring nasi di meja. Anakmu belum pulang.",
+      "prompt": "The viewer is Ibu 2026: the hands and forearms in the foreground match the first-person panel of the Ibu 2026 reference image.\nMedium shot looking slightly down, the front room of a modest village house in Klaten at night in 2026: lime-washed walls, a single warm yellow bulb hanging from a wooden ceiling, deep shadows in the upper part of the frame, an open window onto a dark rice field.\nFirst-person point of view. Hands in the foreground: thin wrinkled hands of a 78-year-old Javanese woman, brown skin with age spots and raised veins, short square nails, knobbly knuckles, the cuff of a faded floral house-dress sleeve at the wrist. Both hands lower a woven bamboo food cover (tudung saji) over a plate of white rice on a small table covered with a white crocheted cloth.\nBeside the plate sits an old beige rotary telephone, silent, its cord coiled. A gecko clings to the wall near the bulb.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm yellow lamplight against deep blue night, historically accurate 2020s rural Central Javanese house interior.\nAvoid other people, mobile phones, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:07–0:16",
+      "narasi": "Maret 1998, telepon itu datang dari Jakarta. Suaranya lelah, tapi ia tertawa kecil. Katanya... sebentar lagi pulang.",
+      "prompt": "The viewer is Ibu 1998: the hands and forearms in the foreground match the first-person panel of the Ibu 1998 reference image.\nMedium close shot at eye level, the same front room in Klaten at night in 1998, the same warm yellow bulb, a calendar with a rice-field picture on the wall and no readable numbers.\nFirst-person point of view. Hands in the foreground: working hands of a 50-year-old Javanese farming woman, warm sun-browned skin, short square nails, calloused palms and slightly swollen knuckles, the cuff of a cream cotton kebaya sleeve printed with faded pink rose flowers at the wrist. The left hand holds the beige rotary telephone receiver to the ear (out of frame); the right hand clutches the end of her beige selendang scarf against her chest.\nOn the table, the rotary telephone and a glass of sweet tea; through the doorway, her husband, a thin man in a white singlet and sarong, leans in listening with a hopeful half-smile. He is a different person from the sons and friends, older and grey.\nThe phone cord sways gently; steam rises from the tea.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm tungsten yellow and wood brown, historically accurate 1990s rural Central Javanese house interior.\nAvoid characters looking at the camera, mobile phones, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:16–0:27",
+      "narasi": "Padi di sawah dipanen tanpa dia. Setiap sore kamu duduk di dekat telepon... tapi telepon itu tak pernah berdering lagi.",
+      "prompt": "Same character as the Ibu 1998 reference image.\nMedium-wide shot at eye level, golden rice fields being harvested in Klaten in late afternoon in 1998, Mount Merapi faint in a hazy amber sky.\nIbu 1998 stands on the raised path between fields wearing a wide conical straw hat (caping) over her headscarf, a small sickle hanging from one hand, her body turned toward the empty village road, brows drawn together, lips pressed, eyes searching the distance.\nBehind her, her husband, thin and grey with a white singlet and a straw hat, and three field workers of varied age bend over the rice cutting stalks and bundling sheaves, not looking at her. They are different people from Ibu 1998, with no beige selendang and no rose-print kebaya.\nLong evening shadows stretch across the stubble; rice stalks sway; a flock of birds rises.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of harvest gold, amber sky and soft brown shadows, historically accurate 1990s Central Javanese rice harvest.\nAvoid characters looking at the camera, combine harvesters or modern machines, stiff symmetrical poses, background figures copying Ibu 1998's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:27–0:37",
+      "narasi": "Lalu seorang kawannya datang, berbisik di depan pintu. Anakmu tak pernah kembali ke tempat persembunyiannya. Kamu naik bus malam ke Jakarta.",
+      "prompt": "Same character as the Kawan Perempuan reference image.\nThe viewer is Ibu 1998: the hands and forearms in the foreground match the first-person panel of the Ibu 1998 reference image.\nMedium shot at eye level from inside the house looking out the open wooden front door at night, a dark yard and banana trees behind, darkness above the door frame.\nFirst-person point of view. Hands in the foreground: working hands of a 50-year-old Javanese farming woman, warm sun-browned skin, short square nails, calloused palms and slightly swollen knuckles, the cuff of a cream cotton kebaya sleeve printed with faded pink rose flowers at the wrist. The right hand grips the wooden door frame hard, knuckles pale; the left hand presses against her own chest.\nOn the doorstep, Kawan Perempuan, dusty from travel, her tote bag clutched against her, leans forward whispering, eyes red and darting toward the dark road, then looking straight at the viewer with grief and fear.\nA moth beats against the porch bulb; a dog's silhouette in the yard lifts its head.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep night blue with a small warm porch light, historically accurate 1998 rural Central Javanese house.\nAvoid stiff symmetrical poses, mobile phones, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:50",
+      "narasi": "Dua puluh satu Mei, Soeharto mundur. Tetangga bersorak di depan televisi. Kamu hanya menatap pintu. Anakmu ikut memperjuangkan hari ini... tapi ia tidak ada.",
+      "prompt": "Same character as the Ibu 1998 reference image.\nMedium-wide shot at eye level, a neighbor's crowded living room in Klaten on an overcast morning in 1998, a bulky CRT television on a wooden cabinet glowing with a blurry broadcast of a formal speech at a podium, no identifiable face and no readable text, a low ceiling above.\nIn the foreground, a dozen villagers of all ages cheer and clap at the screen: a young man punches the air, an old woman laughs with her hand over her mouth, children jump. At the back, by the doorway, Ibu 1998 stands still and apart, not smiling, her head turned away from the television toward the open door and the empty road, eyes wet, one hand gripping her headscarf. The villagers are different people from Ibu 1998, with no beige selendang and no rose-print kebaya.\nThe television's blue glow flickers over the cheering faces; dust in the doorway light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of overcast grey, television blue and dull wood brown, historically accurate 1998 Central Javanese village living room.\nAvoid identifiable real people on the television, readable text, characters looking at the camera, background figures copying Ibu 1998's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:50–0:59",
+      "narasi": "Juni, beberapa aktivis yang diculik dibebaskan. Kamu mencari wajah anakmu di antara mereka. Wajah itu tidak ada.",
+      "prompt": "The viewer is Ibu 1998: the hands and forearms in the foreground match the first-person panel of the Ibu 1998 reference image.\nMedium shot at eye level, the front yard of an office building in Jakarta on a grey afternoon in 1998, a crowd of reporters with bulky video cameras and families pressing toward a few thin young men stepping out, blank white sky above.\nFirst-person point of view. Hands in the foreground: working hands of a 50-year-old Javanese farming woman, warm sun-browned skin, short square nails, calloused palms and slightly swollen knuckles, the cuff of a cream cotton kebaya sleeve printed with faded pink rose flowers at the wrist. Both hands hold up a small black-and-white passport-style photo of a young man with shaggy collar-length hair, matching the face of the Mahasiswa reference image, raised high above the heads of the crowd.\nThe released young men, gaunt and blinking, are hugged by their own families; one of them glances at the photo and slowly shakes his head. Reporters push microphones forward. Everyone is a different person from the young man in the photo.\nCamera flashes pop; the photo trembles in the hands.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of overcast grey, dull white and faded denim blue, historically accurate 1998 Jakarta press crowd.\nAvoid identifiable real people, logos of media or institutions, readable text, uniforms, background figures copying the face in the photo, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:59–1:08",
+      "narasi": "Kamu mengetuk pintu demi pintu. Kantor tentara, kantor pemerintah, lembaga orang hilang. Kamu belajar istilah baru... penghilangan paksa.",
+      "prompt": "Same character as the Ibu 1998 reference image.\nMedium-wide shot looking down a long government office corridor in Jakarta in 1998, terrazzo floor, pale green walls, a row of closed wooden doors with blank name plates, a ceiling fan and fluorescent tubes above.\nIbu 1998 and her husband, thin and grey in a faded short-sleeved batik shirt, sit on a long wooden bench waiting, a clear plastic folder of photocopies on her lap; she stares at the nearest closed door, back straight, jaw tight; he slumps, rubbing his temples. A clerk in a plain white shirt walks past without looking at them. They are different people from each other; the clerk has no badge or logo.\nThe fan turns slowly, papers on a notice board stir.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of pale institutional green, cream terrazzo and fluorescent white, historically accurate 1990s Indonesian government office corridor.\nAvoid readable signs or text, logos, uniforms, insignia, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:08–1:20",
+      "narasi": "Kabar burung datang silih berganti. Katanya ia terlihat di sini, katanya di sana. Kamu bahkan mendatangi orang pintar... dan pulang dengan tangan kosong.",
+      "prompt": "Same character as the Ibu 1998 reference image.\nMedium shot at a low seated angle, the dim front room of a village healer's house at night in Central Java, a woven bamboo wall, a single oil lamp, dark rafters above.\nIbu 1998 kneels on a pandan mat, leaning forward, hands folded in her lap, eyes fixed hopefully on the old man in front of her. The healer, a gaunt old man with a white goatee, a black peci cap and a dark batik shirt, waves his hand slowly over a small clay brazier from which incense smoke curls, his eyes half closed. Between them on the mat lies a small black-and-white passport-style photo of a young man with shaggy hair, matching the face of the Mahasiswa reference image. The healer is a different person from the husband.\nThe smoke drifts across the photo; the lamp flame shivers.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of smoky brown, ember orange and deep shadow, historically accurate 1990s rural Javanese village house.\nAvoid characters looking at the camera, horror imagery, readable text, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:20–1:30",
+      "narasi": "Setahun kemudian, beberapa prajurit diadili. Tapi hanya untuk mereka yang kembali hidup. Untuk anakmu... tak ada sidang.",
+      "prompt": "The viewer is Ibu 1998: the hands and forearms in the foreground match the first-person panel of the Ibu 1998 reference image.\nMedium close shot looking down, the front room in Klaten on a quiet afternoon in 1999, the white crocheted tablecloth and rotary telephone in soft focus behind.\nFirst-person point of view. Hands in the foreground: working hands of a 50-year-old Javanese farming woman, warm sun-browned skin, short square nails, calloused palms and slightly swollen knuckles, the cuff of a cream cotton kebaya sleeve printed with faded pink rose flowers at the wrist. Both hands hold an opened newspaper whose headline and columns are rendered as unreadable grey blocks, with a small blurry photo of a courtroom; the fingers slowly crumple the page inward.\nA single tear has fallen and darkened a spot on the paper. Afternoon light falls flat through the window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of faded newsprint grey and dull wood brown with flat afternoon light, historically accurate 1999 rural Central Javanese house.\nAvoid readable text, identifiable real people or uniforms in the photo, other people, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:30–1:40",
+      "narasi": "Presiden demi presiden berganti. Komnas HAM menyimpulkan ada pelanggaran HAM berat. DPR meminta anak-anak itu dicari. Tak ada yang mencarinya.",
+      "prompt": "Same character as the Ibu 2026 reference image.\nMedium shot at eye level, the front room wall of the same Klaten house, years passing: several old wall calendars from different years hang layered on the same nail with no readable numbers, their pictures faded at different rates, a small CRT television on a cabinet below glowing with a blurry broadcast of a parliament hall with no identifiable faces.\nIbu 2026, here around 65 years old with her hair half grey under a beige selendang scarf, stands with her back slightly turned to the television, looking up at the stack of calendars, one hand touching the oldest page, face blank and worn.\nDust floats in a shaft of light; the television flickers.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of faded brown, washed-out paper colors and television blue, historically accurate 2000s rural Central Javanese house interior.\nAvoid identifiable real politicians, readable text or numbers, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:40–1:49",
+      "narasi": "Kamar anakmu tetap seperti dulu. Kemeja flanelnya masih terlipat di lemari. Kamu tak pernah mencucinya lagi.",
+      "prompt": "The viewer is Ibu 2026: the hands and forearms in the foreground match the first-person panel of the Ibu 2026 reference image.\nMedium close shot at chest height, a son's small bedroom in the Klaten house kept unchanged since 1998: a neatly made thin mattress, a wooden bookshelf with old books, a faded poster with no text, soft daylight from a small window, dust in the air.\nFirst-person point of view. Hands in the foreground: thin wrinkled hands of a 78-year-old Javanese woman, brown skin with age spots and raised veins, short square nails, knobbly knuckles, the cuff of a faded floral house-dress sleeve at the wrist. The right hand gently strokes a folded faded blue-and-grey checked flannel shirt resting on a shelf of an open wooden wardrobe; the left hand holds the wardrobe door open.\nThe flannel's check pattern matches the shirt of the Mahasiswa reference image. Nothing else moves.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of soft faded brown, blue-grey flannel and pale daylight, historically accurate 1990s student bedroom preserved in a Javanese village house.\nAvoid other people, readable text, modern objects, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:49–2:01",
+      "narasi": "Tahun 2023, presiden mengakui peristiwa itu sebagai pelanggaran HAM berat. Ia bilang sangat menyesalkan. Tapi tak ada yang memberitahumu... di mana anakmu.",
+      "prompt": "Same character as the Ibu 2026 reference image.\nMedium shot at eye level, the front room in Klaten in 2023, a small flat-screen television on the old wooden cabinet showing a blurry news broadcast of a man speaking at a palace podium, no identifiable face and no readable text, the old calendars still on the wall above.\nIbu 2026, white-haired in her floral house dress, sits forward on a rattan chair, one hand pressed flat over her chest, the other gripping the armrest; brows lifted in a fragile hope that is already fading, lips parted, eyes glistening and fixed on the screen.\nThe television light flickers across her face; outside the window, rice fields in afternoon haze.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of muted brown and pale television light with soft afternoon haze, historically accurate 2020s rural Central Javanese house interior.\nAvoid identifiable real people on the television, readable text, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:01–2:11",
+      "narasi": "Kini, setiap Kamis sore, kamu mengenakan baju hitam. Kalau ongkos cukup, kamu berangkat ke Jakarta... membawa payung hitam.",
+      "prompt": "The viewer is Ibu 2026: the hands and forearms in the foreground match the first-person panel of the Ibu 2026 reference image.\nMedium close shot at chest height, the bedroom of the Klaten house at midday, a wardrobe mirror reflecting soft light.\nFirst-person point of view. Hands in the foreground: thin wrinkled hands of a 78-year-old Javanese woman, brown skin with age spots and raised veins, short square nails, knobbly knuckles, here emerging from the sleeves of a plain black long-sleeved kebaya instead of the house dress. The right hand fastens the last small button of the black kebaya; the left hand reaches for a folded black umbrella leaning against the wardrobe.\nOn the bed lie a small framed black-and-white photo of a young man and a paper bus ticket with no readable text.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of black cloth, soft wood brown and pale midday light, historically accurate 2020s Central Javanese bedroom.\nAvoid other people, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:11–2:22",
+      "narasi": "Di depan Istana, kalian berdiri diam satu jam. Ibu-ibu lain memegang foto anak mereka. Di fotomu, anakmu tetap dua puluh satu tahun.",
+      "prompt": "Same character as the Ibu 2026 reference image.\nMedium-wide shot at eye level, a wide sidewalk across the street from the white colonial-style presidential palace in Jakarta on an overcast Thursday afternoon, the palace distant and soft in the background behind a fence, grey clouds filling the upper part of the frame.\nA silent row of about fifteen people dressed in black stand still under open black umbrellas, varied in age: elderly mothers, an old man with a cane, a few young students. Several hold framed photos rendered as blurred portraits. In the center, Ibu 2026 in her black kebaya and black headscarf stands upright under her black umbrella, holding against her chest a small framed black-and-white photo of a young man with shaggy hair, matching the face of the Mahasiswa reference image; her eyes are fixed straight ahead toward the palace, lips closed, chin steady. The others are different people from Ibu 2026, with different faces.\nTraffic blurs past in the foreground; a light drizzle begins to spot the umbrellas.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of black, overcast grey and the distant white of the palace, historically accurate 2020s Jakarta sidewalk vigil.\nAvoid identifiable real people or real victims' photos, readable banners or text, police or soldiers, logos, characters looking at the camera, background figures copying Ibu 2026's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:22–2:31",
+      "narasi": "Suamimu sudah lebih dulu pergi. Rambutmu memutih, langkahmu makin pelan. Tapi setiap Kamis... kamu masih berdiri di sana.",
+      "prompt": "Same character as the Ibu 2026 reference image.\nMedium-wide shot from a low angle behind and to the side, a long Jakarta sidewalk at dusk after the vigil, street lights flickering on, the sky turning deep blue above tall trees.\nIbu 2026 walks alone, slowly, mid-step, slightly stooped, using her closed black umbrella as a walking stick, the framed photo tucked under her arm; her face in three-quarter view is tired but set, eyes on the path ahead.\nCommuters on motorbikes stream past in a blur of headlights; a young student in black from the vigil glances back at her from a distance. The student is a different person from Ibu 2026.\nHer black headscarf edge lifts in the evening wind; fallen leaves skitter.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusk blue, black and warm sodium street light, historically accurate 2020s Jakarta street at dusk.\nAvoid characters looking at the camera, readable signs, logos, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:31–2:40",
+      "narasi": "Malam ini, kamu menyisakan sepiring nasi lagi. Kalau anakmu yang hilang... sampai kapan kamu menunggu?",
+      "prompt": "The viewer is Ibu 2026: the hands and forearms in the foreground match the first-person panel of the Ibu 2026 reference image.\nMedium shot looking slightly down, the same front room of the Klaten house at night as at the very start: the single warm yellow bulb, the white crocheted tablecloth, deep darkness above, the open window onto a dark rice field under a faint moon.\nFirst-person point of view. Hands in the foreground: thin wrinkled hands of a 78-year-old Javanese woman, brown skin with age spots and raised veins, short square nails, knobbly knuckles, the cuff of a faded floral house-dress sleeve at the wrist. Both hands rest on top of the woven bamboo food cover that now covers the plate of rice, fingers spread, as if holding it in place.\nBeside the plate, the old beige rotary telephone, silent; leaning against the wall, the closed black umbrella still damp from the rain.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm yellow lamplight against deep blue night, historically accurate 2020s rural Central Javanese house interior.\nAvoid other people, mobile phones, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice perempuan dewasa (40-an ke atas) yang hangat dan agak serak; hindari voice yang terlalu muda atau terlalu dramatis. Voice paling menentukan.\n\n- Babak 1: pelan dan sunyi; hook nyaris berbisik.\n- Babak 2: cemas di adegan 4, ironi di adegan 5 (bersorak lalu jatuh pelan), hancur pelan di adegan 6.\n- Babak 3: lelah dan datar; marah tertahan di \"tak ada sidang\".\n- Babak 4: pasrah; adegan 11 hampir berbisik; adegan 12 sedih tanpa melodrama.\n- Babak 5: teguh dan jernih; pertanyaan terakhir diucapkan langsung kepada penonton.",
+    "arahanBabak": {
+      "1": "pelan dan sunyi; hook nyaris berbisik.",
+      "2": "cemas di adegan 4, ironi di adegan 5 (bersorak lalu jatuh pelan), hancur pelan di adegan 6.",
+      "3": "lelah dan datar; marah tertahan di \"tak ada sidang\".",
+      "4": "pasrah; adegan 11 hampir berbisik; adegan 12 sedih tanpa melodrama.",
+      "5": "teguh dan jernih; pertanyaan terakhir diucapkan langsung kepada penonton."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[sad] Sudah dua puluh delapan tahun kamu menyisakan sepiring nasi di meja. [sad] [whispers] Anakmu belum pulang...\n\n[calm] Maret 1998, telepon itu datang dari Jakarta. [calm] Suaranya lelah, tapi ia tertawa kecil. [sad] Katanya... sebentar lagi pulang...\n\n[sad] Padi di sawah dipanen tanpa dia. [sad] Setiap sore kamu duduk di dekat telepon... [resigned] tapi telepon itu tak pernah berdering lagi...",
+    "2": "[nervous] Lalu seorang kawannya datang, berbisik di depan pintu. [tense] Anakmu tak pernah kembali ke tempat persembunyiannya. [nervous] Kamu naik bus malam ke Jakarta...\n\n[excited] Dua puluh satu Mei, Soeharto mundur. [excited] Tetangga bersorak di depan televisi. [sad] Kamu hanya menatap pintu. [sad] Anakmu ikut memperjuangkan hari ini... tapi ia tidak ada...\n\n[curious] Juni, beberapa aktivis yang diculik dibebaskan. [nervous] Kamu mencari wajah anakmu di antara mereka. [sad] [whispers] Wajah itu tidak ada...",
+    "3": "[serious] Kamu mengetuk pintu demi pintu. [serious] Kantor tentara, kantor pemerintah, lembaga orang hilang. [resigned] Kamu belajar istilah baru... penghilangan paksa...\n\n[curious] Kabar burung datang silih berganti. [curious] Katanya ia terlihat di sini, katanya di sana. [sad] Kamu bahkan mendatangi orang pintar... dan pulang dengan tangan kosong...\n\n[serious] Setahun kemudian, beberapa prajurit diadili. [serious] Tapi hanya untuk mereka yang kembali hidup. [angry] Untuk anakmu... tak ada sidang...",
+    "4": "[resigned] Presiden demi presiden berganti. [serious] Komnas HAM menyimpulkan ada pelanggaran HAM berat. [serious] DPR meminta anak-anak itu dicari. [resigned] Tak ada yang mencarinya...\n\n[sad] [whispers] Kamar anakmu tetap seperti dulu. [sad] Kemeja flanelnya masih terlipat di lemari. [whispers] Kamu tak pernah mencucinya lagi...\n\n[serious] Tahun 2023, presiden mengakui peristiwa itu sebagai pelanggaran HAM berat. [sad] Ia bilang sangat menyesalkan. [sad] Tapi tak ada yang memberitahumu... di mana anakmu...",
+    "5": "[serious] Kini, setiap Kamis sore, kamu mengenakan baju hitam. [calm] Kalau ongkos cukup, kamu berangkat ke Jakarta... membawa payung hitam...\n\n[calm] Di depan Istana, kalian berdiri diam satu jam. [sad] Ibu-ibu lain memegang foto anak mereka. [serious] Di fotomu, anakmu tetap dua puluh satu tahun...\n\n[sad] Suamimu sudah lebih dulu pergi. [sad] Rambutmu memutih, langkahmu makin pelan. [serious] Tapi setiap Kamis... kamu masih berdiri di sana...\n\n[sad] Malam ini, kamu menyisakan sepiring nasi lagi. [serious] Kalau anakmu yang hilang... [curious] sampai kapan kamu menunggu?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Rumah yang menunggu",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Sunyi, rindu, lalu ironi pahit",
+      "style": "Intimate melancholic instrumental, solo felt piano with soft Javanese gender metallophone notes and faint countryside night ambience, tender and lonely, a brief lift of brighter chords in the middle that quickly falls back to quiet, fades out at the end, about 65 seconds long (1:05), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, drums, EDM, epic orchestra, cheerful pop"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pintu demi pintu",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:10",
+      "suasana": "Lelah, berulang, membeku",
+      "style": "Slow repetitive minimal instrumental, a looping muted piano figure over a soft ticking clock pulse and low cello drone, weary and frozen in time, the loop subtly thinning out, fades to near silence before the end, about 70 seconds long (1:10), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, drums, EDM, heroic orchestra"
+    },
+    {
+      "nomor": 3,
+      "nama": "Kamis",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:45",
+      "suasana": "Teguh, khidmat, menggantung",
+      "style": "Solemn dignified instrumental, slow felt piano and a single sustained Javanese suling flute over a soft low gong, steady and resolute like a silent vigil, gentle rain texture, the last chord unresolved and left hanging, about 45 seconds long (0:45), with a clear ending, 56 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, drums, EDM, triumphant orchestra"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Jangkrik dan jam dinding",
+      "kataKunci": "night crickets, wall clock ticking",
+      "prompt": "Tropical village night crickets with a slow wall clock ticking indoors"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Suara di telepon teredam",
+      "kataKunci": "phone voice muffled",
+      "prompt": "A distant muffled young man's voice heard through an old telephone receiver, no clear words"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Sabit memotong padi",
+      "kataKunci": "rice harvest sickle cutting",
+      "prompt": "Sickles cutting dry rice stalks in a field, light wind, distant birds"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Warga bersorak di depan TV",
+      "kataKunci": "small crowd cheering indoors",
+      "prompt": "A small group of villagers cheering and clapping indoors, an old TV speech faintly underneath"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Kerumunan dan kamera wartawan",
+      "kataKunci": "press crowd camera shutter",
+      "prompt": "Press crowd chatter with film camera shutters and flash whines"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Kipas angin kantor dan langkah",
+      "kataKunci": "office ceiling fan footsteps",
+      "prompt": "Slow ceiling fan hum in a tiled corridor, footsteps passing, a distant typewriter"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Koran diremas",
+      "kataKunci": "newspaper crumpling",
+      "prompt": "A sheet of newspaper slowly crumpled by hand"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Pintu lemari kayu berderit",
+      "kataKunci": "wooden wardrobe creak",
+      "prompt": "An old wooden wardrobe door creaking open slowly in a quiet room"
+    },
+    {
+      "nomor": 9,
+      "adegan": 14,
+      "bunyi": "Hujan rintik di payung, lalu lintas",
+      "kataKunci": "rain on umbrella, city traffic",
+      "prompt": "Light rain tapping on several umbrellas with city traffic passing nearby"
+    },
+    {
+      "nomor": 10,
+      "adegan": 16,
+      "bunyi": "Tudung saji bambu ditaruh",
+      "kataKunci": "bamboo cover placed on table",
+      "prompt": "A woven bamboo food cover placed gently on a wooden table, night crickets"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Sejak 2007, keluarga korban berdiri di depan Istana setiap Kamis sore.",
+    "sumber": "Bisnis.com (2024); Indoleft (2025)",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Ibu yang Anaknya Dihilangkan, 1998–2026 (Part 2)",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Ibu yang Anaknya Dihilangkan\nAlternatif judul: POV: Kamu Ibu Aktivis 98 yang Menunggu 28 Tahun (Part 2) / POV: Kamu Ibu di Balik Kisah Laut Bercerita (Part 2)",
+      "caption": "28 tahun menyisakan sepiring nasi. Anaknya diculik pada 1998 dan tak pernah pulang.\n\nLanjutan Part 1. Sejak 1997–1998, 13 aktivis yang dihilangkan belum ditemukan. Keluarga mereka mengetuk pintu demi pintu, dan sejak 2007 berdiri berpayung hitam di depan Istana setiap Kamis. Tokoh dalam video ini fiktif, tapi peristiwanya nyata, seperti kisah yang mengilhami Laut Bercerita.\n\nKalau anakmu yang hilang, sampai kapan kamu menunggu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: data KontraS, Komnas HAM, dan kesaksian keluarga korban (IKOHI, Inside Indonesia).\n\n#UlikSilam #lautbercerita #aksikamisan #sejarahindonesia #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Ibu yang Anaknya Dihilangkan, 1998–2026 (Part 2)",
+      "catatan": "",
+      "caption": "28 tahun menyisakan sepiring nasi. Anaknya diculik pada 1998 dan tak pernah pulang.\n\nLanjutan Part 1. Sejak 1997–1998, 13 aktivis yang dihilangkan belum ditemukan. Keluarga mereka mengetuk pintu demi pintu, dan sejak 2007 berdiri berpayung hitam di depan Istana setiap Kamis. Tokoh dalam video ini fiktif, tapi peristiwanya nyata, seperti kisah yang mengilhami Laut Bercerita.\n\nKalau anakmu yang hilang, sampai kapan kamu menunggu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: data KontraS, Komnas HAM, dan kesaksian keluarga korban (IKOHI, Inside Indonesia).\n\n#UlikSilam #lautbercerita #aksikamisan #sejarahindonesia #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 302,
+    "kataPerBabak": {
+      "1": 51,
+      "2": 62,
+      "3": 58,
+      "4": 58,
+      "5": 73
+    },
+    "karakterPerBabak": {
+      "1": 403,
+      "2": 519,
+      "3": 508,
+      "4": 516,
+      "5": 584
+    },
+    "jedaBunyi": 10,
+    "perkiraanDetik130": {
+      "narasi": 160.3,
+      "denganMerek": 165.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 155.1,
+      "denganMerek": 160.1
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

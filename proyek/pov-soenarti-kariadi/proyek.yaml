@@ -1,0 +1,21 @@
+judul: "POV: Kamu Istri dr. Kariadi, Semarang 1945"
+slug: pov-soenarti-kariadi
+format: POV
+lapisan: ["Sejarah"]
+latar: "Semarang"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-10-19"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["dr. Kariadi"]
+aset: {ilustrasi: 16, narasi: 21, musik: 3, sfx: 0}
+render: "out/pov-soenarti-kariadi.mp4"
+tanggal_render: 2026-10-19
+tautan: {"shorts": "https://youtube.com/shorts/B7MwQcDD05s", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7698291026892524818"}
+arsip_lama: "pov/pov-soenarti-kariadi"
+catatan: ""
+metrik_shorts: {"views": 379, "jam_tonton": 3.7, "rata_tonton_detik": 35.5, "durasi_detik": 169, "persen_ditonton": 21.0, "subscriber": 1, "impresi": 1561, "ctr": 1.79, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-19", "tiktok": "2026-10-21"}
+metrik_tiktok: {"views": 1665, "suka": 47, "komentar": 0, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

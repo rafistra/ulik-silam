@@ -1,0 +1,21 @@
+judul: "POV: Kamu Jan O'Herne di Kamp Ambarawa"
+slug: pov-jan-oherne
+format: POV
+lapisan: ["Sejarah"]
+latar: "Ambarawa dan Semarang"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-10-18"
+merek: pra-repo
+adegan: 18
+lembar_karakter: ["Jan O'Herne", "Josephine O'Herne"]
+aset: {ilustrasi: 18, narasi: 24, musik: 3, sfx: 0}
+render: "out/pov-jan-oherne.mp4"
+tanggal_render: 2026-10-18
+tautan: {"shorts": "https://youtube.com/shorts/BbvvTAa03s0", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7697994401418661138"}
+arsip_lama: "pov/pov-jan-oherne"
+catatan: ""
+metrik_shorts: {"views": 393, "jam_tonton": 4.2, "rata_tonton_detik": 38.9, "durasi_detik": 179, "persen_ditonton": 21.7, "subscriber": 0, "impresi": 1790, "ctr": 1.12, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-20", "tiktok": "2026-10-20"}
+metrik_tiktok: {"views": 1018, "suka": 23, "komentar": 6, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

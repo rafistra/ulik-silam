@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kartu aset pustaka Ulik Silam",
+  "type": "object",
+  "required": ["id", "jenis", "versi", "status", "file"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "jenis": { "enum": ["tokoh", "busana", "latar", "musik", "sfx", "arsip"] },
+    "judul": { "type": "string" },
+    "versi": { "type": "integer", "minimum": 1 },
+    "status": { "enum": ["draf", "disetujui", "usang"] },
+    "era": { "type": "string", "description": "Misalnya 1620-an, 1686, 1945" },
+    "wilayah": { "type": "string" },
+    "tokoh": { "type": "array", "items": { "type": "string" } },
+    "file": {
+      "type": "array",
+      "description": "Path relatif terhadap $ASET_DIR/pustaka/<jenis>/<id>/",
+      "items": { "type": "string" }
+    },
+    "alat": { "type": "string", "description": "Gemini, Suno, ElevenLabs, koleksi arsip, dan versinya bila ada" },
+    "akurasi": {
+      "type": "array",
+      "description": "Ringkasan dari Catatan akurasi visual",
+      "items": {
+        "type": "object",
+        "required": ["unsur", "status"],
+        "properties": {
+          "unsur": { "type": "string" },
+          "pilihan": { "type": "string" },
+          "sumber": { "type": "string" },
+          "status": { "enum": ["Terverifikasi", "Tafsir", "Rekaan", "Dihindari"] }
+        }
+      }
+    },
+    "lisensi": { "type": "string", "description": "Paket Suno, status domain publik foto, atau izin" },
+    "koleksi": { "type": "string", "description": "Untuk arsip: lembaga dan nomor koleksi" },
+    "dipakai_di": { "type": "array", "items": { "type": "string" }, "description": "Slug proyek" },
+    "catatan": { "type": "string" }
+  }
+}

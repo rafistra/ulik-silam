@@ -1,0 +1,670 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-20T11:59:19.993Z",
+  "judulDokumen": "Gowok di Banyumas",
+  "judul": "POV: Kamu Seorang Gowok di Banyumas",
+  "slug": "pov-gowok-banyumas",
+  "versi": "v2 · 2026-11-20",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Banyumas",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Gowok rekaan, mantan penari ronggeng berumur 30 tahun, di sebuah desa di Banyumas",
+  "ringkasan": {
+    "Judul": "POV: Kamu Seorang Gowok di Banyumas",
+    "Slug": "pov-gowok-banyumas",
+    "Versi": "v2 · 2026-11-20",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Gowok rekaan, mantan penari ronggeng berumur 30 tahun, di sebuah desa di Banyumas",
+    "Jumlah ilustrasi": "21 (18 adegan + 3 lembar karakter: Sarinten, Darsono, Bu Karta)",
+    "Lapisan": "Sejarah",
+    "Latar": "Banyumas",
+    "Premis": "Kamu dibayar untuk berperan sebagai istri seorang calon pengantin selama beberapa hari, dan harus tetap menjaga batas saat ia mulai jatuh hati.",
+    "Benang merah": "Kemesraan yang diajarkan sebagai pelajaran perlahan berubah menjadi rasa. Kampung tak pernah sepakat apakah gowok itu guru atau aib, dan penonton diajak memilih.",
+    "Dipilih karena": "POV gowok memberi hook paling kuat, cukup dua tokoh berulang, visual bervariasi (dapur, jalan desa, bilik, pesta), dan sesuai dengan sikap Ulik Silam yang tidak hitam-putih.",
+    "Asumsi": "Latar akhir 1930-an (tradisinya sudah tercatat lewat novel *Gowok* 1929 dan surat kabar Sin Po 1941). Usia gowok diubah dari 35–40 tahun di brief menjadi 30 tahun, mengikuti sumber yang menyebut gowok biasanya ronggeng berusia 20-an sampai 30-an. Si pemuda ditetapkan 20 tahun. Nama rekaan: Sarinten (gowok), Darsono (si pemuda), Bu dan Pak Karta (orang tuanya). Hook adalah cuplikan dari malam pelajaran di babak 4."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Malam pelajaran",
+      "suasana": "Intim, tegang",
+      "palet": "Cokelat umber gelap, emas pelita, indigo malam",
+      "cahaya": "Satu pelita minyak di lantai, sisanya gelap"
+    },
+    {
+      "babak": 2,
+      "nama": "Titipan",
+      "suasana": "Formal, canggung",
+      "palet": "Emas pagi pucat, cokelat tanah, sogan, hijau daun",
+      "cahaya": "Cahaya pagi lembut dari pintu"
+    },
+    {
+      "babak": 3,
+      "nama": "Seperti istri",
+      "suasana": "Hangat, lalu tertekan",
+      "palet": "Oker, terakota, hijau berbintik matahari, sogan",
+      "cahaya": "Siang hangat, api tungku"
+    },
+    {
+      "babak": 4,
+      "nama": "Pelajaran malam",
+      "suasana": "Lembut, lalu getir",
+      "palet": "Indigo pekat, abu-abu hujan, satu cahaya pelita",
+      "cahaya": "Pelita redup, hujan di luar"
+    },
+    {
+      "babak": 5,
+      "nama": "Hari pernikahan",
+      "suasana": "Meriah dari jauh, sepi",
+      "palet": "Emas pagi, kuning janur, jingga-ungu senja",
+      "cahaya": "Pagi terang, lalu senja dengan pelita di jendela"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Malam pelajaran",
+    "2": "Titipan",
+    "3": "Seperti istri",
+    "4": "Pelajaran malam",
+    "5": "Hari pernikahan"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Malam pelajaran",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Malam, bilik berdinding anyaman bambu diterangi satu pelita minyak. Di atas tikar pandan, tangan kanan \"kamu\" menggenggam punggung tangan si pemuda yang gemetar; tangan kiri bertumpu di lutut berkain jarik. Si pemuda (dada ke atas, baju lurik, ikat kepala) menunduk malu, tidak menatap \"kamu\".",
+      "narasiSuara": "[whispers] Malam ini, kamu akan mengajari seorang pemuda cara menyentuh perempuan... [serious] dan orang tuanya yang membayarmu.",
+      "narasi": "Malam ini, kamu akan mengajari seorang pemuda cara menyentuh perempuan... dan orang tuanya yang membayarmu.",
+      "teksLayar": [
+        "Banyumas, akhir 1930-an."
+      ],
+      "suara": "Pelita berdesis, jangkrik di luar, napas tertahan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 2,
+      "babak": 2,
+      "namaBabak": "Titipan",
+      "waktu": "0:08–0:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pagi di halaman rumah kayu \"kamu\" di tepi desa. Sepasang saudagar berpakaian rapi mengantar putra mereka; sang ibu menjinjing bakul. \"Kamu\" berdiri di ambang pintu, tampak dari samping, menatap tamunya dengan tenang.",
+      "narasiSuara": "[calm] Sepasang saudagar mengantar putra mereka ke rumahmu. [calm] Lamaran diterima, hari pernikahan sudah ditetapkan. [serious] Kini tinggal satu persiapan: kamu.",
+      "narasi": "Sepasang saudagar mengantar putra mereka ke rumahmu. Lamaran diterima, hari pernikahan sudah ditetapkan. Kini tinggal satu persiapan: kamu.",
+      "teksLayar": [
+        "Beberapa hari sebelumnya."
+      ],
+      "suara": "Ayam berkokok, langkah di tanah, salam pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "Titipan",
+      "waktu": "0:18–0:26",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Di amben ruang depan, tangan kanan \"kamu\" menerima lipatan kain berisi uang dari ibu saudagar; tangan kiri menahan bakul beras, dua butir kelapa di sampingnya. Ibu saudagar menatap lurus ke \"kamu\", wajahnya serius.",
+      "narasiSuara": "[serious] Upahmu uang, ditambah beras dan kelapa. [tense] Tapi ada syaratnya. [whispers] Kalau tugasmu gagal, upah itu harus kembali.",
+      "narasi": "Upahmu uang, ditambah beras dan kelapa. Tapi ada syaratnya. Kalau tugasmu gagal, upah itu harus kembali.",
+      "teksLayar": [],
+      "suara": "Uang logam berdenting, bakul diletakkan di amben.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Titipan",
+      "waktu": "0:26–0:36",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja, di bilik \"kamu\". \"Kamu\" berdiri memandangi selendang sampur ronggeng yang tergantung di dinding bambu, jemari menyentuh ujungnya; cahaya pelita hangat dari samping.",
+      "narasiSuara": "[calm] Dulu kamu penari ronggeng. [calm] Kini umurmu tiga puluh. [serious] Keluarga berada datang bukan untuk menonton tarianmu, tapi untuk menitipkan anak mereka.",
+      "narasi": "Dulu kamu penari ronggeng. Kini umurmu tiga puluh. Keluarga berada datang bukan untuk menonton tarianmu, tapi untuk menitipkan anak mereka.",
+      "teksLayar": [],
+      "suara": "Samar bunyi calung dan kendang ronggeng di kejauhan, seperti kenangan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Titipan",
+      "waktu": "0:36–0:47",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Siang di ruang depan. Si pemuda duduk kaku di amben, kedua tangan di lutut, menatap lantai tanah. \"Kamu\" menuang air dari kendi tanah liat ke cangkir, melirik ke arahnya.",
+      "narasiSuara": "[curious] Pemuda itu baru dua puluh tahun. [calm] Ia duduk kaku di amben. [nervous] Belum pernah ia menggenggam tangan perempuan, dan tak ada yang mau menjelaskannya.",
+      "narasi": "Pemuda itu baru dua puluh tahun. Ia duduk kaku di amben. Belum pernah ia menggenggam tangan perempuan, dan tak ada yang mau menjelaskannya.",
+      "teksLayar": [],
+      "suara": "Air dituang, hening canggung, burung di luar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Seperti istri",
+      "waktu": "0:47–0:59",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Dapur dengan tungku tanah liat yang menyala. Tangan kanan \"kamu\" menyodorkan piring nasi dan sayur kepada si pemuda yang duduk di dingklik; tangan kiri memegang kipas bambu. Di sudut, tumpukan kayu bakar dan baju lurik yang terlipat rapi.",
+      "narasiSuara": "[calm] Berhari-hari, kamu memperlakukannya seperti suami. [calm] Kamu memasak untuknya, menyiapkan kayu bakar, merawat pakaiannya. [calm] Semua yang kelak dilakukan istrinya, kamu lakukan lebih dulu.",
+      "narasi": "Berhari-hari, kamu memperlakukannya seperti suami. Kamu memasak untuknya, menyiapkan kayu bakar, merawat pakaiannya. Semua yang kelak dilakukan istrinya, kamu lakukan lebih dulu.",
+      "teksLayar": [],
+      "suara": "Api tungku berderak, kayu bakar ditata.",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Seperti istri",
+      "waktu": "0:59–1:07",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Pagi di beranda. \"Kamu\" membetulkan ikat kepala si pemuda dengan kedua tangan, wajah kalian berdekatan; ia menahan napas, pipinya bersemu, matanya tak tahu harus ke mana.",
+      "narasiSuara": "[whispers] Kamu membetulkan ikat kepalanya, wajah kalian dekat sekali. [calm] Lewat caramu melayani, ia belajar menghargai istrinya kelak.",
+      "narasi": "Kamu membetulkan ikat kepalanya, wajah kalian dekat sekali. Lewat caramu melayani, ia belajar menghargai istrinya kelak.",
+      "teksLayar": [],
+      "suara": "Burung pagi, kain bergesek pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Seperti istri",
+      "waktu": "1:07–1:16",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Siang di jalan desa berpagar bambu. \"Kamu\" berjalan di belakang si pemuda yang memanggul cangkul. Dua perempuan tetangga berbisik di balik pagar; tiga anak kecil menunjuk \"kamu\" sambil berteriak.",
+      "narasiSuara": "[calm] Kamu mengajarinya menerima tamu, dan menemaninya bekerja. [tense] Di jalan desa, para tetangga berbisik. [angry] Anak-anak meneriakimu perempuan nakal.",
+      "narasi": "Kamu mengajarinya menerima tamu, dan menemaninya bekerja. Di jalan desa, para tetangga berbisik. Anak-anak meneriakimu perempuan nakal.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik, teriakan anak-anak, langkah kaki di tanah.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Seperti istri",
+      "waktu": "1:16–1:25",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi di pasar desa. Ibu saudagar berpapasan dengan \"kamu\" dan menundukkan kepala dengan hormat; di belakangnya, para tetangga memandang sinis sambil berbisik.",
+      "narasiSuara": "[serious] Tapi ibu pemuda itu menunduk hormat saat bertemu denganmu. [curious] Guru... atau pelacur? [serious] Kampung ini tak pernah sepakat.",
+      "narasi": "Tapi ibu pemuda itu menunduk hormat saat bertemu denganmu. Guru... atau pelacur? Kampung ini tak pernah sepakat.",
+      "teksLayar": [],
+      "suara": "Riuh pasar pelan, tawar-menawar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "1:25–1:34",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Malam di bilik, satu pelita. \"Kamu\" dan si pemuda duduk berhadapan di tikar, berjarak satu lengan. \"Kamu\" berbicara tenang dengan gerak tangan menjelaskan; ia menunduk, telinganya memerah. Dua bayangan mereka memanjang di dinding bambu.",
+      "narasiSuara": "[calm] Lalu tibalah pelajaran yang tak pernah dibicarakan di rumahnya. [serious] Tentang tubuh perempuan. [whispers] Tentang malam pertama. [nervous] Ia menunduk, telinganya merah.",
+      "narasi": "Lalu tibalah pelajaran yang tak pernah dibicarakan di rumahnya. Tentang tubuh perempuan. Tentang malam pertama. Ia menunduk, telinganya merah.",
+      "teksLayar": [],
+      "suara": "Jangkrik, suara bicara pelan yang tak terdengar jelas.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "1:34–1:42",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Lanjutan adegan 1. Tangan kanan \"kamu\" menuntun jemari si pemuda agar menggenggam tangan kiri \"kamu\" dengan lembut. Kali ini ia mengangkat wajah dan menatap lurus ke \"kamu\".",
+      "narasiSuara": "[whispers] Pelan, katamu. [whispers] Jangan terburu-buru. [serious] Istrimu bukan untuk ditaklukkan. [calm] Ia juga berhak merasa bahagia malam itu.",
+      "narasi": "Pelan, katamu. Jangan terburu-buru. Istrimu bukan untuk ditaklukkan. Ia juga berhak merasa bahagia malam itu.",
+      "teksLayar": [],
+      "suara": "Bisikan, pelita berdesis.",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "1:42–1:51",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Siang di beranda. Si pemuda duduk di samping \"kamu\" di amben dan menyandarkan kepalanya dengan canggung di bahu \"kamu\", matanya mencuri pandang ke wajahnya. \"Kamu\" menatap lurus ke halaman, pura-pura tak melihat.",
+      "narasiSuara": "[calm] Ia belajar cepat. [curious] Terlalu cepat... [sad] Matanya mulai mencarimu, bahkan di siang hari. [tense] Kamu pura-pura tak melihat.",
+      "narasi": "Ia belajar cepat. Terlalu cepat... Matanya mulai mencarimu, bahkan di siang hari. Kamu pura-pura tak melihat.",
+      "teksLayar": [],
+      "suara": "Angin siang, kicau burung, hening canggung.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "1:51–2:00",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Malam terakhir, hujan rintik. Si pemuda menggenggam tangan \"kamu\" di atas tikar dan mencondongkan badan untuk berbisik; \"kamu\" membeku, tampak dari samping.",
+      "narasiSuara": "[nervous] Malam terakhir, ia menggenggam tanganmu lebih lama dari biasanya. [nervous] Ia berbisik, ia tak ingin menikahi perempuan lain.",
+      "narasi": "Malam terakhir, ia menggenggam tanganmu lebih lama dari biasanya. Ia berbisik, ia tak ingin menikahi perempuan lain.",
+      "teksLayar": [],
+      "suara": "Hujan rintik di atap, pelita bergoyang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "2:00–2:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Wajah si pemuda sangat dekat, matanya terpejam, kening kalian bersentuhan. Tangan \"kamu\" perlahan melepaskan genggamannya.",
+      "narasiSuara": "[sad] Kamu melepaskan genggamannya. [sighs] [whispers] Inilah sebabnya tak semua perempuan sanggup menjadi gowok.",
+      "narasi": "Kamu melepaskan genggamannya. Inilah sebabnya tak semua perempuan sanggup menjadi gowok.",
+      "teksLayar": [],
+      "suara": "Hening; musik turun; hanya hujan.",
+      "hening": true,
+      "epilog": false,
+      "kata": 11
+    },
+    {
+      "nomor": 15,
+      "babak": 4,
+      "namaBabak": "Pelajaran malam",
+      "waktu": "2:08–2:16",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Dilihat dari luar pintu bilik yang setengah terbuka: di ambang bilik, si pemuda memeluk \"kamu\" dengan canggung, keduanya berpakaian lengkap; wajah \"kamu\" tersembunyi di balik bahunya. Di belakang mereka, kelambu putih sudah diturunkan dan pelita diredupkan.",
+      "narasiSuara": "[whispers] Pelita kamu redupkan. [serious] Kelambu diturunkan. [serious] Apa yang terjadi sesudahnya... [whispers] hanya kamar itu yang tahu.",
+      "narasi": "Pelita kamu redupkan. Kelambu diturunkan. Apa yang terjadi sesudahnya... hanya kamar itu yang tahu.",
+      "teksLayar": [],
+      "suara": "Pelita ditiup pelan, jangkrik, hujan reda.",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Hari pernikahan",
+      "waktu": "2:16–2:26",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pagi di pendapa rumah saudagar. \"Kamu\" duduk bersimpuh melapor; ayah dan ibu si pemuda mengangguk lega. Si pemuda berdiri di belakang orang tuanya, menunduk, tak menatap \"kamu\".",
+      "narasiSuara": "[calm] Pagi harinya, kamu mengantarnya pulang. [calm] Kepada orang tuanya kamu melapor: putra kalian sudah siap. [resigned] Tugasmu selesai, upahmu tak perlu kembali.",
+      "narasi": "Pagi harinya, kamu mengantarnya pulang. Kepada orang tuanya kamu melapor: putra kalian sudah siap. Tugasmu selesai, upahmu tak perlu kembali.",
+      "teksLayar": [],
+      "suara": "Burung pagi, percakapan pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Hari pernikahan",
+      "waktu": "2:26–2:36",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Hari pernikahan. \"Kamu\" berdiri di luar pagar bambu, tampak dari belakang. Di kejauhan ada tarub berhias janur kuning, tamu berdatangan, dan sepasang pengantin duduk berdampingan.",
+      "narasiSuara": "[sad] Di hari pernikahan, kamu mendengar gamelan dari balik pagar. [curious] Tapi tak ada yang pernah bertanya... siapa yang mengajari pengantin perempuannya?",
+      "narasi": "Di hari pernikahan, kamu mendengar gamelan dari balik pagar. Tapi tak ada yang pernah bertanya... siapa yang mengajari pengantin perempuannya?",
+      "teksLayar": [
+        "Hari pernikahan."
+      ],
+      "suara": "Gamelan dari kejauhan, riuh tamu.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 18,
+      "babak": 5,
+      "namaBabak": "Hari pernikahan",
+      "waktu": "2:36–2:45",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Senja di jalan desa. \"Kamu\" berjalan pulang sendirian membawa buntelan kain, tampak dari belakang; jendela rumah-rumah mulai diterangi pelita.",
+      "narasiSuara": "[serious] Kamu pulang sendirian di jalan desa, membawa upahmu. [whispers] Jadi menurutmu, gowok itu guru... [sad] atau aib?",
+      "narasi": "Kamu pulang sendirian di jalan desa, membawa upahmu. Jadi menurutmu, gowok itu guru... atau aib?",
+      "teksLayar": [],
+      "suara": "Gamelan menjauh, jangkrik senja.",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Sarinten",
+      "prompt": "Character reference sheet of Sarinten.\nSarinten, a 30-year-old Javanese woman from Banyumas, a former ronggeng dancer now working as a gowok. Slender and of medium height, warm medium-brown skin, oval face, softly arched dark brows, calm dark-brown almond-shaped eyes, small straight nose, full lips. Long black hair combed back into a low round bun at the nape, held with a plain dark wooden hairpin. She wears a long-sleeved, hip-length kebaya of plain dark indigo cotton without embroidery, closed at the front with three small brass pins, over a high cream cotton under-bodice; an ankle-length wrapped kain of hand-drawn batik in Banyumas sogan colours, dark brown and black on an aged-cream ground, with a bold lumbon motif (large stylized taro leaves with broad veins); bare feet. A thin plain silver bangle on her left wrist and small gold stud earrings. She carries herself with a dancer's upright, unhurried grace.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the batik cloth pattern and jewelry, plus one first-person panel showing only her own hands and forearms held forward at chest height, as seen through her own eyes: Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1930s rural Banyumas, Central Java clothing.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace, nudity, revealing clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Darsono",
+      "prompt": "Character reference sheet of Darsono.\nDarsono, a 20-year-old Javanese man, son of a well-off Banyumas merchant family in the late 1930s. Slim and slightly lanky, light-brown skin of someone who rarely works in the sun, youthful oval face, clean-shaven, thick straight black brows, wide shy dark eyes, short black hair under a headcloth. He wears an iket headcloth of dark brown batik with a small cream dotted pattern, folded and tied flat around the head with the knot at the back; a long-sleeved collarless jacket of hand-woven lurik cotton with thin vertical stripes in muted brown, charcoal and cream, buttoned down the front; an ankle-length wrapped kain of sogan batik, brown and black on cream, with a pring sedapur motif (clusters of upright bamboo stems and leaves); simple dark leather slip-on sandals. No jewelry except a plain silver ring on his right hand. He holds his shoulders slightly hunched and his hands restless.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the batik cloth pattern and jewelry.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1930s rural Banyumas, Central Java clothing.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace, nudity, revealing clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Bu Karta",
+      "prompt": "Character reference sheet of Bu Karta.\nBu Karta, a 45-year-old Javanese merchant's wife from Banyumas in the late 1930s. Short and plump, light-brown skin, round face with full cheeks, thin neatly shaped brows, sharp attentive dark eyes, a few grey streaks in black hair worn in a neat low bun with a small gold hairpin. She wears a long-sleeved, hip-length kebaya of fine cream cotton with a narrow hand-made lace edge along the front, fastened with a set of three linked gold brooches; an ankle-length wrapped kain of sogan batik, dark brown and black on cream, with a sekar surya motif (open flowers with petals radiating like sun rays); a plain dark brown selendang over one shoulder; flat leather sandals. Two thin gold bangles on each wrist and gold drop earrings. She carries herself with a composed, dignified stiffness.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the batik cloth pattern and jewelry.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1930s rural Banyumas, Central Java clothing.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace, nudity, revealing clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Malam ini, kamu akan mengajari seorang pemuda cara menyentuh perempuan... dan orang tuanya yang membayarmu.",
+      "prompt": "The viewer is Sarinten: the hands and forearms in the foreground match the first-person panel of the Sarinten reference image.\nSame character as the Darsono reference image.\nClose-medium shot at sitting eye level inside a small bedroom with woven bamboo walls at night, lit by a single small kerosene oil lamp on a low wooden stool; deep darkness fills the space above the bamboo wall.\nFirst-person point of view. Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings. The right hand rests gently over the back of Darsono's trembling right hand on a pandanus mat; the left hand rests on the viewer's knee, over a dark brown batik cloth.\nDarsono, fully dressed and seen from the chest up, sits an arm's length away facing the viewer, shoulders drawn up, head bowed, eyes lowered to the joined hands, lips pressed together, a flush on his cheeks. The lamp flame leans slightly and his shadow wavers on the bamboo wall.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, intimate night palette of deep umber shadows, warm amber lamp gold and soft indigo darkness, a single warm light source, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:18",
+      "narasi": "Sepasang saudagar mengantar putra mereka ke rumahmu. Lamaran diterima, hari pernikahan sudah ditetapkan. Kini tinggal satu persiapan: kamu.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nSame character as the Bu Karta reference image.\nWide shot at eye level of the swept earth yard of Sarinten's small timber-and-bamboo house at the edge of a village in early morning, coconut palms and a misty sky above the roof.\nBu Karta walks ahead holding a covered woven bamboo basket against her hip, chin raised, eyes fixed on Sarinten. Behind her Darsono follows a step back, mid-stride, head lowered, fingers twisting the hem of his jacket. Beside them walks Pak Karta, a stout man in his fifties with a thick black moustache, a closed-collar black cotton jacket, a dark batik iket headcloth and a brown batik kain; he looks at the house with a businesslike frown. He is a different person from Darsono, older and heavier.\nSarinten stands in the open doorway, seen from the side, one hand resting on the door frame, her face calm, eyes on the approaching family.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft early-morning palette of pale gold light, warm earthy browns, sogan brown and muted leaf green, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, blangkon on Pak Karta, background figures copying Sarinten's, Darsono's or Bu Karta's face or outfit, identical faces, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:26",
+      "narasi": "Upahmu uang, ditambah beras dan kelapa. Tapi ada syaratnya. Kalau tugasmu gagal, upah itu harus kembali.",
+      "prompt": "The viewer is Sarinten: the hands and forearms in the foreground match the first-person panel of the Sarinten reference image.\nSame character as the Bu Karta reference image.\nMedium shot at sitting eye level on a wooden bench-bed (amben) in the front room of the house in morning light through the open door.\nFirst-person point of view. Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings. The right hand reaches out to receive a small folded cloth bundle with a few coins showing at its edge from Bu Karta's hand; the left hand steadies a woven bamboo basket full of rice on the amben, two whole coconuts beside it.\nBu Karta sits upright on the amben facing the viewer, leaning slightly forward as she hands over the bundle, brows drawn level, lips firm, looking straight at the viewer with a serious, measuring gaze.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft early-morning palette of pale gold light, warm earthy browns, sogan brown and muted leaf green, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:26–0:36",
+      "narasi": "Dulu kamu penari ronggeng. Kini umurmu tiga puluh. Keluarga berada datang bukan untuk menonton tarianmu, tapi untuk menitipkan anak mereka.",
+      "prompt": "Same character as the Sarinten reference image.\nMedium shot from a slightly low angle inside Sarinten's small bedroom at dusk, warm light from a small kerosene oil lamp at the side; the upper part of the bamboo wall fades into shadow.\nSarinten stands half-turned toward the woven bamboo wall, where an old faded orange-red dance shawl (sampur) hangs from a wooden peg. Her right hand lifts the end of the shawl between two fingers, her head tilted, eyes soft and distant, a faint wistful smile, weight resting on one hip. Dust motes drift in the lamplight.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky palette of warm amber lamp light, deep umber shadows and a faded orange-red accent, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:36–0:47",
+      "narasi": "Pemuda itu baru dua puluh tahun. Ia duduk kaku di amben. Belum pernah ia menggenggam tangan perempuan, dan tak ada yang mau menjelaskannya.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium-wide shot at eye level in the front room of the house at midday, sunlight falling through the open door onto the packed-earth floor.\nDarsono sits stiffly on the edge of the wooden amben, both hands gripping his knees, back rigid, eyes fixed on the floor, jaw tight. Sarinten pours water from a round clay kendi jug into a small cup on a low table, turning her head to glance at him with quiet curiosity, one corner of her mouth lifting.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:59",
+      "narasi": "Berhari-hari, kamu memperlakukannya seperti suami. Kamu memasak untuknya, menyiapkan kayu bakar, merawat pakaiannya. Semua yang kelak dilakukan istrinya, kamu lakukan lebih dulu.",
+      "prompt": "The viewer is Sarinten: the hands and forearms in the foreground match the first-person panel of the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium shot at sitting eye level in a smoky village kitchen with a clay wood-fired stove (tungku) glowing orange; a stack of split firewood and a neatly folded striped lurik shirt sit on a shelf in the corner.\nFirst-person point of view. Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings. The right hand holds out a plate of rice and vegetables on a banana leaf toward Darsono; the left hand holds a woven bamboo fan beside the stove.\nDarsono sits on a low wooden stool, reaching for the plate with both hands, eyes on the food, a small surprised smile, shoulders a little less tense than before. Smoke curls up toward the dark roof beams.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:59–1:07",
+      "narasi": "Kamu membetulkan ikat kepalanya, wajah kalian dekat sekali. Lewat caramu melayani, ia belajar menghargai istrinya kelak.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium close shot at eye level on the front veranda in soft morning light, a bamboo fence and banana leaves behind.\nSarinten stands close in front of Darsono, both hands raised to straighten the knot of his iket headcloth, her face calm and focused on the cloth. Darsono holds his breath, cheeks flushed, eyes darting sideways away from her face, hands frozen at his sides. Their faces are close but not touching. A light breeze lifts the loose end of the headcloth.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:07–1:16",
+      "narasi": "Kamu mengajarinya menerima tamu, dan menemaninya bekerja. Di jalan desa, para tetangga berbisik. Anak-anak meneriakimu perempuan nakal.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nWide shot from a slightly low angle along a dusty village lane between bamboo fences at midday, tall coconut palms against a hazy sky.\nDarsono walks ahead, mid-stride, a hoe resting on his shoulder. Sarinten follows a pace behind carrying a small cloth bundle, chin level, eyes forward, refusing to look at the fence. Behind the fence two older village women, thin and weathered, in faded green-and-brown striped lurik kebaya and plain brown kain, lean together whispering, one covering her mouth, both glancing sideways at Sarinten. Three barefoot village boys of different heights in faded shorts and loose plain cotton shirts point at Sarinten and shout, mouths wide open, one half-hidden behind another. The women and boys are different people from Sarinten and Darsono.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, modern school uniforms, background figures copying Sarinten's, Darsono's or Bu Karta's face or outfit, identical faces, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:16–1:25",
+      "narasi": "Tapi ibu pemuda itu menunduk hormat saat bertemu denganmu. Guru... atau pelacur? Kampung ini tak pernah sepakat.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Bu Karta reference image.\nMedium-wide shot at eye level in a busy village market under rough canopies in the morning, baskets of vegetables and clay pots on mats.\nBu Karta, passing Sarinten, pauses mid-step, lowers her head and brings her hands together in a small respectful bow. Sarinten answers with a slight bow of her own, her expression composed. Behind Bu Karta, three market women of different ages in faded plain kebaya and brown kain stare at Sarinten with narrowed eyes, one whispering behind her hand to another. They are different people from Sarinten and Bu Karta, with plainer clothes and no gold jewelry.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas village market with bamboo-framed stalls and clay pots.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, background figures copying Sarinten's, Darsono's or Bu Karta's face or outfit, identical faces, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:25–1:34",
+      "narasi": "Lalu tibalah pelajaran yang tak pernah dibicarakan di rumahnya. Tentang tubuh perempuan. Tentang malam pertama. Ia menunduk, telinganya merah.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium-wide shot at sitting eye level inside the small bedroom at night, lit by one kerosene oil lamp on the floor between them; the bamboo wall above them is dark.\nSarinten and Darsono, both fully dressed, sit facing each other on a pandanus mat an arm's length apart. Sarinten speaks calmly, one hand open in a gentle explaining gesture, her eyes steady on him. Darsono bows his head, eyes lowered, ears and cheeks reddened, fingers picking at the edge of the mat. Their two long shadows stretch across the woven bamboo wall behind them.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, rainy-night palette of deep indigo blue, cool rain grey and one warm amber lamp glow, deep shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:34–1:42",
+      "narasi": "Pelan, katamu. Jangan terburu-buru. Istrimu bukan untuk ditaklukkan. Ia juga berhak merasa bahagia malam itu.",
+      "prompt": "The viewer is Sarinten: the hands and forearms in the foreground match the first-person panel of the Sarinten reference image.\nSame character as the Darsono reference image.\nClose-medium shot at sitting eye level in the same lamp-lit bedroom at night, the same small kerosene oil lamp beside them.\nFirst-person point of view. Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings. The right hand gently guides Darsono's fingers so that they close softly around the viewer's left hand, both resting on the pandanus mat.\nDarsono, fully dressed, has raised his head for the first time and looks straight at the viewer, brows lifted, eyes wide and glistening, lips parted as if about to speak, shoulders slowly lowering.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, rainy-night palette of deep indigo blue, cool rain grey and one warm amber lamp glow, deep shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:42–1:51",
+      "narasi": "Ia belajar cepat. Terlalu cepat... Matanya mulai mencarimu, bahkan di siang hari. Kamu pura-pura tak melihat.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium shot at eye level on the front veranda in warm midday light, the yard and a bamboo fence beyond.\nSarinten and Darsono sit side by side on the wooden amben, fully dressed. Darsono rests his head awkwardly on Sarinten's shoulder, eyes turned up to steal a look at her face. Sarinten sits upright, hands folded in her lap, gazing straight out toward the yard, her lips pressed together, pretending not to notice.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm daytime palette of ochre, terracotta, sun-dappled green and sogan brown with soft shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:51–2:00",
+      "narasi": "Malam terakhir, ia menggenggam tanganmu lebih lama dari biasanya. Ia berbisik, ia tak ingin menikahi perempuan lain.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nClose-medium shot at sitting eye level, seen from the side, inside the bedroom at night while light rain falls outside; the kerosene oil lamp flickers and dark shadows fill the upper wall.\nDarsono, fully dressed, grips Sarinten's hand in both of his and leans toward her ear to whisper, brows drawn together, eyes pleading. Sarinten freezes, back straight, eyes wide and fixed on the lamp, lips slightly parted. Rain streaks are visible through the small window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, rainy-night palette of deep indigo blue, cool rain grey and one warm amber lamp glow, deep shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:00–2:08",
+      "narasi": "Kamu melepaskan genggamannya. Inilah sebabnya tak semua perempuan sanggup menjadi gowok.",
+      "prompt": "The viewer is Sarinten: the hands and forearms in the foreground match the first-person panel of the Sarinten reference image.\nSame character as the Darsono reference image.\nExtreme close-up at sitting eye level inside the dim bedroom at night, rain-blue darkness behind, one faint warm lamp glow at the edge of the frame.\nFirst-person point of view. Darsono's face fills the upper half of the frame, so close that his forehead touches the viewer's forehead, eyes closed, brows knotted, a tear on his lashes. In the lower part of the frame: Hands and forearms of a 30-year-old Javanese woman: warm medium-brown skin, slender graceful fingers with a dancer's soft curve, short clean nails, faint kitchen calluses on the right palm, a thin plain silver bangle on the left wrist, long sleeves of a plain dark indigo cotton kebaya ending just above the wrists, no rings. The hands slowly slide out of his loosening grip, fingers opening.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, rainy-night palette of deep indigo blue, cool rain grey and one warm amber lamp glow, deep shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, lips touching, kissing, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:08–2:16",
+      "narasi": "Pelita kamu redupkan. Kelambu diturunkan. Apa yang terjadi sesudahnya... hanya kamar itu yang tahu.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nMedium-wide shot from outside a half-open wooden bedroom door at night, looking in; the dark hallway frames the dim room.\nIn the doorway of the bedroom Darsono embraces Sarinten awkwardly, both fully dressed; her face is hidden against his shoulder, his eyes are closed. Behind them a white mosquito net (kelambu) has been let down around the bed and the kerosene oil lamp is turned very low.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, rainy-night palette of deep indigo blue, cool rain grey and one warm amber lamp glow, deep shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, bare skin, lying in bed, anything inside the net, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:16–2:26",
+      "narasi": "Pagi harinya, kamu mengantarnya pulang. Kepada orang tuanya kamu melapor: putra kalian sudah siap. Tugasmu selesai, upahmu tak perlu kembali.",
+      "prompt": "Same character as the Sarinten reference image.\nSame character as the Darsono reference image.\nSame character as the Bu Karta reference image.\nMedium-wide shot at eye level on the pendopo, an open timber pavilion of the merchant's house, in fresh morning light, carved wooden pillars and a polished floor.\nSarinten kneels with her legs folded to one side, hands resting together on her lap, speaking with a calm face. Bu Karta and Pak Karta, a stout man in his fifties with a thick black moustache, a closed-collar black cotton jacket, a dark batik iket headcloth and a brown batik kain, sit on carved chairs and nod with relief, Bu Karta's hand on her chest. Darsono stands behind his parents, head bowed, eyes on the floor, hands clasped tightly. Pak Karta is a different person from Darsono, older and heavier.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, fresh morning palette of pale gold light, warm wood browns, sogan brown and young-coconut-leaf yellow, historically accurate late-1930s well-off Banyumas merchant house with an open timber pendopo.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, background figures copying Sarinten's, Darsono's or Bu Karta's face or outfit, identical faces, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:26–2:36",
+      "narasi": "Di hari pernikahan, kamu mendengar gamelan dari balik pagar. Tapi tak ada yang pernah bertanya... siapa yang mengajari pengantin perempuannya?",
+      "prompt": "Same character as the Sarinten reference image.\nWide shot from behind and slightly above Sarinten's left shoulder, outside a bamboo fence on a bright wedding day; a wide pale sky above.\nSarinten stands alone at the fence, seen from behind, one hand resting on a bamboo post, her head tilted toward the music. Beyond the fence, in the merchant's yard, a festive tarub shelter of bamboo and woven palm leaves is decorated with curling young yellow coconut-leaf (janur) ornaments; small figures of guests in batik and kebaya arrive, and in the far distance a bride and groom sit side by side, too small to see their faces. The guests are different people from Sarinten, in varied batik and plain kebaya, none in a dark indigo kebaya.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright late-morning palette of pale sky blue, young-coconut-leaf yellow and festive warm reds and browns, historically accurate late-1930s Banyumas village wedding with a bamboo-and-palm-leaf tarub.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, modern wedding decorations, background figures copying Sarinten's, Darsono's or Bu Karta's face or outfit, identical faces, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "18": {
+      "waktu": "2:36–2:45",
+      "narasi": "Kamu pulang sendirian di jalan desa, membawa upahmu. Jadi menurutmu, gowok itu guru... atau aib?",
+      "prompt": "Same character as the Sarinten reference image.\nWide shot from behind at eye level along an empty village lane at dusk, bamboo fences and coconut palms dark against an orange-violet sky; small oil-lamp lights glow in the windows of the houses.\nSarinten walks away alone mid-stride, a small cloth bundle in her right hand, her left hand lifting the hem of her kain, shoulders straight but her head slightly lowered. Her long shadow stretches back along the lane.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky orange-violet sunset palette with small warm oil-lamp lights and deep blue-brown shadows, historically accurate late-1930s rural Banyumas, Central Java: a village house with a timber frame, woven bamboo walls, a packed-earth floor and a clay-tile roof, bamboo fences outside.\nAvoid parang batik pattern, blangkon caps, peci caps, modern clothing, see-through lace kebaya on Sarinten, nudity, bare shoulders, revealing clothing, sensual poses, electric lights, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilihan voice paling menentukan: tag tidak bisa memaksa voice yang datar untuk berbisik dengan intim. Pilih voice perempuan dewasa yang hangat dan agak rendah, dengan bisikan yang jelas dan tidak mendesah.\n\n- Babak 1: berbisik dan intim, tempo pelan; jeda di elipsis sebelum \"dan orang tuanya yang membayarmu\".\n- Babak 2: tenang dan lugas seperti bercerita; serius saat menyebut syarat upah.\n- Babak 3: hangat dan sedikit lebih cepat; tegang lalu marah tertahan di ejekan anak-anak; ragu di \"Guru... atau pelacur?\".\n- Babak 4: berbisik dan lambat; gugup di pengakuan; sedih dan nyaris tanpa suara di momen hening adegan 14.\n- Babak 5: tenang dan pasrah; kalimat terakhir pelan, dengan jeda panjang sebelum \"atau aib?\".",
+    "arahanBabak": {
+      "1": "berbisik dan intim, tempo pelan; jeda di elipsis sebelum \"dan orang tuanya yang membayarmu\".",
+      "2": "tenang dan lugas seperti bercerita; serius saat menyebut syarat upah.",
+      "3": "hangat dan sedikit lebih cepat; tegang lalu marah tertahan di ejekan anak-anak; ragu di \"Guru... atau pelacur?\".",
+      "4": "berbisik dan lambat; gugup di pengakuan; sedih dan nyaris tanpa suara di momen hening adegan 14.",
+      "5": "tenang dan pasrah; kalimat terakhir pelan, dengan jeda panjang sebelum \"atau aib?\"."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[whispers] Malam ini, kamu akan mengajari seorang pemuda cara menyentuh perempuan... [serious] dan orang tuanya yang membayarmu....",
+    "2": "[calm] Sepasang saudagar mengantar putra mereka ke rumahmu. [calm] Lamaran diterima, hari pernikahan sudah ditetapkan. [serious] Kini tinggal satu persiapan: kamu....\n\n[serious] Upahmu uang, ditambah beras dan kelapa. [tense] Tapi ada syaratnya. [whispers] Kalau tugasmu gagal, upah itu harus kembali....\n\n[calm] Dulu kamu penari ronggeng. [calm] Kini umurmu tiga puluh. [serious] Keluarga berada datang bukan untuk menonton tarianmu, tapi untuk menitipkan anak mereka....\n\n[curious] Pemuda itu baru dua puluh tahun. [calm] Ia duduk kaku di amben. [nervous] Belum pernah ia menggenggam tangan perempuan, dan tak ada yang mau menjelaskannya....",
+    "3": "[calm] Berhari-hari, kamu memperlakukannya seperti suami. [calm] Kamu memasak untuknya, menyiapkan kayu bakar, merawat pakaiannya. [calm] Semua yang kelak dilakukan istrinya, kamu lakukan lebih dulu....\n\n[whispers] Kamu membetulkan ikat kepalanya, wajah kalian dekat sekali. [calm] Lewat caramu melayani, ia belajar menghargai istrinya kelak....\n\n[calm] Kamu mengajarinya menerima tamu, dan menemaninya bekerja. [tense] Di jalan desa, para tetangga berbisik. [angry] Anak-anak meneriakimu perempuan nakal....\n\n[serious] Tapi ibu pemuda itu menunduk hormat saat bertemu denganmu. [curious] Guru... atau pelacur? [serious] Kampung ini tak pernah sepakat....",
+    "4": "[calm] Lalu tibalah pelajaran yang tak pernah dibicarakan di rumahnya. [serious] Tentang tubuh perempuan. [whispers] Tentang malam pertama. [nervous] Ia menunduk, telinganya merah....\n\n[whispers] Pelan, katamu. [whispers] Jangan terburu-buru. [serious] Istrimu bukan untuk ditaklukkan. [calm] Ia juga berhak merasa bahagia malam itu....\n\n[calm] Ia belajar cepat. [curious] Terlalu cepat... [sad] Matanya mulai mencarimu, bahkan di siang hari. [tense] Kamu pura-pura tak melihat....\n\n[nervous] Malam terakhir, ia menggenggam tanganmu lebih lama dari biasanya. [nervous] Ia berbisik, ia tak ingin menikahi perempuan lain....\n\n[sad] Kamu melepaskan genggamannya. [sighs] [whispers] Inilah sebabnya tak semua perempuan sanggup menjadi gowok....\n\n[whispers] Pelita kamu redupkan. [serious] Kelambu diturunkan. [serious] Apa yang terjadi sesudahnya... [whispers] hanya kamar itu yang tahu....",
+    "5": "[calm] Pagi harinya, kamu mengantarnya pulang. [calm] Kepada orang tuanya kamu melapor: putra kalian sudah siap. [resigned] Tugasmu selesai, upahmu tak perlu kembali....\n\n[sad] Di hari pernikahan, kamu mendengar gamelan dari balik pagar. [curious] Tapi tak ada yang pernah bertanya... siapa yang mengajari pengantin perempuannya?...\n\n[serious] Kamu pulang sendirian di jalan desa, membawa upahmu. [whispers] Jadi menurutmu, gowok itu guru... [sad] atau aib?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pelita",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "0:55",
+      "suasana": "Intim, berbisik, lalu formal dan canggung",
+      "style": "Banyumasan calung ambient, soft bamboo calung xylophone and slow kendang over a low gong pulse, intimate, hushed and slightly tense, starts with a single sparse calung phrase and builds gently, fades out at the end, about 55 seconds long (0:55), with a clear ending, 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, electric guitar, drum kit, EDM, orchestral strings"
+    },
+    {
+      "nomor": 2,
+      "nama": "Seperti istri",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:45",
+      "suasana": "Hangat, sehari-hari, dengan bayang-bayang cibiran",
+      "style": "Warm Javanese village folk instrumental, playful bamboo calung, light kendang and breathy suling flute, warm and tender with a hint of unease, steady walking rhythm, fades out at the end, about 45 seconds long (0:45), with a clear ending, 84 BPM, instrumental, no vocals",
+      "exclude": "vocals, electric guitar, drum kit, EDM, comedic sound effects"
+    },
+    {
+      "nomor": 3,
+      "nama": "Guru atau aib",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "1:25",
+      "suasana": "Lembut, getir, sunyi di akhir",
+      "style": "Slow melancholic Javanese gamelan ambient, soft gender metallophone and suling over a distant gong, sparse rain-like texture, tender and sorrowful, starts sparse, swells slightly midway then thins to near silence, fades out at the end, about 85 seconds long (1:25), with a clear ending, 58 BPM, instrumental, no vocals",
+      "exclude": "vocals, electric guitar, drum kit, EDM, cinematic trailer drums"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Pelita minyak berdesis dan jangkrik",
+      "kataKunci": "oil lamp flame, crickets night",
+      "prompt": "Small oil lamp flame hissing softly in a quiet room, crickets outside at night"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Ayam berkokok di pagi desa",
+      "kataKunci": "rooster morning village",
+      "prompt": "Distant rooster crowing at dawn in a tropical village, light birdsong"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Uang logam berdenting di kain",
+      "kataKunci": "coins clink cloth",
+      "prompt": "A few old coins clinking softly inside a folded cloth bundle"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Calung dan kendang samar di kejauhan",
+      "kataKunci": "calung bamboo music distant",
+      "prompt": "Faint distant bamboo xylophone and hand drum music echoing across a village at dusk"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Api tungku kayu berderak",
+      "kataKunci": "wood fire crackling stove",
+      "prompt": "Wood fire crackling in a clay stove, a pot lid rattling softly"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Anak-anak berteriak dan bisik-bisik",
+      "kataKunci": "kids shouting village, whispering",
+      "prompt": "Children shouting and laughing in a village lane, two women whispering nearby"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Riuh pasar pagi",
+      "kataKunci": "traditional market ambience",
+      "prompt": "Gentle morning ambience of a small Asian village market, murmuring voices, baskets"
+    },
+    {
+      "nomor": 8,
+      "adegan": 13,
+      "bunyi": "Hujan rintik di atap genteng",
+      "kataKunci": "light rain roof tiles",
+      "prompt": "Light rain falling on clay roof tiles at night, soft and steady"
+    },
+    {
+      "nomor": 9,
+      "adegan": 15,
+      "bunyi": "Pelita ditiup pelan",
+      "kataKunci": "blow out candle",
+      "prompt": "A soft breath blowing a small oil lamp flame low, then quiet"
+    },
+    {
+      "nomor": 10,
+      "adegan": 17,
+      "bunyi": "Gamelan pesta dari kejauhan",
+      "kataKunci": "gamelan distant celebration",
+      "prompt": "Distant festive Javanese gamelan music and murmuring guests heard from outside a fence"
+    },
+    {
+      "nomor": 11,
+      "adegan": 18,
+      "bunyi": "Jangkrik senja",
+      "kataKunci": "crickets dusk",
+      "prompt": "Crickets and distant birds at dusk on an empty village road"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Konon, nama gowok berasal dari Goo Wok Niang, perempuan Tionghoa rombongan Cheng Ho.",
+    "sumber": "Kisah tutur, dikutip GNFI (2023) dan Bacaini; tanpa sumber sezaman",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Seorang Gowok di Banyumas",
+      "catatan": "Alternatif judul: POV: Kamu Gowok, Dibayar Jadi Istri Sementara / POV: Kamu Gowok di Banyumas Tahun 1930-an",
+      "caption": "Dibayar untuk jadi \"istri\" sementara seorang calon pengantin. Guru, atau aib?\n\nGowok adalah perempuan, sering mantan penari ronggeng, yang dititipi calon pengantin pria di Banyumas selama beberapa hari sebelum menikah. Ia mengajarkan urusan rumah tangga sampai urusan kamar. Novel berjudul Gowok sudah terbit pada 1929.\n\nKalau kamu hidup di masa itu, gowok itu guru atau aib? Tulis di komentar.\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Fadilah (2022) dan Susanto (2023). Semua tokoh dalam video ini rekaan.\n\n#UlikSilam #gowok #sejarahindonesia #banyumas #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Seorang Gowok di Banyumas",
+      "catatan": "",
+      "caption": "Dibayar untuk jadi \"istri\" sementara seorang calon pengantin. Guru, atau aib?\n\nGowok adalah perempuan, sering mantan penari ronggeng, yang dititipi calon pengantin pria di Banyumas selama beberapa hari sebelum menikah. Ia mengajarkan urusan rumah tangga sampai urusan kamar. Novel berjudul Gowok sudah terbit pada 1929.\n\nKalau kamu hidup di masa itu, gowok itu guru atau aib? Tulis di komentar.\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Fadilah (2022) dan Susanto (2023). Semua tokoh dalam video ini rekaan.\n\n#UlikSilam #sejarahindonesia #gowok #banyumas #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 18,
+    "jumlahBabak": 5,
+    "totalKata": 311,
+    "kataPerBabak": {
+      "1": 15,
+      "2": 77,
+      "3": 72,
+      "4": 92,
+      "5": 55
+    },
+    "karakterPerBabak": {
+      "1": 131,
+      "2": 643,
+      "3": 655,
+      "4": 886,
+      "5": 460
+    },
+    "jedaBunyi": 7,
+    "perkiraanDetik130": {
+      "narasi": 164.7,
+      "denganMerek": 169.7
+    },
+    "perkiraanDetik135": {
+      "narasi": 159.4,
+      "denganMerek": 164.4
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

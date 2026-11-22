@@ -1,0 +1,20 @@
+judul: "Miau Baru (Part 2)"
+slug: narasi-perpindahan-kayan-miau-baru-part-2
+format: Narasi
+lapisan: ["Sejarah"]
+latar: "Sungai Wahau, Kalimantan Timur"
+seri: "narasi-perpindahan-kayan-miau-baru"
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-11-21"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Amai Laway Ngau"]
+aset: {ilustrasi: 17, narasi: 23, musik: 3, sfx: 0}
+render: "out/narasi-perpindahan-kayan-miau-baru-part-2.mp4"
+tanggal_render: 2026-11-21
+tanggal_tayang: null
+tautan: {tiktok: null, shorts: null}
+metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
+arsip_lama: "pov/narasi-perpindahan-kayan-miau-baru-part-2"
+catatan: ""

@@ -1,0 +1,21 @@
+judul: "POV: Kamu Ronin Bayaran VOC di Banda, 1621"
+slug: pov-ronin-bayaran-banda
+format: POV
+lapisan: ["Sejarah"]
+latar: "Kepulauan Banda, masa VOC"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-10-27"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Ronin", "Ronin Tua", "Orang Kaya Tua"]
+aset: {ilustrasi: 17, narasi: 22, musik: 3, sfx: 0}
+render: "out/pov-ronin-bayaran-banda.mp4"
+tanggal_render: 2026-10-30
+tautan: {"shorts": "https://youtube.com/shorts/5WoNT6we5fE", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7702427939656322325"}
+arsip_lama: "pov/pov-ronin-bayaran-banda"
+catatan: ""
+metrik_shorts: {"views": 2740, "jam_tonton": 38.5, "rata_tonton_detik": 50.5, "durasi_detik": 157, "persen_ditonton": 32.2, "subscriber": 4, "impresi": 4453, "ctr": 1.62, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-30", "tiktok": "2026-10-30"}
+metrik_tiktok: {"views": 5167, "suka": 81, "komentar": 0, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

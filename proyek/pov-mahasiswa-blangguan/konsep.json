@@ -1,0 +1,645 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-06T15:41:59.205Z",
+  "judulDokumen": "Peristiwa Blangguan",
+  "judul": "POV: Kamu Mahasiswa di Blangguan, 1993",
+  "slug": "pov-mahasiswa-blangguan",
+  "versi": "v3 · 2026-11-06",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Blangguan, Situbondo",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Mahasiswa fiktif dari Yogyakarta, sekitar 21 tahun, salah satu dari lebih dari dua puluh mahasiswa yang datang bersolidaritas dengan petani",
+  "ringkasan": {
+    "Judul": "POV: Kamu Mahasiswa di Blangguan, 1993",
+    "Slug": "pov-mahasiswa-blangguan",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan saat ini ±2:42 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Mahasiswa fiktif dari Yogyakarta, sekitar 21 tahun, salah satu dari lebih dari dua puluh mahasiswa yang datang bersolidaritas dengan petani",
+    "Jumlah ilustrasi": "17 (16 adegan + 1 lembar karakter)",
+    "Lapisan": "Sejarah",
+    "Latar": "Blangguan, Situbondo",
+    "Premis": "Kamu datang membawa biji jagung untuk ditanam bersama petani, dan satu malam cukup untuk tahu bahwa seluruh desa sedang diawasi.",
+    "Benang merah": "Segenggam biji jagung, dari terminal sampai satu biji ditekan ke tanah.",
+    "Alur": "Hitung mundur satu malam (alur A), akhir: senter menyorot wajah saat menanam (akhir 2)",
+    "Dipilih karena": "Paling dekat dengan penonton film *Laut Bercerita* (tayang 29 Oktober 2026), tetapi memakai peristiwa nyatanya, bukan versi novel",
+    "Asumsi": "Kota asal Yogyakarta; waktu malam disusun dari sumber yang tidak sepakat soal jam (lihat Catatan genre); \"kamu\" ikut kelompok sekitar 40 orang yang tetap menanam (dramatisasi); nama Pak Sahri dan Yudi rekaan",
+    "Versi": "v3 · 2026-11-06"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Terminal yang mengawasi",
+      "suasana": "Waspada, merasa diawasi",
+      "palet": "Oker berdebu, hijau zaitun pudar, abu beton",
+      "cahaya": "Sore mendung datar, satu bohlam kuning warung"
+    },
+    {
+      "babak": 2,
+      "nama": "Desa yang dijaga",
+      "suasana": "Terancam, muram",
+      "palet": "Cokelat lumpur, hijau gelap, abu arang",
+      "cahaya": "Senja berbadai; di dalam rumah, amber lampu teplok"
+    },
+    {
+      "babak": 3,
+      "nama": "Pintu yang tak terbuka",
+      "suasana": "Cemas, menunggu",
+      "palet": "Umber pekat, hitam, amber lampu",
+      "cahaya": "Satu lampu teplok yang dikecilkan, bayangan panjang"
+    },
+    {
+      "babak": 4,
+      "nama": "Rumah demi rumah",
+      "suasana": "Teror, hening",
+      "palet": "Cokelat nyaris hitam, sayatan kuning hangat",
+      "cahaya": "Gelap total dibelah berkas senter pijar dari celah dinding bambu"
+    },
+    {
+      "babak": 5,
+      "nama": "Fajar di ladang",
+      "suasana": "Tegang, rapuh",
+      "palet": "Nila pekat, lumpur hitam basah, abu pucat",
+      "cahaya": "Langit biru kelabu menjelang fajar, berakhir silau senter kuning"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Terminal yang mengawasi",
+    "2": "Desa yang dijaga",
+    "3": "Pintu yang tak terbuka",
+    "4": "Rumah demi rumah",
+    "5": "Fajar di ladang"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Terminal yang mengawasi",
+      "waktu": "0:02–0:10",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Turun dari bus di terminal kota kecil, sore yang mendung. Tangan kiri terangkat setinggi dada menggenggam segenggam biji jagung kuning; tangan kanan memegang tali tas kain di bahu. Di tengah gambar, seorang lelaki berkemeja polos dan berkacamata gelap menulis di buku kecil sambil menatap lurus ke penonton.",
+      "narasiSuara": "[nervous] Kamu datang dari Yogyakarta membawa segenggam biji jagung. [tense] Tapi di terminal ini... seseorang sudah mencatat wajahmu.",
+      "narasi": "Kamu datang dari Yogyakarta membawa segenggam biji jagung. Tapi di terminal ini... seseorang sudah mencatat wajahmu.",
+      "teksLayar": [
+        "Situbondo, Januari 1993."
+      ],
+      "suara": "Deru mesin bus, keramaian terminal",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Terminal yang mengawasi",
+      "waktu": "0:10–0:22",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Bidikan sedang dari balik bahu \"kamu\": tiga lelaki di bangku warung dan di dekat loket berpura-pura membaca koran, satu menulis di buku kecil, mata mereka mengikuti rombongan mahasiswa yang lewat membawa tas.",
+      "narasiSuara": "[tense] Bukan cuma satu orang. [nervous] Di bangku warung, di dekat loket, mereka pura-pura membaca koran... [whispers] lalu menulis di buku kecil setiap kali kalian lewat.",
+      "narasi": "Bukan cuma satu orang. Di bangku warung, di dekat loket, mereka pura-pura membaca koran... lalu menulis di buku kecil setiap kali kalian lewat.",
+      "teksLayar": [],
+      "suara": "Kertas koran dibalik",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Terminal yang mengawasi",
+      "waktu": "0:22–0:30",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Dari kursi belakang bus, menoleh lewat kaca belakang yang berdebu: jalan raya berdebu dan sebuah kendaraan gelap mengikuti di kejauhan. Tangan kiri memegang tas kanvas di pangkuan.",
+      "narasiSuara": "[serious] Bus kalian bergerak ke timur. [tense] Kamu menoleh ke belakang. [nervous] Kendaraan itu masih di sana, membuntuti.",
+      "narasi": "Bus kalian bergerak ke timur. Kamu menoleh ke belakang. Kendaraan itu masih di sana, membuntuti.",
+      "teksLayar": [],
+      "suara": "Mesin bus berderak",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Desa yang dijaga",
+      "waktu": "0:30–0:42",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Dari balik semak di tepi jalan setapak, menjelang petang: di kejauhan pos jaga di pintu masuk desa dengan sosok-sosok bersenjata yang kecil dan tak berwajah, sebuah jip melintas pelan. Tangan kanan menyibak daun, tangan kiri memegang tali tas.",
+      "narasiSuara": "[tense] Pintu masuk desa dijaga tentara bersenjata. [nervous] Jip lewat pelan, lalu lewat lagi, seperti sedang menghitung kepala. [whispers] Kalian masuk lewat jalan setapak, satu per satu.",
+      "narasi": "Pintu masuk desa dijaga tentara bersenjata. Jip lewat pelan, lalu lewat lagi, seperti sedang menghitung kepala. Kalian masuk lewat jalan setapak, satu per satu.",
+      "teksLayar": [
+        "Blangguan. Sehari sebelum aksi."
+      ],
+      "suara": "Deru jip menjauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Desa yang dijaga",
+      "waktu": "0:42–0:54",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Bidikan lebar: ladang jagung yang rata terlindas jejak rantai tank, pagar bambu roboh, rumah kayu tanpa genteng tinggal rangka atap di bawah langit kelabu. Dua mahasiswa berdiri terpaku di tepi ladang.",
+      "narasiSuara": "[sad] Bulan lalu, tank melindas ladang jagung ini dan menabrak rumah-rumah. [sad] Pagar roboh. [serious] Beberapa rumah tinggal rangka... gentengnya dibongkar dan diangkut ke markas.",
+      "narasi": "Bulan lalu, tank melindas ladang jagung ini dan menabrak rumah-rumah. Pagar roboh. Beberapa rumah tinggal rangka... gentengnya dibongkar dan diangkut ke markas.",
+      "teksLayar": [],
+      "suara": "Angin di ladang kosong",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Desa yang dijaga",
+      "waktu": "0:54–1:05",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Di dalam rumah gedek berlampu teplok, Pak Sahri, petani paruh baya yang tenang, menuang kopi ke gelas belimbing sambil bercerita kepada mahasiswa yang duduk bersila; karung bibit di sudut.",
+      "narasiSuara": "[calm] Pak Sahri, pemilik rumah tempatmu menginap, menuang kopi. [serious] Tanahnya hanya ditawar dua ratus rupiah per meter. [resigned] Kalau menanam lagi, katanya, jagungnya akan dicabut.",
+      "narasi": "Pak Sahri, pemilik rumah tempatmu menginap, menuang kopi. Tanahnya hanya ditawar dua ratus rupiah per meter. Kalau menanam lagi, katanya, jagungnya akan dicabut.",
+      "teksLayar": [],
+      "suara": "Kopi dituang, suara Pak Sahri pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Desa yang dijaga",
+      "waktu": "1:05–1:18",
+      "durasiCadangan": 13,
+      "bidikan": "A",
+      "visual": "Di lantai tanah, tangan kanan membuka ujung gulungan spanduk kain panjang bertulisan cat; tangan kiri menahan gulungan spanduk. Di belakang, petani-petani memilah bibit ke dalam kantong.",
+      "narasiSuara": "[serious] Besok pagi, kalian akan menanam bersama di ladang yang sudah dikuasai tentara. [calm] Para petani menyiapkan bibit. [calm] Spanduk sepuluh meter sudah digulung. [whispers] Kamu membacanya sekali lagi.",
+      "narasi": "Besok pagi, kalian akan menanam bersama di ladang yang sudah dikuasai tentara. Para petani menyiapkan bibit. Spanduk sepuluh meter sudah digulung. Kamu membacanya sekali lagi.",
+      "teksLayar": [
+        "HIDUP MATI KAMI DARI TANAH INI"
+      ],
+      "suara": "Kain spanduk digulung",
+      "hening": false,
+      "epilog": false,
+      "kata": 25
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Pintu yang tak terbuka",
+      "waktu": "1:18–1:28",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Malam di rumah di tepi desa: belasan mahasiswa duduk berdesakan, wajah-wajah tegang setengah tersorot lampu teplok yang dikecilkan. Tangan kiri bertumpu di atas lutut.",
+      "narasiSuara": "[tense] Malam turun. [nervous] Kalian berkumpul di sebuah rumah di tepi desa, berdesakan, lampu teplok dikecilkan. [whispers] Tak ada yang berani bicara keras.",
+      "narasi": "Malam turun. Kalian berkumpul di sebuah rumah di tepi desa, berdesakan, lampu teplok dikecilkan. Tak ada yang berani bicara keras.",
+      "teksLayar": [
+        "21.40"
+      ],
+      "suara": "Jangkrik, napas tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Pintu yang tak terbuka",
+      "waktu": "1:28–1:36",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Yudi, mahasiswa kurus berkacamata, dan seorang warga berkopiah keluar lewat pintu belakang ke kegelapan; Yudi menoleh sekilas ke dalam.",
+      "narasiSuara": "[serious] Yudi, kawan sekampusmu, keluar bersama seorang warga untuk mencari kabar. [whispers] Katanya, sebentar saja. [whispers] Jaga bibitmu.",
+      "narasi": "Yudi, kawan sekampusmu, keluar bersama seorang warga untuk mencari kabar. Katanya, sebentar saja. Jaga bibitmu.",
+      "teksLayar": [],
+      "suara": "Engsel pintu berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Pintu yang tak terbuka",
+      "waktu": "1:36–1:45",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Menatap pintu belakang kayu yang tertutup; lampu teplok berkedip. Tangan kanan memegang jam tangan di pergelangan kiri, tangan kiri mengepal jagung.",
+      "narasiSuara": "[nervous] Satu jam. [nervous] Dua jam. [tense] Kamu menatap pintu belakang itu sampai matamu perih. [sad] Pintu itu tidak pernah terbuka lagi.",
+      "narasi": "Satu jam. Dua jam. Kamu menatap pintu belakang itu sampai matamu perih. Pintu itu tidak pernah terbuka lagi.",
+      "teksLayar": [
+        "00.30"
+      ],
+      "suara": "Detak jam tangan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Rumah demi rumah",
+      "waktu": "1:45–1:55",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari dalam rumah gelap, lampu teplok sudah dipadamkan: berkas senter dari luar menyapu dinding anyaman bambu, lewat celah-celahnya. Tangan kanan menekan dada, tangan kiri menempel di dinding bambu.",
+      "narasiSuara": "[tense] Lalu terdengar ketukan. [whispers] Bukan di pintu ini... di rumah sebelah. [tense] Senter menyapu dinding bambu. [tense] Mereka memeriksa rumah satu per satu.",
+      "narasi": "Lalu terdengar ketukan. Bukan di pintu ini... di rumah sebelah. Senter menyapu dinding bambu. Mereka memeriksa rumah satu per satu.",
+      "teksLayar": [
+        "02.15"
+      ],
+      "suara": "Ketukan pintu di kejauhan, langkah sepatu lars",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Rumah demi rumah",
+      "waktu": "1:55–2:01",
+      "durasiCadangan": 6,
+      "bidikan": "B",
+      "visual": "Wajah-wajah mahasiswa membeku dalam gelap, hanya garis cahaya senter dari celah dinding; tak ada kekerasan yang terlihat.",
+      "narasiSuara": "[sad] [whispers] Dari kejauhan... jeritan seorang perempuan.",
+      "narasi": "Dari kejauhan... jeritan seorang perempuan.",
+      "teksLayar": [],
+      "suara": "Jeritan samar di kejauhan, lalu hening",
+      "hening": true,
+      "epilog": false,
+      "kata": 5
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Rumah demi rumah",
+      "waktu": "2:01–2:09",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Para mahasiswa berbisik dalam lingkaran kecil; Pak Sahri berdiri di ambang pintu dapur, mengangguk pelan, matanya cemas.",
+      "narasiSuara": "[serious] Kalian sadar. [sad] Setiap menit kalian bertahan di sini, warga yang menanggungnya. [resigned] Tanpa suara, kalian memutuskan pergi.",
+      "narasi": "Kalian sadar. Setiap menit kalian bertahan di sini, warga yang menanggungnya. Tanpa suara, kalian memutuskan pergi.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Fajar di ladang",
+      "waktu": "2:09–2:18",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Menyeberangi sawah tergenang dalam gelap, air sampai lutut; punggung mahasiswa lain di depan. Tangan kiri terangkat di atas air memegang tas kanvas, tangan kanan menyibak batang padi.",
+      "narasiSuara": "[tense] Kalian menyeberangi sawah yang tergenang. [nervous] Air sampai lutut, lumpur menarik kakimu. [whispers] Di belakang, sepertinya ada yang ikut melangkah.",
+      "narasi": "Kalian menyeberangi sawah yang tergenang. Air sampai lutut, lumpur menarik kakimu. Di belakang, sepertinya ada yang ikut melangkah.",
+      "teksLayar": [
+        "03.40"
+      ],
+      "suara": "Kecipak air, lumpur",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Fajar di ladang",
+      "waktu": "2:18–2:29",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Langit biru tua menjelang fajar: sekitar empat puluh mahasiswa dan petani berkumpul di tepi ladang yang rusak, bibit dibagikan dari tangan ke tangan.",
+      "narasiSuara": "[serious] Tapi sebagian dari kalian tetap tinggal. [calm] Sekitar empat puluh mahasiswa dan petani berkumpul di tepi ladang. [whispers] Bibit dibagikan dari tangan ke tangan.",
+      "narasi": "Tapi sebagian dari kalian tetap tinggal. Sekitar empat puluh mahasiswa dan petani berkumpul di tepi ladang. Bibit dibagikan dari tangan ke tangan.",
+      "teksLayar": [
+        "Fajar."
+      ],
+      "suara": "Ayam berkokok jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Fajar di ladang",
+      "waktu": "2:29–2:38",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Berlutut di tanah basah ladang; jari tangan kiri menekan satu biji jagung ke tanah, sisa biji di telapak. Cahaya senter putih menyilaukan datang dari depan dan memenuhi gambar.",
+      "narasiSuara": "[calm] Kamu berlutut. [whispers] Satu biji jagung kamu tekan ke tanah basah, dalam-dalam. [tense] Lalu cahaya senter... tepat di wajahmu.",
+      "narasi": "Kamu berlutut. Satu biji jagung kamu tekan ke tanah basah, dalam-dalam. Lalu cahaya senter... tepat di wajahmu.",
+      "teksLayar": [],
+      "suara": "Langkah mendekat, senter diklik, lalu sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Mahasiswa",
+      "prompt": "Character reference sheet of Mahasiswa.\nMahasiswa, a 21-year-old Javanese university student from Yogyakarta in January 1993, a pro-democracy activist. Lean build, warm light-brown skin, narrow face with high cheekbones, tired dark eyes under thick straight brows, a straight nose, thin lips, a faint shadow of stubble; black hair slightly long and unkempt, falling over the ears and collar. Wears a faded red-and-black checked flannel shirt, unbuttoned, sleeves rolled to mid-forearm, over a plain white cotton T-shirt; worn light-blue denim jeans with frayed hems; black rubber flip-flops. A thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist, a faded green canvas shoulder bag with a long strap. Carries himself slightly hunched and alert, eyes always scanning.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter face portrait with a wary expression, one detail panel of the checked flannel pattern, wristwatch and string bracelet, and one first-person panel showing only his two hands and forearms from his own point of view, raised to chest height, both hands open and relaxed. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nHistorically accurate early-1990s Indonesian student clothing: cotton T-shirt, flannel shirt, faded jeans, rubber flip-flops, canvas bag.\nAvoid modern sneakers, smartphones, earbuds, logos or slogans on clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:10",
+      "narasi": "Kamu datang dari Yogyakarta membawa segenggam biji jagung. Tapi di terminal ini... seseorang sudah mencatat wajahmu.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at eye level, stepping down from an old 1990s intercity bus into a small-town East Java bus terminal on an overcast late afternoon in the rainy season; wet concrete, puddles, faded signboards, a roadside warung with one bare yellow bulb glowing.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The left hand is raised to chest height, clutching a handful of dry yellow corn kernels; the right hand grips the strap of a faded green canvas shoulder bag.\nIn the middle distance, standing still while the crowd moves around him, a man in his thirties with a short military-style crew cut, dark sunglasses and a plain light-blue short-sleeved shirt tucked into dark trousers writes in a small notebook while looking straight at the viewer; pen paused mid-word, jaw set, head tilted slightly, lips flat. Passengers hurry past him with bundles and woven baskets, faces turned away, unaware; they are different people from Mahasiswa: older villagers in sarongs, headscarves and faded shirts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, tense and oppressive mood, dusty ochre, faded olive and concrete grey palette with deep shadows, flat overcast light with one warm bulb glow.\nHistorically accurate small East Java bus terminal in January 1993, early-1990s buses and clothing.\nAvoid stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, identical faces, smartphones or modern vehicles, readable signs, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:22",
+      "narasi": "Bukan cuma satu orang. Di bangku warung, di dekat loket, mereka pura-pura membaca koran... lalu menulis di buku kecil setiap kali kalian lewat.",
+      "prompt": "Same character as the Mahasiswa reference image, seen only from behind as a dark shoulder and the back of his head at the left edge of the frame.\nOver-the-shoulder medium shot from a slightly low angle, inside the same rainy bus terminal at dusk, rain dripping from the edge of a corrugated tin roof.\nThree different watchers track a small group of students walking past: on a wooden warung bench a heavy-set man in a brown safari shirt lowers his newspaper just enough to peer over it, eyes narrowed; by the ticket booth a thin younger man in a white short-sleeved shirt pretends to read, his eyes sliding sideways; an older man with grey crew-cut hair scribbles in a small notebook without looking down at it. The students are different people from Mahasiswa: two young men and one young woman in plain muted T-shirts and a batik shirt, clutching their bags, glancing nervously at each other.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, tense and oppressive mood, dusty ochre, faded olive and concrete grey palette with deep shadows, dim dusk light with one warm bulb inside the warung.\nHistorically accurate 1993 East Java terminal warung with glass snack jars, wooden benches and folded newspapers.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, identical faces, readable text on newspapers or signs, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:22–0:30",
+      "narasi": "Bus kalian bergerak ke timur. Kamu menoleh ke belakang. Kendaraan itu masih di sana, membuntuti.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot from the back seat of an old intercity bus at dusk, looking back through the dusty, rain-streaked rear window at a wet two-lane road lined with dark trees; far behind, a dark vehicle follows with its headlights on, keeping the same distance.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The right hand grips the top of the worn vinyl seat back as he twists around; the left hand, lower in the frame, rests on a faded green canvas shoulder bag on his lap.\nTwo students in the seats nearby, different people from Mahasiswa with short hair and plain T-shirts, have turned too, one with brows raised and mouth half open, the other gripping the window frame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, tense mood, dusty ochre and slate grey palette with deep shadows, fading grey dusk light and two small warm headlight glows behind.\nHistorically accurate early-1990s Indonesian intercity bus interior with worn vinyl seats and curtains.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, modern cars, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:42",
+      "narasi": "Pintu masuk desa dijaga tentara bersenjata. Jip lewat pelan, lalu lewat lagi, seperti sedang menghitung kepala. Kalian masuk lewat jalan setapak, satu per satu.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium-wide shot from a low crouching position behind wet bushes beside a narrow muddy footpath at stormy dusk; in the distance, a village entrance with a small guard post where tiny faceless silhouettes of helmeted soldiers stand, and a dark green military jeep rolling slowly along the road, its headlights cutting through drizzle. Heavy storm clouds fill the sky.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The right hand pushes aside dripping leaves; the left hand, held close to the chest, grips the strap of a faded green canvas shoulder bag.\nAhead on the path, another student, a different person from Mahasiswa with short hair and a dark T-shirt, crouches low and glances back with wide eyes, one finger raised to his lips.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, menacing mood, muddy brown, dark green and charcoal palette with deep shadows, stormy dusk light with two warm headlight beams.\nHistorically accurate rural Situbondo village edge in the January 1993 rainy season, dry savanna trees and bamboo.\nAvoid close-ups of soldiers, visible soldier faces, weapons pointed at the viewer, characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:42–0:54",
+      "narasi": "Bulan lalu, tank melindas ladang jagung ini dan menabrak rumah-rumah. Pagar roboh. Beberapa rumah tinggal rangka... gentengnya dibongkar dan diangkut ke markas.",
+      "prompt": "Same character as the Mahasiswa reference image, seen small from behind at the field's edge.\nWide shot at eye level under a heavy grey storm sky: a cornfield flattened into mud with deep tank tread marks crossing it, broken stalks, a collapsed bamboo fence, and a small wooden farmhouse whose clay roof tiles have been stripped away, leaving only bare rafters; a few loose tiles lie broken on the ground.\nMahasiswa stands still at the edge of the field, shoulders dropped. Beside him another student, a different person with short hair, a plain grey T-shirt and round glasses, presses a hand over his mouth, staring at the bare rafters.\nNo tanks or soldiers are visible, only what they left behind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bleak and threatening mood, muddy brown, dark green and ash grey palette with deep shadows, cold flat storm light with a thin strip of warm low sun on the horizon.\nHistorically accurate rural Situbondo farmland and Madurese village houses with wooden frames and clay tile roofs, early 1990s.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, visible tanks, soldiers, blood, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:54–1:05",
+      "narasi": "Pak Sahri, pemilik rumah tempatmu menginap, menuang kopi. Tanahnya hanya ditawar dua ratus rupiah per meter. Kalau menanam lagi, katanya, jagungnya akan dicabut.",
+      "prompt": "Same character as the Mahasiswa reference image, sitting cross-legged on the mat at the right, listening.\nMedium shot at seated eye level inside a dim bamboo-walled farmhouse at night, lit by a single kerosene lamp on a low wooden table.\nPak Sahri, a Madurese farmer in his early fifties, wiry and sun-darkened, deep lines around the eyes, grey stubble, a worn black velvet kopiah, a faded brown short-sleeved shirt and a dark checked sarong, pours coffee from a dented enamel kettle into small ribbed glasses while speaking; eyes lowered to the glasses, mouth tight, a slight bitter downturn at the corners, his free hand gesturing flatly toward the door. Mahasiswa leans forward, brows drawn together, fist closed on his knee. Two more students, different people from Mahasiswa with short hair and plain T-shirts, sit beside him, one hugging her knees. A sack of seed corn slumps in the corner.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, heavy and uneasy mood, deep brown and amber palette with deep shadows, warm kerosene lamplight as the only light source.\nHistorically accurate early-1990s Madurese village farmhouse interior in East Java: woven bamboo walls, packed-earth floor, pandan mat, enamel kettle.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, electric lamps, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:05–1:18",
+      "narasi": "Besok pagi, kalian akan menanam bersama di ladang yang sudah dikuasai tentara. Para petani menyiapkan bibit. Spanduk sepuluh meter sudah digulung. Kamu membacanya sekali lagi.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nHigh-angle medium shot looking down at a packed-earth floor inside the same farmhouse at night, kerosene lamp glow from the side.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The right hand unrolls the end of a long rolled cloth banner painted with large black hand-painted letters, blurred and not legible; the left hand holds the rolled banner steady.\nBeyond the banner, two farmers kneel on a mat sorting seed corn into small cloth bags: an old man in a black kopiah and sarong and a woman in a loose headscarf, both working fast with their heads down, the woman glancing anxiously toward the dark doorway. They are different people from Mahasiswa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, quiet determined tension, deep brown and amber palette with deep shadows, warm kerosene lamplight.\nHistorically accurate early-1990s Madurese village farmhouse interior, hand-painted cotton protest banner.\nAvoid legible text on the banner, characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:18–1:28",
+      "narasi": "Malam turun. Kalian berkumpul di sebuah rumah di tepi desa, berdesakan, lampu teplok dikecilkan. Tak ada yang berani bicara keras.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at seated eye level inside a crowded house at the edge of the village at night; the ceiling and upper walls disappear into black darkness.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The left hand rests open on his knee; the right hand is pressed flat on the mat.\nAbout a dozen students sit packed shoulder to shoulder, faces half-lit by a kerosene lamp turned down to a tiny flame: a young woman hugs her knees with her chin on them, eyes wide; a young man stares at the door, jaw clenched; another bites his thumbnail. They are different people from Mahasiswa, in plain muted T-shirts and batik shirts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, claustrophobic anxious mood, deep umber, black and amber palette with very deep shadows, a single dimmed kerosene lamp.\nHistorically accurate early-1990s East Java village house interior with woven bamboo walls.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:28–1:36",
+      "narasi": "Yudi, kawan sekampusmu, keluar bersama seorang warga untuk mencari kabar. Katanya, sebentar saja. Jaga bibitmu.",
+      "prompt": "Same character as the Mahasiswa reference image, a dark shape in the lower left foreground watching from inside.\nMedium shot at eye level toward a narrow wooden back door at night, half open onto pure black darkness.\nYudi, a thin young man with round wire-rimmed glasses, short neat hair and a plain grey T-shirt, slips out through the door mid-step, glancing back over his shoulder toward the people inside, lips pressed together, eyes trying to look calm. Ahead of him a village man in a black kopiah and a dark sarong already half disappears into the night, one hand on the doorframe. Both are different people from Mahasiswa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ominous mood, deep umber and black palette with very deep shadows, faint amber lamplight spilling onto the threshold.\nHistorically accurate early-1990s East Java village house with a plank back door.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:36–1:45",
+      "narasi": "Satu jam. Dua jam. Kamu menatap pintu belakang itu sampai matamu perih. Pintu itu tidak pernah terbuka lagi.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nClose medium shot at seated eye level of the same closed plank back door at night, a thin black gap beneath it, the kerosene lamp flame trembling and throwing long shadows up the bamboo wall.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The fingers of the right hand rest on the face of the wristwatch on the left wrist; the left hand is clenched tight around the corn kernels.\nNo other people are in the frame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, suffocating suspense, deep umber, black and amber palette with very deep shadows, one trembling kerosene flame.\nHistorically accurate early-1990s East Java village house interior.\nAvoid stiff symmetrical poses, an open door, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:45–1:55",
+      "narasi": "Lalu terdengar ketukan. Bukan di pintu ini... di rumah sebelah. Senter menyapu dinding bambu. Mereka memeriksa rumah satu per satu.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nTight medium shot inside the pitch-dark house, the lamp now blown out; from outside, warm yellowish incandescent flashlight beams slice through the gaps of the woven bamboo wall, sweeping diagonally across the room in thin bright stripes of dust.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. The right hand is pressed flat against his chest; the left hand is pressed against the bamboo wall, a stripe of light crossing the knuckles.\nSilhouettes of students press their backs against the far wall, frozen mid-breath, one with eyes squeezed shut. They are different people from Mahasiswa. No one outside is visible, only the moving light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, terrifying suspense, near-black brown palette cut by slivers of warm yellow light, very deep shadows.\nHistorically accurate early-1990s woven bamboo village wall, incandescent battery flashlights.\nAvoid visible soldiers, weapons, characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:55–2:01",
+      "narasi": "Dari kejauhan... jeritan seorang perempuan.",
+      "prompt": "Same character as the Mahasiswa reference image, his face partly visible at the right edge, eyes wide.\nClose shot at eye level of a tight cluster of frozen faces in darkness, thin horizontal stripes of warm yellow flashlight light falling across their eyes through the bamboo gaps.\nA young woman grips the sleeve of the student next to her, knuckles pale, lips parted; a young man covers his mouth with both hands, eyes glistening; another turns his head toward the sound, brows lifted in horror; Mahasiswa holds his breath, jaw locked. The others are different people from Mahasiswa, in plain muted T-shirts. No violence is shown.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, silent horror, near-black brown palette with thin warm yellow light stripes, very deep shadows.\nHistorically accurate early-1990s East Java village house interior.\nAvoid violence, blood, visible soldiers, characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:01–2:09",
+      "narasi": "Kalian sadar. Setiap menit kalian bertahan di sini, warga yang menanggungnya. Tanpa suara, kalian memutuskan pergi.",
+      "prompt": "Same character as the Mahasiswa reference image, kneeling in the whispering circle, nodding grimly.\nMedium shot from slightly above, inside the dark house, faint grey moonlight through the bamboo gaps.\nFour students huddle in a tight circle with heads almost touching, whispering, one pointing toward the back of the house. At the kitchen doorway stands Pak Sahri, a Madurese farmer in his early fifties, wiry and sun-darkened, deep lines around the eyes, grey stubble, a worn black velvet kopiah, a faded brown short-sleeved shirt and a dark checked sarong, one hand on the doorframe, nodding slowly; worried eyes fixed on the students, mouth pressed thin. The other students are different people from Mahasiswa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, grim and urgent mood, near-black brown and cold grey palette with very deep shadows, faint moonlight.\nHistorically accurate early-1990s Madurese village house interior.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:09–2:18",
+      "narasi": "Kalian menyeberangi sawah yang tergenang. Air sampai lutut, lumpur menarik kakimu. Di belakang, sepertinya ada yang ikut melangkah.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at standing eye level, wading through a flooded rice field at night, black water up to the knees, rice stalks brushing past, a dark tree line ahead and a pale grey band of sky; far behind, out of focus, a faint warm flashlight glow.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. Both hands and the rolled sleeves are wet and streaked with dark mud. The left hand is raised above the water, holding a faded green canvas shoulder bag clear of it; the right hand pushes aside wet rice stalks.\nAhead, two students wade with their bags held over their heads, mid-stride, one glancing back with wide frightened eyes. They are different people from Mahasiswa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, tense flight, deep indigo, wet black and pale grey palette with deep shadows, predawn darkness with one distant warm glow.\nHistorically accurate East Java rice paddies in the January rainy season.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, visible soldiers, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:18–2:29",
+      "narasi": "Tapi sebagian dari kalian tetap tinggal. Sekitar empat puluh mahasiswa dan petani berkumpul di tepi ladang. Bibit dibagikan dari tangan ke tangan.",
+      "prompt": "Same character as the Mahasiswa reference image, crouching among the group in the middle ground, receiving a cloth bag.\nWide shot from a slightly high angle at the edge of a damaged cornfield just before dawn, a deep indigo sky with a thin pale line on the horizon.\nAbout forty students and farmers crouch low in a loose cluster, passing small cloth bags of seed corn from hand to hand: farmers in black kopiah and sarongs, women in headscarves, young students in muted T-shirts; faces tense and determined, several glancing toward the dark road at the far edge of the field. They are different people from Mahasiswa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, fragile and tense mood, deep indigo, wet black mud and pale grey palette with deep shadows, cold predawn light.\nHistorically accurate rural Situbondo cornfield and early-1990s village clothing.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Mahasiswa's face or outfit, identical faces, visible soldiers, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:29–2:38",
+      "narasi": "Kamu berlutut. Satu biji jagung kamu tekan ke tanah basah, dalam-dalam. Lalu cahaya senter... tepat di wajahmu.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at kneeling height, looking down and forward over the wet black mud of the cornfield in the last darkness before dawn.\nFirst-person point of view. Young man's hands and forearms with warm light-brown skin, slender fingers and short clean nails; the sleeves of a faded red-and-black checked flannel shirt rolled up to mid-forearm; a thin black cotton string bracelet and a cheap black plastic analog wristwatch on the left wrist. Both hands and the rolled sleeves are wet and streaked with dark mud. The index finger of the left hand presses a single yellow corn kernel into the soft soil, the remaining kernels resting in the palm; the right hand is braced on the ground.\nA blinding warm yellowish incandescent flashlight beam shines from directly ahead, flooding the upper part of the image with glare; whoever holds it is completely hidden behind the light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, climactic dread, deep indigo and black palette overwhelmed by harsh warm yellow glare, very deep shadows.\nHistorically accurate rural Situbondo cornfield in January 1993, incandescent battery flashlight.\nAvoid visible faces behind the light, soldiers, weapons, violence, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki muda, bernada rendah dan dekat seperti berbisik ke telinga; voice yang terlalu ceria tidak akan bisa dibuat tegang oleh tag. Hindari gaya pembaca berita.\n\n- Babak 1: waspada, tempo sedang, kalimat terakhir tiap adegan sedikit ditahan.\n- Babak 2: muram dan berat, sedikit lebih lambat di adegan 5; datar dan pahit saat menyebut dua ratus rupiah.\n- Babak 3: pelan, napas terdengar, jeda panjang di \"Satu jam. Dua jam.\"\n- Babak 4: berbisik dan tertahan; adegan 12 nyaris tanpa suara.\n- Babak 5: tempo naik di sawah, lalu melambat dan nyaris berbisik di adegan 16; kata \"wajahmu\" diucapkan tegas lalu putus.",
+    "arahanBabak": {
+      "1": "waspada, tempo sedang, kalimat terakhir tiap adegan sedikit ditahan.",
+      "2": "muram dan berat, sedikit lebih lambat di adegan 5; datar dan pahit saat menyebut dua ratus rupiah.",
+      "3": "pelan, napas terdengar, jeda panjang di \"Satu jam. Dua jam.\"",
+      "4": "berbisik dan tertahan; adegan 12 nyaris tanpa suara.",
+      "5": "tempo naik di sawah, lalu melambat dan nyaris berbisik di adegan 16; kata \"wajahmu\" diucapkan tegas lalu putus."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[nervous] Kamu datang dari Yogyakarta membawa segenggam biji jagung. [tense] Tapi di terminal ini... seseorang sudah mencatat wajahmu....\n\n[tense] Bukan cuma satu orang. [nervous] Di bangku warung, di dekat loket, mereka pura-pura membaca koran... [whispers] lalu menulis di buku kecil setiap kali kalian lewat....\n\n[serious] Bus kalian bergerak ke timur. [tense] Kamu menoleh ke belakang. [nervous] Kendaraan itu masih di sana, membuntuti....",
+    "2": "[tense] Pintu masuk desa dijaga tentara bersenjata. [nervous] Jip lewat pelan, lalu lewat lagi, seperti sedang menghitung kepala. [whispers] Kalian masuk lewat jalan setapak, satu per satu....\n\n[sad] Bulan lalu, tank melindas ladang jagung ini dan menabrak rumah-rumah. [sad] Pagar roboh. [serious] Beberapa rumah tinggal rangka... gentengnya dibongkar dan diangkut ke markas....\n\n[calm] Pak Sahri, pemilik rumah tempatmu menginap, menuang kopi. [serious] Tanahnya hanya ditawar dua ratus rupiah per meter. [resigned] Kalau menanam lagi, katanya, jagungnya akan dicabut....\n\n[serious] Besok pagi, kalian akan menanam bersama di ladang yang sudah dikuasai tentara. [calm] Para petani menyiapkan bibit. [calm] Spanduk sepuluh meter sudah digulung. [whispers] Kamu membacanya sekali lagi....",
+    "3": "[tense] Malam turun. [nervous] Kalian berkumpul di sebuah rumah di tepi desa, berdesakan, lampu teplok dikecilkan. [whispers] Tak ada yang berani bicara keras....\n\n[serious] Yudi, kawan sekampusmu, keluar bersama seorang warga untuk mencari kabar. [whispers] Katanya, sebentar saja. [whispers] Jaga bibitmu....\n\n[nervous] Satu jam. [nervous] Dua jam. [tense] Kamu menatap pintu belakang itu sampai matamu perih. [sad] Pintu itu tidak pernah terbuka lagi....",
+    "4": "[tense] Lalu terdengar ketukan. [whispers] Bukan di pintu ini... di rumah sebelah. [tense] Senter menyapu dinding bambu. [tense] Mereka memeriksa rumah satu per satu....\n\n[sad] [whispers] Dari kejauhan... jeritan seorang perempuan....\n\n[serious] Kalian sadar. [sad] Setiap menit kalian bertahan di sini, warga yang menanggungnya. [resigned] Tanpa suara, kalian memutuskan pergi....",
+    "5": "[tense] Kalian menyeberangi sawah yang tergenang. [nervous] Air sampai lutut, lumpur menarik kakimu. [whispers] Di belakang, sepertinya ada yang ikut melangkah....\n\n[serious] Tapi sebagian dari kalian tetap tinggal. [calm] Sekitar empat puluh mahasiswa dan petani berkumpul di tepi ladang. [whispers] Bibit dibagikan dari tangan ke tangan....\n\n[calm] Kamu berlutut. [whispers] Satu biji jagung kamu tekan ke tanah basah, dalam-dalam. [tense] Lalu cahaya senter... tepat di wajahmu...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Diawasi",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:25",
+      "suasana": "Waspada dan terancam, denyut pelan yang mulai mengetat",
+      "style": "Dark tense thriller underscore, low sustained synth drone, muffled heartbeat-like kick drum pulse, dry ticking clock percussion, sparse detuned piano notes, distant low metallic gong hits, uneasy and watchful, starts sparse and slowly tightens, about 85 seconds long (1:25), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, drops, guitar solo, upbeat, happy, orchestral fanfare"
+    },
+    {
+      "nomor": 2,
+      "nama": "Malam",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Mencekik, dentum jauh seperti langkah, jatuh ke hampir hening di adegan 12",
+      "style": "Ominous dark ambient, deep sub-bass rumble, dissonant low string clusters, slow irregular thuds like distant footsteps, suspenseful and claustrophobic, builds dread then drops to near silence and hangs on a single held low note, about 60 seconds long (1:00), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, melody, piano solo, drums kit, upbeat, happy"
+    },
+    {
+      "nomor": 3,
+      "nama": "Fajar",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:35",
+      "suasana": "Napas memburu, tremolo naik, putus mendadak saat senter menyala",
+      "style": "Tense cinematic suspense, fast tremolo low strings over a quickening heartbeat pulse, rising pitch tension, cold wind texture, builds steadily to a sharp peak and stops abruptly, about 35 seconds long (0:35), with a clear abrupt ending, 80 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, drops, triumphant brass, happy, fade-out"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Mesin bus diesel tua berhenti, rem angin mendesis, keramaian terminal",
+      "kataKunci": "old bus air brake hiss, bus station crowd",
+      "prompt": "An old diesel bus stops with a hiss of air brakes at a busy small-town bus station, distant chatter"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Halaman koran dibalik, pena menggores kertas",
+      "kataKunci": "newspaper page turn, pen writing paper",
+      "prompt": "A newspaper page turned slowly, then a ballpoint pen scratching quickly on paper"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Bus melaju di jalan basah, kaca bergetar",
+      "kataKunci": "bus interior rain road rumble",
+      "prompt": "Interior of an old bus driving on a wet road, rattling windows, engine rumble"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Jip lewat pelan di jalan berlumpur, gerimis",
+      "kataKunci": "jeep passing slowly mud road rain",
+      "prompt": "A military jeep driving slowly past on a muddy road in light rain, engine fading"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Angin di ladang kosong, genteng berderak",
+      "kataKunci": "wind empty field, loose roof tiles",
+      "prompt": "Cold wind over an empty flattened field, a loose clay roof tile clattering"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Kopi dituang dari ceret ke gelas",
+      "kataKunci": "pouring coffee kettle glass",
+      "prompt": "Hot coffee poured from an enamel kettle into a small glass, quiet room at night"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Jangkrik malam, napas tertahan",
+      "kataKunci": "night crickets indoor ambience",
+      "prompt": "Night crickets outside a quiet village house, people breathing nervously"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Engsel pintu kayu berderit pelan",
+      "kataKunci": "creaky wooden door slow",
+      "prompt": "A wooden back door creaking open slowly, then closing softly"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Detak jam tangan",
+      "kataKunci": "wristwatch ticking close",
+      "prompt": "Close-up ticking of a cheap analog wristwatch in silence"
+    },
+    {
+      "nomor": 10,
+      "adegan": 11,
+      "bunyi": "Ketukan pintu di kejauhan, langkah sepatu lars",
+      "kataKunci": "distant door knocking, boots footsteps gravel",
+      "prompt": "Distant firm knocking on a wooden door, heavy boots on gravel moving between houses"
+    },
+    {
+      "nomor": 11,
+      "adegan": 12,
+      "bunyi": "Jeritan perempuan sangat samar di kejauhan",
+      "kataKunci": "distant scream muffled",
+      "prompt": "A very faint muffled woman's scream far away at night, then silence"
+    },
+    {
+      "nomor": 12,
+      "adegan": 14,
+      "bunyi": "Langkah di air sawah, lumpur",
+      "kataKunci": "wading water mud footsteps",
+      "prompt": "Footsteps wading through knee-deep water and sucking mud in a rice field at night"
+    },
+    {
+      "nomor": 13,
+      "adegan": 16,
+      "bunyi": "Klik senter, lalu sunyi",
+      "kataKunci": "flashlight click on",
+      "prompt": "A metal flashlight switch clicking on, then total silence"
+    }
+  ],
+  "adeganHening": [
+    12
+  ],
+  "ulikan": {
+    "teks": "Sebelum aksi itu, petani Blangguan sudah mengadu ke DPRD. Tanpa hasil.",
+    "sumber": "Green Left Weekly, 27 Januari 1993",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mahasiswa di Blangguan, 1993",
+      "catatan": "Alternatif judul: POV: Kamu Datang untuk Menanam Jagung, Situbondo 1993 / POV: Kamu Diawasi Sejak Turun dari Bus, Blangguan 1993",
+      "caption": "Kamu datang untuk menanam jagung. Ternyata seluruh desa sudah diawasi.\n\nJanuari 1993, petani Blangguan, Situbondo, menolak ladang jagungnya dijadikan area latihan tempur. Mahasiswa dari beberapa kota datang untuk aksi tanam jagung bersama, tetapi pintu desa sudah dijaga dan rumah-rumah digeledah.\n\nKalau kamu di sana, kamu ikut mundur atau tetap menanam?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Green Left Weekly (1993), Historia (2014).\n\n#UlikSilam #sejarahindonesia #blangguan #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Mahasiswa di Blangguan, 1993",
+      "catatan": "",
+      "caption": "Kamu datang untuk menanam jagung. Ternyata seluruh desa sudah diawasi.\n\nJanuari 1993, petani Blangguan, Situbondo, menolak ladang jagungnya dijadikan area latihan tempur. Mahasiswa dari beberapa kota datang untuk aksi tanam jagung bersama, tetapi pintu desa sudah dijaga dan rumah-rumah digeledah.\n\nKalau kamu di sana, kamu ikut mundur atau tetap menanam?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Green Left Weekly (1993), Historia (2014).\n\n#UlikSilam #sejarahindonesia #blangguan #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 299,
+    "kataPerBabak": {
+      "1": 54,
+      "2": 94,
+      "3": 53,
+      "4": 41,
+      "5": 57
+    },
+    "karakterPerBabak": {
+      "1": 443,
+      "2": 788,
+      "3": 457,
+      "4": 381,
+      "5": 484
+    },
+    "jedaBunyi": 6,
+    "perkiraanDetik130": {
+      "narasi": 156.9,
+      "denganMerek": 161.9
+    },
+    "perkiraanDetik135": {
+      "narasi": 151.8,
+      "denganMerek": 156.8
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

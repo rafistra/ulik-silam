@@ -1,0 +1,21 @@
+judul: "POV: Kamu Ibnu Battutah di Samudera Pasai"
+slug: pov-ibnu-battutah-pasai
+format: POV
+lapisan: ["Sejarah"]
+latar: "Samudera Pasai, Aceh"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-11-16"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Ibnu Battutah", "Sultan Malik az-Zahir"]
+aset: {ilustrasi: 17, narasi: 24, musik: 3, sfx: 16}
+render: "out/pov-ibnu-battutah-pasai.mp4"
+tanggal_render: 2026-11-17
+tautan: {"shorts": "https://youtube.com/shorts/hlQ68ttCgqs", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7708934856931233045"}
+arsip_lama: "pov/pov-ibnu-battutah-pasai"
+catatan: ""
+metrik_shorts: {"views": 1513, "jam_tonton": 29.1, "rata_tonton_detik": 69.2, "durasi_detik": 163, "persen_ditonton": 42.5, "subscriber": 2, "impresi": 271, "ctr": 2.21, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-17", "tiktok": "2026-11-17"}
+metrik_tiktok: {"views": 676, "suka": 23, "komentar": 3, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

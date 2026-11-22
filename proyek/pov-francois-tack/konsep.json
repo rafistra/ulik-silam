@@ -1,0 +1,683 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-17T01:31:48.234Z",
+  "judulDokumen": "François Tack",
+  "judul": "POV: Kamu Kapten VOC yang Tinggal Satu Tugas Lagi Sebelum Jadi Gubernur Malaka",
+  "slug": "pov-francois-tack",
+  "versi": "v3 · 2026-10-17",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Kartasura, masa VOC",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "François Tack (tokoh nyata), ±36 tahun, kapten VOC veteran, baru diangkat Gubernur Malaka",
+  "ringkasan": {
+    "Judul": "POV: Kamu Kapten VOC yang Tinggal Satu Tugas Lagi Sebelum Jadi Gubernur Malaka",
+    "Slug": "pov-francois-tack",
+    "Versi": "v3 · 2026-10-17",
+    "Lapisan": "Sejarah",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "François Tack (tokoh nyata), ±36 tahun, kapten VOC veteran, baru diangkat Gubernur Malaka",
+    "Latar": "Kartasura, masa VOC",
+    "Sudut pandang narasi": "Orang kedua (\"kamu\"), hanya apa yang bisa dilihat dan diketahui Tack",
+    "Jumlah ilustrasi": "16 adegan + 3 lembar karakter",
+    "Nada": "Percaya diri dan megah → tegang → kelam → reflektif",
+    "Bentuk alur": "Hitung mundur menuju 8 Februari 1686",
+    "Akhir": "Twist: \"Kamu tidak pernah sampai di Malaka.\""
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Satu tugas lagi",
+      "suasana": "Percaya diri",
+      "palet": "Biru tua VOC, emas, putih kapur",
+      "cahaya": "Matahari pagi pelabuhan, hangat"
+    },
+    {
+      "babak": 2,
+      "nama": "Jalan ke pedalaman",
+      "suasana": "Waspada",
+      "palet": "Hijau lembap, cokelat tanah, kabut abu",
+      "cahaya": "Siang berawan"
+    },
+    {
+      "babak": 3,
+      "nama": "Istana yang tersenyum",
+      "suasana": "Megah tapi janggal",
+      "palet": "Amber, merah bata, emas kusam",
+      "cahaya": "Sore keemasan, bayangan panjang"
+    },
+    {
+      "babak": 4,
+      "nama": "Tanda-tanda",
+      "suasana": "Tegang",
+      "palet": "Ungu senja, biru gelap, kuning lampu minyak",
+      "cahaya": "Senja lalu malam"
+    },
+    {
+      "babak": 5,
+      "nama": "Sandiwara",
+      "suasana": "Kacau",
+      "palet": "Abu asap mesiu, oranye kusam, cokelat debu",
+      "cahaya": "Pagi tertutup asap"
+    },
+    {
+      "babak": 6,
+      "nama": "Malaka",
+      "suasana": "Reflektif",
+      "palet": "Biru dingin, abu perak, sedikit emas",
+      "cahaya": "Senja pucat di laut"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Satu tugas lagi (Batavia)",
+    "2": "Jalan ke pedalaman",
+    "3": "Istana yang tersenyum",
+    "4": "Tanda-tanda",
+    "5": "Sandiwara",
+    "6": "Malaka"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Satu tugas lagi (Batavia)",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan Tack memegang surat pengangkatan bersegel; dari jendela kastel tampak kapal-kapal di pelabuhan Batavia",
+      "narasiSuara": "Kamu baru saja diangkat menjadi Gubernur Malaka. Tinggal satu tugas lagi. Satu perjalanan ke pedalaman Jawa.",
+      "narasi": "Kamu baru saja diangkat menjadi Gubernur Malaka. Tinggal satu tugas lagi. Satu perjalanan ke pedalaman Jawa.",
+      "teksLayar": [
+        "Batavia, November 1685"
+      ],
+      "suara": "Camar, lonceng kapal",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Satu tugas lagi (Batavia)",
+      "waktu": "0:08–0:17",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Tack berdiri di benteng Kastel Batavia, tangan di gagang pedang, kapal VOC di belakang",
+      "narasiSuara": "Namamu François Tack. Kapten Kompeni. Kamu ikut menyerbu Kediri. Kamu memimpin pasukan yang menaklukkan Banten. Kamu terbiasa menang.",
+      "narasi": "Namamu François Tack. Kapten Kompeni. Kamu ikut menyerbu Kediri. Kamu memimpin pasukan yang menaklukkan Banten. Kamu terbiasa menang.",
+      "teksLayar": [
+        "Kapten François Tack"
+      ],
+      "suara": "Drum militer pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Satu tugas lagi (Batavia)",
+      "waktu": "0:17–0:30",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Tack di meja kerja dengan tumpukan surat perintah tebal; istrinya tampak dari belakang di ambang pintu",
+      "narasiSuara": "Perintahmu tebal. Selesaikan utang Raja Mataram kepada Kompeni. Dan bawa pulang satu buronan: Untung Surapati. Istrimu menunggu di Batavia. Kamu berjanji ini tidak akan lama.",
+      "narasi": "Perintahmu tebal. Selesaikan utang Raja Mataram kepada Kompeni. Dan bawa pulang satu buronan: Untung Surapati. Istrimu menunggu di Batavia. Kamu berjanji ini tidak akan lama.",
+      "teksLayar": [
+        "Misi: utang Mataram + Untung Surapati"
+      ],
+      "suara": "Kertas dibalik, pena bulu",
+      "hening": false,
+      "epilog": false,
+      "kata": 25
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Jalan ke pedalaman",
+      "waktu": "0:30–0:42",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Surapati dan pengikut Bali-nya berdiri di punggung bukit, setengah siluet, seperti yang dibayangkan Tack",
+      "narasiSuara": "Kamu kenal nama itu. Bekas budak dari Bali di Batavia. Pernah bertugas untuk Kompeni, lalu berbalik dan membunuh serdadunya. Kini ia berlindung di istana raja.",
+      "narasi": "Kamu kenal nama itu. Bekas budak dari Bali di Batavia. Pernah bertugas untuk Kompeni, lalu berbalik dan membunuh serdadunya. Kini ia berlindung di istana raja.",
+      "teksLayar": [
+        "Untung Surapati, buronan Kompeni"
+      ],
+      "suara": "Angin, gemerisik ilalang",
+      "hening": false,
+      "epilog": false,
+      "kata": 25
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Jalan ke pedalaman",
+      "waktu": "0:42–0:53",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari atas kuda, tangan bersarung memegang tali kekang; barisan serdadu dan kuli di jalan tanah; Merbabu dan Merapi di kejauhan",
+      "narasiSuara": "Dari Semarang, rombonganmu bergerak ke selatan. Ungaran. Salatiga. Lalu Merbabu dan Merapi menjulang di cakrawala. Setiap desa yang kamu lewati mendadak sunyi.",
+      "narasi": "Dari Semarang, rombonganmu bergerak ke selatan. Ungaran. Salatiga. Lalu Merbabu dan Merapi menjulang di cakrawala. Setiap desa yang kamu lewati mendadak sunyi.",
+      "teksLayar": [
+        "Semarang → Kartasura"
+      ],
+      "suara": "Derap kuda, langkah barisan",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Istana yang tersenyum",
+      "waktu": "0:53–1:03",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Memasuki halaman keraton; pejabat Jawa menunduk; jauh di pendopo duduk Amangkurat II",
+      "narasiSuara": "Awal Februari 1686. Kartasura, istana baru Mataram. Gerbang dibuka untukmu. Para pejabat menunduk hormat. Semua sopan. Semua tersenyum. Terlalu ramah, pikirmu.",
+      "narasi": "Awal Februari 1686. Kartasura, istana baru Mataram. Gerbang dibuka untukmu. Para pejabat menunduk hormat. Semua sopan. Semua tersenyum. Terlalu ramah, pikirmu.",
+      "teksLayar": [
+        "Kartasura, Februari 1686"
+      ],
+      "suara": "Gamelan sayup, gerbang kayu berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Istana yang tersenyum",
+      "waktu": "1:03–1:15",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Dari balik bahu Tack: Amangkurat II di pendopo berbusana beludru Eropa berenda emas, keris di pinggang",
+      "narasiSuara": "Lalu kamu melihatnya. Susuhunan Amangkurat Kedua, raja yang naik takhta berkat Kompeni. Ia memakai pakaian ala Eropa. Ia dijuluki Sunan Amral. Sang Admiral.",
+      "narasi": "Lalu kamu melihatnya. Susuhunan Amangkurat Kedua, raja yang naik takhta berkat Kompeni. Ia memakai pakaian ala Eropa. Ia dijuluki Sunan Amral. Sang Admiral.",
+      "teksLayar": [
+        "Amangkurat II · Sunan Amral"
+      ],
+      "suara": "Gong pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Istana yang tersenyum",
+      "waktu": "1:15–1:26",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Kilas balik bernuansa sepia: Tack muda memegang mahkota emas di tengah reruntuhan keraton Kediri",
+      "narasiSuara": "Raja ini sudah mengenalmu. Delapan tahun lalu di Kediri, kamu menemukan mahkota emas Majapahit, kebanggaan dinastinya. Kamu tidak mengembalikannya. Kamu menjualnya kepadanya. Seribu real.",
+      "narasi": "Raja ini sudah mengenalmu. Delapan tahun lalu di Kediri, kamu menemukan mahkota emas Majapahit, kebanggaan dinastinya. Kamu tidak mengembalikannya. Kamu menjualnya kepadanya. Seribu real.",
+      "teksLayar": [
+        "Kediri, 1678"
+      ],
+      "suara": "Api berderak, logam berdenting",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "Tanda-tanda",
+      "waktu": "1:26–1:37",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tack berdiri tegang di pendopo; raja tersenyum; dua pejabat saling melirik di belakang",
+      "narasiSuara": "Setiap kali kamu menyebut nama Surapati, jawabannya selalu sama: ditunda, dialihkan, dibalas senyum. Para pejabat saling melirik. Kamu mulai tidak sabar.",
+      "narasi": "Setiap kali kamu menyebut nama Surapati, jawabannya selalu sama: ditunda, dialihkan, dibalas senyum. Para pejabat saling melirik. Kamu mulai tidak sabar.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik, kipas",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Tanda-tanda",
+      "waktu": "1:37–1:48",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Berjalan di jalan Kartasura; lelaki Bali bersenjata menatap; Surapati samar di antara mereka",
+      "narasiSuara": "Di jalan-jalan Kartasura, orang Bali bersenjata berjalan bebas. Mereka menatapmu lama. Kamu mendengar kabar burung: istana tahu lebih banyak dari yang diucapkannya.",
+      "narasi": "Di jalan-jalan Kartasura, orang Bali bersenjata berjalan bebas. Mereka menatapmu lama. Kamu mendengar kabar burung: istana tahu lebih banyak dari yang diucapkannya.",
+      "teksLayar": [],
+      "suara": "Langkah, keramaian pasar meredup",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Tanda-tanda",
+      "waktu": "1:48–1:57",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Malam. Tack sendirian di bawah lampu minyak, menatap pedangnya",
+      "narasiSuara": "Kamu sudah menghadapi Trunajaya. Kamu sudah merebut Banten. Apa yang bisa dilakukan satu buronan kepadamu?",
+      "narasi": "Kamu sudah menghadapi Trunajaya. Kamu sudah merebut Banten. Apa yang bisa dilakukan satu buronan kepadamu?",
+      "teksLayar": [],
+      "suara": "Musik turun; jangkrik, nyala lampu; jeda 1,5 detik sesudah narasi",
+      "hening": true,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 12,
+      "babak": 5,
+      "namaBabak": "Sandiwara",
+      "waktu": "1:57–2:06",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi. Tack di atas kuda memimpin barisan serdadu keluar dari pos",
+      "narasiSuara": "Delapan Februari 1686. Kabar datang: pasukan istana mengepung rumah Surapati. Raja akhirnya membantumu. Kamu memimpin pasukanmu ke sana.",
+      "narasi": "Delapan Februari 1686. Kabar datang: pasukan istana mengepung rumah Surapati. Raja akhirnya membantumu. Kamu memimpin pasukanmu ke sana.",
+      "teksLayar": [
+        "8 Februari 1686"
+      ],
+      "suara": "Genderang, derap",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Sandiwara",
+      "waktu": "2:06–2:15",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Asap mesiu dan debu; sosok berpakaian Bali menyerbu dari segala arah; siluet Surapati di kejauhan",
+      "narasiSuara": "Teriakan. Debu. Asap mesiu. Pengepungan itu hanya sandiwara. Orang-orang berpakaian Bali menyerbu dari segala arah. Kamu terlambat menyadarinya.",
+      "narasi": "Teriakan. Debu. Asap mesiu. Pengepungan itu hanya sandiwara. Orang-orang berpakaian Bali menyerbu dari segala arah. Kamu terlambat menyadarinya.",
+      "teksLayar": [],
+      "suara": "Tembakan musket, teriakan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Sandiwara",
+      "waktu": "2:15–2:25",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Wajah-wajah penyerang dari dekat, kain Bali menutupi seragam prajurit keraton; serdadu VOC rebah (tanpa darah)",
+      "narasiSuara": "Sebagian wajah itu kamu kenali. Mereka bukan orang Bali. Mereka orang istana. Di sekelilingmu, serdadumu berjatuhan satu per satu.",
+      "narasi": "Sebagian wajah itu kamu kenali. Mereka bukan orang Bali. Mereka orang istana. Di sekelilingmu, serdadumu berjatuhan satu per satu.",
+      "teksLayar": [],
+      "suara": "Denting pedang, napas berat",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Malaka",
+      "waktu": "2:25–2:35",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Menatap langit lewat asap; gagang pedang lepas dari tangan bersarung; cahaya memudar",
+      "narasiSuara": "Pedangmu terasa berat. Suara-suara menjauh. Yang terakhir kamu pikirkan bukan Kediri, bukan Banten. Tapi kursi gubernur yang menunggumu di Malaka.",
+      "narasi": "Pedangmu terasa berat. Suara-suara menjauh. Yang terakhir kamu pikirkan bukan Kediri, bukan Banten. Tapi kursi gubernur yang menunggumu di Malaka.",
+      "teksLayar": [],
+      "suara": "Detak jantung melambat, dengung telinga",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Malaka",
+      "waktu": "2:35–2:47",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Tanpa tokoh. Senja di laut; kapal berlayar menjauh ke arah Malaka; topi Tack tergeletak di dermaga",
+      "narasiSuara": "Sekitar tujuh puluh lima serdadu Eropa tewas hari itu, termasuk kamu. Surapati pergi ke timur dan menjadi penguasa Pasuruan. Dan kamu tidak pernah sampai di Malaka.",
+      "narasi": "Sekitar tujuh puluh lima serdadu Eropa tewas hari itu, termasuk kamu. Surapati pergi ke timur dan menjadi penguasa Pasuruan. Dan kamu tidak pernah sampai di Malaka.",
+      "teksLayar": [
+        "±75 serdadu Eropa tewas",
+        "Untung Surapati: Pahlawan Nasional (1975)"
+      ],
+      "suara": "Ombak, lonceng kapal, lalu hening",
+      "hening": false,
+      "epilog": true,
+      "kata": 26
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "François Tack",
+      "prompt": "Character reference sheet of a Dutch VOC army captain in his mid-thirties, 1680s, lean build, tanned skin, sharp nose, thin dark moustache, shoulder-length dark brown wavy hair, wide-brimmed black felt hat, knee-length dark navy wool justaucorps coat with large turned-back cuffs and brass buttons, white linen cravat, orange silk officer's sash, buff leather baldric with a smallsword, dark breeches, tall brown riding boots. Three full-body views side by side: front, side profile, back. Neutral standing pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate late 17th-century Dutch military dress. Vertical 9:16 aspect ratio, figures in the middle third, empty space in the top third. Avoid text, letters, labels, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Amangkurat II",
+      "prompt": "Character reference sheet of a Javanese king of the 1680s, mature man, dark brown skin, neat black moustache, calm unreadable smile, wearing European-style clothing as described in Javanese chronicles: an open three-piece velvet suit trimmed with gold lace, knee breeches buttoned at the knee, stockings, buckled shoes and a dark hat, a Javanese kris tucked at his waist. Three full-body views side by side: front, side profile, back. Dignified standing pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate late 17th-century Javanese royal figure in European dress. Vertical 9:16 aspect ratio, figures in the middle third, empty space in the top third. Avoid text, letters, labels, watermarks, modern objects, caricature, exaggerated features.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Untung Surapati",
+      "prompt": "Character reference sheet of a Balinese warrior leader in his mid-twenties, 1680s, dark brown skin, strong jaw, long black hair tied under a simple white udeng headcloth, bare muscular chest with a cloth sash, patterned Balinese kamben wrapped to the knees, a kris at his back and a spear in hand, steady intense gaze. Three full-body views side by side: front, side profile, back. Calm standing pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate late 17th-century Balinese warrior dress. Vertical 9:16 aspect ratio, figures in the middle third, empty space in the top third. Avoid text, letters, labels, watermarks, modern objects, caricature, exaggerated features.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Kamu baru saja diangkat menjadi Gubernur Malaka. Tinggal satu tugas lagi. Satu perjalanan ke pedalaman Jawa.",
+      "prompt": "First-person view through a tall window of Batavia Castle, the viewer's own hands at the lower edge of the middle third holding an unfolded letter with a red wax seal, dark navy wool coat cuffs with brass buttons and white lace at the wrists. Beyond the window, the harbour of Batavia with Dutch East India Company ships, white sails and morning haze. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of deep navy, warm gold and chalk white, warm morning harbour light. Historically accurate 1685 Batavia harbour and castle interior. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, readable writing, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:17",
+      "narasi": "Namamu François Tack. Kapten Kompeni. Kamu ikut menyerbu Kediri. Kamu memimpin pasukan yang menaklukkan Banten. Kamu terbiasa menang.",
+      "prompt": "Same character as the François Tack reference image. The Dutch VOC captain stands confidently on the stone rampart of Batavia Castle, one hand resting on the hilt of his smallsword, chin slightly raised, Dutch East India Company ships and a red-white-blue flag behind him. Medium full shot, low angle. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of deep navy, warm gold and chalk white, bright morning light. Historically accurate 1685 Batavia Castle. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:30",
+      "narasi": "Perintahmu tebal. Selesaikan utang Raja Mataram kepada Kompeni. Dan bawa pulang satu buronan: Untung Surapati. Istrimu menunggu di Batavia. Kamu berjanji ini tidak akan lama.",
+      "prompt": "Same character as the François Tack reference image. The Dutch VOC captain sits at a heavy wooden desk reading a thick stack of handwritten orders tied with ribbon, a quill and inkwell beside him. In the background doorway stands a young Dutch woman seen only from behind, wearing a dark 1680s gown with a white lace collar, her face not visible. Interior of a Batavia townhouse with tiled floor and shutters. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of deep navy, warm gold and chalk white, soft window light. Historically accurate 1685 Dutch colonial interior. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, readable writing, watermarks, modern objects, caricature, the woman's face.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:42",
+      "narasi": "Kamu kenal nama itu. Bekas budak dari Bali di Batavia. Pernah bertugas untuk Kompeni, lalu berbalik dan membunuh serdadunya. Kini ia berlindung di istana raja.",
+      "prompt": "Same character as the Untung Surapati reference image. The Balinese warrior leader stands on a grassy ridge in half silhouette against a pale cloudy sky, spear upright, a small band of Balinese followers behind him, tall wild grass moving in the wind. Medium full shot from slightly below, mysterious and calm. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of humid green, earth brown and misty grey, overcast light. Historically accurate 1680s West Java highland landscape and Balinese warrior dress. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:42–0:53",
+      "narasi": "Dari Semarang, rombonganmu bergerak ke selatan. Ungaran. Salatiga. Lalu Merbabu dan Merapi menjulang di cakrawala. Setiap desa yang kamu lewati mendadak sunyi.",
+      "prompt": "First-person view from horseback, the viewer's own brown leather-gloved hands holding the reins at the lower edge of the middle third, the horse's ears visible. Ahead, a column of Dutch East India Company soldiers with muskets and Javanese porters with shoulder poles walks along a dirt road between rice fields and a quiet village of bamboo houses, two large volcanoes, Merbabu and Merapi, rising on the horizon. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of humid green, earth brown and misty grey, overcast midday light. Historically accurate 1686 Central Java countryside. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:53–1:03",
+      "narasi": "Awal Februari 1686. Kartasura, istana baru Mataram. Gerbang dibuka untukmu. Para pejabat menunduk hormat. Semua sopan. Semua tersenyum. Terlalu ramah, pikirmu.",
+      "prompt": "Same character as the Amangkurat II reference image. First-person view walking through an open wooden gate into the courtyard of a newly built Javanese royal court, the viewer's own navy coat cuffs with brass buttons visible at the lower edge of the middle third. Javanese court officials in batik and headcloths kneel and bow politely along both sides, smiling. Far ahead, under a large open pendopo pavilion with wooden pillars and a joglo roof, sits a small distant figure of the king. Tall banyan trees. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of amber, brick red and dull gold, golden afternoon light with long shadows. Historically accurate 1686 Javanese court of Kartasura. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:03–1:15",
+      "narasi": "Lalu kamu melihatnya. Susuhunan Amangkurat Kedua, raja yang naik takhta berkat Kompeni. Ia memakai pakaian ala Eropa. Ia dijuluki Sunan Amral. Sang Admiral.",
+      "prompt": "Same character as the François Tack reference image. Same character as the Amangkurat II reference image. Over-the-shoulder shot from behind the Dutch VOC captain, his black hat and navy coat blurred in the foreground at one side. In focus, the Javanese king sits on a raised seat in an open pendopo pavilion, wearing his open velvet European suit trimmed with gold lace, knee breeches, stockings, buckled shoes and dark hat, a kris at his waist, calm unreadable smile. Court attendants kneel around him. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of amber, brick red and dull gold, warm afternoon light. Historically accurate 1686 Javanese court of Kartasura. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature, exaggerated features.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:15–1:26",
+      "narasi": "Raja ini sudah mengenalmu. Delapan tahun lalu di Kediri, kamu menemukan mahkota emas Majapahit, kebanggaan dinastinya. Kamu tidak mengembalikannya. Kamu menjualnya kepadanya. Seribu real.",
+      "prompt": "Same character as the François Tack reference image, but eight years younger and without the hat, coat dusty. Flashback scene: the Dutch VOC officer stands in a ruined, looted Javanese palace hall at Kediri, holding up an ornate old Javanese golden crown, examining it with a satisfied look, embers and scattered chests around him. Sepia-toned flashback mood. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of sepia brown, dull gold and ember orange, firelight. Historically accurate 1678 Javanese palace ruins. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, bodies, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:26–1:37",
+      "narasi": "Setiap kali kamu menyebut nama Surapati, jawabannya selalu sama: ditunda, dialihkan, dibalas senyum. Para pejabat saling melirik. Kamu mulai tidak sabar.",
+      "prompt": "Same character as the François Tack reference image. Same character as the Amangkurat II reference image. Inside the pendopo pavilion at dusk, the Dutch VOC captain stands stiffly with clenched jaw, hat in hand, facing the seated Javanese king who smiles politely and gestures as if to postpone. Behind the king, two Javanese officials exchange a sideways glance. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of dusk violet, dark blue and lamp yellow, fading evening light. Historically accurate 1686 Javanese court of Kartasura. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature, exaggerated features.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:37–1:48",
+      "narasi": "Di jalan-jalan Kartasura, orang Bali bersenjata berjalan bebas. Mereka menatapmu lama. Kamu mendengar kabar burung: istana tahu lebih banyak dari yang diucapkannya.",
+      "prompt": "Same character as the Untung Surapati reference image. First-person view walking down an earthen street of Kartasura at dusk, the viewer's own navy coat sleeve and hand on a sword hilt at the lower edge of the middle third. Along the street, armed Balinese men with spears and kris stand still and stare at the viewer; among them, half in shadow, the Balinese warrior leader watches calmly. Wooden houses, a fading market, oil lamps being lit. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of dusk violet, dark blue and lamp yellow. Historically accurate 1686 Javanese town. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:48–1:57",
+      "narasi": "Kamu sudah menghadapi Trunajaya. Kamu sudah merebut Banten. Apa yang bisa dilakukan satu buronan kepadamu?",
+      "prompt": "Same character as the François Tack reference image. Night, the Dutch VOC captain sits alone on a wooden bench in a simple lodging room, coat unbuttoned, hat beside him, holding his smallsword across his knees and staring at the blade in the glow of a single oil lamp, deep shadows around him. Quiet, still, contemplative. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of dark blue and warm lamp yellow, single-source lamplight. Historically accurate 1686 Javanese lodging interior. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:57–2:06",
+      "narasi": "Delapan Februari 1686. Kabar datang: pasukan istana mengepung rumah Surapati. Raja akhirnya membantumu. Kamu memimpin pasukanmu ke sana.",
+      "prompt": "Same character as the François Tack reference image. Early morning, the Dutch VOC captain rides a brown horse at the head of a column of Dutch East India Company musketeers marching out of a wooden stockade, pointing his sword forward with a determined face, a drummer behind him, thin smoke rising far ahead over the rooftops. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of smoke grey, dull orange and dusty brown, hazy morning light. Historically accurate 1686 Kartasura outskirts and VOC soldiers. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:06–2:15",
+      "narasi": "Teriakan. Debu. Asap mesiu. Pengepungan itu hanya sandiwara. Orang-orang berpakaian Bali menyerbu dari segala arah. Kamu terlambat menyadarinya.",
+      "prompt": "Same character as the Untung Surapati reference image. First-person view in a chaotic courtyard filled with musket smoke and dust, the viewer's own gloved hand raising a smallsword at the lower edge of the middle third. Fighters dressed in Balinese cloth and headcloths with spears and kris charge out of the smoke from several directions; in the far background, the silhouette of the Balinese warrior leader stands still with his spear. Motion, tension, no injuries shown. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of smoke grey, dull orange and dusty brown, light diffused by smoke. Historically accurate 1686 Javanese court courtyard. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, injuries, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:15–2:25",
+      "narasi": "Sebagian wajah itu kamu kenali. Mereka bukan orang Bali. Mereka orang istana. Di sekelilingmu, serdadumu berjatuhan satu per satu.",
+      "prompt": "First-person close view: two Javanese palace soldiers rush toward the viewer, Balinese cloth loosely wrapped over Javanese court soldier clothing, the batik of their court dress showing underneath, faces determined. Behind them in the smoke, Dutch East India Company soldiers in navy coats are falling backwards and lying still on the ground, shown only as distant silhouettes. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of smoke grey, dull orange and dusty brown. Historically accurate 1686 Javanese court soldiers and VOC soldiers. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, injuries, weapons striking bodies, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:25–2:35",
+      "narasi": "Pedangmu terasa berat. Suara-suara menjauh. Yang terakhir kamu pikirkan bukan Kediri, bukan Banten. Tapi kursi gubernur yang menunggumu di Malaka.",
+      "prompt": "First-person view lying on the ground looking up at a pale sky through drifting smoke, the viewer's own leather-gloved hand loosening its grip on a smallsword hilt at the lower edge of the middle third, a black felt hat fallen nearby. The edges of the image fade softly into white haze, a calm, quiet, dreamlike mood. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of cold blue, silver grey and a touch of gold, soft fading light. Historically accurate 1686 setting. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid blood, gore, visible wounds, injuries, faces of attackers, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:35–2:47",
+      "narasi": "Sekitar tujuh puluh lima serdadu Eropa tewas hari itu, termasuk kamu. Surapati pergi ke timur dan menjadi penguasa Pasuruan. Dan kamu tidak pernah sampai di Malaka.",
+      "prompt": "An empty wooden pier at dusk on the north coast of Java, a black felt hat with a wide brim resting alone on the planks in the foreground, and a Dutch East India Company ship sailing away toward the horizon under a pale sky, its sails catching the last light. No people. Quiet, melancholic, reflective. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of cold blue, silver grey and a touch of gold, pale dusk light over the sea. Historically accurate late 17th-century Javanese harbour and VOC ship. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid people, blood, gore, text, letters, watermarks, modern objects, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "- Laki-laki dewasa, suara rendah dan hangat, bahasa Indonesia baku tanpa logat kuat.\n- Tempo ±132 kata per menit. Jeda 0,5 detik di setiap titik, 1 detik sebelum kalimat menohok (\"Terlalu ramah, pikirmu.\", \"Seribu real.\", \"Mereka orang istana.\").\n- Nada: percaya diri di babak 1–2, makin pelan dan waspada di babak 3–4, tertahan di babak 5, nyaris berbisik di adegan 15, datar dan tenang di adegan 16.\n- Pelafalan: \"François\" dibaca *fran-SWA*, \"Tack\" dibaca *tak*, \"Amral\" dibaca *am-RAL*.\n- Jika memakai TTS, buat per adegan dan dengarkan ulang nama-nama di atas.",
+    "arahanBabak": {}
+  },
+  "narasiLengkap": {
+    "1": "Kamu baru saja diangkat menjadi Gubernur Malaka. Tinggal satu tugas lagi. Satu perjalanan ke pedalaman Jawa....\n\nNamamu François Tack. Kapten Kompeni. Kamu ikut menyerbu Kediri. Kamu memimpin pasukan yang menaklukkan Banten. Kamu terbiasa menang....\n\nPerintahmu tebal. Selesaikan utang Raja Mataram kepada Kompeni. Dan bawa pulang satu buronan: Untung Surapati. Istrimu menunggu di Batavia. Kamu berjanji ini tidak akan lama....",
+    "2": "Kamu kenal nama itu. Bekas budak dari Bali di Batavia. Pernah bertugas untuk Kompeni, lalu berbalik dan membunuh serdadunya. Kini ia berlindung di istana raja....\n\nDari Semarang, rombonganmu bergerak ke selatan. Ungaran. Salatiga. Lalu Merbabu dan Merapi menjulang di cakrawala. Setiap desa yang kamu lewati mendadak sunyi....",
+    "3": "Awal Februari 1686. Kartasura, istana baru Mataram. Gerbang dibuka untukmu. Para pejabat menunduk hormat. Semua sopan. Semua tersenyum. Terlalu ramah, pikirmu....\n\nLalu kamu melihatnya. Susuhunan Amangkurat Kedua, raja yang naik takhta berkat Kompeni. Ia memakai pakaian ala Eropa. Ia dijuluki Sunan Amral. Sang Admiral....\n\nRaja ini sudah mengenalmu. Delapan tahun lalu di Kediri, kamu menemukan mahkota emas Majapahit, kebanggaan dinastinya. Kamu tidak mengembalikannya. Kamu menjualnya kepadanya. Seribu real....",
+    "4": "Setiap kali kamu menyebut nama Surapati, jawabannya selalu sama: ditunda, dialihkan, dibalas senyum. Para pejabat saling melirik. Kamu mulai tidak sabar....\n\nDi jalan-jalan Kartasura, orang Bali bersenjata berjalan bebas. Mereka menatapmu lama. Kamu mendengar kabar burung: istana tahu lebih banyak dari yang diucapkannya....\n\nKamu sudah menghadapi Trunajaya. Kamu sudah merebut Banten. Apa yang bisa dilakukan satu buronan kepadamu?...",
+    "5": "Delapan Februari 1686. Kabar datang: pasukan istana mengepung rumah Surapati. Raja akhirnya membantumu. Kamu memimpin pasukanmu ke sana....\n\nTeriakan. Debu. Asap mesiu. Pengepungan itu hanya sandiwara. Orang-orang berpakaian Bali menyerbu dari segala arah. Kamu terlambat menyadarinya....\n\nSebagian wajah itu kamu kenali. Mereka bukan orang Bali. Mereka orang istana. Di sekelilingmu, serdadumu berjatuhan satu per satu....",
+    "6": "Pedangmu terasa berat. Suara-suara menjauh. Yang terakhir kamu pikirkan bukan Kediri, bukan Banten. Tapi kursi gubernur yang menunggumu di Malaka....\n\nSekitar tujuh puluh lima serdadu Eropa tewas hari itu, termasuk kamu. Surapati pergi ke timur dan menjadi penguasa Pasuruan. Dan kamu tidak pernah sampai di Malaka...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Janji Batavia",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±0:55",
+      "suasana": "Megah, percaya diri, sedikit muram di ujung",
+      "style": "baroque Dutch march, harpsichord, solo trumpet, snare drum, low strings, confident and stately, starts bright, slowly turns uneasy with a minor chord at the end, 92 BPM, cinematic, no vocals",
+      "exclude": "vocals, electric guitar, synth, EDM"
+    },
+    {
+      "nomor": 2,
+      "nama": "Istana Tersenyum",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "±1:05",
+      "suasana": "Gamelan pelan, anggun, makin tegang",
+      "style": "Javanese court gamelan slendro, slow gong cycles, soft kendang, saron and bonang, elegant but unsettling, a low cello drone grows underneath, starts sparse and polite, tension builds, ends almost silent, 70 BPM, cinematic, no vocals",
+      "exclude": "vocals, pop, electronic drums, synth"
+    },
+    {
+      "nomor": 3,
+      "nama": "Sandiwara",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "±0:50",
+      "suasana": "Perkusi mendesak, lalu runtuh ke sunyi",
+      "style": "cinematic battle tension, fast kendang and war drums, gamelan clashes, low strings ostinato, chaotic and urgent, then collapses into a single slow cello line and a faint harpsichord echo of a march, fades to silence, 120 BPM falling to 60, no vocals",
+      "exclude": "vocals, rock, electric guitar, EDM"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Camar dan lonceng kapal",
+      "kataKunci": "seagulls harbor, ship bell",
+      "prompt": "Seagulls and a distant wooden ship bell in a calm 17th-century harbour"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Drum militer pelan",
+      "kataKunci": "military snare roll, marching drum",
+      "prompt": "Slow solo military snare drum roll outdoors"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Kertas dan pena bulu",
+      "kataKunci": "paper rustle, quill writing",
+      "prompt": "Thick paper pages turning and a quill scratching on paper"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Angin di ilalang",
+      "kataKunci": "wind grass, highland wind",
+      "prompt": "Steady wind through tall dry grass on a hill"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Derap kuda dan barisan",
+      "kataKunci": "horse walking dirt, marching soldiers",
+      "prompt": "Horses walking on a dirt road with a column of soldiers marching"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Gerbang kayu dan gamelan jauh",
+      "kataKunci": "wooden gate creak, distant gamelan",
+      "prompt": "Heavy wooden gate creaking open, faint gamelan in the distance"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Gong",
+      "kataKunci": "gong hit soft",
+      "prompt": "Single soft Javanese gong stroke with long decay"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Api dan logam",
+      "kataKunci": "fire crackle, metal clink",
+      "prompt": "Fire crackling in ruins, a heavy gold object clinking"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Bisik-bisik",
+      "kataKunci": "whispers crowd, hand fan",
+      "prompt": "Quiet whispers in a large open hall, a fan fluttering"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Pasar meredup",
+      "kataKunci": "market ambience evening, footsteps dirt",
+      "prompt": "Evening market sounds fading, footsteps on packed earth"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Jangkrik dan lampu",
+      "kataKunci": "crickets night, oil lamp",
+      "prompt": "Crickets at night, faint flicker of an oil lamp flame"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Genderang dan derap",
+      "kataKunci": "war drum march, horse trot",
+      "prompt": "Marching drum and a trotting horse leading soldiers"
+    },
+    {
+      "nomor": 13,
+      "adegan": 13,
+      "bunyi": "Musket dan teriakan",
+      "kataKunci": "musket shots, battle shouts",
+      "prompt": "Distant flintlock musket volleys and shouting in smoke"
+    },
+    {
+      "nomor": 14,
+      "adegan": 14,
+      "bunyi": "Denting pedang",
+      "kataKunci": "sword clash, heavy breathing",
+      "prompt": "Swords clashing at close range, heavy breathing"
+    },
+    {
+      "nomor": 15,
+      "adegan": 15,
+      "bunyi": "Detak jantung dan dengung",
+      "kataKunci": "heartbeat slowing, ear ringing",
+      "prompt": "Slow heartbeat fading with a soft high ringing tone"
+    },
+    {
+      "nomor": 16,
+      "adegan": 16,
+      "bunyi": "Ombak dan lonceng",
+      "kataKunci": "waves pier, ship bell distant",
+      "prompt": "Gentle waves under a wooden pier, a ship bell far away"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Siapa yang sebenarnya menjebak Tack: Surapati atau raja?",
+    "sumber": "-",
+    "kata": 8,
+    "pertanyaan": true
+  },
+  "caption": [
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Kapten VOC yang Tinggal Satu Tugas Lagi Sebelum Jadi Gubernur Malaka",
+      "catatan": "**Judul di layar sampul:** POV: Tinggal satu tugas lagi sebelum jadi Gubernur Malaka",
+      "caption": "POV: Kamu Kapten François Tack. Tinggal satu tugas lagi sebelum jadi Gubernur Malaka. Tugasnya: menangkap Untung Surapati di istana Kartasura, 1686.\n\nBagi VOC, Surapati adalah pembunuh. Bagi orang Jawa, ia pejuang. Menurutmu, siapa dia? 👇\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: M.C. Ricklefs, arsip VOC (ANRI Sejarah Nusantara).\n\n#UlikSilam #sejarahindonesia #untungsurapati #voc #pov"
+    },
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Kapten VOC yang Dikirim Menangkap Untung Surapati (1686)",
+      "catatan": "",
+      "caption": "Kamu baru diangkat jadi Gubernur Malaka. Tapi sebelum berangkat, Kompeni memberimu satu tugas terakhir: menagih utang Raja Mataram dan membawa pulang Untung Surapati dari istana Kartasura.\n\nBagi VOC, Surapati adalah pembunuh. Bagi orang Jawa, ia pejuang, dan kini Pahlawan Nasional Indonesia. Menurutmu, siapa dia?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: M.C. Ricklefs, War, Culture and Economy in Java 1677–1726; arsip VOC di ANRI (Sejarah Nusantara). Wajah tokoh adalah ilustrasi rekaan.\n\n#UlikSilam #sejarahindonesia #untungsurapati #kartasura #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 6,
+    "totalKata": 333,
+    "kataPerBabak": {
+      "1": 59,
+      "2": 47,
+      "3": 68,
+      "4": 58,
+      "5": 55,
+      "6": 46
+    },
+    "karakterPerBabak": {
+      "1": 428,
+      "2": 326,
+      "3": 515,
+      "4": 436,
+      "5": 423,
+      "6": 318
+    },
+    "jedaBunyi": 0,
+    "perkiraanDetik130": {
+      "narasi": 169.6,
+      "denganMerek": 174.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 163.9,
+      "denganMerek": 168.9
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

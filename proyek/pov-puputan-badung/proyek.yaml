@@ -1,0 +1,20 @@
+judul: "POV: Kamu Abdi Raja Badung di Hari Puputan 1906"
+slug: pov-puputan-badung
+format: POV
+lapisan: ["Sejarah"]
+latar: "Puri Denpasar, Badung"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-10-18"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Raja Badung", "Wayan"]
+aset: {ilustrasi: 16, narasi: 21, musik: 3, sfx: 0}
+render: "out/pov-puputan-badung.mp4"
+tanggal_render: 2026-10-19
+tautan: {"shorts": "https://youtube.com/shorts/nyxZ5s6DFfs"}
+arsip_lama: "pov/pov-puputan-badung"
+catatan: ""
+metrik_shorts: {"views": 1419, "jam_tonton": 5.6, "rata_tonton_detik": 14.3, "durasi_detik": 162, "persen_ditonton": 8.8, "subscriber": 2, "impresi": 2279, "ctr": 0.61, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-21"}

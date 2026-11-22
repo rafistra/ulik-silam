@@ -1,0 +1,691 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-24T00:47:16.591Z",
+  "judulDokumen": "5 Raja Bertakhta Terlama di Nusantara",
+  "judul": "5 Raja Bertakhta Terlama di Nusantara",
+  "slug": "raja-bertakhta-terlama-nusantara",
+  "versi": "v4 · 2026-10-24",
+  "lapisan": [
+    "Sejarah",
+    "Legenda"
+  ],
+  "latar": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Tidak ada (format daftar, narator dokumenter)",
+  "ringkasan": {
+    "Judul": "5 Raja Bertakhta Terlama di Nusantara",
+    "Slug": "raja-bertakhta-terlama-nusantara",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Tidak ada (format daftar, narator dokumenter)",
+    "Jumlah ilustrasi": "17 adegan + 2 lembar (Pakubuwono XII, Prasasti Kawali I)",
+    "Lapisan": "Sejarah, Legenda",
+    "Latar": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+    "Format": "Daftar · peringkat hitung mundur",
+    "Jumlah entri": "5",
+    "Kriteria": "raja tertinggi kerajaannya (bukan adipati atau penguasa bawahan) di wilayah Indonesia sekarang, dari zaman mana pun, yang namanya tercatat di prasasti atau catatan sezaman; diurutkan menurut lama bertakhta, dari naik takhta sampai wafat, turun takhta, atau kekuasaannya berakhir. Angka lama takhta boleh dari naskah dengan penanda di narasi, asal tercatat di minimal dua sumber akademik atau resmi.",
+    "Premis": "Raja dengan takhta terlama di Nusantara bertakhta 104 tahun menurut naskahnya; empat lainnya tercatat dalam catatan Belanda, piagam, dan berita, dari Cirebon abad ke-17 sampai Surakarta abad ke-21.",
+    "Hook per entri": "Setiap raja dibuka dengan hook sendiri di adegan pertama entrinya (permintaan Rafi)",
+    "Dipilih karena": "Rafi ingin cakupan seluruh zaman, dengan aturan: nama raja harus tercatat di prasasti atau catatan sezaman (keputusan Rafi)",
+    "Asumsi": "Nada berwibawa dan reflektif; akhir berupa pertanyaan tentang angka naskah; durasi 3:00; adipati tidak masuk; angka Naskah Wangsakerta tidak dipakai",
+    "Versi": "v4 · 2026-10-24"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Pembuka",
+      "suasana": "Misterius, sunyi",
+      "palet": "Cokelat tua, arang, emas pelita",
+      "cahaya": "Pelita dan obor dari samping"
+    },
+    {
+      "babak": 2,
+      "nama": "#5 Muhammad Syafiuddin II",
+      "suasana": "Tenang, resmi",
+      "palet": "Cokelat sungai, kuning kebesaran, emas siang",
+      "cahaya": "Siang dan senja di tepi sungai"
+    },
+    {
+      "babak": 3,
+      "nama": "#4 Pakubuwono XII",
+      "suasana": "Tegang lalu sunyi",
+      "palet": "Cokelat jati, amber lampu, hijau zaitun redup",
+      "cahaya": "Lampu gantung malam, siang terik, sore miring"
+    },
+    {
+      "babak": 4,
+      "nama": "#3 Sulaiman Syariful Alam Shah",
+      "suasana": "Hangat lalu cemas",
+      "palet": "Kuning Melayu, emas, terakota senja",
+      "cahaya": "Pelita malam, pagi, senja redup"
+    },
+    {
+      "babak": 5,
+      "nama": "#2 Panembahan Ratu I",
+      "suasana": "Teduh lalu murung",
+      "palet": "Bata merah, putih pasir, tembaga",
+      "cahaya": "Siang lembut, cahaya jendela, senja"
+    },
+    {
+      "babak": 6,
+      "nama": "#1 Niskala Wastu Kancana",
+      "suasana": "Khidmat, reflektif",
+      "palet": "Hijau hutan, abu andesit, oranye obor",
+      "cahaya": "Obor malam, siang terang, senja berkabut"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Pembuka",
+    "2": "#5 Muhammad Syafiuddin II",
+    "3": "#4 Pakubuwono XII",
+    "4": "#3 Sulaiman Syariful Alam Shah",
+    "5": "#2 Panembahan Ratu I",
+    "6": "#1 Niskala Wastu Kancana"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Pembuka",
+      "waktu": "0:02–0:10",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Lebar, sedikit dari bawah; ruang naskah keraton kuno tak bernama, masa tak ditentukan, malam; setumpuk naskah lontar dan daun nipah terbuka di atas meja rendah, satu lembar tersingkap angin; sunyi dan misterius; seorang juru tulis tua tampak dari belakang membungkuk membaca dengan pelita; bentuk naskah dan meja sesuai riset; latar depan nyala pelita dan ujung lembar naskah, tengah juru tulis, belakang rak gelap dan tirai kain, cahaya pelita hangat dari kiri, asap tipis melayang.",
+      "narasiSuara": "[curious] Ada raja Nusantara yang bertakhta lebih dari seratus tahun. [serious] Setidaknya, begitulah kata naskah kuno tentang dirinya.",
+      "narasi": "Ada raja Nusantara yang bertakhta lebih dari seratus tahun. Setidaknya, begitulah kata naskah kuno tentang dirinya.",
+      "teksLayar": [],
+      "suara": "Desis pelita, lembar naskah tersibak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Pembuka",
+      "waktu": "0:10–0:18",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; lima singgasana berbeda berjajar di aula gelap tak bernama, masa tak ditentukan, malam; masing-masing singgasana kosong, dari kayu berukir hingga kursi beledu, sesuai riset tiap kerajaan; khidmat dan penuh tanya; tidak ada orang, hanya bayangan seorang abdi menyalakan obor di tepi bingkai; payung kebesaran dan ukiran sesuai riset; latar depan lantai batu, tengah jajaran singgasana, belakang dinding gelap, cahaya obor jingga dari kanan, debu melayang.",
+      "narasiSuara": "[calm] Ini lima raja dengan masa takhta terpanjang. [serious] Syaratnya: namanya tercatat di prasasti atau catatan sezaman.",
+      "narasi": "Ini lima raja dengan masa takhta terpanjang. Syaratnya: namanya tercatat di prasasti atau catatan sezaman.",
+      "teksLayar": [
+        "Lama takhta · Prasasti · Catatan sezaman"
+      ],
+      "suara": "Obor menyala, gema langkah",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "#5 Muhammad Syafiuddin II",
+      "waktu": "0:18–0:30",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sedikit dari bawah; balairung Kesultanan Sambas, akhir abad ke-19, siang; Sultan Muhammad Syafiuddin II yang sudah setengah baya duduk di singgasana, satu tangan memegang tongkat; wajah tenang, sorot mata waspada; seorang pejabat kolonial Belanda berseragam putih duduk di kursi samping, para pembesar Melayu bersimpuh; busana Melayu Sambas, singgasana, dan seragam kolonial sesuai riset; latar depan lantai kayu dan karpet, tengah sultan, belakang tirai kuning dan jendela tinggi, cahaya siang dari kanan, tirai bergerak.",
+      "narasiSuara": "[curious] Ia naik takhta Sambas pada 1866, dan bertakhta lebih dari setengah abad. [serious] Kesultanannya berada di bawah pengawasan Hindia Belanda. [calm] Dialah Sultan Muhammad Syafiuddin II.",
+      "narasi": "Ia naik takhta Sambas pada 1866, dan bertakhta lebih dari setengah abad. Kesultanannya berada di bawah pengawasan Hindia Belanda. Dialah Sultan Muhammad Syafiuddin II.",
+      "teksLayar": [
+        "#5 · Sultan Muhammad Syafiuddin II"
+      ],
+      "suara": "Gendang Melayu pelan, kipas angin tangan",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "#5 Muhammad Syafiuddin II",
+      "waktu": "0:30–0:38",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Lebar, sejajar mata; halaman masjid kerajaan Sambas di tepi sungai, 1885, pagi; jemaah beragam usia berkumpul untuk peresmian masjid kayu, sultan berdiri di tangga masjid dari kejauhan; khidmat dan bersuka cita; para ulama bersorban di barisan depan, seorang ulama tua berdiri di samping sultan; arsitektur masjid kayu bertingkat dan busana sesuai riset; latar depan perahu tertambat di sungai, tengah masjid dan jemaah, belakang pepohonan dan langit cerah, cahaya pagi dari kiri, permukaan sungai berkilau.",
+      "narasiSuara": "[calm] Di masanya, Sambas mengangkat Maharaja Imam pertama, pemimpin ulama kerajaan. [serious] Pada 1885, masjid kerajaan Sambas diresmikan.",
+      "narasi": "Di masanya, Sambas mengangkat Maharaja Imam pertama, pemimpin ulama kerajaan. Pada 1885, masjid kerajaan Sambas diresmikan.",
+      "teksLayar": [
+        "Bertakhta 1866–1922"
+      ],
+      "suara": "Riak sungai, beduk",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "#5 Muhammad Syafiuddin II",
+      "waktu": "0:38–0:47",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sedang, dari belakang bahu; serambi istana Sambas, 1922, senja; sultan yang sudah sangat tua berdiri di serambi menatap pertemuan sungai; bahu menurun, satu tangan bertumpu pada pagar; dua kerabat muda berdiri di belakangnya dengan sikap hormat; arsitektur istana kayu dan busana sesuai riset; latar depan pagar serambi, tengah sosok sultan dari belakang, belakang sungai lebar dan perahu kecil, cahaya senja jingga dari depan, permukaan air berkilau.",
+      "narasiSuara": "[serious] Pemerintahannya berakhir pada 1922. [calm] Tapi di Jawa, ada raja yang bertakhta lebih lama, hampir seluruhnya tanpa kekuasaan.",
+      "narasi": "Pemerintahannya berakhir pada 1922. Tapi di Jawa, ada raja yang bertakhta lebih lama, hampir seluruhnya tanpa kekuasaan.",
+      "teksLayar": [],
+      "suara": "Angin sungai, azan sayup",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "#4 Pakubuwono XII",
+      "waktu": "0:47–0:56",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sedikit dari bawah; Keraton Surakarta, pertengahan 1945, malam; Pakubuwono XII muda duduk di dhampar, tangan di lutut; wajah muda, mata waspada, rahang tertahan; para bangsawan bersimpuh, dua perwira Jepang berdiri mengamati di sisi ruangan; busana penobatan dan seragam Jepang sesuai riset; latar depan lantai mengilap dengan pantulan lampu, tengah raja muda di takhta, belakang tirai dan ukiran gelap, cahaya lampu kuning dari atas.",
+      "narasiSuara": "[serious] Ia dinobatkan saat Jawa masih diduduki Jepang. [tense] Setahun kemudian, kerajaannya kehilangan kekuasaan politiknya. [calm] Dialah Pakubuwono XII, Susuhunan Surakarta.",
+      "narasi": "Ia dinobatkan saat Jawa masih diduduki Jepang. Setahun kemudian, kerajaannya kehilangan kekuasaan politiknya. Dialah Pakubuwono XII, Susuhunan Surakarta.",
+      "teksLayar": [
+        "#4 · Susuhunan Pakubuwono XII"
+      ],
+      "suara": "Gamelan sayup, lalu senyap",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "#4 Pakubuwono XII",
+      "waktu": "0:56–1:04",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; ruang dalam Keraton Surakarta, akhir 1945, siang; raja muda berdiri di dekat jendela membaca sebuah piagam bersegel; dahi berkerut, bibir terkatup, bahu menegang; seorang penasihat tua membungkuk menyampaikan kabar, di luar jendela samar tampak kerumunan pemuda; piagam tanpa tulisan terbaca, busana dan perabot sesuai riset; latar depan meja dan kotak surat, tengah raja dan penasihat, belakang jendela dengan kerumunan kabur, cahaya siang terik dari jendela.",
+      "narasiSuara": "[calm] Dua hari setelah Proklamasi, Presiden Soekarno menetapkan kedudukannya lewat piagam. [tense] Namun gerakan anti-swapraja menolak kekuasaan keraton.",
+      "narasi": "Dua hari setelah Proklamasi, Presiden Soekarno menetapkan kedudukannya lewat piagam. Namun gerakan anti-swapraja menolak kekuasaan keraton.",
+      "teksLayar": [
+        "Bertakhta 1945–2004"
+      ],
+      "suara": "Riuh kerumunan di kejauhan",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "#4 Pakubuwono XII",
+      "waktu": "1:04–1:16",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, dari belakang; bangsal dalam Keraton Surakarta, beberapa dekade kemudian, sore; raja yang sudah menua tampak dari belakang, duduk sendiri di kursi menatap ke halaman; bahu sedikit membungkuk, tangan terlipat di pangkuan; satu abdi tua di ambang pintu menunggu tanpa bersuara; busana dan kursi sesuai riset; latar depan tiang kayu, tengah sosok raja dari belakang, belakang halaman berpasir dan pohon tua, cahaya sore miring dari jendela, debu melayang.",
+      "narasiSuara": "[calm] Sejak 1946, pemerintahan Surakarta diambil alih Republik. [sad] Namun ia tetap bertakhta, hampir lima puluh sembilan tahun, hingga wafat pada 2004.",
+      "narasi": "Sejak 1946, pemerintahan Surakarta diambil alih Republik. Namun ia tetap bertakhta, hampir lima puluh sembilan tahun, hingga wafat pada 2004.",
+      "teksLayar": [],
+      "suara": "Hening, angin di halaman",
+      "hening": true,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "#3 Sulaiman Syariful Alam Shah",
+      "waktu": "1:16–1:26",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sedikit dari bawah; balairung Kesultanan Serdang, 1880, malam; sultan remaja duduk di singgasana yang terlalu besar baginya, kaki hampir tak menyentuh lantai; mata lebar, menahan gugup, dagu terangkat; seorang wali dewasa berdiri di sampingnya, para pembesar Melayu bersimpuh; busana Melayu dan singgasana sesuai riset dan foto KITLV; latar depan lantai dan karpet, tengah sultan remaja, belakang tirai kuning dan ukiran, cahaya pelita hangat dari dua sisi.",
+      "narasiSuara": "[curious] Ia naik takhta saat remaja. [serious] Enam puluh lima tahun kemudian, ia masih bertakhta, ketika Indonesia merdeka. [calm] Dialah Sultan Sulaiman dari Serdang.",
+      "narasi": "Ia naik takhta saat remaja. Enam puluh lima tahun kemudian, ia masih bertakhta, ketika Indonesia merdeka. Dialah Sultan Sulaiman dari Serdang.",
+      "teksLayar": [
+        "#3 · Sultan Sulaiman Syariful Alam Shah"
+      ],
+      "suara": "Nobat atau gendang Melayu pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "#3 Sulaiman Syariful Alam Shah",
+      "waktu": "1:26–1:35",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Lebar, sejajar mata; pusat kerajaan baru di Perbaungan, akhir abad ke-19, pagi; sultan dewasa berdiri di halaman, menunjuk ke arah bangunan yang sedang didirikan; wajah tegas, dagu terangkat; pekerja beragam usia mengangkut kayu, seorang pejabat kolonial berdiri agak jauh dengan wajah tidak senang; bangunan, busana, dan seragam kolonial sesuai riset; latar depan tumpukan kayu, tengah sultan, belakang rangka bangunan dan pohon kelapa, cahaya pagi dari kanan, debu tipis.",
+      "narasiSuara": "[calm] Pemerintah kolonial hendak memindahkan pusat pemerintahan Serdang ke Lubuk Pakam. [serious] Sultan menolak, dan memindahkan istananya ke Perbaungan.",
+      "narasi": "Pemerintah kolonial hendak memindahkan pusat pemerintahan Serdang ke Lubuk Pakam. Sultan menolak, dan memindahkan istananya ke Perbaungan.",
+      "teksLayar": [
+        "Bertakhta ±1880–1946"
+      ],
+      "suara": "Palu kayu, burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "#3 Sulaiman Syariful Alam Shah",
+      "waktu": "1:35–1:45",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, dari belakang bahu; serambi istana Serdang, 1946, senja; sultan tua berdiri di serambi, menatap halaman yang mulai gelap; wajah tidak terlihat jelas, bahu menurun, satu tangan bertumpu pada tiang; beberapa anggota keluarga dan abdi berkumpul di belakang dengan wajah cemas, tanpa kekerasan; busana dan arsitektur sesuai riset; latar depan tiang dan pagar serambi, tengah sosok sultan, belakang halaman dan langit merah kelabu, cahaya senja redup dengan satu pelita hangat di serambi.",
+      "narasiSuara": "[serious] Revolusi sosial 1946 mengakhiri kekuasaan kesultanan Melayu di Sumatra Timur, termasuk Serdang. [calm] Ia telah bertakhta sekitar enam puluh lima tahun.",
+      "narasi": "Revolusi sosial 1946 mengakhiri kekuasaan kesultanan Melayu di Sumatra Timur, termasuk Serdang. Ia telah bertakhta sekitar enam puluh lima tahun.",
+      "teksLayar": [],
+      "suara": "Angin senja, kentongan jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 12,
+      "babak": 5,
+      "namaBabak": "#2 Panembahan Ratu I",
+      "waktu": "1:45–1:54",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sejajar mata; pendopo keraton Cirebon, awal abad ke-17, siang; Panembahan Ratu yang sudah tua duduk bersila di atas tikar kebesaran, tangan bertumpu pada lutut; wajah tenang, mata teduh, garis usia dalam; seorang anak lelaki kecil, cucunya, duduk di sisinya, para abdi bersimpuh di kejauhan; busana keraton Cirebon dan ukiran pendopo sesuai riset; latar depan tiang kayu berukir, tengah sang panembahan dan cucunya, belakang halaman berpasir putih, cahaya siang lembut dari kanan, kain bergerak tertiup angin.",
+      "narasiSuara": "[serious] Ia memegang takhta Cirebon hampir delapan puluh tahun. [curious] Penggantinya bukan anaknya, melainkan cucunya. [calm] Dialah Panembahan Ratu, raja Cirebon.",
+      "narasi": "Ia memegang takhta Cirebon hampir delapan puluh tahun. Penggantinya bukan anaknya, melainkan cucunya. Dialah Panembahan Ratu, raja Cirebon.",
+      "teksLayar": [
+        "#2 · Panembahan Ratu I"
+      ],
+      "suara": "Gamelan sayup, burung siang",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "#2 Panembahan Ratu I",
+      "waktu": "1:54–2:04",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; kantor dagang VOC di Batavia, 1630-an, siang; seorang juru tulis Belanda menulis di buku catatan harian besar dengan pena bulu, sementara seorang utusan Jawa berdiri menyampaikan kabar dari Cirebon; juru tulis serius dan teliti, utusan tenang; dua pegawai VOC lain memeriksa surat di meja belakang; buku catatan, busana VOC, dan busana utusan sesuai riset, tulisan tidak terbaca; latar depan tinta dan stempel, tengah juru tulis dan utusan, belakang jendela berterali dan kapal di kejauhan, cahaya siang dari jendela kiri, debu melayang.",
+      "narasiSuara": "[calm] Menurut kajian sejarah, ia naik takhta sekitar 1570. [serious] Pada awal 1630-an, ia sudah tercatat dalam buku harian VOC.",
+      "narasi": "Menurut kajian sejarah, ia naik takhta sekitar 1570. Pada awal 1630-an, ia sudah tercatat dalam buku harian VOC.",
+      "teksLayar": [
+        "Bertakhta ±1570–1649"
+      ],
+      "suara": "Goresan pena bulu, burung camar jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "#2 Panembahan Ratu I",
+      "waktu": "2:04–2:14",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, dari kejauhan; jalan tanah menuju pedalaman Jawa, pertengahan abad ke-17, senja; seorang pangeran muda Cirebon berjalan di tengah rombongan pengawal Mataram, menoleh ke belakang; wajah murung, bahu tegang; para pengawal bersenjata berjalan tanpa menoleh, beberapa abdi Cirebon tertinggal di tepi jalan; busana Cirebon dan Mataram sesuai riset; latar depan rumput tinggi, tengah rombongan, belakang perbukitan dan langit jingga kelabu, cahaya senja rendah dari belakang menciptakan siluet, debu jalan.",
+      "narasiSuara": "[resigned] Ia wafat pada 1649. [sad] Cucunya tak diizinkan pulang dari Mataram, dan wafat di sana. [serious] Hampir tiga puluh tahun kemudian, Cirebon terbelah.",
+      "narasi": "Ia wafat pada 1649. Cucunya tak diizinkan pulang dari Mataram, dan wafat di sana. Hampir tiga puluh tahun kemudian, Cirebon terbelah.",
+      "teksLayar": [],
+      "suara": "Langkah kaki di tanah, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "#1 Niskala Wastu Kancana",
+      "waktu": "2:14–2:25",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sedikit dari atas; keraton Sunda di Kawali, 1357, malam; seorang anak lelaki kecil berdiri di tangga keraton menerima kabar dari utusan yang berlutut; wajah anak bingung dan terpukul; seorang lelaki dewasa berwibawa, Hyang Bunisora, meletakkan tangan di bahu sang anak, para abdi menunduk menangis; busana Sunda kuno dan arsitektur keraton kayu sesuai riset; latar depan obor, tengah anak dan Hyang Bunisora, belakang atap keraton dan langit gelap, cahaya obor jingga dari bawah.",
+      "narasiSuara": "[serious] Tahun 1357, raja Sunda gugur di Bubat, Majapahit. [sad] Putranya masih kecil, sehingga pemerintahan dijalankan Hyang Bunisora. [calm] Anak itulah Niskala Wastu Kancana.",
+      "narasi": "Tahun 1357, raja Sunda gugur di Bubat, Majapahit. Putranya masih kecil, sehingga pemerintahan dijalankan Hyang Bunisora. Anak itulah Niskala Wastu Kancana.",
+      "teksLayar": [
+        "#1 · Niskala Wastu Kancana"
+      ],
+      "suara": "Obor, tangis tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "#1 Niskala Wastu Kancana",
+      "waktu": "2:25–2:35",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; halaman keraton Surawisesa di Kawali, akhir abad ke-14, siang; seorang pemahat menatah aksara pada batu prasasti, sementara raja dewasa berdiri mengamati; wajah raja tenang dan khidmat; para pekerja menggali parit di kejauhan, seorang juru tulis memegang lontar; bentuk batu, aksara, dan busana sesuai riset Prasasti Kawali; latar depan batu prasasti dan pahat, tengah raja dan pemahat, belakang pagar kayu dan parit, cahaya siang terang dari atas, serpih batu beterbangan.",
+      "narasiSuara": "[calm] Dari Kawali, ia memperindah keratonnya dan menggali parit keliling kota. [serious] Prasastinya berpesan kepada penerus: berbuat baiklah, agar jaya lama di dunia.",
+      "narasi": "Dari Kawali, ia memperindah keratonnya dan menggali parit keliling kota. Prasastinya berpesan kepada penerus: berbuat baiklah, agar jaya lama di dunia.",
+      "teksLayar": [
+        "104 tahun · menurut Carita Parahyangan"
+      ],
+      "suara": "Pahat pada batu, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "#1 Niskala Wastu Kancana",
+      "waktu": "2:35–2:46",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Lebar, sejajar mata; situs Astana Gede, Kawali, masa kini, senja berkabut; batu-batu prasasti berdiri di antara pepohonan tua di atas teras berundak; tenang dan penuh tanya; seorang pengunjung muda berdiri menatap batu prasasti, juru pelihara tua menyapu dedaunan; bentuk batu dan undakan sesuai riset; latar depan dedaunan kering, tengah batu prasasti, belakang pohon besar dan kabut, cahaya senja redup menembus dahan, daun berjatuhan.",
+      "narasiSuara": "[calm] Menurut Carita Parahyangan, ia bertakhta seratus empat tahun, sebagai raja yang taat agama. [curious] Menurutmu, itu catatan sejarah, atau cara leluhur memuliakan rajanya?",
+      "narasi": "Menurut Carita Parahyangan, ia bertakhta seratus empat tahun, sebagai raja yang taat agama. Menurutmu, itu catatan sejarah, atau cara leluhur memuliakan rajanya?",
+      "teksLayar": [],
+      "suara": "Angin di pepohonan, daun jatuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Pakubuwono XII",
+      "prompt": "Character reference sheet of Pakubuwono XII.\nPakubuwono XII, Susuhunan of Surakarta, about 20 years old in 1945, Javanese. Slim, upright build, light brown skin, smooth oval face, calm dark almond eyes, straight brows, short neat black hair under his headgear, clean-shaven, youthful but reserved look. Coronation dress: a tall black velvet kuluk: a brimless cap shaped like a truncated cone narrowing to a flat top, with gold braided trim along the bottom edge, a horizontal gold braid band about two-thirds up, vertical gold braid strips dividing the upper part into panels, and a small beaded gold knob on top; a dark close-fitting high-collared court jacket with dense gold embroidery along the edges and cuffs; a very large wrapped ceremonial waist-cloth with bold diagonal blade-shaped stripes (parang barong) around a plain diamond-shaped centre panel, its long pointed tail trailing behind; patterned silk trousers (cindhe) visible below; slippers. A keris worn at the back of the waist, small ornamental gold ear pieces. Sits and stands very still and composed, hands resting on his knees, speaking little.\nFront, side, and back full-body views in a relaxed stance, one three-quarter face portrait, one detail panel of the parang barong waist-cloth pattern and the gold-embroidered jacket edge. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1945 Surakarta court dress.\nThe face is an artistic reconstruction; no documented portrait was used.\nUse the uploaded kuluk photo only as a reference for the shape and gold braid trim of the cap, not for its watermark, lighting, or background.\nAvoid modern 21st-century court costumes, European-style crown, beskap with modern cut, peci, readable text, labels, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Prasasti Kawali I",
+      "prompt": "Reference sheet of Prasasti Kawali I.\nPrasasti Kawali I, an Old Sundanese stone inscription from Kawali, West Java, 14th century. A broad, flat, roughly trapezoidal natural andesite slab, slightly taller than wide, reaching about the hip of an adult, only a hand-span thick; dark grey with green-grey lichen and moss patina; undressed, irregular natural edges; about ten uneven horizontal lines of shallow incised script on the broad face and a few short lines along the thick side edge, shown as faint illegible marks; set upright in the earth; no frame, no border, no polish.\nFront view, side view showing the thin edge, and three-quarter view of the whole stone, plus one close-up panel of the weathered surface with faint illegible incised marks. One small human figure standing beside the stone for scale. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 14th-century Sundanese inscribed stone.\nAvoid smooth rectangular tablets, carved frames or borders, polished surfaces, temple architecture, readable script, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:10",
+      "narasi": "Ada raja Nusantara yang bertakhta lebih dari seratus tahun. Setidaknya, begitulah kata naskah kuno tentang dirinya.",
+      "prompt": "Wide shot from a slightly low angle inside a dim, nameless old manuscript room at night. Foreground: a small clay oil lamp with a steady flame and the tips of narrow pale-brown palm-leaf strips. Middle ground: a stack of narrow palm-leaf manuscript strips with dense dark incised marks, threaded on a single cord through a central hole, one strip lifting in a breath of wind, beside a low plain wooden box; an old scribe seen from behind bends over the leaves, thin shoulders hunched, one hand steadying a strip. Background: dark wooden shelves and a hanging cloth curtain lost in shadow. The scribe is an ordinary elderly man in a plain undyed wrap cloth, no jewelry. Warm lamp light from the left, thin smoke drifting upward, deep shadows around.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep umber, charcoal brown and oil-lamp gold palette, historically inspired old Sundanese palm-leaf manuscripts.\nAvoid paper books, scrolls, carved Balinese manuscript boards, readable script, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:18",
+      "narasi": "Ini lima raja dengan masa takhta terpanjang. Syaratnya: namanya tercatat di prasasti atau catatan sezaman.",
+      "prompt": "Medium shot at eye level in a dark, nameless hall at night. Five different empty thrones stand in a slight curve across the frame: a low carved wooden seat, a gilded seat under a yellow canopy, a marble-floored dais with a carved chair, a woven mat on a raised brick plinth, and a plain stone-edged seat, each distinct in shape and material. Foreground: a worn stone floor catching torchlight. Middle ground: the row of empty thrones with folded ceremonial parasols leaning beside two of them. Background: dark walls fading into shadow. At the edge of the frame, only the shadow of an attendant lighting a torch on the wall. Solemn, questioning mood. Orange torchlight from the right, dust drifting through the beams.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep umber and torch-orange palette with gold highlights.\nAvoid people in the center, identical thrones, European royal furniture, modern lighting, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:30",
+      "narasi": "Ia naik takhta Sambas pada 1866, dan bertakhta lebih dari setengah abad. Kesultanannya berada di bawah pengawasan Hindia Belanda. Dialah Sultan Muhammad Syafiuddin II.",
+      "prompt": "Medium-wide shot from a slightly low angle in the audience hall of the Sambas sultanate, late 19th century, midday. Sultan Muhammad Syafiuddin II, a sturdy middle-aged Malay ruler with light brown skin, a broad calm face, a neatly trimmed moustache and watchful dark eyes, sits upright on a low cushioned dais, one hand on a staff; brows level, mouth closed, gaze turned slightly toward the Dutch official. He wears a long-sleeved high-collared royal yellow silk baju, loose trousers, a gold-thread songket hip-cloth with small geometric motifs wrapped to the knee, a folded songket headcloth, and a keris at the front of his waist. Beside him a Dutch assistant resident sits on a chair in a white high-collared cotton jacket and white trousers. Malay noblemen of different ages kneel in plain dark baju and simple headcloths, one glancing up; they wear no yellow and no gold. Middle ground: the sultan and the official; background: a yellow ceremonial parasol, a forked spear, yellow drapery and a tall window. Midday light from the right, the drapery stirring.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of river brown, royal yellow and soft daylight gold, historically accurate late 19th-century Malay court of Sambas, West Borneo.\nAvoid the 1930s Alwatzikhubillah palace, modern costume, pointed modern tanjak, black peci, khaki uniform, characters looking at the camera, background figures copying the sultan's outfit, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:38",
+      "narasi": "Di masanya, Sambas mengangkat Maharaja Imam pertama, pemimpin ulama kerajaan. Pada 1885, masjid kerajaan Sambas diresmikan.",
+      "prompt": "Wide shot at eye level on the riverbank courtyard of the royal mosque of Sambas on its inauguration morning in 1885. Foreground: wooden boats moored on the glittering river. Middle ground: a two-storey timber mosque of dark ironwood on a raised floor with plank walls and a square pyramidal hipped roof in stacked tiers; worshippers of different ages gather in front, some carrying prayer mats, children tugging at their fathers' hands. Background: tropical trees and a clear pale sky. The sultan, small in the distance and seen mostly in profile, stands on the mosque steps in a royal yellow silk baju and songket headcloth, his head slightly bowed; beside him an elderly cleric in a white robe and turban gestures toward the door. Bearded clerics in white turbans stand in the front row. The crowd is varied in age, build and plain everyday clothing, different from the sultan. Morning light from the left, river surface shimmering, cloth stirring in the breeze.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of dark ironwood brown, river teal and morning gold, historically accurate 1885 Sambas, West Borneo.\nAvoid bright yellow-painted mosque, onion domes, concrete minarets, ceramic tiles, loudspeakers, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:38–0:47",
+      "narasi": "Pemerintahannya berakhir pada 1922. Tapi di Jawa, ada raja yang bertakhta lebih lama, hampir seluruhnya tanpa kekuasaan.",
+      "prompt": "Medium shot from behind the shoulder on the veranda of the old wooden stilt palace of Sambas, 1922, at dusk. Foreground: the carved wooden veranda railing. Middle ground: the very old sultan seen from behind, shoulders lowered, one hand resting on the railing, in a royal yellow silk baju and a folded songket headcloth, gazing across the water. Two younger male relatives stand a step behind him with hands clasped, heads slightly bowed, in plain dark baju, different people from the sultan. Background: the wide meeting of three rivers, small wooden boats, a low line of trees and an orange sky. Warm sunset light from the front creating a soft silhouette, the water glittering, cloth moving lightly in the river wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of amber dusk, river brown and faded royal yellow, historically accurate early 1920s Sambas, West Borneo.\nAvoid the 1930s Alwatzikhubillah palace and its octagonal gate, modern buildings, motorboats, power lines, the sultan's face, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:56",
+      "narasi": "Ia dinobatkan saat Jawa masih diduduki Jepang. Setahun kemudian, kerajaannya kehilangan kekuasaan politiknya. Dialah Pakubuwono XII, Susuhunan Surakarta.",
+      "prompt": "Same character as the Pakubuwono XII reference image.\nMedium-wide shot from a slightly low angle inside the Sasana Sewaka pavilion of the Surakarta palace, mid-1945, at night. Foreground: a polished white marble floor reflecting lamplight. Middle ground: the young king seated on the throne between two carved dark teak pillars with gold ornament, hands on his knees, back straight; brows level, eyes alert and wary, jaw held tight, gazing toward the courtiers. Kneeling Javanese noblemen of different ages in dark court jackets and batik cloths bow their heads, different people from the king, with no kuluk and less gold. To one side, two Japanese army officers stand watching coldly, in olive-drab tunics with turn-down collars and four flapped pockets, peaked caps with a red band and small gold star, black boots, swords at their hips. Background: dark carved woodwork, ornate chandeliers and deep shadow. Warm yellow light from the chandeliers above.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep teak brown, lamp amber and muted olive palette, historically accurate 1945 Surakarta court under Japanese occupation.\nAvoid Japanese navy whites, headbands, rising-sun flag backdrop, modern ceramic floor, European-style throne, characters looking at the camera, stiff symmetrical poses, background figures copying the king's outfit, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:56–1:04",
+      "narasi": "Dua hari setelah Proklamasi, Presiden Soekarno menetapkan kedudukannya lewat piagam. Namun gerakan anti-swapraja menolak kekuasaan keraton.",
+      "prompt": "Same character as the Pakubuwono XII reference image, now in plain dark daily court dress: a dark close-fitting jacket, a brown batik hip-cloth and a Solo-style headcloth.\nMedium shot at eye level in an inner room of the Surakarta palace, late 1945, midday. Foreground: a low wooden table with a document box. Middle ground: the young king stands near the window holding a sealed charter, brows drawn together, lips pressed, shoulders tense, eyes on the page; an elderly adviser in a dark jacket and batik bends forward, one hand raised as he delivers news, a different, older man with a grey moustache. Background: a tall window through which a crowd of young men is blurred in the street outside, some raising fists. The charter shows only faint illegible marks. Harsh midday light from the window, dust in the air.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep teak brown, lamp amber and muted olive palette, historically accurate late-1945 Surakarta.\nAvoid readable writing on the charter, flags with text, modern furniture, characters looking at the camera, background figures copying the king's outfit, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:04–1:16",
+      "narasi": "Sejak 1946, pemerintahan Surakarta diambil alih Republik. Namun ia tetap bertakhta, hampir lima puluh sembilan tahun, hingga wafat pada 2004.",
+      "prompt": "Medium-wide shot from behind in an inner pavilion of the Surakarta palace, decades later, late afternoon. Foreground: a dark carved wooden pillar. Middle ground: the aged king seen only from behind, sitting alone on a simple wooden chair, shoulders slightly stooped, hands folded in his lap, looking out at the courtyard; he wears a dark jacket, a brown batik hip-cloth and a Solo-style headcloth. An old servant waits silently in the doorway, kneeling, eyes lowered, a different, thinner man in plain clothes. Background: a sand-covered courtyard and an old tree. Slanting afternoon light through the window, dust floating, a deep quiet mood.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep teak brown and faded amber palette, historically accurate late 20th-century Surakarta palace interior.\nAvoid the king's face, modern ceramic floor, television, plastic furniture, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:16–1:26",
+      "narasi": "Ia naik takhta saat remaja. Enam puluh lima tahun kemudian, ia masih bertakhta, ketika Indonesia merdeka. Dialah Sultan Sulaiman dari Serdang.",
+      "prompt": "Medium-wide shot from a slightly low angle in the audience hall of the Serdang sultanate, East Sumatra, around 1880, at night. Sultan Sulaiman as a teenage boy, slim, light brown skin, round youthful face, wide dark eyes, sits on a throne too large for him under a yellow-and-gold canopy with a three-part roof, his feet barely touching the floor; brows raised, lips pressed, chin lifted as he tries to look composed. He wears a cream-yellow silk baju with a stand collar, a gold songket hip-cloth and a folded songket headcloth. A grown regent in a dark baju and songket stands beside him with one hand on the throne, looking out at the court. Malay noblemen of different ages sit cross-legged on mats in dark baju, different people from the boy, with no yellow. Foreground: the plank floor and a mat edge; middle ground: the boy and the regent; background: yellow drapes and carved woodwork. Warm oil-lamp light from both sides.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of Malay yellow, gold and deep shadow, historically accurate 1880 Serdang court.\nAvoid the Maimun palace of Deli, the 2012 replica Serdang palace, black peci, tall pointed modern tanjak, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:26–1:35",
+      "narasi": "Pemerintah kolonial hendak memindahkan pusat pemerintahan Serdang ke Lubuk Pakam. Sultan menolak, dan memindahkan istananya ke Perbaungan.",
+      "prompt": "Wide shot at eye level at the new royal seat in Perbaungan beside a small river, 1890s, morning. The adult Sultan Sulaiman, light brown skin, a firm face with a short moustache, stands in the yard pointing toward a timber stilt palace under construction; brows set, chin raised, weight on his front foot. He wears a cream silk baju, a gold songket hip-cloth and a songket headcloth. Workers of different ages carry timber on their shoulders and hammer posts, one wiping his brow. Some distance away, a Dutch colonial official in a white high-collared jacket, white trousers and a white pith helmet watches with arms folded and a displeased frown. The workers and the official are different people from the sultan. Foreground: stacked timber; middle ground: the sultan; background: the half-built frame, coconut palms and the river. Morning light from the right, fine dust in the air.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of timber brown, Malay yellow and morning gold, historically accurate 1890s East Sumatra.\nAvoid khaki military uniforms, the Maimun palace, modern concrete, characters looking at the camera, background figures copying the sultan's outfit, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:35–1:45",
+      "narasi": "Revolusi sosial 1946 mengakhiri kekuasaan kesultanan Melayu di Sumatra Timur, termasuk Serdang. Ia telah bertakhta sekitar enam puluh lima tahun.",
+      "prompt": "Wide shot from behind the shoulder on the veranda of the Serdang palace in Perbaungan, 1946, at dusk. Foreground: veranda pillars and railing. Middle ground: the elderly sultan standing with one hand on a pillar, face turned away, shoulders lowered, in a closed-collar jacket with small Dutch orders on the chest, a gold songket hip-cloth and a songket headcloth. Behind him, family members and attendants of different ages gather close, anxious, a woman holding a child, an old servant holding an oil lamp; no weapons and no violence. They are different people from the sultan. Background: the darkening yard and a red-grey sky. Dim dusk light, one warm oil lamp on the veranda, cloth stirring in the evening wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of terracotta dusk, faded gold and deep shadow, historically accurate 1946 East Sumatra.\nAvoid fire, weapons, blood, the sultan's full face, modern buildings, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:54",
+      "narasi": "Ia memegang takhta Cirebon hampir delapan puluh tahun. Penggantinya bukan anaknya, melainkan cucunya. Dialah Panembahan Ratu, raja Cirebon.",
+      "prompt": "Medium-wide shot at eye level in an open pavilion of the Pakungwati palace, Cirebon, early 17th century, midday. Panembahan Ratu, a very old Javanese ruler, thin and frail, deep wrinkles, white wispy beard, sits cross-legged on a woven ceremonial mat on a raised red-brick plinth, hands resting on his knees; gentle eyes, a faint smile, gaze lowered toward the child. He wears a loose long-sleeved off-white tunic, a plain dark wrapped hip-cloth and a white headcloth wound like a turban, a keris at the back of his waist. A small boy, his grandson, sits beside him in a short wrapped cloth, looking up at him. Attendants kneel at a distance, different people with plain cloths and no jewelry. Foreground: a carved teak post on a brick base; middle ground: the old ruler and the boy; background: red brick walls, a split brick gate and a white sandy yard, a multi-tiered shingled roof edge above. Soft midday light from the right, cloth moving in the breeze.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of red brick, sandy white and copper, historically accurate early 17th-century Cirebon.\nAvoid modern Cirebon sultan costumes with velvet beskap, peci, blangkon, ceramic floors, chandeliers, Delft tiles, mega mendung cloud motifs, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:54–2:04",
+      "narasi": "Menurut kajian sejarah, ia naik takhta sekitar 1570. Pada awal 1630-an, ia sudah tercatat dalam buku harian VOC.",
+      "prompt": "Medium shot at eye level in a clerk's office inside the VOC castle at Batavia, early 1630s, midday. A Dutch clerk sits writing in a large handwritten folio ledger with a goose-quill pen, brows furrowed in concentration; he wears a black doublet with many small buttons and a very large flat white linen falling collar with lace edges and matching cuffs. A Javanese envoy from Cirebon stands before the desk, calm, hands clasped, in a wrapped hip-cloth, a loose tunic and a headcloth, a keris at his back, speaking. Two other VOC clerks of different ages, one bald, one young, sort letters at a table behind. Foreground: an inkwell, a sand shaker and a wax seal; middle ground: the clerk and the envoy; background: a barred window with ships in the harbor. The ledger pages show only faint illegible brown marks. Daylight from the left window, dust floating.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of red brick, ink brown and copper daylight, historically accurate 1630s Dutch East India Company Batavia.\nAvoid stiff round ruffs, long periwigs, rows of governor portraits, readable writing, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:04–2:14",
+      "narasi": "Ia wafat pada 1649. Cucunya tak diizinkan pulang dari Mataram, dan wafat di sana. Hampir tiga puluh tahun kemudian, Cirebon terbelah.",
+      "prompt": "Wide shot from a distance on a dirt road leading into the Javanese interior, mid-17th century, at dusk. A young Cirebon prince, slim, in a wrapped hip-cloth, a loose tunic and a headcloth, walks in the middle of an escort of Mataram soldiers and looks back over his shoulder; sad eyes, lips pressed, shoulders tense. The soldiers walk on without looking back, bare-chested in wrapped hip-cloths and headcloths, carrying long lances and light round shields, keris at their backs; one rides a small horse at the front. A few Cirebon attendants are left behind at the roadside, one raising a hand. All figures are varied in age and build. Foreground: tall grass; middle ground: the procession; background: rolling hills and an orange-grey sky. Low dusk light from behind creating silhouettes, dust rising from the road.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of copper dusk, dust brown and grey, historically accurate 17th-century Java.\nAvoid modern Yogyakarta or Solo palace guard uniforms, Majapahit crowns, chains, violence, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:14–2:25",
+      "narasi": "Tahun 1357, raja Sunda gugur di Bubat, Majapahit. Putranya masih kecil, sehingga pemerintahan dijalankan Hyang Bunisora. Anak itulah Niskala Wastu Kancana.",
+      "prompt": "Medium-wide shot from a slightly high angle at the steps of the timber palace at Kawali, Sunda, 1357, at night. A small boy of about nine, the future Niskala Wastu Kancana, bare-chested in a short plain wrapped hip-cloth with a sash, hair tied in a small topknot, a thin gold armlet, stands on the steps receiving news from a kneeling messenger; brows lifted, eyes wide and wet, mouth slightly open in shock. Hyang Bunisora, an adult nobleman with a calm stern face, bare-chested in a long ankle-length wrapped cloth with front pleats and a narrow waist sash, hair in a high topknot, plain gold armbands, rests a hand on the boy's shoulder and looks down at the messenger. Servants in plain undyed short wrap cloths kneel and weep, with loose hair and no jewelry. Foreground: resin torches on bamboo poles; middle ground: the boy and Hyang Bunisora; background: a raised timber pavilion on thick posts with a steep dark palm-fiber thatched roof against a black sky. Orange torchlight from below, flames flickering.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of torch orange, forest brown and night blue-black, historically inspired 14th-century Sundanese court, based on 14th-century Javanese relief costume.\nAvoid modern Sundanese pangsi and iket, beskap, kebaya, batik motifs, joglo roofs, red brick palaces, wayang crowns, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:25–2:35",
+      "narasi": "Dari Kawali, ia memperindah keratonnya dan menggali parit keliling kota. Prasastinya berpesan kepada penerus: berbuat baiklah, agar jaya lama di dunia.",
+      "prompt": "Same object as the Prasasti Kawali I reference image.\nMedium shot at eye level in the yard of the Surawisesa palace at Kawali, late 14th century, midday. A stone carver kneels beside the upright slab, tapping an iron chisel with a wooden mallet, eyes narrowed on his work. The adult king, Niskala Wastu Kancana, a mature man with a calm, dignified face, bare-chested in a long wrapped cloth with a checkered woven pattern in indigo and rust-brown, a narrow sash, high topknot and plain gold armbands, stands watching with hands clasped behind his back. A scribe holds a palm-leaf strip beside him. In the distance laborers dig a wide earthen moat with baskets and bamboo poles, an earthen rampart rising. All workers are varied, in plain wrap cloths, different from the king. Foreground: the stone and the chisel; middle ground: the king and the carver; background: a timber fence, the moat and forested volcanic foothills. Bright overhead light, stone chips flying.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of forest green-brown, andesite grey and sun gold, historically inspired 14th-century Sundanese court.\nAvoid readable script, smooth rectangular tablets, batik motifs, modern Sundanese costume, temples, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:35–2:46",
+      "narasi": "Menurut Carita Parahyangan, ia bertakhta seratus empat tahun, sebagai raja yang taat agama. Menurutmu, itu catatan sejarah, atau cara leluhur memuliakan rajanya?",
+      "prompt": "Same object as the Prasasti Kawali I reference image, now weathered by centuries.\nWide shot at eye level in the Astana Gede sacred grove at Kawali, present day, at misty dusk. Foreground: dry fallen leaves on an earthen terrace. Middle ground: the mossy inscribed slab standing among other dark-grey standing stones on low stone-lined terraces; a young visitor in simple modern clothes stands looking at it quietly, head tilted, while an old caretaker in a plain shirt sweeps leaves nearby. Background: huge old trees and drifting mist. Dim dusk light filtering through the branches, leaves falling slowly. Calm, questioning mood.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of moss green, stone grey and faint amber, historically accurate present-day Astana Gede site, Ciamis.\nAvoid temples, neat landscaped gardens, readable script, crowds, signage, characters looking at the camera, extra or malformed hands and fingers, text, letters, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Voice yang disarankan: narator dokumenter pria atau wanita bersuara dalam dan hangat, tempo tenang, tidak teatrikal. Babak per entri pendek; Rafi boleh menggabungkan beberapa babak berurutan dalam satu generate karena pov-produksi memotong per jeda.\n\n- Babak 1 (Pembuka): pelan dan memancing rasa ingin tahu; jeda singkat sebelum \"Setidaknya\".\n- Babak 2 (#5 Sambas): tenang dan informatif; kalimat terakhir naik sedikit sebagai jembatan ke Jawa.\n- Babak 3 (#4 Pakubuwono XII): tegang di adegan 6–7, lalu turun dan lirih di adegan 8 (momen hening).\n- Babak 4 (#3 Serdang): hangat di awal, berwibawa di akhir.\n- Babak 5 (#2 Panembahan Ratu): sedikit lebih lambat; nada murung di adegan 14.\n- Babak 6 (#1 Wastu Kancana): paling lambat dan berwibawa; pertanyaan penutup diucapkan pelan, tanpa terburu-buru.",
+    "arahanBabak": {
+      "1": "pelan dan memancing rasa ingin tahu; jeda singkat sebelum \"Setidaknya\".",
+      "2": "tenang dan informatif; kalimat terakhir naik sedikit sebagai jembatan ke Jawa.",
+      "3": "tegang di adegan 6–7, lalu turun dan lirih di adegan 8 (momen hening).",
+      "4": "hangat di awal, berwibawa di akhir.",
+      "5": "sedikit lebih lambat; nada murung di adegan 14.",
+      "6": "paling lambat dan berwibawa; pertanyaan penutup diucapkan pelan, tanpa terburu-buru."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[curious] Ada raja Nusantara yang bertakhta lebih dari seratus tahun. [serious] Setidaknya, begitulah kata naskah kuno tentang dirinya. ...\n\n[calm] Ini lima raja dengan masa takhta terpanjang. [serious] Syaratnya: namanya tercatat di prasasti atau catatan sezaman. ...",
+    "2": "[curious] Ia naik takhta Sambas pada 1866, dan bertakhta lebih dari setengah abad. [serious] Kesultanannya berada di bawah pengawasan Hindia Belanda. [calm] Dialah Sultan Muhammad Syafiuddin II. ...\n\n[calm] Di masanya, Sambas mengangkat Maharaja Imam pertama, pemimpin ulama kerajaan. [serious] Pada 1885, masjid kerajaan Sambas diresmikan. ...\n\n[serious] Pemerintahannya berakhir pada 1922. [calm] Tapi di Jawa, ada raja yang bertakhta lebih lama, hampir seluruhnya tanpa kekuasaan. ...",
+    "3": "[serious] Ia dinobatkan saat Jawa masih diduduki Jepang. [tense] Setahun kemudian, kerajaannya kehilangan kekuasaan politiknya. [calm] Dialah Pakubuwono XII, Susuhunan Surakarta. ...\n\n[calm] Dua hari setelah Proklamasi, Presiden Soekarno menetapkan kedudukannya lewat piagam. [tense] Namun gerakan anti-swapraja menolak kekuasaan keraton. ...\n\n[calm] Sejak 1946, pemerintahan Surakarta diambil alih Republik. [sad] Namun ia tetap bertakhta, hampir lima puluh sembilan tahun, hingga wafat pada 2004. ...",
+    "4": "[curious] Ia naik takhta saat remaja. [serious] Enam puluh lima tahun kemudian, ia masih bertakhta, ketika Indonesia merdeka. [calm] Dialah Sultan Sulaiman dari Serdang. ...\n\n[calm] Pemerintah kolonial hendak memindahkan pusat pemerintahan Serdang ke Lubuk Pakam. [serious] Sultan menolak, dan memindahkan istananya ke Perbaungan. ...\n\n[serious] Revolusi sosial 1946 mengakhiri kekuasaan kesultanan Melayu di Sumatra Timur, termasuk Serdang. [calm] Ia telah bertakhta sekitar enam puluh lima tahun. ...",
+    "5": "[serious] Ia memegang takhta Cirebon hampir delapan puluh tahun. [curious] Penggantinya bukan anaknya, melainkan cucunya. [calm] Dialah Panembahan Ratu, raja Cirebon. ...\n\n[calm] Menurut kajian sejarah, ia naik takhta sekitar 1570. [serious] Pada awal 1630-an, ia sudah tercatat dalam buku harian VOC. ...\n\n[resigned] Ia wafat pada 1649. [sad] Cucunya tak diizinkan pulang dari Mataram, dan wafat di sana. [serious] Hampir tiga puluh tahun kemudian, Cirebon terbelah. ...",
+    "6": "[serious] Tahun 1357, raja Sunda gugur di Bubat, Majapahit. [sad] Putranya masih kecil, sehingga pemerintahan dijalankan Hyang Bunisora. [calm] Anak itulah Niskala Wastu Kancana. ...\n\n[calm] Dari Kawali, ia memperindah keratonnya dan menggali parit keliling kota. [serious] Prasastinya berpesan kepada penerus: berbuat baiklah, agar jaya lama di dunia. ...\n\n[calm] Menurut Carita Parahyangan, ia bertakhta seratus empat tahun, sebagai raja yang taat agama. [curious] Menurutmu, itu catatan sejarah, atau cara leluhur memuliakan rajanya? ..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pelita",
+      "babakAwal": 1,
+      "babakAkhir": 3,
+      "durasiTarget": "1:25",
+      "suasana": "Gelap, kontemplatif, gamelan tipis",
+      "style": "Indonesian court ambient, soft gamelan metallophones and gong, low frame drum, sparse bamboo flute, dark and contemplative, starts sparse with single metallophone notes, builds gently with the drum, thins to near silence for a quiet passage near the end, then fades, 85 seconds (1:25), 72 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, trap, electric guitar, heavy drums, orchestral hits"
+    },
+    {
+      "nomor": 2,
+      "nama": "Kesultanan",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "1:05",
+      "suasana": "Berwibawa, sedikit muram, pesisir Melayu dan Jawa",
+      "style": "Malay and Javanese coastal court music, plucked lute, frame drums, soft gong, steady and dignified with a slightly melancholic tone, starts with lute and light drums, builds in the middle, ends on a single soft gong, 65 seconds (1:05), 80 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, pop, electric guitar, trap"
+    },
+    {
+      "nomor": 3,
+      "nama": "Seabad",
+      "babakAwal": 6,
+      "babakAkhir": 6,
+      "durasiTarget": "0:45",
+      "suasana": "Khidmat, reflektif, kacapi dan suling",
+      "style": "Sundanese kacapi zither and suling bamboo flute, slow, reverent and reflective, starts with solo zither, flute enters softly, swells slightly in the middle, ends quiet and unresolved, 45 seconds (0:45), 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, drums, electric guitar, orchestral"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Desis pelita minyak, lembar daun naskah tersibak",
+      "kataKunci": "oil lamp flame, palm leaf rustle",
+      "prompt": "Soft crackle of a small oil lamp flame and the dry rustle of palm-leaf pages being turned, quiet room"
+    },
+    {
+      "nomor": 2,
+      "adegan": 3,
+      "bunyi": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+      "kataKunci": "small gong hit, kempul",
+      "prompt": "Single soft hit on a small bronze gong with a long warm decay, close and clean"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Beduk dipukul pelan di kejauhan, riak sungai",
+      "kataKunci": "bedug drum distant, river water",
+      "prompt": "Distant slow strikes of a large mosque drum over gentle river ripples, morning"
+    },
+    {
+      "nomor": 4,
+      "adegan": 6,
+      "bunyi": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+      "kataKunci": "small gong hit, kempul",
+      "prompt": "Single soft hit on a small bronze gong with a long warm decay, close and clean"
+    },
+    {
+      "nomor": 5,
+      "adegan": 7,
+      "bunyi": "Riuh kerumunan di kejauhan",
+      "kataKunci": "distant crowd murmur",
+      "prompt": "Distant murmur of a large outdoor crowd heard through a window, indistinct voices"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Angin lembut di halaman (momen hening)",
+      "kataKunci": "soft wind courtyard",
+      "prompt": "Very soft wind across an empty courtyard, faint leaves, almost silent"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+      "kataKunci": "small gong hit, kempul",
+      "prompt": "Single soft hit on a small bronze gong with a long warm decay, close and clean"
+    },
+    {
+      "nomor": 8,
+      "adegan": 10,
+      "bunyi": "Palu kayu dan burung pagi",
+      "kataKunci": "wooden mallet construction, morning birds",
+      "prompt": "Wooden mallets striking timber at a construction site, tropical birds in the background"
+    },
+    {
+      "nomor": 9,
+      "adegan": 12,
+      "bunyi": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+      "kataKunci": "small gong hit, kempul",
+      "prompt": "Single soft hit on a small bronze gong with a long warm decay, close and clean"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Goresan pena bulu di kertas",
+      "kataKunci": "quill pen writing",
+      "prompt": "Close sound of a quill pen scratching on thick paper, quiet office, distant gulls"
+    },
+    {
+      "nomor": 11,
+      "adegan": 15,
+      "bunyi": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+      "kataKunci": "small gong hit, kempul",
+      "prompt": "Single soft hit on a small bronze gong with a long warm decay, close and clean"
+    },
+    {
+      "nomor": 12,
+      "adegan": 16,
+      "bunyi": "Pahat besi mengetuk batu",
+      "kataKunci": "chisel on stone",
+      "prompt": "Rhythmic taps of an iron chisel and mallet carving stone, small chips falling"
+    },
+    {
+      "nomor": 13,
+      "adegan": 17,
+      "bunyi": "Angin di pepohonan, daun jatuh",
+      "kataKunci": "wind in trees, falling leaves",
+      "prompt": "Gentle wind through tall old trees, dry leaves falling on stone, dusk"
+    }
+  ],
+  "adeganHening": [
+    8
+  ],
+  "ulikan": {
+    "teks": "Paku Alam VIII, 61 tahun bertakhta, tapi bergelar adipati.",
+    "sumber": "Mufaiqoh, e-Jurnal Ilmu Sejarah UNY; Kariem & Ginting 2025; UU No. 13 Tahun 2012",
+    "kata": 9,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "5 Raja Bertakhta Terlama di Nusantara",
+      "catatan": "Alternatif judul: 5 Raja Nusantara dengan Masa Takhta Terpanjang / 5 Raja yang Paling Lama Bertakhta di Nusantara",
+      "caption": "Menurut naskah kuno, ada raja Nusantara yang bertakhta 104 tahun. Siapa saja yang paling lama?\nLima raja dari Sunda, Cirebon, Serdang, Surakarta, dan Sambas, yang namanya tercatat di prasasti atau catatan sezaman.\nSetuju dengan urutannya? Raja siapa yang menurutmu terlewat?\nPeringkat disusun Ulik Silam berdasarkan lama bertakhta raja tertinggi yang namanya tercatat di prasasti atau catatan sezaman; ilustrasi adalah rekonstruksi. Sumber utama: Saptono (1994), Deviani (2016). Sebagian kisah bersumber dari Carita Parahyangan.\n#UlikSilam #sejarahindonesia #kerajaannusantara #rajanusantara"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "5 Raja Bertakhta Terlama di Nusantara",
+      "catatan": "",
+      "caption": "Satu raja Nusantara bertakhta 104 tahun, setidaknya menurut naskahnya.\nLima raja dengan masa takhta terpanjang, dari Kawali sampai Sambas, yang namanya tercatat di prasasti atau catatan sezaman.\nMenurutmu, siapa yang pantas masuk daftar ini?\nPeringkat disusun Ulik Silam berdasarkan lama bertakhta raja tertinggi yang namanya tercatat di prasasti atau catatan sezaman; ilustrasi adalah rekonstruksi. Sumber utama: Saptono (1994), Deviani (2016). Sebagian kisah bersumber dari Carita Parahyangan.\n#UlikSilam #sejarahindonesia #kerajaannusantara #rajanusantara"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 321,
+    "kataPerBabak": {
+      "1": 31,
+      "2": 57,
+      "3": 54,
+      "4": 58,
+      "5": 57,
+      "6": 64
+    },
+    "karakterPerBabak": {
+      "1": 266,
+      "2": 484,
+      "3": 499,
+      "4": 499,
+      "5": 468,
+      "6": 537
+    },
+    "jedaBunyi": 0,
+    "perkiraanDetik130": {
+      "narasi": 165,
+      "denganMerek": 170
+    },
+    "perkiraanDetik135": {
+      "narasi": 159.5,
+      "denganMerek": 164.5
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

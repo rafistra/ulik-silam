@@ -1,0 +1,21 @@
+judul: "POV: Kamu Pengikut Demang Lehman di Benteng Tabanio, 1859"
+slug: pov-pengikut-demang-lehman-tabanio
+format: POV
+lapisan: ["Sejarah"]
+latar: "Pelaihari dan Tabanio, Tanah Laut"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v3 · 2026-10-31"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Pendulang Pelaihari", "Utuh", "Demang Lehman"]
+aset: {ilustrasi: 16, narasi: 21, musik: 3, sfx: 10}
+render: "out/pov-pengikut-demang-lehman-tabanio.mp4"
+tanggal_render: 2026-11-01
+tautan: {"shorts": "https://youtube.com/shorts/fyIP05Yr4ns", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7703024743292669191"}
+arsip_lama: "pov/pov-pengikut-demang-lehman-tabanio"
+catatan: ""
+metrik_shorts: {"views": 5099, "jam_tonton": 76.6, "rata_tonton_detik": 54.1, "durasi_detik": 154, "persen_ditonton": 35.1, "subscriber": 26, "impresi": 5092, "ctr": 4.62, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 52573, "suka": 2567, "komentar": 13, "bagikan": 382, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-01", "tiktok": "2026-11-02"}

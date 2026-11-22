@@ -1,0 +1,661 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-02T21:07:06.530Z",
+  "judulDokumen": "Santri Sukamanah",
+  "judul": "POV: Kamu Santri Sukamanah Saat Pesantrenmu Melawan Jepang",
+  "slug": "pov-santri-sukamanah",
+  "versi": "v4 · 2026-11-03",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Sukamanah, Singaparna",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Santri (fiktif), laki-laki sekitar 17 tahun pada 1944, murid KH Zainal Mustafa di Pesantren Sukamanah, Singaparna; di epilog berusia sekitar 46 tahun",
+  "ringkasan": {
+    "Judul": "POV: Kamu Santri Sukamanah Saat Pesantrenmu Melawan Jepang",
+    "Slug": "pov-santri-sukamanah",
+    "Versi": "v4 · 2026-11-03",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Santri (fiktif), laki-laki sekitar 17 tahun pada 1944, murid KH Zainal Mustafa di Pesantren Sukamanah, Singaparna; di epilog berusia sekitar 46 tahun",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter: Santri Sukamanah, KH Zainal Mustafa)",
+    "Lapisan": "Sejarah",
+    "Latar": "Sukamanah, Singaparna",
+    "Premis": "Gurumu menolak membungkuk untuk Kaisar Jepang, dan kamu ikut berdiri tegak di sampingnya.",
+    "Benang merah": "Membungkuk: kamu menolak membungkuk untuk Kaisar, dan tiga puluh tahun kemudian menunduk untuk gurumu.",
+    "Dipilih karena": "Ide dari bank ide (2026-10-26), dikembangkan Rafi menjadi rentang 1943–1944 dengan epilog pemakaman kembali",
+    "Asumsi": "\"Kamu\" selamat, ikut ditangkap, lalu dibebaskan; sahabat sesama santri adalah rekaan; KH Zainal Mustafa tampil tanpa dialog atau kutipan rekaan; tanggal bentrok dan pemakaman kembali tidak disebut pasti karena sumber berbeda"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Pesantren di Singaparna",
+      "suasana": "Khusyuk, hangat, lalu gelisah",
+      "palet": "Oker bambu, emas pelita, hijau padi",
+      "cahaya": "Sore jingga (hook), pelita subuh, pagi lembut"
+    },
+    {
+      "babak": 2,
+      "nama": "Tidak Membungkuk",
+      "suasana": "Tegang, menahan diri",
+      "palet": "Oker debu, khaki-hijau, satu aksen merah bendera; malam nila",
+      "cahaya": "Pagi terik; malam dengan satu pelita atau obor"
+    },
+    {
+      "babak": 3,
+      "nama": "Hari Itu",
+      "suasana": "Mencekam",
+      "palet": "Putih terik, oker debu, khaki-hijau; jingga sore",
+      "cahaya": "Siang terik, lalu sore jingga"
+    },
+    {
+      "babak": 4,
+      "nama": "Pengepungan",
+      "suasana": "Genting, lalu duka",
+      "palet": "Jingga berasap, abu, putih kafan",
+      "cahaya": "Senja berasap, subuh berkabut, pagi kelabu"
+    },
+    {
+      "babak": 5,
+      "nama": "Pulang ke Sukamanah",
+      "suasana": "Sunyi, haru",
+      "palet": "Hijau pudar, cokelat kayu, emas sore",
+      "cahaya": "Siang lembut, lalu matahari sore rendah"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Pesantren di Singaparna",
+    "2": "Tidak Membungkuk",
+    "3": "Hari Itu",
+    "4": "Pengepungan",
+    "5": "Pulang ke Sukamanah"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Pesantren di Singaparna",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Sedang, dari balik pintu bilik asrama berdinding bilik bambu, sore. Tangan kanan \"kamu\" menggenggam tasbih, tangan kiri menahan daun pintu yang terbuka sedikit; di luar, barisan tentara Jepang bergerak di pematang sawah ke arah pesantren.",
+      "narasiSuara": "[tense] Kiaimu menolak membungkuk ke arah Kaisar Jepang. [whispers] Hari ini, enam kompi tentara Jepang mengepung pesantrenmu. [nervous] Kamu ada di dalamnya.",
+      "narasi": "Kiaimu menolak membungkuk ke arah Kaisar Jepang. Hari ini, enam kompi tentara Jepang mengepung pesantrenmu. Kamu ada di dalamnya.",
+      "teksLayar": [
+        "Sukamanah, Singaparna, 1944."
+      ],
+      "suara": "Langkah sepatu berderap jauh, angin sore",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Pesantren di Singaparna",
+      "waktu": "0:10–0:22",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, dalam surau panggung saat subuh, cahaya pelita. \"Kamu\" duduk bersila membaca kitab di antara santri lain, bibir bergerak mengaji; di luar jendela langit mulai terang.",
+      "narasiSuara": "[calm] Pesantren Sukamanah berdiri di antara sawah Singaparna. [calm] Kamu datang ke sini untuk mengaji, bukan untuk berperang. [calm] Setiap subuh, suara mengajimu bersahutan dengan kokok ayam.",
+      "narasi": "Pesantren Sukamanah berdiri di antara sawah Singaparna. Kamu datang ke sini untuk mengaji, bukan untuk berperang. Setiap subuh, suara mengajimu bersahutan dengan kokok ayam.",
+      "teksLayar": [
+        "Beberapa bulan sebelumnya."
+      ],
+      "suara": "Suara mengaji bersahutan, kokok ayam",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Pesantren di Singaparna",
+      "waktu": "0:22–0:32",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang, teras surau siang hari. KH Zainal Mustafa duduk mengajar dengan raut serius, tangannya menunjuk ke arah jalan; di jalan, petugas mengangkut karung beras ke gerobak. \"Kamu\" dan santri lain mendengarkan.",
+      "narasiSuara": "[serious] Tapi zaman sedang berubah. [sad] Jepang menarik beras dari lumbung desa, dan para lelaki dikirim menjadi romusha. [serious] Kiaimu tidak diam soal itu.",
+      "narasi": "Tapi zaman sedang berubah. Jepang menarik beras dari lumbung desa, dan para lelaki dikirim menjadi romusha. Kiaimu tidak diam soal itu.",
+      "teksLayar": [],
+      "suara": "Gerobak berderit, karung diturunkan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Tidak Membungkuk",
+      "waktu": "0:32–0:41",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Lebar, lapangan Sukamanah pagi hari. Warga dan santri berbaris; seorang perwira Jepang berdiri di depan di samping tiang bendera Jepang, memberi aba-aba. \"Kamu\" di barisan tengah, menoleh ke arah kiai.",
+      "narasiSuara": "[tense] Lalu datang perintah upacara di lapangan. [serious] Semua orang harus membungkuk ke arah Kaisar di Tokyo. [whispers] Namanya seikerei.",
+      "narasi": "Lalu datang perintah upacara di lapangan. Semua orang harus membungkuk ke arah Kaisar di Tokyo. Namanya seikerei.",
+      "teksLayar": [],
+      "suara": "Aba-aba dalam bahasa Jepang, bendera berkibar",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Tidak Membungkuk",
+      "waktu": "0:41–0:49",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Sedang, sejajar mata di barisan upacara. Orang-orang di kiri dan kanan membungkuk dalam; di depan, KH Zainal Mustafa tetap berdiri tegak. Kedua tangan \"kamu\" terkepal lurus di sisi tubuh, tidak ikut membungkuk; perwira Jepang menoleh tajam ke arah barisan.",
+      "narasiSuara": "[nervous] Barisan di sekitarmu mulai menunduk. [calm] Lalu kamu melihat kiaimu tetap berdiri tegak. [whispers] Kamu pun tidak membungkuk.",
+      "narasi": "Barisan di sekitarmu mulai menunduk. Lalu kamu melihat kiaimu tetap berdiri tegak. Kamu pun tidak membungkuk.",
+      "teksLayar": [],
+      "suara": "Hening, kain bergesek saat orang membungkuk",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Tidak Membungkuk",
+      "waktu": "0:49–1:01",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Sedang, malam di surau, satu pelita. KH Zainal Mustafa mengajar santri yang duduk melingkar; di luar pagar bambu, dua sosok pria samar mengamati sambil mencatat.",
+      "narasiSuara": "[serious] Bagi kiaimu, membungkuk seperti rukuk kepada manusia adalah syirik. [tense] Sejak hari itu, Kempeitai mencatat namanya. [nervous] Itu bukan daftar yang ingin dimasuki siapa pun.",
+      "narasi": "Bagi kiaimu, membungkuk seperti rukuk kepada manusia adalah syirik. Sejak hari itu, Kempeitai mencatat namanya. Itu bukan daftar yang ingin dimasuki siapa pun.",
+      "teksLayar": [],
+      "suara": "Suara mengaji pelan, jangkrik",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Tidak Membungkuk",
+      "waktu": "1:01–1:11",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, halaman pesantren malam, obor kecil. \"Kamu\" dan sahabatmu berlatih silat dengan gerakan menahan napas; santri lain berjaga di dekat pintu.",
+      "narasiSuara": "[tense] Berbulan-bulan pesantren diawasi orang-orang yang tak kamu kenal. [serious] Malam hari, kamu dan sahabatmu berlatih silat di halaman, dengan suara ditahan.",
+      "narasi": "Berbulan-bulan pesantren diawasi orang-orang yang tak kamu kenal. Malam hari, kamu dan sahabatmu berlatih silat di halaman, dengan suara ditahan.",
+      "teksLayar": [],
+      "suara": "Napas tertahan, kaki di tanah",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Hari Itu",
+      "waktu": "1:11–1:20",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Sedang, gerbang pesantren siang terik. Tangan \"kamu\" memegang sapu lidi yang berhenti di tanah; di gerbang berdiri beberapa anggota Kempeitai berseragam dan seorang juru bahasa pribumi berkemeja putih; satu anggota Kempeitai menatap langsung ke \"kamu\".",
+      "narasiSuara": "[tense] Siang itu, beberapa orang Kempeitai dan seorang juru bahasa datang ke pesantren. [nervous] Mereka datang untuk membawa kiaimu.",
+      "narasi": "Siang itu, beberapa orang Kempeitai dan seorang juru bahasa datang ke pesantren. Mereka datang untuk membawa kiaimu.",
+      "teksLayar": [
+        "Februari 1944."
+      ],
+      "suara": "Sepatu bot di tanah, sapu lidi jatuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Hari Itu",
+      "waktu": "1:20–1:28",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, halaman pesantren yang riuh, debu beterbangan, sandal berserakan. Santri berlarian ke berbagai arah; \"kamu\" berdiri terpaku di tengah, peci miring, napas memburu. Tanpa kekerasan yang terlihat.",
+      "narasiSuara": "[shouting] Halaman pesantren mendadak riuh. [tense] Saat keributan reda, tiga orang Jepang tewas, dan yang lain melarikan diri.",
+      "narasi": "Halaman pesantren mendadak riuh. Saat keributan reda, tiga orang Jepang tewas, dan yang lain melarikan diri.",
+      "teksLayar": [],
+      "suara": "Teriakan dan langkah berlarian",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Hari Itu",
+      "waktu": "1:28–1:37",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sedang, padasan tempat wudu sore hari. \"Kamu\" membasuh wajah, sahabatmu di sampingnya menatap ke arah gerbang; langit mulai jingga.",
+      "narasiSuara": "[serious] Semua orang tahu, mereka akan kembali dengan pasukan lebih besar. [whispers] Kamu berwudu, lalu berdiri di samping sahabatmu.",
+      "narasi": "Semua orang tahu, mereka akan kembali dengan pasukan lebih besar. Kamu berwudu, lalu berdiri di samping sahabatmu.",
+      "teksLayar": [],
+      "suara": "Air dari padasan, burung sore",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Pengepungan",
+      "waktu": "1:37–1:45",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Sedang dari sudut rendah di tepi kampung, sore jingga. Tangan \"kamu\" menggenggam senapan tua rampasan yang diarahkan ke bawah; di sawah, barisan tentara Jepang mendekat dari segala arah.",
+      "narasiSuara": "[tense] Sore itu, tentara Jepang mengepung Sukamanah dari segala arah. [nervous] Kalian hanya punya tekad dan beberapa senjata rampasan.",
+      "narasi": "Sore itu, tentara Jepang mengepung Sukamanah dari segala arah. Kalian hanya punya tekad dan beberapa senjata rampasan.",
+      "teksLayar": [],
+      "suara": "Derap pasukan mendekat, angin di sawah",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Pengepungan",
+      "waktu": "1:45–1:53",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Lebar, senja. Asap tipis menutupi atap-atap asrama; sebuah kitab terbuka dan sebuah peci tergeletak di tanah halaman. Tidak ada orang di bingkai.",
+      "narasiSuara": "[sad] [whispers] Pertempuran itu tidak lama... dan tidak seimbang. [whispers] Asap menutupi atap-atap asrama.",
+      "narasi": "Pertempuran itu tidak lama... dan tidak seimbang. Asap menutupi atap-atap asrama.",
+      "teksLayar": [],
+      "suara": "Sunyi, sisa api berderak pelan",
+      "hening": true,
+      "epilog": false,
+      "kata": 11
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Pengepungan",
+      "waktu": "1:53–2:03",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, subuh berkabut. Barisan santri salat jenazah di depan liang besar; jenazah tidak terlihat, hanya kain kafan putih yang tersusun. \"Kamu\" di barisan, kepala tertunduk.",
+      "narasiSuara": "[sad] Esok subuhnya, kalian menyalatkan teman-teman sendiri. [sad] Mereka dimakamkan bersama, dalam satu liang besar. [whispers] Sahabatmu ada di antara mereka.",
+      "narasi": "Esok subuhnya, kalian menyalatkan teman-teman sendiri. Mereka dimakamkan bersama, dalam satu liang besar. Sahabatmu ada di antara mereka.",
+      "teksLayar": [],
+      "suara": "Takbir salat jenazah lirih, angin subuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Pengepungan",
+      "waktu": "2:03–2:11",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Sedang, di bak truk tua, pagi. Kedua pergelangan tangan \"kamu\" terikat tali; di sekitar, tahanan duduk berdesakan; seorang anggota Kempeitai berdiri di ujung bak.",
+      "narasiSuara": "[tense] Lalu Kempeitai kembali. [sad] Ratusan orang ditangkap dan dibawa ke Tasikmalaya, termasuk kamu. [whispers] Kabarnya, kiaimu dibawa ke Jakarta.",
+      "narasi": "Lalu Kempeitai kembali. Ratusan orang ditangkap dan dibawa ke Tasikmalaya, termasuk kamu. Kabarnya, kiaimu dibawa ke Jakarta.",
+      "teksLayar": [],
+      "suara": "Mesin truk tua, tali berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Pulang ke Sukamanah",
+      "waktu": "2:11–2:22",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang, beranda rumah kayu, 1970. \"Kamu\", kini sekitar 43 tahun dengan rambut mulai beruban, membaca surat kabar dengan tangan gemetar; secangkir kopi dibiarkan dingin.",
+      "narasiSuara": "[calm] Bertahun-tahun, tak ada kabar tentang kiaimu. [sad] Baru pada 1970 keluarganya tahu: ia dieksekusi Jepang pada Oktober 1944, bersama tujuh belas santri.",
+      "narasi": "Bertahun-tahun, tak ada kabar tentang kiaimu. Baru pada 1970 keluarganya tahu: ia dieksekusi Jepang pada Oktober 1944, bersama tujuh belas santri.",
+      "teksLayar": [
+        "Tahun 1970."
+      ],
+      "suara": "Radio samar di dalam rumah, kertas dibalik",
+      "hening": false,
+      "epilog": true,
+      "kata": 21
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Pulang ke Sukamanah",
+      "waktu": "2:22–2:32",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, siang. Iring-iringan pelayat mengusung keranda menuju kompleks makam di Sukamanah; orang-orang berpeci dan berkerudung berjalan pelan.",
+      "narasiSuara": "[serious] Makamnya ditemukan di Ancol, Jakarta, jauh dari kampungnya. [calm] Kini, hampir tiga puluh tahun kemudian, jenazahnya dibawa pulang ke Sukamanah.",
+      "narasi": "Makamnya ditemukan di Ancol, Jakarta, jauh dari kampungnya. Kini, hampir tiga puluh tahun kemudian, jenazahnya dibawa pulang ke Sukamanah.",
+      "teksLayar": [],
+      "suara": "Langkah pelan banyak orang, salawat lirih",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Pulang ke Sukamanah",
+      "waktu": "2:32–2:43",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang, di tepi makam baru. \"Kamu\", berambut mulai memutih dan berpeci hitam, menunduk dalam sambil menengadahkan tangan berdoa; pelayat lain di belakang.",
+      "narasiSuara": "[sad] Kamu berdiri di antara para pelayat, rambutmu mulai memutih. [whispers] Dulu kamu tidak membungkuk untuk Kaisar... hari ini, kamu menunduk untuk gurumu.",
+      "narasi": "Kamu berdiri di antara para pelayat, rambutmu mulai memutih. Dulu kamu tidak membungkuk untuk Kaisar... hari ini, kamu menunduk untuk gurumu.",
+      "teksLayar": [],
+      "suara": "Doa lirih, angin di pepohonan",
+      "hening": false,
+      "epilog": true,
+      "kata": 21
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Santri Sukamanah",
+      "prompt": "Character reference sheet of Santri Sukamanah.\nSantri Sukamanah, a Sundanese pesantren student about 17 years old at Pesantren Sukamanah, Singaparna, Tasikmalaya, West Java, in 1943–1944. Slim, wiry build with warm light-brown skin; oval face, dark brown eyes, straight thick brows, short straight nose, full lips, a faint shadow of a first moustache; short black hair under a plain black velvet peci (a flat-topped oval cap). Wears a faded white collarless long-sleeved cotton shirt with three cloth-covered buttons at the neck, sleeves often rolled below the elbows; a dark green-and-brown checked cotton sarong tied at the waist; barefoot or in worn wooden clog sandals. A small black wooden prayer-bead string (tasbih) wrapped twice around his right wrist; no other jewelry. Quiet and attentive, weight often on the balls of his feet as if ready to move.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the peci, shirt buttons, checked sarong and tasbih, and one first-person panel of his hands and forearms seen from his own point of view: Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1940s Sundanese pesantren student clothing.\nAvoid modern koko shirts with embroidery, printed fabrics, modern clothing, sneakers, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "KH Zainal Mustafa",
+      "prompt": "Character reference sheet of KH Zainal Mustafa.\nKH Zainal Mustafa, a Sundanese Muslim cleric about 44 years old, founder and teacher of Pesantren Sukamanah, Singaparna, Tasikmalaya, West Java, in 1943–1944. Slim build, very upright posture, warm light-brown skin; oval youthful face, calm dark eyes under straight thick brows, straight nose, full lips, clean-shaven with no moustache and no beard; black hair at the temples. Wears a white cloth turban (sorban) wound neatly around the head with its loose end hanging down at one side of the neck; a light ochre collarless long-sleeved cotton shirt with thin golden-yellow piping along the neckline and front opening; a dark brown checked cotton sarong; barefoot or in simple leather sandals. No jewelry. Stands and sits very straight and still, gestures with an open palm, gaze steady and unhurried.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the turban, shirt piping and checked sarong. Plain light background.\nUse the uploaded portrait painting only as a reference for the face, turban and shirt, not for the pose, background or art style.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1940s Sundanese kiai clothing.\nAvoid moustache, beard, robes in Arab style, black peci, modern clothing, caricature, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Kiaimu menolak membungkuk ke arah Kaisar Jepang. Hari ini, enam kompi tentara Jepang mengepung pesantrenmu. Kamu ada di dalamnya.",
+      "prompt": "The viewer is Santri Sukamanah: the hands and forearms in the foreground match the first-person panel of the Santri Sukamanah reference image.\nMedium shot at eye level from inside a dim student dormitory room, looking out through a door opened a crack, late afternoon.\nFirst-person point of view. Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. The right hand grips the tasbih tightly against the chest; the left hand holds the wooden door edge, opening it just a little.\nBeyond the door, across the rice field dikes, long lines of Japanese soldiers advance toward the pesantren, small and dark against the orange sky, heads turned toward the buildings, not toward the viewer. Japanese soldiers wear khaki-green Type 98 field uniforms, field caps with cloth neck flaps, cloth puttees and ankle boots; rifles are carried upright or lowered, never aimed at anyone.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim warm palette of bamboo ochre and deep brown inside, low orange late-afternoon sun outside, deep shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:22",
+      "narasi": "Pesantren Sukamanah berdiri di antara sawah Singaparna. Kamu datang ke sini untuk mengaji, bukan untuk berperang. Setiap subuh, suara mengajimu bersahutan dengan kokok ayam.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nMedium-wide shot at a slightly high angle inside a raised wooden prayer hall at dawn, one oil lamp burning, the first pale light in the window.\nSantri Sukamanah sits cross-legged among other students, leaning over an open kitab on a low wooden reading stand, lips moving as he recites, eyes on the page, one finger following the line.\nThe other students are different people from Santri Sukamanah: boys of varied ages from about 12 to 20, round and thin faces, white or black peci, plain sarongs in blue, grey and brown checks, no tasbih on the wrist; some nod sleepily, one yawns behind his hand.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of oil-lamp gold, bamboo ochre and soft dawn blue, deep shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:22–0:32",
+      "narasi": "Tapi zaman sedang berubah. Jepang menarik beras dari lumbung desa, dan para lelaki dikirim menjadi romusha. Kiaimu tidak diam soal itu.",
+      "prompt": "Same character as the KH Zainal Mustafa reference image.\nSame character as the Santri Sukamanah reference image.\nMedium shot at eye level on the veranda of the raised prayer hall, late morning.\nKH Zainal Mustafa sits upright on the veranda floor, half turned toward the road, one open palm raised toward it, brows drawn together, mouth firm, eyes on the road. Santri Sukamanah kneels among the listening students, leaning forward, eyes following the kiai's hand, lips pressed thin.\nOn the dirt road below, two local village officials in grey shirts and black peci load sacks of rice onto a wooden ox-cart while a thin farmer watches with folded arms. The officials, farmer and other students are different people from Santri Sukamanah and KH Zainal Mustafa, with varied ages, faces and plainer clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of straw gold, dusty ochre and green rice, bright late-morning light with soft shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid a moustache or beard on KH Zainal Mustafa, characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:32–0:41",
+      "narasi": "Lalu datang perintah upacara di lapangan. Semua orang harus membungkuk ke arah Kaisar di Tokyo. Namanya seikerei.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nWide shot from a slightly high angle over the pesantren field on a bright morning.\nRows of villagers and students stand in lines facing a flagpole flying the Japanese red-sun flag. At the front, a Japanese officer in a khaki-green uniform with a sword at his hip raises one arm, mouth open giving a command, eyes on the rows. Santri Sukamanah stands in the middle row, head turned slightly toward the front of the line where the kiai stands, brows knitted, jaw tense.\nThe villagers and other students are different people from Santri Sukamanah, in varied ages, faces and plain clothes. Japanese soldiers wear khaki-green Type 98 field uniforms, field caps with cloth neck flaps, cloth puttees and ankle boots; rifles are carried upright or lowered, never aimed at anyone.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright palette of hot white morning light, dusty ochre field, khaki and one accent of flag red, short hard shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:41–0:49",
+      "narasi": "Barisan di sekitarmu mulai menunduk. Lalu kamu melihat kiaimu tetap berdiri tegak. Kamu pun tidak membungkuk.",
+      "prompt": "The viewer is Santri Sukamanah: the hands and forearms in the foreground match the first-person panel of the Santri Sukamanah reference image.\nSame character as the KH Zainal Mustafa reference image.\nMedium shot at eye level from inside the ceremony line, bright morning.\nFirst-person point of view. Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. Both hands hang straight at the sides, fists clenched, the body not bending.\nOn both sides, rows of villagers bow deeply from the waist, backs curved, eyes on the ground. Ahead, KH Zainal Mustafa stands perfectly upright from behind and slightly to the side, shoulders squared, head level, facing the flagpole. Far ahead, the Japanese officer turns his head sharply toward the line, eyes narrowed, mouth tight. The villagers are different people from Santri Sukamanah and KH Zainal Mustafa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright palette of hot white morning light, dusty ochre field, khaki and one accent of flag red, short hard shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid a moustache or beard on KH Zainal Mustafa, characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:49–1:01",
+      "narasi": "Bagi kiaimu, membungkuk seperti rukuk kepada manusia adalah syirik. Sejak hari itu, Kempeitai mencatat namanya. Itu bukan daftar yang ingin dimasuki siapa pun.",
+      "prompt": "Same character as the KH Zainal Mustafa reference image.\nSame character as the Santri Sukamanah reference image.\nMedium shot at eye level inside the prayer hall at night, a single oil lamp on the floor.\nKH Zainal Mustafa sits upright teaching, one open palm resting on an open kitab, eyes calm and serious on his students. Santri Sukamanah sits in the circle of students, glancing sideways toward the dark window.\nThrough the window, beyond the bamboo fence, two vague male figures in dark clothes stand half hidden by a banana tree, one writing in a small notebook; their faces are in shadow. The students and watchers are different people from Santri Sukamanah and KH Zainal Mustafa.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, night palette of deep indigo shadows with a single warm oil-lamp glow, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid a moustache or beard on KH Zainal Mustafa, characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:01–1:11",
+      "narasi": "Berbulan-bulan pesantren diawasi orang-orang yang tak kamu kenal. Malam hari, kamu dan sahabatmu berlatih silat di halaman, dengan suara ditahan.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nMedium-wide shot from a low angle in the pesantren yard at night, one small torch stuck in the ground.\nSantri Sukamanah, sleeves rolled up and sarong tied high, steps forward mid-movement in a pencak silat stance, one palm pushing out, the other guarding the chest, teeth clenched, eyes locked on his sparring partner. His friend blocks mid-turn, sarong swinging.\nHis friend is a different person from Santri Sukamanah: a stockier, round-faced boy of the same age with a white skullcap and a blue checked sarong. Two younger students keep watch by the gate, looking out into the dark.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, night palette of deep indigo shadows with one small warm torch glow, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:20",
+      "narasi": "Siang itu, beberapa orang Kempeitai dan seorang juru bahasa datang ke pesantren. Mereka datang untuk membawa kiaimu.",
+      "prompt": "The viewer is Santri Sukamanah: the hands and forearms in the foreground match the first-person panel of the Santri Sukamanah reference image.\nMedium shot at eye level at the bamboo gate of the pesantren, harsh midday.\nFirst-person point of view. Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. The right hand still holds a stick broom (sapu lidi) whose tip has stopped on the dusty ground; the left hand hangs half raised.\nAt the gate stand four Japanese military policemen in khaki-green uniforms with plain white armbands on the left arm and field caps, and one Indonesian interpreter in a white shirt and black peci. The nearest military policeman, a lean man with a thin moustache, looks straight at the viewer with cold, narrowed eyes; the others look past toward the prayer hall; the interpreter glances nervously aside. They are different people from Santri Sukamanah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, harsh palette of white midday light, dusty ochre and khaki-green, short hard shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:20–1:28",
+      "narasi": "Halaman pesantren mendadak riuh. Saat keributan reda, tiga orang Jepang tewas, dan yang lain melarikan diri.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nMedium-wide shot at eye level in the pesantren yard, dust swirling, harsh midday.\nStudents run in different directions, sarongs flapping, sandals scattered on the ground. Santri Sukamanah stands frozen in the middle mid-breath, peci knocked askew, chest heaving, eyes wide, staring toward the gate out of frame. No violence is shown.\nThe other students are different people from Santri Sukamanah, of varied ages and faces.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, harsh palette of white midday light, dusty ochre and khaki-green, short hard shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:28–1:37",
+      "narasi": "Semua orang tahu, mereka akan kembali dengan pasukan lebih besar. Kamu berwudu, lalu berdiri di samping sahabatmu.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nMedium shot at eye level beside a bamboo water spout for ablution (wudu) next to the prayer hall, late afternoon.\nSantri Sukamanah bends to wash his face with cupped hands, water dripping, eyes closed, brows tight. Beside him his friend stands with wet hands, looking toward the gate, jaw clenched.\nHis friend is a different person from Santri Sukamanah: a stockier, round-faced boy of the same age with a white skullcap and a blue checked sarong.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of orange late-afternoon light, bamboo ochre and cool water blue, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:37–1:45",
+      "narasi": "Sore itu, tentara Jepang mengepung Sukamanah dari segala arah. Kalian hanya punya tekad dan beberapa senjata rampasan.",
+      "prompt": "The viewer is Santri Sukamanah: the hands and forearms in the foreground match the first-person panel of the Santri Sukamanah reference image.\nMedium shot from a low angle at the edge of the village beside a bamboo fence, dusk.\nFirst-person point of view. Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. Both hands hold an old captured bolt-action rifle, its muzzle pointed down at the ground.\nAcross the rice fields, lines of Japanese soldiers close in from several directions, small figures against the orange sky, looking toward the village. Japanese soldiers wear khaki-green Type 98 field uniforms, field caps with cloth neck flaps, cloth puttees and ankle boots; rifles are carried upright or lowered, never aimed at anyone.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dramatic palette of smoky orange dusk sky, dark green rice and khaki, long shadows, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:53",
+      "narasi": "Pertempuran itu tidak lama... dan tidak seimbang. Asap menutupi atap-atap asrama.",
+      "prompt": "Wide shot at eye level of the empty pesantren yard at dusk after the fighting.\nThin smoke drifts over the clay-tile roofs of the dormitories. In the foreground, an open kitab lies face up on the dusty ground beside a fallen black velvet peci. No people in the frame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of grey smoke, dusky violet and dim ember orange, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, people, human figures, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:53–2:03",
+      "narasi": "Esok subuhnya, kalian menyalatkan teman-teman sendiri. Mereka dimakamkan bersama, dalam satu liang besar. Sahabatmu ada di antara mereka.",
+      "prompt": "Same character as the Santri Sukamanah reference image.\nWide shot at eye level on a misty dawn.\nRows of students stand in prayer before one single wide, freshly dug mass grave: a single long open pit in the earth, with all the white shrouded forms laid side by side together inside that same pit; only the white shrouds are visible, no faces or bodies shown. Santri Sukamanah stands in the front row, head bowed deeply, eyes closed, hands folded over the chest, shoulders shaking slightly.\nThe other mourners are different people from Santri Sukamanah, of varied ages and faces, some old village men with grey stubble.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold palette of misty dawn grey, white cloth and pale blue, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid separate individual graves, several small pits, gravestones or grave markers, characters looking at the camera, visible bodies, faces of the dead, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:03–2:11",
+      "narasi": "Lalu Kempeitai kembali. Ratusan orang ditangkap dan dibawa ke Tasikmalaya, termasuk kamu. Kabarnya, kiaimu dibawa ke Jakarta.",
+      "prompt": "The viewer is Santri Sukamanah: the hands and forearms in the foreground match the first-person panel of the Santri Sukamanah reference image.\nMedium shot at eye level in the back of an old open truck in grey morning light.\nFirst-person point of view. Warm light-brown hands and forearms of a 17-year-old Sundanese village student: slim fingers with light calluses, short clean nails, a small dark mole on the back of the left hand; faded white cotton shirt sleeves rolled up just below the elbows; a small black wooden tasbih wrapped twice around the right wrist; no rings. Both wrists are bound together with rough rope, resting on the knees.\nPrisoners sit crowded shoulder to shoulder, heads bowed, some looking at the viewer's bound hands. At the far end of the truck bed stands a Japanese military policeman with a plain white armband, looking out at the road. The prisoners are different people from Santri Sukamanah: men of varied ages, faces and plain clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold palette of grey morning light, khaki-green and dusty brown, historically accurate 1943–1944 Japanese-occupied rural West Java (Singaparna, Tasikmalaya): a Sundanese pesantren of raised wooden houses with woven bamboo (bilik) walls and clay-tile roofs, a raised wooden prayer hall (surau), rice fields and coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:11–2:22",
+      "narasi": "Bertahun-tahun, tak ada kabar tentang kiaimu. Baru pada 1970 keluarganya tahu: ia dieksekusi Jepang pada Oktober 1944, bersama tujuh belas santri.",
+      "prompt": "Same character as the Santri Sukamanah reference image. Now about 43 years old: lines around the eyes, greying temples, slightly fuller face, wearing a black peci, a plain white short-sleeved shirt and a dark checked sarong, with the same black tasbih on the right wrist.\nMedium shot at eye level on the veranda of a wooden house, soft morning daylight.\nHe sits on a wooden bench holding an open newspaper with both trembling hands, leaning toward it, brows drawn up, lips parted, eyes fixed on the page. A cup of coffee stands untouched on the bench beside him. The newspaper shows only illegible grey print blocks.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft faded palette of 1970s daylight, pale green, warm wood brown, historically accurate early-1970s rural West Java (Sukamanah, Tasikmalaya): simple wooden and brick village houses with clay-tile roofs, coconut palms and rice fields.\nAvoid characters looking at the camera, readable words, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:22–2:32",
+      "narasi": "Makamnya ditemukan di Ancol, Jakarta, jauh dari kampungnya. Kini, hampir tiga puluh tahun kemudian, jenazahnya dibawa pulang ke Sukamanah.",
+      "prompt": "Wide shot from a slightly high angle of a village path at midday.\nA long funeral procession walks slowly toward a cemetery on a gentle rise; men in black peci carry a covered wooden bier on their shoulders, women in long loose headscarves (kerudung) and batik cloth follow, heads bowed. The mourners are varied in age, face and plain early-1970s clothing.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of hazy midday light, pale green and white cloth, historically accurate early-1970s rural West Java (Sukamanah, Tasikmalaya): simple wooden and brick village houses with clay-tile roofs, coconut palms and rice fields.\nAvoid characters looking at the camera, visible body, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:32–2:43",
+      "narasi": "Kamu berdiri di antara para pelayat, rambutmu mulai memutih. Dulu kamu tidak membungkuk untuk Kaisar... hari ini, kamu menunduk untuk gurumu.",
+      "prompt": "Same character as the Santri Sukamanah reference image. Now about 46 years old: greying hair and temples, lines around the eyes, wearing a black peci, a plain white long-sleeved shirt and a dark checked sarong, with the same black tasbih on the right wrist.\nMedium shot at eye level beside a fresh grave in a hillside cemetery, low golden late-afternoon sun.\nHe stands bowing his head deeply over the fresh grave, both hands raised palms up in prayer, eyes closed, lips moving silently, shoulders bent. Other mourners stand behind him, heads bowed. The other mourners are different people from Santri Sukamanah, of varied ages and faces.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim warm palette of low golden late-afternoon light, deep green and earth brown, long shadows, historically accurate early-1970s rural West Java (Sukamanah, Tasikmalaya): simple wooden and brick village houses with clay-tile roofs, coconut palms and rice fields.\nAvoid characters looking at the camera, stiff symmetrical poses, characters standing straight and facing forward, background figures copying Santri Sukamanah's or KH Zainal Mustafa's face or outfit, identical faces, blood, gore, weapons aimed at people, caricatured Japanese soldiers, modern clothing, modern hijab styles, plastic objects, readable Japanese or Latin script, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki dewasa yang hangat dan tenang, sedikit berat, yang bisa berbisik dengan jelas; voice yang terlalu lembut sulit mengikuti tag [shouting] di adegan 9.\n\n- Babak 1: tegang dan berbisik di hook, lalu tenang dan hangat.\n- Babak 2: serius dan menahan diri, berbisik di \"Kamu pun tidak membungkuk\".\n- Babak 3: tegang, tempo sedikit lebih cepat, berteriak singkat di awal adegan 9.\n- Babak 4: tegang lalu sangat pelan; adegan 12 dan akhir adegan 13 berbisik.\n- Babak 5: tenang dan pelan, haru, berbisik di kalimat terakhir.",
+    "arahanBabak": {
+      "1": "tegang dan berbisik di hook, lalu tenang dan hangat.",
+      "2": "serius dan menahan diri, berbisik di \"Kamu pun tidak membungkuk\".",
+      "3": "tegang, tempo sedikit lebih cepat, berteriak singkat di awal adegan 9.",
+      "4": "tegang lalu sangat pelan; adegan 12 dan akhir adegan 13 berbisik.",
+      "5": "tenang dan pelan, haru, berbisik di kalimat terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kiaimu menolak membungkuk ke arah Kaisar Jepang. [whispers] Hari ini, enam kompi tentara Jepang mengepung pesantrenmu. [nervous] Kamu ada di dalamnya....\n\n[calm] Pesantren Sukamanah berdiri di antara sawah Singaparna. [calm] Kamu datang ke sini untuk mengaji, bukan untuk berperang. [calm] Setiap subuh, suara mengajimu bersahutan dengan kokok ayam....\n\n[serious] Tapi zaman sedang berubah. [sad] Jepang menarik beras dari lumbung desa, dan para lelaki dikirim menjadi romusha. [serious] Kiaimu tidak diam soal itu....",
+    "2": "[tense] Lalu datang perintah upacara di lapangan. [serious] Semua orang harus membungkuk ke arah Kaisar di Tokyo. [whispers] Namanya seikerei....\n\n[nervous] Barisan di sekitarmu mulai menunduk. [calm] Lalu kamu melihat kiaimu tetap berdiri tegak. [whispers] Kamu pun tidak membungkuk....\n\n[serious] Bagi kiaimu, membungkuk seperti rukuk kepada manusia adalah syirik. [tense] Sejak hari itu, Kempeitai mencatat namanya. [nervous] Itu bukan daftar yang ingin dimasuki siapa pun....\n\n[tense] Berbulan-bulan pesantren diawasi orang-orang yang tak kamu kenal. [serious] Malam hari, kamu dan sahabatmu berlatih silat di halaman, dengan suara ditahan....",
+    "3": "[tense] Siang itu, beberapa orang Kempeitai dan seorang juru bahasa datang ke pesantren. [nervous] Mereka datang untuk membawa kiaimu....\n\n[shouting] Halaman pesantren mendadak riuh. [tense] Saat keributan reda, tiga orang Jepang tewas, dan yang lain melarikan diri....\n\n[serious] Semua orang tahu, mereka akan kembali dengan pasukan lebih besar. [whispers] Kamu berwudu, lalu berdiri di samping sahabatmu....",
+    "4": "[tense] Sore itu, tentara Jepang mengepung Sukamanah dari segala arah. [nervous] Kalian hanya punya tekad dan beberapa senjata rampasan....\n\n[sad] [whispers] Pertempuran itu tidak lama... dan tidak seimbang. [whispers] Asap menutupi atap-atap asrama....\n\n[sad] Esok subuhnya, kalian menyalatkan teman-teman sendiri. [sad] Mereka dimakamkan bersama, dalam satu liang besar. [whispers] Sahabatmu ada di antara mereka....\n\n[tense] Lalu Kempeitai kembali. [sad] Ratusan orang ditangkap dan dibawa ke Tasikmalaya, termasuk kamu. [whispers] Kabarnya, kiaimu dibawa ke Jakarta....",
+    "5": "[calm] Bertahun-tahun, tak ada kabar tentang kiaimu. [sad] Baru pada 1970 keluarganya tahu: ia dieksekusi Jepang pada Oktober 1944, bersama tujuh belas santri....\n\n[serious] Makamnya ditemukan di Ancol, Jakarta, jauh dari kampungnya. [calm] Kini, hampir tiga puluh tahun kemudian, jenazahnya dibawa pulang ke Sukamanah....\n\n[sad] Kamu berdiri di antara para pelayat, rambutmu mulai memutih. [whispers] Dulu kamu tidak membungkuk untuk Kaisar... hari ini, kamu menunduk untuk gurumu...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pesantren",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:20",
+      "suasana": "Khusyuk dan hangat, perlahan menegang",
+      "style": "Sundanese ambient, soft kacapi zither and suling bamboo flute over a slow low drone, devout and warm at first, growing quietly tense with soft frame-drum pulses in the second half, about 80 seconds long (1:20), with a clear ending, 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, electric guitar, Japanese koto, heavy drums"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pengepungan",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:10",
+      "suasana": "Mencekam, memuncak, lalu runtuh menjadi sunyi",
+      "style": "dark cinematic ambient, low muffled hand percussion, deep drones and tense bowed strings, rising urgency then collapsing into near silence with distant wind, about 70 seconds long (1:10), with a clear ending, 80 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, taiko, trailer hits, electric guitar, heroic brass"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pulang",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:40",
+      "suasana": "Sunyi, haru, menutup tenang",
+      "style": "gentle Sundanese elegy, solo suling bamboo flute over soft kacapi, tender and mournful, sparse and slow, fading into a quiet peaceful close, about 40 seconds long (0:40), with a clear ending, 58 BPM, instrumental, no vocals",
+      "exclude": "vocals, EDM, piano pop, heavy drums"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Derap pasukan dari jauh",
+      "kataKunci": "distant marching soldiers",
+      "prompt": "distant footsteps of a marching troop on a dirt path, evening wind"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Kokok ayam dan suara subuh",
+      "kataKunci": "rooster dawn village",
+      "prompt": "rooster crowing at dawn in a quiet village, soft insects"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Gerobak kayu berderit",
+      "kataKunci": "wooden cart creak",
+      "prompt": "wooden ox-cart creaking on a dirt road, sacks dropped"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Bendera berkibar dan aba-aba",
+      "kataKunci": "flag flapping crowd outdoor",
+      "prompt": "flag flapping on a pole above a quiet outdoor crowd"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Jangkrik malam",
+      "kataKunci": "crickets night",
+      "prompt": "crickets at night outside a wooden house"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Langkah silat di tanah",
+      "kataKunci": "footsteps dirt scuffle",
+      "prompt": "bare feet shuffling quickly on packed dirt, cloth swishing"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Sapu lidi jatuh",
+      "kataKunci": "broom drop",
+      "prompt": "a stick broom dropped on dusty ground"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Langkah berlarian",
+      "kataKunci": "people running dirt",
+      "prompt": "many bare feet running across a dirt yard, distant shouts"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Air pancuran bambu",
+      "kataKunci": "water trickle bamboo spout",
+      "prompt": "water pouring from a bamboo spout into a stone basin"
+    },
+    {
+      "nomor": 10,
+      "adegan": 12,
+      "bunyi": "Sisa api berderak",
+      "kataKunci": "embers crackle",
+      "prompt": "quiet crackling embers and soft wind after a fire"
+    },
+    {
+      "nomor": 11,
+      "adegan": 14,
+      "bunyi": "Mesin truk tua",
+      "kataKunci": "old truck engine idle",
+      "prompt": "old 1940s truck engine idling, wooden bed creaking"
+    },
+    {
+      "nomor": 12,
+      "adegan": 15,
+      "bunyi": "Kertas koran dibalik",
+      "kataKunci": "newspaper page turn",
+      "prompt": "newspaper page turned slowly"
+    },
+    {
+      "nomor": 13,
+      "adegan": 17,
+      "bunyi": "Angin di pepohonan",
+      "kataKunci": "wind trees birds",
+      "prompt": "soft afternoon wind through trees with distant birds"
+    }
+  ],
+  "adeganHening": [
+    12
+  ],
+  "ulikan": {
+    "teks": "KH Zainal Mustafa ditetapkan sebagai Pahlawan Nasional pada 1972.",
+    "sumber": "Keppres No. 064/TK/1972 (NU Online; Wikipedia)",
+    "kata": 9,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Santri Sukamanah Saat Pesantrenmu Melawan Jepang",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Santri Sukamanah, 1944\nAlternatif judul: POV: Kamu Santri yang Menolak Membungkuk untuk Kaisar / POV: Kamu Santri Singaparna di Tahun 1944",
+      "caption": "Semua orang membungkuk ke arah Kaisar Jepang. Kiaimu tetap berdiri tegak.\n\nFebruari 1944, Pesantren Sukamanah di Singaparna, Tasikmalaya, melawan pendudukan Jepang di bawah KH Zainal Mustafa. Ratusan orang ditangkap, dan nasib sang kiai baru diketahui keluarganya pada 1970.\n\nKalau kamu di barisan itu, kamu ikut membungkuk atau tetap berdiri?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online, Wikipedia.\n\n#UlikSilam #sejarahindonesia #zainalmustafa #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Santri Sukamanah Saat Pesantrenmu Melawan Jepang",
+      "catatan": "",
+      "caption": "Semua orang membungkuk ke arah Kaisar Jepang. Kiaimu tetap berdiri tegak.\n\nPesantren Sukamanah di Singaparna menolak seikerei, lalu melawan Kempeitai pada Februari 1944. Jenazah KH Zainal Mustafa baru pulang ke Sukamanah hampir tiga puluh tahun kemudian.\n\nKalau kamu di barisan itu, kamu ikut membungkuk atau tetap berdiri?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online, Wikipedia.\n\n#UlikSilam #sejarah #pesantren #zainalmustafa #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 5,
+    "totalKata": 314,
+    "kataPerBabak": {
+      "1": 64,
+      "2": 76,
+      "3": 50,
+      "4": 63,
+      "5": 61
+    },
+    "karakterPerBabak": {
+      "1": 526,
+      "2": 647,
+      "3": 409,
+      "4": 573,
+      "5": 485
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 162.7,
+      "denganMerek": 167.7
+    },
+    "perkiraanDetik135": {
+      "narasi": 157.4,
+      "denganMerek": 162.4
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

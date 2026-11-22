@@ -1,0 +1,638 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-12T11:16:29.856Z",
+  "judulDokumen": "Pendayung Kenyah ke Long Iram, 1916",
+  "judul": "POV: Kamu Pendayung Kenyah ke Long Iram, 1916",
+  "slug": "pov-pendayung-kenyah-long-iram",
+  "versi": "v1 · 2026-11-01",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Long Iram dan Apo Kayan",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Pemuda Kenyah (fiktif) dari Apo Kayan, ±20 tahun, pendayung rombongan pengangkut perbekalan garnisun Long Nawang",
+  "ringkasan": {
+    "Judul": "POV: Kamu Pendayung Kenyah ke Long Iram, 1916",
+    "Slug": "pov-pendayung-kenyah-long-iram",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:33 sampai 2:38 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Pemuda Kenyah (fiktif) dari Apo Kayan, ±20 tahun, pendayung rombongan pengangkut perbekalan garnisun Long Nawang",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Pendayung Kenyah, Teman Pengukir)",
+    "Versi": "v1 · 2026-11-01",
+    "Lapisan": "Sejarah",
+    "Latar": "Long Iram dan Apo Kayan",
+    "Premis": "Tenaga 179 pendayung Kenyah menghidupi tangsi Belanda, dan di tengah tugas itu sebuah makam raja dalam bentuk kecil ditawarkan untuk dijual.",
+    "Benang merah": "Dayung di tangan \"kamu\" (dari hook sampai penutup) dan pertanyaan untuk siapa ia mendayung",
+    "Asumsi": "Usia dan peran \"kamu\"; tokoh pendukung fiktif; waktu berangkat dihitung mundur dari kedatangan Lumholtz di Long Iram (Agustus 1916); banjir semalam sebagai dramatisasi dari catatan Lumholtz; jenis muatan tidak disebut",
+    "Dipilih karena": "Bersumber catatan saksi mata (Lumholtz, 1916), visual sungai yang terus berganti, dan kontras jelas antara tenaga orang pedalaman dan pos kolonial"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Tangsi di Kampung",
+      "suasana": "Sejuk, lalu tegang",
+      "palet": "Abu-biru kabut, hijau tua, cokelat kayu",
+      "cahaya": "Subuh pucat dengan semburat jingga"
+    },
+    {
+      "babak": 2,
+      "nama": "Sungai",
+      "suasana": "Bertenaga dan berbahaya",
+      "palet": "Hijau zamrud, putih buih, cokelat sungai",
+      "cahaya": "Matahari pagi menembus kabut; cahaya hijau redup di sungai sempit"
+    },
+    {
+      "babak": 3,
+      "nama": "Long Iram",
+      "suasana": "Ramai dan asing",
+      "palet": "Kuning debu jalan, cokelat atap, hijau",
+      "cahaya": "Siang terik, lalu senja jingga"
+    },
+    {
+      "babak": 4,
+      "nama": "Miniatur",
+      "suasana": "Hening dan getir",
+      "palet": "Cokelat kayu, kuning pelita, bayang dalam",
+      "cahaya": "Pelita minyak di beranda malam"
+    },
+    {
+      "babak": 5,
+      "nama": "Pulang",
+      "suasana": "Berat, lalu sunyi",
+      "palet": "Abu badai, cokelat lumpur, jingga senja",
+      "cahaya": "Malam hujan dengan kilat; senja keemasan di akhir"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Tangsi di Kampung",
+    "2": "Sungai",
+    "3": "Long Iram",
+    "4": "Miniatur",
+    "5": "Pulang"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Tangsi di Kampung",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Subuh berkabut di tepi sungai. Deretan perahu panjang mengapung, pendayung Kenyah naik satu per satu. Tangan kanan \"kamu\" menggenggam dayung kayu, tangan kiri berpegang pada bibir perahu.",
+      "narasiSuara": "[tense] Kamu satu dari seratus tujuh puluh sembilan pendayung Kenyah. [sad] Dan semua yang akan kalian angkut... bukan untuk kampungmu.",
+      "narasi": "Kamu satu dari seratus tujuh puluh sembilan pendayung Kenyah. Dan semua yang akan kalian angkut... bukan untuk kampungmu.",
+      "teksLayar": [
+        "Apo Kayan, 1916."
+      ],
+      "suara": "Riak air, suara orang naik perahu, burung subuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Tangsi di Kampung",
+      "waktu": "0:09–0:19",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Tangsi kayu Belanda beratap di dataran tinggi, beberapa serdadu berbaris di halaman. \"Kamu\" memikul dayung melintas di depannya, menoleh ke arah tangsi.",
+      "narasiSuara": "[calm] Di kampungmu, Long Nawang, berdiri tangsi Belanda. [serious] Empat puluh serdadu, dua perwira, satu dokter... [serious] Dan mereka semua butuh perbekalan.",
+      "narasi": "Di kampungmu, Long Nawang, berdiri tangsi Belanda. Empat puluh serdadu, dua perwira, satu dokter... Dan mereka semua butuh perbekalan.",
+      "teksLayar": [],
+      "suara": "Aba-aba baris samar, langkah sepatu",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Tangsi di Kampung",
+      "waktu": "0:19–0:29",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Tepi sungai. Kepala rombongan Kenyah yang paruh baya berbicara dengan dua serdadu pengawal; \"kamu\" dan para pendayung lain duduk mendengarkan.",
+      "narasiSuara": "[calm] Orang Kenyah dipercaya menjemput perbekalan itu dari Long Iram, jauh di hilir. [serious] Biasanya, hanya dua serdadu yang ikut mengawal.",
+      "narasi": "Orang Kenyah dipercaya menjemput perbekalan itu dari Long Iram, jauh di hilir. Biasanya, hanya dua serdadu yang ikut mengawal.",
+      "teksLayar": [],
+      "suara": "Percakapan samar, air sungai",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Sungai",
+      "waktu": "0:29–0:39",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Di dalam perahu saat matahari terbit di atas sungai lebar berkabut. Kedua tangan \"kamu\" mengayun dayung; di depan, punggung para pendayung bergerak serempak.",
+      "narasiSuara": "[calm] Perjalanan ini hampir seluruhnya di atas air. [tense] Kalian mendayung dari subuh sampai senja, hari demi hari, minggu demi minggu.",
+      "narasi": "Perjalanan ini hampir seluruhnya di atas air. Kalian mendayung dari subuh sampai senja, hari demi hari, minggu demi minggu.",
+      "teksLayar": [],
+      "suara": "Dayung serempak, napas berirama",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Sungai",
+      "waktu": "0:39–0:47",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Perahu menerjang jeram berbuih; para pendayung condong, otot menegang, salah satu berteriak memberi aba-aba.",
+      "narasiSuara": "[tense] Di jeram, perahu menari di atas buih. [nervous] Satu dayungan yang salah, dan perahu bisa karam bersama isinya.",
+      "narasi": "Di jeram, perahu menari di atas buih. Satu dayungan yang salah, dan perahu bisa karam bersama isinya.",
+      "teksLayar": [],
+      "suara": "Gemuruh jeram, teriakan aba-aba",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Sungai",
+      "waktu": "0:47–0:57",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Sungai sempit diapit tebing curam berlumut. \"Kamu\" menengadah; tangan kanan menahan dayung melintang di pangkuan, tangan kiri menyentuh tebing. Langit tinggal sepotong di antara pepohonan.",
+      "narasiSuara": "[serious] Di beberapa tempat, sungai menyempit tinggal empat meter, diapit tebing curam. [curious] Kamu menatap sepotong langit di antara pepohonan.",
+      "narasi": "Di beberapa tempat, sungai menyempit tinggal empat meter, diapit tebing curam. Kamu menatap sepotong langit di antara pepohonan.",
+      "teksLayar": [],
+      "suara": "Air bergema di antara tebing, tetes air",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Long Iram",
+      "waktu": "0:57–1:06",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Jalan panjang yang rapi di Long Iram: rumah kayu, toko Tionghoa, warga Melayu bersarung; di dermaga, kapal uap kecil memuat rotan dan karet. Rombongan Kenyah berjalan memikul dayung, \"kamu\" menatap sekeliling dengan heran.",
+      "narasiSuara": "[curious] Akhirnya, Long Iram. [curious] Kota yang belum lama berdiri, dengan jalan panjang yang rapi, dihuni orang Melayu, Tionghoa, dan Dayak.",
+      "narasi": "Akhirnya, Long Iram. Kota yang belum lama berdiri, dengan jalan panjang yang rapi, dihuni orang Melayu, Tionghoa, dan Dayak.",
+      "teksLayar": [
+        "Long Iram."
+      ],
+      "suara": "Keramaian kota kecil, ayam, obrolan berbagai bahasa",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Long Iram",
+      "waktu": "1:06–1:16",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja. Rumah panggung sederhana di atas bukit kecil; para pendayung beristirahat, sebagian menyalakan api, \"kamu\" duduk di tangga menatap kota di bawah.",
+      "narasiSuara": "[calm] Rombongan kalian bermalam di sebuah rumah di atas bukit kecil. [resigned] Rumah itu memang dibangun untuk rombongan seperti kalian.",
+      "narasi": "Rombongan kalian bermalam di sebuah rumah di atas bukit kecil. Rumah itu memang dibangun untuk rombongan seperti kalian.",
+      "teksLayar": [],
+      "suara": "Jangkrik, api unggun, tawa pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Long Iram",
+      "waktu": "1:16–1:24",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tepi sungai, tak lama setelah rombongan tiba. Seorang dokter Eropa berseragam putih menatap lengan dan bahu \"kamu\" dengan kagum, tangannya terangkat seperti hendak menilai. Tangan kiri \"kamu\" terangkat sedikit, ragu.",
+      "narasiSuara": "[curious] Seorang dokter Eropa memandangi lengan dan bahumu lama sekali, kagum. [curious] Dia juga sedang menuju Long Nawang, kampungmu.",
+      "narasi": "Seorang dokter Eropa memandangi lengan dan bahumu lama sekali, kagum. Dia juga sedang menuju Long Nawang, kampungmu.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu di papan, gumam bahasa asing",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Miniatur",
+      "waktu": "1:24–1:34",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Di beranda rumah di bukit, tujuh lelaki Kenyah duduk melingkar mengukir miniatur rumah makam bertiang dari kayu; Teman Pengukir di depan, menghaluskan atapnya dengan pisau kecil.",
+      "narasiSuara": "[calm] Sambil menunggu, tujuh orang dari rombongan mulai mengukir. [calm] Mereka membuat miniatur rumah makam raja, papan demi papan, dengan teliti.",
+      "narasi": "Sambil menunggu, tujuh orang dari rombongan mulai mengukir. Mereka membuat miniatur rumah makam raja, papan demi papan, dengan teliti.",
+      "teksLayar": [],
+      "suara": "Pisau mengerat kayu, obrolan pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Miniatur",
+      "waktu": "1:34–1:43",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Seorang penjelajah tua berkulit putih duduk di bangku menulis di buku catatan, sesekali melirik ukiran. Tangan kanan \"kamu\" memegang serpih kayu.",
+      "narasiSuara": "[curious] Lalu datang seorang penjelajah tua dari Norwegia. [calm] Dia mencatat semuanya dalam bukunya: perahu kalian, otot kalian, ukiran kalian.",
+      "narasi": "Lalu datang seorang penjelajah tua dari Norwegia. Dia mencatat semuanya dalam bukunya: perahu kalian, otot kalian, ukiran kalian.",
+      "teksLayar": [],
+      "suara": "Pena menggores kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Miniatur",
+      "waktu": "1:43–1:52",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Teman Pengukir mengangkat miniatur rumah makam dengan kedua tangan ke arah penjelajah tua itu. Kedua tangan \"kamu\" diam di pangkuan.",
+      "narasiSuara": "[sad] [whispers] Temanmu menawarkan makam kecil itu kepadanya. [sad] [whispers] Rumah terakhir seorang raja... kini punya harga.",
+      "narasi": "Temanmu menawarkan makam kecil itu kepadanya. Rumah terakhir seorang raja... kini punya harga.",
+      "teksLayar": [],
+      "suara": "Musik turun; hanya serangga",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "1:52–2:03",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tepi sungai Long Iram. Para pendayung memuat karung dan peti ke perahu sampai sarat; seorang serdadu mencatat; \"kamu\" memikul karung.",
+      "narasiSuara": "[serious] Perahu-perahu dimuati karung dan peti untuk tangsi, sampai bibirnya nyaris menyentuh air. [tense] Kini kalian mendayung melawan arus, ke hulu, ke rumah.",
+      "narasi": "Perahu-perahu dimuati karung dan peti untuk tangsi, sampai bibirnya nyaris menyentuh air. Kini kalian mendayung melawan arus, ke hulu, ke rumah.",
+      "teksLayar": [],
+      "suara": "Karung dijatuhkan, kayu berderit, air",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:03–2:14",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Malam hujan deras di sungai sempit. Air keruh naik deras; perahu ditambatkan ke akar pohon. Kedua tangan \"kamu\" memeluk dayung, basah kuyup.",
+      "narasiSuara": "[tense] Suatu malam, hujan turun deras. [nervous] Di sungai yang sempit, air bisa naik lima sampai enam meter... [whispers] Kamu memeluk dayung dan tidak tidur.",
+      "narasi": "Suatu malam, hujan turun deras. Di sungai yang sempit, air bisa naik lima sampai enam meter... Kamu memeluk dayung dan tidak tidur.",
+      "teksLayar": [],
+      "suara": "Hujan deras, arus menderu, guruh",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:14–2:23",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Halaman tangsi Long Nawang. Seorang serdadu menghitung karung yang ditumpuk; para pendayung duduk kelelahan di tanah, \"kamu\" di antara mereka.",
+      "narasiSuara": "[calm] Sekitar tiga bulan sejak berangkat, muatan tiba dengan selamat. [serious] Serdadu menghitung karung satu per satu, lalu mengangguk.",
+      "narasi": "Sekitar tiga bulan sejak berangkat, muatan tiba dengan selamat. Serdadu menghitung karung satu per satu, lalu mengangguk.",
+      "teksLayar": [
+        "Long Nawang."
+      ],
+      "suara": "Hitungan dalam bahasa Melayu, napas lelah",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:23–2:33",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Senja di depan gudang tangsi yang penuh karung. Kedua tangan \"kamu\" yang melepuh masih menggenggam dayung.",
+      "narasiSuara": "[resigned] Tanganmu melepuh, bahumu remuk. [serious] Gudang tangsi kembali penuh... [sad] dan sebentar lagi, kosong lagi. [curious] Lalu, untuk siapa sebenarnya kamu mendayung?",
+      "narasi": "Tanganmu melepuh, bahumu remuk. Gudang tangsi kembali penuh... dan sebentar lagi, kosong lagi. Lalu, untuk siapa sebenarnya kamu mendayung?",
+      "teksLayar": [],
+      "suara": "Angin dataran tinggi, sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Pendayung Kenyah",
+      "prompt": "Character reference sheet of Pendayung Kenyah.\nPendayung Kenyah is a Kenyah man of about twenty from the Apo Kayan highlands of central Borneo, in 1916, a paddler in a supply convoy. Lean, powerful build with broad shoulders and heavily muscled arms, warm light-brown skin, a broad face, narrow dark eyes, straight brows, a flat nose and full lips. His black hair is cut in a straight fringe across the forehead, the sides and crown are shaved, and the hair at the back of the head hangs loose to the nape. A narrow band of plaited rattan circles his brow. His earlobes are pierced and stretched into long loops, each holding a plain brass ring. A dark blue tattoo of a curling dog-motif design covers the outside of each forearm. He is bare-chested and wears a long waistcloth of plain dark blue cotton wrapped around the waist and between the legs, its front flap hanging to the knees; barefoot. A plain dark hardwood bangle circles each wrist, and a Kenyah sword in a plain wooden sheath hangs at his left hip from a rattan belt. Alert and tireless, always watching the river.\nFull-body front, side and back views in a relaxed, natural standing pose holding a long wooden paddle, one three-quarter face portrait, one detail panel of the haircut from behind, the stretched earlobes with brass rings and the forearm tattoo, and one first-person panel of his own hands and forearms seen from his eyes: Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early 20th-century Kenyah everyday dress of the Apo Kayan.\nAvoid hornbill feather war caps, hornbill-beak or animal-tooth ear ornaments, animal-skin war coats, raised weapons, headhunting trophies, shoulder tattoos, exotic caricature, modern clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Teman Pengukir",
+      "prompt": "Character reference sheet of Teman Pengukir.\nTeman Pengukir is a Kenyah man of about twenty-five from the Apo Kayan highlands of central Borneo, in 1916, a paddler and woodcarver in the same convoy. Slim, wiry build, warm light-brown skin, a narrow face with high cheekbones, deep-set thoughtful eyes and a small scar on the chin. His black hair is cut in a straight fringe, the sides and crown are shaved, and the hair at the back hangs loose to the nape. His stretched earlobes hold thin brass rings, and a small round wooden disc sits in the upper rim of each ear. A dark blue curling tattoo design marks each thigh below the waistcloth. He is bare-chested and wears a long waistcloth of faded red-brown bark cloth; barefoot. A white shell bracelet circles his right wrist, and a small curved carving knife is tucked into his rattan belt. Calm and patient, his fingers always turning something over.\nFull-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, and one detail panel of the carving knife, the ear rings and wooden ear discs, the shell bracelet and the bark-cloth texture. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early 20th-century Kenyah everyday dress of the Apo Kayan.\nAvoid hornbill feather war caps, hornbill-beak or animal-tooth ear ornaments, animal-skin war coats, raised weapons, headhunting trophies, exotic caricature, modern clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Kamu satu dari seratus tujuh puluh sembilan pendayung Kenyah. Dan semua yang akan kalian angkut... bukan untuk kampungmu.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium-wide shot at eye level from the edge of a highland river at misty dawn, a row of long dugout boats floating ahead, each hollowed from a single log with a plank lashed along each side and a deck of split bamboo laid over the benches.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The right hand grips a long wooden paddle upright; the left hand rests on the plank rim of the nearest boat.\nKenyah paddlers of varied ages climb into the boats one by one, about eight to a boat, some turning to call to each other, others tying bundles; a few oblong wooden shields and spears lie stowed along the boat sides; mist drifts low over the water. The paddlers are different people from Pendayung Kenyah: fringe haircuts with shaved sides, brown or off-white waistcloths, some in wide mushroom-shaped palm-leaf sun hats, none with dark wooden bangles.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale blue-grey mist, dark greens and wood browns with a thin orange dawn glow, historically accurate 1916 Apo Kayan river landing with Kenyah dugout boats.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung Kenyah's face or outfit, identical faces, hornbill feather war caps, raised weapons, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:19",
+      "narasi": "Di kampungmu, Long Nawang, berdiri tangsi Belanda. Empat puluh serdadu, dua perwira, satu dokter... Dan mereka semua butuh perbekalan.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nMedium-wide shot from a slightly low angle on a highland plateau at early morning, a long wooden colonial barracks with a wooden-shingle roof and a flagpole behind a log palisade.\nA few soldiers drill in the yard, their backs turned. Pendayung Kenyah walks past in the foreground with a paddle over his shoulder, mid-stride, turning his head toward the barracks with narrowed eyes and a tight jaw. The soldiers are mostly Javanese men of varied ages in plain grey-green cotton field uniforms and wide-brimmed brown bamboo hats, barefoot, with short carbines and sheathed straight-bladed sabres at the hip; they are different people from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale blue-grey morning mist with dark greens and weathered wood, historically accurate 1910s Dutch colonial frontier post in the Borneo highlands.\nAvoid characters looking at the camera, stiff symmetrical poses, blue uniforms, black kepis, steel helmets, pith helmets, modern vehicles, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:29",
+      "narasi": "Orang Kenyah dipercaya menjemput perbekalan itu dari Long Iram, jauh di hilir. Biasanya, hanya dua serdadu yang ikut mengawal.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nMedium shot at eye level on a riverbank at dawn, dugout boats with split-bamboo decks tied up behind.\nA middle-aged Kenyah convoy leader with greying hair, a wide palm-leaf sun hat and a white bark-cloth vest speaks calmly with two soldiers, one hand pointing downriver; one soldier nods while the other adjusts the strap of his short carbine. The two soldiers are Javanese, in plain grey-green cotton field uniforms and wide-brimmed brown bamboo hats, barefoot, sheathed sabres at the hip. Pendayung Kenyah sits on his heels among other paddlers, listening with his chin on his fist, eyes on the soldiers. The leader, soldiers and paddlers are different people from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale blue-grey mist with a warming orange light on the water, historically accurate 1916 Apo Kayan riverbank.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung Kenyah's face or outfit, identical faces, blue uniforms, black kepis, steel helmets, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:29–0:39",
+      "narasi": "Perjalanan ini hampir seluruhnya di atas air. Kalian mendayung dari subuh sampai senja, hari demi hari, minggu demi minggu.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium-wide shot at eye level from the split-bamboo deck of a long dugout boat on a wide misty river at sunrise.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. Both hands swing the wooden paddle into the water mid-stroke, spray flicking off the blade.\nAhead, the bare backs of a row of paddlers sitting on the bamboo deck move in unison, all facing the bow, shoulders tensed; other dugout boats follow further up the river in the mist. The paddlers are different people from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, emerald greens and brown river water with sunlight breaking through mist, historically accurate 1916 central Borneo river journey by dugout.\nAvoid characters looking at the camera, outboard motors, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:47",
+      "narasi": "Di jeram, perahu menari di atas buih. Satu dayungan yang salah, dan perahu bisa karam bersama isinya.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nMedium-wide shot from a low angle at the edge of churning rapids in a forested river.\nA long dugout boat tilts over white water; Pendayung Kenyah kneels on the split-bamboo deck in the middle, body twisted, driving his paddle deep with clenched teeth; two paddlers at the bow stand and push long poles against the rocks; the steersman at the stern shouts with his mouth wide open, one arm flung forward; spray bursts over the bow. The other paddlers are different people from Pendayung Kenyah, of varied ages.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, emerald greens, white foam and brown water in bright morning light, historically accurate 1916 Borneo river rapids crossed by Kenyah dugout.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung Kenyah's face or outfit, life jackets, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:57",
+      "narasi": "Di beberapa tempat, sungai menyempit tinggal empat meter, diapit tebing curam. Kamu menatap sepotong langit di antara pepohonan.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium shot from a low angle looking upward from a dugout boat in a very narrow river gorge.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The right hand rests the paddle across the lap; the left hand touches the wet mossy rock wall beside the boat.\nSteep mossy banks rise on both sides, trees leaning over until only a thin strip of sky shows; water drips from ferns.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim green light with a pale strip of sky, historically accurate central Borneo upland river gorge.\nAvoid characters looking at the camera, bridges, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:57–1:06",
+      "narasi": "Akhirnya, Long Iram. Kota yang belum lama berdiri, dengan jalan panjang yang rapi, dihuni orang Melayu, Tionghoa, dan Dayak.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nWide shot at eye level along a long, very neat and clean dirt street on flat land in a small riverside garrison town at midday, wooden houses and Chinese shophouses on both sides, flowers in front of one house, a bright sky above the roofs; at the river landing in the background, a small river steamer is loaded with bundles of rattan and rubber.\nKenyah paddlers walk in a loose line carrying paddles; Pendayung Kenyah in the middle turns his head, eyes wide with curiosity. Townspeople go about their day: a Malay man in a sarong and black peci leading a goat, a Chinese shopkeeper in a loose white shirt standing in his doorway, local Dayak women carrying baskets. They are different people from Pendayung Kenyah, in varied clothing and ages.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty yellow road, brown roofs and greens in harsh midday light, historically accurate 1916 Dutch colonial river town on the upper Mahakam.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung Kenyah's face or outfit, identical faces, cars, electric poles, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:06–1:16",
+      "narasi": "Rombongan kalian bermalam di sebuah rumah di atas bukit kecil. Rumah itu memang dibangun untuk rombongan seperti kalian.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nSame character as the Teman Pengukir reference image.\nMedium-wide shot from a slightly low angle at dusk, a simple raised wooden house on top of a small hill above the town.\nPaddlers rest on the veranda and around a small fire; Pendayung Kenyah sits on the steps with his forearms on his knees, gazing down at the town with a quiet, guarded look; Teman Pengukir sits beside him turning a piece of wood over in his fingers. The other paddlers are different people, in brown and off-white waistcloths.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm orange dusk sky and firelight over dark greens and wood, historically accurate 1916 rest house for Kenyah convoys at Long Iram.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, electric lights, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:16–1:24",
+      "narasi": "Seorang dokter Eropa memandangi lengan dan bahumu lama sekali, kagum. Dia juga sedang menuju Long Nawang, kampungmu.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium shot at eye level on the riverbank at Long Iram in late afternoon, the convoy's dugout boats pulled up behind, soon after arrival.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The left forearm is lifted slightly, hesitant; the right hand rests on the knee.\nA European military doctor of about forty with a neat moustache, in a white tropical officer's uniform with a high collar, leans in with raised brows and a slight admiring smile, studying the viewer's arm and shoulder, one hand half raised as if to measure. He is a different person from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm low sunlight and soft shadows over brown water and wood, historically accurate 1916 Dutch colonial army doctor in Borneo.\nAvoid characters looking at the camera, stiff symmetrical poses, modern medical equipment, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:24–1:34",
+      "narasi": "Sambil menunggu, tujuh orang dari rombongan mulai mengukir. Mereka membuat miniatur rumah makam raja, papan demi papan, dengan teliti.",
+      "prompt": "Same character as the Teman Pengukir reference image.\nMedium shot from a slightly high angle on the veranda of the hill house at night, lit by an oil lamp.\nSeven Kenyah men sit in a loose circle around a small wooden model of a chief's funeral house: a little panelled vault with a ridged roof raised on one thick carved post, its timber panels carved and painted with curling scrolls and guardian-spirit faces; Teman Pengukir kneels in front, shaving the roof edge with his small curved knife, eyes narrowed in concentration; another man paints a panel; wood shavings scatter on the floor. The other carvers are different people from Teman Pengukir, of varied ages.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm yellow oil-lamp light, wood browns and deep shadows, historically accurate Kenyah funeral-house model with carved and painted panels.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Teman Pengukir's face or outfit, identical faces, skulls, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:34–1:43",
+      "narasi": "Lalu datang seorang penjelajah tua dari Norwegia. Dia mencatat semuanya dalam bukunya: perahu kalian, otot kalian, ukiran kalian.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium shot at eye level on the veranda by lamplight.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The right hand holds a curled wood shaving; the left hand rests on the floor.\nAn elderly European explorer of sixty-five with white hair and a white moustache, in light cotton travelling clothes, sits on a low bench writing in a notebook, pencil moving, glancing sideways at the funeral-house model with curious, attentive eyes. He is a different person from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm yellow oil-lamp light and deep shadows, historically accurate 1916 European explorer in Borneo.\nAvoid characters looking at the camera, stiff symmetrical poses, pith-helmet caricature, modern cameras, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:43–1:52",
+      "narasi": "Temanmu menawarkan makam kecil itu kepadanya. Rumah terakhir seorang raja... kini punya harga.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nSame character as the Teman Pengukir reference image.\nMedium shot at eye level on the lamp-lit veranda at night.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. Both hands rest still in the lap, fingers loosely laced.\nTeman Pengukir holds the small painted funeral-house model on its carved post out with both hands toward the elderly European explorer, his face composed but his eyes lowered; the explorer leans forward from his bench, notebook closed on his knee, studying the model. Neither looks at the viewer. The explorer is a different person from Teman Pengukir.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, a single warm oil-lamp glow in deep darkness, historically accurate Kenyah funeral-house model and 1916 European traveller.\nAvoid characters looking at the camera, stiff symmetrical poses, coins or banknotes, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:52–2:03",
+      "narasi": "Perahu-perahu dimuati karung dan peti untuk tangsi, sampai bibirnya nyaris menyentuh air. Kini kalian mendayung melawan arus, ke hulu, ke rumah.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nSame character as the Teman Pengukir reference image.\nMedium-wide shot at eye level on the riverbank at Long Iram in the morning.\nPendayung Kenyah carries a heavy sack on his shoulder down the bank, knees bent under the weight; Teman Pengukir passes a wooden crate into a dugout boat already riding low in the water, its middle section covered by an arched roof of palm leaves; spears and an oblong wooden shield lie stowed along the side. A European corporal in a plain grey-green cotton uniform, grey-green cap and leather boots writes in a ledger. The other paddlers and the corporal are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, grey-green morning light with brown river water, historically accurate 1916 supply loading on the upper Mahakam.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, printed labels on sacks, blue uniforms, black kepis, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:03–2:14",
+      "narasi": "Suatu malam, hujan turun deras. Di sungai yang sempit, air bisa naik lima sampai enam meter... Kamu memeluk dayung dan tidak tidur.",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium shot at eye level at night in heavy rain on a narrow river, lit by a flash of lightning.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The skin is soaked and streaming with rain. Both arms hug the wooden paddle against the chest.\nMuddy water surges high against the banks; the loaded dugout under its arched palm-leaf roof strains at a rattan rope tied to tree roots; a shadowed paddler nearby bails water. He is a different person from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, storm grey and muddy brown with a cold flash of lightning, historically accurate central Borneo river flood at night.\nAvoid characters looking at the camera, flashlights, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:14–2:23",
+      "narasi": "Sekitar tiga bulan sejak berangkat, muatan tiba dengan selamat. Serdadu menghitung karung satu per satu, lalu mengangguk.",
+      "prompt": "Same character as the Pendayung Kenyah reference image.\nMedium-wide shot from a slightly high angle in the yard of the highland barracks at midday, a wooden-shingle roof and log palisade behind, a pale sky above.\nA Javanese soldier in a plain grey-green cotton field uniform and a wide-brimmed brown bamboo hat, barefoot, counts stacked sacks with his finger, lips moving; paddlers sit exhausted on the ground with heads bowed. Pendayung Kenyah sits among them, shoulders slumped, watching the counting with a flat, tired stare. The soldier and paddlers are different people from Pendayung Kenyah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, washed-out highland daylight with muted greens and wood browns, historically accurate 1910s Dutch colonial frontier post in the Apo Kayan.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pendayung Kenyah's face or outfit, blue uniforms, black kepis, steel helmets, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:23–2:33",
+      "narasi": "Tanganmu melepuh, bahumu remuk. Gudang tangsi kembali penuh... dan sebentar lagi, kosong lagi. Lalu, untuk siapa sebenarnya kamu mendayung?",
+      "prompt": "The viewer is Pendayung Kenyah: the hands and forearms in the foreground match the first-person panel of the Pendayung Kenyah reference image.\nMedium shot at eye level at golden dusk in front of an open wooden storehouse with a shingle roof, full of stacked sacks.\nFirst-person point of view. Young man's strong hands with warm light-brown skin, thick calluses across the palms from paddling, short broken nails, bare muscular forearms each covered on the outside by a dark blue tattoo of a curling dog-motif design, a plain dark hardwood bangle around each wrist. The palms are now raw and blistered. Both hands still grip the wooden paddle, held upright.\nNo other people; the storehouse door hangs open and long shadows stretch across the yard.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm golden-orange dusk with long shadows, historically accurate 1910s Dutch colonial storehouse in the Borneo highlands.\nAvoid characters looking at the camera, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice pria atau perempuan dewasa yang hangat dan agak rendah; voice menentukan lebih dari tag.\n\n- Babak 1: tegang dan tertahan; tekanan di \"bukan untuk kampungmu\".\n- Babak 2: bertenaga, tempo sedikit lebih cepat di jeram, lalu melambat dan takjub di sungai sempit.\n- Babak 3: ingin tahu dan ringan, dengan nada getir tipis di \"memang dibangun untuk rombongan seperti kalian\".\n- Babak 4: tenang dan teliti, lalu adegan 12 berbisik; jeda panjang sebelum \"kini punya harga\".\n- Babak 5: berat dan tegang di malam hujan, lalu lelah; kalimat terakhir pelan dan dibiarkan menggantung.",
+    "arahanBabak": {
+      "1": "tegang dan tertahan; tekanan di \"bukan untuk kampungmu\".",
+      "2": "bertenaga, tempo sedikit lebih cepat di jeram, lalu melambat dan takjub di sungai sempit.",
+      "3": "ingin tahu dan ringan, dengan nada getir tipis di \"memang dibangun untuk rombongan seperti kalian\".",
+      "4": "tenang dan teliti, lalu adegan 12 berbisik; jeda panjang sebelum \"kini punya harga\".",
+      "5": "berat dan tegang di malam hujan, lalu lelah; kalimat terakhir pelan dan dibiarkan menggantung."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu satu dari seratus tujuh puluh sembilan pendayung Kenyah. [sad] Dan semua yang akan kalian angkut... bukan untuk kampungmu...\n\n[calm] Di kampungmu, Long Nawang, berdiri tangsi Belanda. [serious] Empat puluh serdadu, dua perwira, satu dokter... [serious] Dan mereka semua butuh perbekalan...\n\n[calm] Orang Kenyah dipercaya menjemput perbekalan itu dari Long Iram, jauh di hilir. [serious] Biasanya, hanya dua serdadu yang ikut mengawal...",
+    "2": "[calm] Perjalanan ini hampir seluruhnya di atas air. [tense] Kalian mendayung dari subuh sampai senja, hari demi hari, minggu demi minggu...\n\n[tense] Di jeram, perahu menari di atas buih. [nervous] Satu dayungan yang salah, dan perahu bisa karam bersama isinya...\n\n[serious] Di beberapa tempat, sungai menyempit tinggal empat meter, diapit tebing curam. [curious] Kamu menatap sepotong langit di antara pepohonan...",
+    "3": "[curious] Akhirnya, Long Iram. [curious] Kota yang belum lama berdiri, dengan jalan panjang yang rapi, dihuni orang Melayu, Tionghoa, dan Dayak...\n\n[calm] Rombongan kalian bermalam di sebuah rumah di atas bukit kecil. [resigned] Rumah itu memang dibangun untuk rombongan seperti kalian...\n\n[curious] Seorang dokter Eropa memandangi lengan dan bahumu lama sekali, kagum. [curious] Dia juga sedang menuju Long Nawang, kampungmu...",
+    "4": "[calm] Sambil menunggu, tujuh orang dari rombongan mulai mengukir. [calm] Mereka membuat miniatur rumah makam raja, papan demi papan, dengan teliti...\n\n[curious] Lalu datang seorang penjelajah tua dari Norwegia. [calm] Dia mencatat semuanya dalam bukunya: perahu kalian, otot kalian, ukiran kalian...\n\n[sad] [whispers] Temanmu menawarkan makam kecil itu kepadanya. [sad] [whispers] Rumah terakhir seorang raja... kini punya harga...",
+    "5": "[serious] Perahu-perahu dimuati karung dan peti untuk tangsi, sampai bibirnya nyaris menyentuh air. [tense] Kini kalian mendayung melawan arus, ke hulu, ke rumah...\n\n[tense] Suatu malam, hujan turun deras. [nervous] Di sungai yang sempit, air bisa naik lima sampai enam meter... [whispers] Kamu memeluk dayung dan tidak tidur...\n\n[calm] Sekitar tiga bulan sejak berangkat, muatan tiba dengan selamat. [serious] Serdadu menghitung karung satu per satu, lalu mengangguk...\n\n[resigned] Tanganmu melepuh, bahumu remuk. [serious] Gudang tangsi kembali penuh... [sad] dan sebentar lagi, kosong lagi. [curious] Lalu, untuk siapa sebenarnya kamu mendayung?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Hilir",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Sejuk dan tegang, lalu bertenaga dan berbahaya",
+      "style": "Cinematic Borneo folk ambient, a plucked Kenyah sape lute ostinato over low drones and soft river-like percussion, cool and uneasy at first, then building with driving hand drums and rising strings like rushing rapids, easing into a hushed, awed ending, fades out at the end, about 65 seconds long (1:05), with a clear ending, 90 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, rock drums, trap"
+    },
+    {
+      "nomor": 2,
+      "nama": "Long Iram",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Ingin tahu dan asing, lalu hening dan getir",
+      "style": "Curious cinematic folk, light wooden xylophone in the style of the Kenyah jatung utang with a gentle sape melody, bright and slightly foreign, then thinning to a slow solo sape and a low string pad, intimate and bittersweet, fades out at the end, about 60 seconds long (1:00), with a clear ending, 75 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, upbeat pop, brass fanfare"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pulang",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:50",
+      "suasana": "Berat dan menekan, lalu sunyi dan menggantung",
+      "style": "Dark cinematic underscore, deep drums and tense low strings with the sape motif from the first cue, heavy and labouring like paddling upstream, then dropping to a lone sape phrase over a soft held chord, weary and unresolved, fades out at the end, about 50 seconds long (0:50), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, triumphant brass, anthem"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Riak sungai subuh dan perahu kayu",
+      "kataKunci": "river dawn, wooden boat knock",
+      "prompt": "Calm river at dawn, wooden dugout boats knocking gently together, birds waking in the forest"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Aba-aba latihan serdadu",
+      "kataKunci": "military drill distant",
+      "prompt": "Distant soldiers drilling on a parade ground, a sharp command shout, boots stamping on earth"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Dayung serempak",
+      "kataKunci": "paddling rhythm canoe",
+      "prompt": "Many wooden paddles dipping into a river in unison, steady rhythmic splashes, forest ambience"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Jeram",
+      "kataKunci": "river rapids roaring",
+      "prompt": "Roaring river rapids, water crashing over rocks, a man shouting over the noise"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Tetes air di ngarai",
+      "kataKunci": "dripping water gorge",
+      "prompt": "Water dripping in a narrow mossy gorge, soft echo, slow river current"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Keramaian kota kecil",
+      "kataKunci": "small town street 1900s",
+      "prompt": "Small dirt street at midday, distant voices in several languages, a goat bleating, a door creaking"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Api unggun dan jangkrik",
+      "kataKunci": "campfire crickets night",
+      "prompt": "Small campfire crackling at dusk, crickets, quiet murmuring voices"
+    },
+    {
+      "nomor": 8,
+      "adegan": 10,
+      "bunyi": "Pisau ukir di kayu",
+      "kataKunci": "wood carving knife",
+      "prompt": "Small knife shaving soft wood, curls of wood falling, an oil lamp hissing softly"
+    },
+    {
+      "nomor": 9,
+      "adegan": 11,
+      "bunyi": "Pensil di buku catatan",
+      "kataKunci": "pencil writing paper",
+      "prompt": "Pencil scratching on notebook paper, pages turning, crickets outside"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Karung dimuat ke perahu",
+      "kataKunci": "sacks loading boat",
+      "prompt": "Heavy sacks dropped into a wooden boat, crates scraping, water lapping at the hull"
+    },
+    {
+      "nomor": 11,
+      "adegan": 14,
+      "bunyi": "Hujan deras dan sungai naik",
+      "kataKunci": "heavy rain river flood thunder",
+      "prompt": "Torrential rain at night on a jungle river, rising rushing water, thunder rolling, a rope creaking"
+    },
+    {
+      "nomor": 12,
+      "adegan": 15,
+      "bunyi": "Karung dihitung",
+      "kataKunci": "sacks thud counting",
+      "prompt": "Sacks thudding onto a pile one by one, a quiet counting voice, wind on a plateau"
+    },
+    {
+      "nomor": 13,
+      "adegan": 16,
+      "bunyi": "Angin senja dan pintu gudang",
+      "kataKunci": "dusk wind wooden door",
+      "prompt": "Evening wind across a quiet yard, a wooden storehouse door creaking slowly, distant birds"
+    }
+  ],
+  "adeganHening": [
+    12
+  ],
+  "ulikan": {
+    "teks": "Rumah makam bangsawan Kenyah disebut salong, ditinggikan di atas tiang kayu besar.",
+    "sumber": "Sainsbury Centre (koleksi panel salong)",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Pendayung Kenyah ke Long Iram, 1916",
+      "catatan": "Alternatif judul: POV: Kamu Pendayung untuk Tangsi Belanda, 1916 / POV: Kamu Satu dari 179 Pendayung Kenyah, 1916",
+      "caption": "179 pendayung, sekitar tiga bulan di sungai, demi 40 serdadu Belanda.\n\nPada 1916, penjelajah Norwegia Carl Lumholtz mencatat rombongan 179 orang Kenyah dari Apo Kayan yang mendayung ke Long Iram, kota tangsi di hulu Mahakam yang kini masuk Kabupaten Kutai Barat, untuk menjemput perbekalan tangsi Belanda di Long Nawang. Sambil menunggu, tujuh dari mereka mengukir miniatur rumah makam raja dan menawarkannya kepada Lumholtz.\n\nKalau kamu di posisinya, untuk siapa kamu mendayung?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Carl Lumholtz, Through Central Borneo (1920).\n\n#UlikSilam #sejarahindonesia #kenyah #kutaibarat"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Pendayung Kenyah ke Long Iram, 1916",
+      "catatan": "",
+      "caption": "179 pendayung, sekitar tiga bulan di sungai, demi 40 serdadu Belanda.\n\nPada 1916, penjelajah Norwegia Carl Lumholtz mencatat rombongan 179 orang Kenyah dari Apo Kayan yang mendayung ke Long Iram, kota tangsi di hulu Mahakam yang kini masuk Kabupaten Kutai Barat, untuk menjemput perbekalan tangsi Belanda di Long Nawang. Sambil menunggu, tujuh dari mereka mengukir miniatur rumah makam raja dan menawarkannya kepada Lumholtz.\n\nKalau kamu di posisinya, untuk siapa kamu mendayung?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Carl Lumholtz, Through Central Borneo (1920).\n\n#UlikSilam #sejarahindonesia #kenyah #kutaibarat #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 293,
+    "kataPerBabak": {
+      "1": 56,
+      "2": 54,
+      "3": 54,
+      "4": 50,
+      "5": 79
+    },
+    "karakterPerBabak": {
+      "1": 452,
+      "2": 418,
+      "3": 431,
+      "4": 435,
+      "5": 654
+    },
+    "jedaBunyi": 5,
+    "perkiraanDetik130": {
+      "narasi": 153.6,
+      "denganMerek": 158.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 148.6,
+      "denganMerek": 153.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

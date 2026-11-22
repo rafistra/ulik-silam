@@ -1,0 +1,633 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-19T03:14:41.912Z",
+  "judulDokumen": "drg. Soenarti, istri dr. Kariadi",
+  "judul": "POV: Kamu Istri dr. Kariadi, Semarang 1945",
+  "slug": "pov-soenarti-kariadi",
+  "versi": "v1 · 2026-10-19",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Semarang",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "drg. Soenarti (tokoh nyata, sudah wafat), istri dr. Kariadi, dokter gigi lulusan STOVIT Surabaya, ibu dari anak-anak mereka",
+  "ringkasan": {
+    "Judul": "POV: Kamu Istri dr. Kariadi, Semarang 1945",
+    "Slug": "pov-soenarti-kariadi",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan ±2:48 pada 130 kpm, ±2:43 pada 135 kpm, termasuk ±5 dtk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "drg. Soenarti (tokoh nyata, sudah wafat), istri dr. Kariadi, dokter gigi lulusan STOVIT Surabaya, ibu dari anak-anak mereka",
+    "Jumlah ilustrasi": "17 (16 adegan + 1 lembar karakter dr. Kariadi)",
+    "Lapisan": "Sejarah",
+    "Latar": "Semarang",
+    "Premis": "Kota mengenang dr. Kariadi sebagai pahlawan; video ini menunjukkan malam terakhirnya dari mata orang yang memintanya tetap di rumah.",
+    "Benang merah": "Pintu rumah dinas: tempat ia pamit (adegan 6), pintu yang tak bisa kamu buka saat kota bertempur (adegan 12), dan ambang yang kosong di akhir (adegan 16).",
+    "Sudut pandang": "Hampir semua adegan bidikan orang pertama, karena potret Soenarti tidak ditemukan. Penembakan tidak diperlihatkan: kamu tidak menyaksikannya.",
+    "Hindari": "Adegan penembakan dan darah; racun disebut sebagai fakta; tentara Jepang yang karikatural; motif batik parang",
+    "Asumsi": "Durasi 3:00, alur 5 babak, momen wajib (larangan sebelum pergi, dering telepon pembuka), dan akhir berupa pertanyaan diisi default; brief disetujui Rafi 19 Oktober 2026.",
+    "Dipilih karena": "Dari bank ide 19 Oktober 2026: pertempuran besar dilihat dari rumah, oleh orang yang paling dulu kehilangan dan tak bisa mencegahnya.",
+    "Versi": "v1 · 2026-10-19"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Dering Selepas Magrib",
+      "suasana": "Hangat dan domestik, mulai gelisah",
+      "palet": "Kuning lampu, cokelat jati, putih gading, biru malam di jendela",
+      "cahaya": "Satu lampu meja hangat; biru dingin dari luar jendela"
+    },
+    {
+      "babak": 2,
+      "nama": "Pamit",
+      "suasana": "Tegang dan intim",
+      "palet": "Cokelat tua, putih kebaya, hitam jas, amber",
+      "cahaya": "Cahaya dari dalam rumah; gelap pekat di luar pintu"
+    },
+    {
+      "babak": 3,
+      "nama": "Menunggu",
+      "suasana": "Sunyi, cemas, lalu duka",
+      "palet": "Amber redup, cokelat gelap, biru tinta",
+      "cahaya": "Satu lampu meja, bayangan panjang; adegan 10 paling gelap"
+    },
+    {
+      "babak": 4,
+      "nama": "Kota yang Bertempur",
+      "suasana": "Genting dan kelabu",
+      "palet": "Jingga kebakaran, abu-abu asap, cokelat pudar",
+      "cahaya": "Cahaya api dari celah jendela; fajar pucat berasap"
+    },
+    {
+      "babak": 5,
+      "nama": "Nama yang Tinggal",
+      "suasana": "Reflektif, hangat dan pahit",
+      "palet": "Sepia hangat, krem, emas senja",
+      "cahaya": "Matahari rendah; adegan 16 lampu dalam rumah saat senja"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Dering Selepas Magrib",
+    "2": "Pamit",
+    "3": "Menunggu",
+    "4": "Kota yang Bertempur",
+    "5": "Nama yang Tinggal"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Dering Selepas Magrib",
+      "waktu": "0:02–0:11",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" (lengan kebaya putih) berhenti menuang teh di meja makan; di atas bufet, telepon meja hitam berdering. Ruang tengah rumah dinas bergaya kolonial, lampu meja kuning, jendela biru gelap selepas magrib.",
+      "narasiSuara": "[tense] Minggu malam, selepas magrib, telepon di rumahmu berdering. [nervous] Kamu belum tahu, dering inilah yang akan membawa suamimu pergi.",
+      "narasi": "Minggu malam, selepas magrib, telepon di rumahmu berdering. Kamu belum tahu, dering inilah yang akan membawa suamimu pergi.",
+      "teksLayar": [
+        "Semarang, 14 Oktober 1945."
+      ],
+      "suara": "Dering telepon tua, jangkrik di luar, detak jam dinding.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Dering Selepas Magrib",
+      "waktu": "0:11–0:22",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "dr. Kariadi berdiri di samping bufet, gagang telepon di telinga, wajah serius; lampu meja menerangi separuh wajahnya, tas dokter di kursi dekatnya.",
+      "narasiSuara": "[serious] Di ujung telepon, pimpinan Rumah Sakit Purusara. [tense] Ada kabar, tandon air Siranda ditebar racun oleh tentara Jepang. [serious] Suamimu, kepala laboratorium, diminta memeriksanya.",
+      "narasi": "Di ujung telepon, pimpinan Rumah Sakit Purusara. Ada kabar, tandon air Siranda ditebar racun oleh tentara Jepang. Suamimu, kepala laboratorium, diminta memeriksanya.",
+      "teksLayar": [],
+      "suara": "Suara samar dari gagang telepon, detak jam.",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Dering Selepas Magrib",
+      "waktu": "0:22–0:32",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" di atas meja kerja: kotak instrumen dokter gigi yang tertutup dan buku catatan; di dinding belakang, ijazah berbingkai (tulisan tak terbaca).",
+      "narasiSuara": "[calm] Kamu dokter gigi lulusan STOVIT Surabaya. [serious] Kamu paham artinya: air minum seluruh kota. [nervous] Tapi kamu juga tahu, jalanan sedang genting.",
+      "narasi": "Kamu dokter gigi lulusan STOVIT Surabaya. Kamu paham artinya: air minum seluruh kota. Tapi kamu juga tahu, jalanan sedang genting.",
+      "teksLayar": [],
+      "suara": "Detak jam, napas tertahan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Pamit",
+      "waktu": "0:32–0:42",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menggenggam lengan jas dr. Kariadi di dekat pintu depan; ia setengah berbalik, meraih tas dokternya.",
+      "narasiSuara": "[nervous] Kamu memintanya tetap di rumah. [tense] Sejak kemarin kota memanas. [tense] Jepang menolak menyerahkan senjata kepada para pemuda. [sad] Malam ini terlalu berbahaya.",
+      "narasi": "Kamu memintanya tetap di rumah. Sejak kemarin kota memanas. Jepang menolak menyerahkan senjata kepada para pemuda. Malam ini terlalu berbahaya.",
+      "teksLayar": [],
+      "suara": "Langkah di lantai ubin, gemerisik jas.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Pamit",
+      "waktu": "0:42–0:51",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "dr. Kariadi duduk sejenak di kursi rotan dekat pintu, tas dokter di pangkuan, menatap ke arah kamera dengan tenang tetapi lelah; cahaya lampu hangat dari samping.",
+      "narasiSuara": "[sad] Akhir-akhir ini ia sering termenung. [serious] Tapi malam ini jawabannya tegas. [resigned] Ini soal nyawa ribuan warga. [sad] Ini tanggung jawabnya.",
+      "narasi": "Akhir-akhir ini ia sering termenung. Tapi malam ini jawabannya tegas. Ini soal nyawa ribuan warga. Ini tanggung jawabnya.",
+      "teksLayar": [],
+      "suara": "Hening, jam berdetak.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Pamit",
+      "waktu": "0:51–1:01",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari ambang pintu depan: punggung dr. Kariadi berjalan menuju mobil tua berlampu redup yang menunggu di jalan gelap berpohon; tangan \"kamu\" berpegangan pada kusen pintu.",
+      "narasiSuara": "[sad] Ia pamit di pintu rumah dinas di Karangtempel. [tense] Mobil sudah menunggu. [whispers] Lalu deru mesinnya menjauh... dan hilang.",
+      "narasi": "Ia pamit di pintu rumah dinas di Karangtempel. Mobil sudah menunggu. Lalu deru mesinnya menjauh... dan hilang.",
+      "teksLayar": [],
+      "suara": "Pintu mobil ditutup, deru mesin menjauh lalu hilang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Menunggu",
+      "waktu": "1:01–1:11",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" merapikan selimut anak-anak yang tertidur (tampak dari belakang, wajah tak terlihat); di rak dinding, kamera tua milik suami.",
+      "narasiSuara": "[calm] Kamu menidurkan anak-anak. [sad] Kamera kesayangannya tergeletak di rak. [nervous] Tapi matamu tak mau terpejam. [nervous] Telingamu menunggu satu suara saja: mobil itu kembali.",
+      "narasi": "Kamu menidurkan anak-anak. Kamera kesayangannya tergeletak di rak. Tapi matamu tak mau terpejam. Telingamu menunggu satu suara saja: mobil itu kembali.",
+      "teksLayar": [],
+      "suara": "Jangkrik, napas anak tidur.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Menunggu",
+      "waktu": "1:11–1:22",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari balik jendela berkisi kayu: atap-atap kota yang gelap, kilatan kecil jauh di cakrawala; tangan \"kamu\" menyibak tirai.",
+      "narasiSuara": "[tense] Malam makin larut, dan mobil itu belum juga kembali. [nervous] Dari arah kota, sesekali terdengar letusan. [whispers] Semoga bukan di jalan yang ia lewati.",
+      "narasi": "Malam makin larut, dan mobil itu belum juga kembali. Dari arah kota, sesekali terdengar letusan. Semoga bukan di jalan yang ia lewati.",
+      "teksLayar": [],
+      "suara": "Letusan senapan sayup di kejauhan, anjing menggonggong.",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Menunggu",
+      "waktu": "1:22–1:33",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" mencengkeram tepi meja; cangkir teh terguling dan isinya merembes di taplak; bayangan lampu meja bergoyang.",
+      "narasiSuara": "[tense] Tengah malam, kabar itu datang. [sad] Suamimu ditembak dalam perjalanan menuju Siranda. [crying] Ia sempat dibawa ke rumah sakit... tapi nyawanya tak tertolong.",
+      "narasi": "Tengah malam, kabar itu datang. Suamimu ditembak dalam perjalanan menuju Siranda. Ia sempat dibawa ke rumah sakit... tapi nyawanya tak tertolong.",
+      "teksLayar": [],
+      "suara": "Cangkir jatuh, lalu sunyi; isak tertahan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Menunggu",
+      "waktu": "1:33–1:42",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kursi rotan kosong di samping meja, lampu meja masih menyala, pintu depan tertutup; gelap di sekelilingnya.",
+      "narasiSuara": "[sad] [whispers] Lampu di meja masih menyala. [sad] Kursinya masih kosong. [whispers] Rumah ini terasa terlalu sunyi.",
+      "narasi": "Lampu di meja masih menyala. Kursinya masih kosong. Rumah ini terasa terlalu sunyi.",
+      "teksLayar": [],
+      "suara": "Musik turun; hanya detak jam.",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Kota yang Bertempur",
+      "waktu": "1:42–1:52",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari celah daun jendela krepyak: langit dini hari kemerahan oleh kebakaran, asap tebal di atas atap-atap kota; tidak ada sosok tentara.",
+      "narasiSuara": "[tense] Dini hari, tembakan pecah di berbagai penjuru kota. [serious] Kabar kematiannya menyebar dari mulut ke mulut, menyulut amarah. [tense] Pertempuran telah dimulai.",
+      "narasi": "Dini hari, tembakan pecah di berbagai penjuru kota. Kabar kematiannya menyebar dari mulut ke mulut, menyulut amarah. Pertempuran telah dimulai.",
+      "teksLayar": [
+        "15 Oktober 1945, dini hari."
+      ],
+      "suara": "Rentetan tembakan jauh, kentongan bertalu.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Kota yang Bertempur",
+      "waktu": "1:52–2:02",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" di grendel pintu kayu yang terkunci; cahaya pagi pucat dan asap tipis menembus celah pintu.",
+      "narasiSuara": "[sad] Kamu ingin ke rumah sakit, melihat wajahnya sekali lagi. [tense] Tapi tembakan terus terdengar di luar. [resigned] Pintu itu tak bisa kamu buka.",
+      "narasi": "Kamu ingin ke rumah sakit, melihat wajahnya sekali lagi. Tapi tembakan terus terdengar di luar. Pintu itu tak bisa kamu buka.",
+      "teksLayar": [],
+      "suara": "Tembakan lebih dekat, grendel berderit.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Kota yang Bertempur",
+      "waktu": "2:02–2:12",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pandangan lebar halaman rumah sakit bergaya kolonial: sekelompok kecil orang (siluet) berdiri di sekitar makam baru yang sederhana; asap mengepul di langit sore yang redup.",
+      "narasiSuara": "[sad] Tiga hari kemudian, ia baru bisa dimakamkan, di halaman rumah sakit tempatnya bekerja. [serious] Di luar pagar, kota masih bertempur.",
+      "narasi": "Tiga hari kemudian, ia baru bisa dimakamkan, di halaman rumah sakit tempatnya bekerja. Di luar pagar, kota masih bertempur.",
+      "teksLayar": [
+        "17 Oktober 1945."
+      ],
+      "suara": "Tanah diuruk, tembakan jauh.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Nama yang Tinggal",
+      "waktu": "2:12–2:24",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menutup koper kulit di atas ranjang; foto berbingkai suami (wajah samar) diselipkan di atasnya; tangan kecil seorang anak menggenggam ujung kebaya.",
+      "narasiSuara": "[sad] Kamu tak sanggup lagi tinggal di rumah itu. [sad] Kamu membawa anak-anak pergi dari Semarang. [calm] Ke Salatiga dulu... lalu akhirnya menetap di Bandung.",
+      "narasi": "Kamu tak sanggup lagi tinggal di rumah itu. Kamu membawa anak-anak pergi dari Semarang. Ke Salatiga dulu... lalu akhirnya menetap di Bandung.",
+      "teksLayar": [
+        "Tak lama kemudian."
+      ],
+      "suara": "Gesper koper dikunci, langkah menjauh.",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Nama yang Tinggal",
+      "waktu": "2:24–2:33",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Fasad rumah sakit bergaya kolonial di siang terang dengan papan nama baru; orang-orang berlalu-lalang di depannya.",
+      "narasiSuara": "[calm] Pada 1964, rumah sakit itu berganti nama: Rumah Sakit Dokter Kariadi. [calm] Salah satu putrimu pun menjadi dokter, seperti ayahnya.",
+      "narasi": "Pada 1964, rumah sakit itu berganti nama: Rumah Sakit Dokter Kariadi. Salah satu putrimu pun menjadi dokter, seperti ayahnya.",
+      "teksLayar": [
+        "1964."
+      ],
+      "suara": "Keramaian kota, sepeda lewat.",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Nama yang Tinggal",
+      "waktu": "2:33–2:45",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Ambang pintu rumah dinas yang sama saat senja, kosong, dilihat dari dalam rumah menghadap jalan; lampu meja menyala di dalam.",
+      "narasiSuara": "[serious] Kota mengenangnya sebagai pahlawan. [sad] Kamu mengenangnya sebagai suami yang pamit di pintu. [curious] Kalau malam itu terulang... kamu tetap melarangnya, atau membiarkannya pergi?",
+      "narasi": "Kota mengenangnya sebagai pahlawan. Kamu mengenangnya sebagai suami yang pamit di pintu. Kalau malam itu terulang... kamu tetap melarangnya, atau membiarkannya pergi?",
+      "teksLayar": [],
+      "suara": "Angin senja, gema dering telepon yang samar.",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "dr. Kariadi",
+      "prompt": "Character reference sheet of dr. Kariadi, an Indonesian Javanese doctor about 40 years old in 1945: slim build, short neat black hair, calm composed face, warm brown skin. He wears a white long-sleeved shirt, dark trousers and a dark single-breasted jacket, and holds a worn brown leather doctor's bag. Use the attached historical photograph of dr. Kariadi as the reference for his face. Three full-body views side by side: front, side and back, neutral standing pose, plain warm off-white background, soft even lighting.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nHistorically accurate 1940s Dutch East Indies clothing.\nAvoid caricature, exaggerated features, modern clothing, text or labels.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:11",
+      "narasi": "Minggu malam, selepas magrib, telepon di rumahmu berdering. Kamu belum tahu, dering inilah yang akan membawa suamimu pergi.",
+      "prompt": "First-person view of a woman seated at a dining table at night. Her hands, in a plain off-white long-sleeved kebaya, pause while pouring tea from a porcelain teapot into a cup, at the lower edge of the middle third. Across the room, on a teak sideboard, a black 1930s desk telephone is ringing. Dutch colonial-era living room with white plastered walls, patterned tegel floor tiles and a tall louvred window showing a deep blue evening sky.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nWarm lamp yellow, teak brown and ivory inside, deep night blue outside; a single warm table lamp as the main light, long soft shadows.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:22",
+      "narasi": "Di ujung telepon, pimpinan Rumah Sakit Purusara. Ada kabar, tandon air Siranda ditebar racun oleh tentara Jepang. Suamimu, kepala laboratorium, diminta memeriksanya.",
+      "prompt": "Same character as the dr. Kariadi reference image.\nMedium shot of dr. Kariadi standing beside a teak sideboard, holding the receiver of a black 1930s desk telephone to his ear, his face serious and focused. A table lamp lights half of his face; his worn leather doctor's bag rests on a nearby chair. Dutch colonial-era living room at night, white plastered wall behind him, a dark window to the side.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nWarm lamp yellow and teak brown against deep blue shadows; a single warm lamp from the side.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, weapons, soldiers, caricature, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:22–0:32",
+      "narasi": "Kamu dokter gigi lulusan STOVIT Surabaya. Kamu paham artinya: air minum seluruh kota. Tapi kamu juga tahu, jalanan sedang genting.",
+      "prompt": "First-person view looking down at a wooden work desk. A woman's hands in a plain off-white kebaya rest on a closed wooden dental instrument case and an open notebook, at the lower edge of the middle third. On the white wall behind, a framed diploma with unreadable lettering. A single warm table lamp, a dark window to the side.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nWarm lamp yellow, teak brown and ivory, with deep blue night at the window; one warm table lamp, soft shadows.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, open dental tools, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:32–0:42",
+      "narasi": "Kamu memintanya tetap di rumah. Sejak kemarin kota memanas. Jepang menolak menyerahkan senjata kepada para pemuda. Malam ini terlalu berbahaya.",
+      "prompt": "Same character as the dr. Kariadi reference image.\nFirst-person view by the front door at night. A woman's hand in an off-white kebaya sleeve grips the sleeve of dr. Kariadi's dark jacket, at the lower edge of the middle third. He is half turned toward the door, reaching for his leather doctor's bag, his face in profile, worried but resolute. Tall wooden front door, patterned tegel floor, darkness beyond the door's glass panes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nDark brown, ivory white, black jacket and amber lamplight; light from inside the house, deep darkness outside.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, weapons, soldiers, caricature, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:42–0:51",
+      "narasi": "Akhir-akhir ini ia sering termenung. Tapi malam ini jawabannya tegas. Ini soal nyawa ribuan warga. Ini tanggung jawabnya.",
+      "prompt": "Same character as the dr. Kariadi reference image.\ndr. Kariadi sits briefly on a rattan chair near the front door, his leather doctor's bag on his lap, looking up toward the viewer with a calm, tired but determined expression. Warm lamplight from the side; the rest of the room in soft shadow.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nDark brown, ivory and amber with deep shadow; a single warm lamp from the side.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, weapons, soldiers, caricature, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:51–1:01",
+      "narasi": "Ia pamit di pintu rumah dinas di Karangtempel. Mobil sudah menunggu. Lalu deru mesinnya menjauh... dan hilang.",
+      "prompt": "Same character as the dr. Kariadi reference image.\nFirst-person view from an open front doorway at night. In the middle third, dr. Kariadi is seen from behind, walking down a short garden path toward a dark 1930s sedan with dim headlights waiting on a tree-lined street. A woman's hand in an off-white kebaya sleeve holds the wooden door frame at the left edge of the middle third. Light from the house spills onto the path; the street beyond is deep blue darkness.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nAmber doorway light against deep night blue and black; light only from the house and the car's dim headlights.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid the driver's face, blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:01–1:11",
+      "narasi": "Kamu menidurkan anak-anak. Kamera kesayangannya tergeletak di rak. Tapi matamu tak mau terpejam. Telingamu menunggu satu suara saja: mobil itu kembali.",
+      "prompt": "First-person view in a dim bedroom. A woman's hands in an off-white kebaya pull a light cotton blanket over sleeping children, seen only from behind with faces not visible, at the lower edge of the middle third. On a wall shelf above them, an old 1930s folding camera beside a few books. A single warm lamp turned low.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nDim amber, dark brown and ink blue; one low warm lamp, long shadows.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid visible children's faces, blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:22",
+      "narasi": "Malam makin larut, dan mobil itu belum juga kembali. Dari arah kota, sesekali terdengar letusan. Semoga bukan di jalan yang ia lewati.",
+      "prompt": "First-person view through a louvred wooden window at night. A woman's hand in an off-white kebaya sleeve pulls aside a thin curtain at the lower edge of the middle third. Beyond, the dark tile rooftops of Semarang and a few tiny, distant flashes of light low on the horizon, under a wide ink-blue night sky.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nInk blue and near-black outside, faint amber from the room behind; tiny pale flashes far away.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid close explosions, fire, soldiers, weapons, blood, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:22–1:33",
+      "narasi": "Tengah malam, kabar itu datang. Suamimu ditembak dalam perjalanan menuju Siranda. Ia sempat dibawa ke rumah sakit... tapi nyawanya tak tertolong.",
+      "prompt": "First-person view looking down at a dining table at midnight. A woman's hand in an off-white kebaya grips the edge of the table; a porcelain teacup lies tipped over, pale amber tea spreading across a white tablecloth, at the lower edge of the middle third. The table lamp's shadow trembles on the wall. No other person in view.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nAmber fading into dark brown and ink blue; one warm table lamp.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid blood, red stains, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:33–1:42",
+      "narasi": "Lampu di meja masih menyala. Kursinya masih kosong. Rumah ini terasa terlalu sunyi.",
+      "prompt": "First-person view of an empty rattan chair beside a small table with a lit table lamp, the closed front door behind it, in the middle third. The rest of the room falls into deep darkness. Still and silent, no people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nVery dim amber and near-black brown; the table lamp is the only light.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid people, blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:42–1:52",
+      "narasi": "Dini hari, tembakan pecah di berbagai penjuru kota. Kabar kematiannya menyebar dari mulut ke mulut, menyulut amarah. Pertempuran telah dimulai.",
+      "prompt": "First-person view through the gaps of closed louvred krepyak window shutters before dawn. Through the slats, in the middle third, a reddish sky lit by distant fires and thick gray smoke rising above Semarang's tile rooftops. Dark interior wall around the window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nFire orange, smoke gray and faded brown; firelight glowing through the slats.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid soldiers, people, weapons, blood, close-up flames, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:52–2:02",
+      "narasi": "Kamu ingin ke rumah sakit, melihat wajahnya sekali lagi. Tapi tembakan terus terdengar di luar. Pintu itu tak bisa kamu buka.",
+      "prompt": "First-person view at a locked tall wooden front door in early morning. A woman's hand in an off-white kebaya rests on the iron door bolt, hesitating, at the lower edge of the middle third. Pale light and thin smoke seep through the gaps around the door.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nSmoke gray, faded brown and pale dawn light.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid soldiers, weapons, blood, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:02–2:12",
+      "narasi": "Tiga hari kemudian, ia baru bisa dimakamkan, di halaman rumah sakit tempatnya bekerja. Di luar pagar, kota masih bertempur.",
+      "prompt": "Wide view of the courtyard of a Dutch colonial hospital with white walls, red-tiled roofs and covered walkways. In the middle third, a small group of people stand quietly as soft silhouettes around a simple fresh grave. Gray smoke drifts across the dim late-afternoon sky above the roofs.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nSmoke gray, faded brown and muted ochre; dim, hazy afternoon light.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid visible faces, bodies, open coffins, flags, soldiers, weapons, blood, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:12–2:24",
+      "narasi": "Kamu tak sanggup lagi tinggal di rumah itu. Kamu membawa anak-anak pergi dari Semarang. Ke Salatiga dulu... lalu akhirnya menetap di Bandung.",
+      "prompt": "First-person view looking down at a bed. A woman's hands in an off-white kebaya close a worn leather suitcase; a framed photograph of a man with a blurred, indistinct face lies on top of it. On the left of the middle third, a small child's hand, seen from above, holds the hem of her kebaya. Soft morning light through a window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nWarm sepia, cream and muted brown; soft low sunlight.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid visible faces, blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:24–2:33",
+      "narasi": "Pada 1964, rumah sakit itu berganti nama: Rumah Sakit Dokter Kariadi. Salah satu putrimu pun menjadi dokter, seperti ayahnya.",
+      "prompt": "Street-level view of the front of a Dutch colonial hospital building with white walls, a red-tiled roof and a covered entrance; a large signboard above the entrance with unreadable lettering. A few small figures in 1960s Indonesian clothing walk past, one pushing a bicycle. Bright midday light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nWarm sepia, cream and soft gold; bright daylight with soft shadows.\nHistorically accurate 1964 Semarang, Indonesia.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid readable text, modern cars, blood, weapons, soldiers, parang batik motif, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:33–2:45",
+      "narasi": "Kota mengenangnya sebagai pahlawan. Kamu mengenangnya sebagai suami yang pamit di pintu. Kalau malam itu terulang... kamu tetap melarangnya, atau membiarkannya pergi?",
+      "prompt": "First-person view from inside the same colonial house at dusk, looking toward the open front doorway in the middle third. The doorway is empty; beyond it, a golden dusk sky over the tree-lined street. In the foreground, a warm table lamp glows beside the empty rattan chair. No people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nSepia, cream and dusk gold, with warm lamplight inside.\nHistorically accurate 1945 Semarang, Dutch East Indies colonial era.\nVertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge.\nAvoid people, blood, weapons, soldiers, parang batik motif, modern objects, readable text, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Saran voice: perempuan dewasa berbahasa Indonesia, hangat dan rendah, yang sanggup berbisik tanpa terdengar dramatis. Pilihan voice paling menentukan: tag tidak bisa memaksa voice yang lembut untuk berteriak, dan voice yang lantang sulit dibuat berbisik.\n\n- Babak 1: tenang dan rendah, tempo sedang; sedikit cemas di kalimat pertanda adegan 1.\n- Babak 2: lembut dan memohon, lalu pasrah; tempo sedikit lebih lambat.\n- Babak 3: menahan napas, makin berbisik; pecah di adegan 9, nyaris tanpa suara di adegan 10.\n- Babak 4: tegang tetapi lelah; sedikit lebih cepat di adegan 11, melambat di adegan 12 dan 13.\n- Babak 5: tenang, hangat, reflektif; beri jeda panjang sebelum pertanyaan terakhir.",
+    "arahanBabak": {
+      "1": "tenang dan rendah, tempo sedang; sedikit cemas di kalimat pertanda adegan 1.",
+      "2": "lembut dan memohon, lalu pasrah; tempo sedikit lebih lambat.",
+      "3": "menahan napas, makin berbisik; pecah di adegan 9, nyaris tanpa suara di adegan 10.",
+      "4": "tegang tetapi lelah; sedikit lebih cepat di adegan 11, melambat di adegan 12 dan 13.",
+      "5": "tenang, hangat, reflektif; beri jeda panjang sebelum pertanyaan terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Minggu malam, selepas magrib, telepon di rumahmu berdering. [nervous] Kamu belum tahu, dering inilah yang akan membawa suamimu pergi...\n\n[serious] Di ujung telepon, pimpinan Rumah Sakit Purusara. [tense] Ada kabar, tandon air Siranda ditebar racun oleh tentara Jepang. [serious] Suamimu, kepala laboratorium, diminta memeriksanya...\n\n[calm] Kamu dokter gigi lulusan STOVIT Surabaya. [serious] Kamu paham artinya: air minum seluruh kota. [nervous] Tapi kamu juga tahu, jalanan sedang genting...",
+    "2": "[nervous] Kamu memintanya tetap di rumah. [tense] Sejak kemarin kota memanas. [tense] Jepang menolak menyerahkan senjata kepada para pemuda. [sad] Malam ini terlalu berbahaya...\n\n[sad] Akhir-akhir ini ia sering termenung. [serious] Tapi malam ini jawabannya tegas. [resigned] Ini soal nyawa ribuan warga. [sad] Ini tanggung jawabnya...\n\n[sad] Ia pamit di pintu rumah dinas di Karangtempel. [tense] Mobil sudah menunggu. [whispers] Lalu deru mesinnya menjauh... dan hilang...",
+    "3": "[calm] Kamu menidurkan anak-anak. [sad] Kamera kesayangannya tergeletak di rak. [nervous] Tapi matamu tak mau terpejam. [nervous] Telingamu menunggu satu suara saja: mobil itu kembali...\n\n[tense] Malam makin larut, dan mobil itu belum juga kembali. [nervous] Dari arah kota, sesekali terdengar letusan. [whispers] Semoga bukan di jalan yang ia lewati...\n\n[tense] Tengah malam, kabar itu datang. [sad] Suamimu ditembak dalam perjalanan menuju Siranda. [crying] Ia sempat dibawa ke rumah sakit... tapi nyawanya tak tertolong...\n\n[sad] [whispers] Lampu di meja masih menyala. [sad] Kursinya masih kosong. [whispers] Rumah ini terasa terlalu sunyi...",
+    "4": "[tense] Dini hari, tembakan pecah di berbagai penjuru kota. [serious] Kabar kematiannya menyebar dari mulut ke mulut, menyulut amarah. [tense] Pertempuran telah dimulai...\n\n[sad] Kamu ingin ke rumah sakit, melihat wajahnya sekali lagi. [tense] Tapi tembakan terus terdengar di luar. [resigned] Pintu itu tak bisa kamu buka...\n\n[sad] Tiga hari kemudian, ia baru bisa dimakamkan, di halaman rumah sakit tempatnya bekerja. [serious] Di luar pagar, kota masih bertempur...",
+    "5": "[sad] Kamu tak sanggup lagi tinggal di rumah itu. [sad] Kamu membawa anak-anak pergi dari Semarang. [calm] Ke Salatiga dulu... lalu akhirnya menetap di Bandung...\n\n[calm] Pada 1964, rumah sakit itu berganti nama: Rumah Sakit Dokter Kariadi. [calm] Salah satu putrimu pun menjadi dokter, seperti ayahnya...\n\n[serious] Kota mengenangnya sebagai pahlawan. [sad] Kamu mengenangnya sebagai suami yang pamit di pintu. [curious] Kalau malam itu terulang... kamu tetap melarangnya, atau membiarkannya pergi?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Rumah yang Gelisah",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±60 dtk",
+      "suasana": "Hangat dan intim, perlahan gelisah",
+      "style": "Slow cinematic chamber piece evoking 1940s Java: soft fingerpicked keroncong-style guitar, gentle cello pizzicato and sparse piano over a ticking-clock rhythm, intimate and warm at first, slowly turning uneasy with a low sustained string note, starts sparse and builds slightly, ends unresolved, 70 BPM, no vocals",
+      "exclude": "vocals, EDM, synth, drums, trap, rock"
+    },
+    {
+      "nomor": 2,
+      "nama": "Menunggu Kabar",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "±41 dtk",
+      "suasana": "Tegang tertahan, lalu runtuh ke hening",
+      "style": "Tense ambient underscore: low string drone, distant soft gamelan gong strokes, faint heartbeat-like pulse, dark and restrained, slowly building tension then collapsing into near silence, 60 BPM, no vocals",
+      "exclude": "vocals, EDM, synth lead, drums, trap, rock, orchestral hits"
+    },
+    {
+      "nomor": 3,
+      "nama": "Kota dan Kenangan",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "±67 dtk",
+      "suasana": "Kelabu dan genting, lalu reflektif dan hangat",
+      "style": "Somber cinematic piece: distant low frame drum and deep strings for an embattled city, then softening into a bittersweet keroncong-tinged guitar and solo cello melody, reflective and warm, fades out gently, 66 BPM, no vocals",
+      "exclude": "vocals, EDM, synth, taiko, trap, rock, epic orchestral"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Dering telepon meja tua",
+      "kataKunci": "vintage telephone bell ring",
+      "prompt": "A 1940s desk telephone with a metal bell ringing twice in a quiet room, crickets faintly outside"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Suara samar dari gagang telepon",
+      "kataKunci": "muffled phone voice",
+      "prompt": "Muffled, indistinct male voice coming through an old telephone receiver, quiet room"
+    },
+    {
+      "nomor": 3,
+      "adegan": 6,
+      "bunyi": "Mobil tua menjauh di malam hari",
+      "kataKunci": "vintage car drive away night",
+      "prompt": "A 1930s car door closing, engine starting and slowly fading away down a quiet night street"
+    },
+    {
+      "nomor": 4,
+      "adegan": 7,
+      "bunyi": "Jangkrik malam tropis",
+      "kataKunci": "crickets night tropical",
+      "prompt": "Gentle tropical night crickets outside a house, very calm"
+    },
+    {
+      "nomor": 5,
+      "adegan": 8,
+      "bunyi": "Letusan senapan jauh di kota",
+      "kataKunci": "distant gunshots night",
+      "prompt": "A few faint, distant rifle shots echoing over a city at night, far away"
+    },
+    {
+      "nomor": 6,
+      "adegan": 9,
+      "bunyi": "Cangkir porselen terguling",
+      "kataKunci": "teacup falls table",
+      "prompt": "A porcelain teacup tipping over on a wooden table, tea spilling, then silence"
+    },
+    {
+      "nomor": 7,
+      "adegan": 10,
+      "bunyi": "Detak jam dinding",
+      "kataKunci": "wall clock ticking",
+      "prompt": "Slow wall clock ticking in an empty silent room"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Rentetan tembakan jauh saat dini hari",
+      "kataKunci": "distant gunfire dawn",
+      "prompt": "Distant scattered gunfire and faint shouting over a city before dawn"
+    },
+    {
+      "nomor": 9,
+      "adegan": 11,
+      "bunyi": "Kentongan bertalu",
+      "kataKunci": "kentongan bamboo slit drum",
+      "prompt": "Rapid wooden bamboo slit drum alarm beats in the distance"
+    },
+    {
+      "nomor": 10,
+      "adegan": 12,
+      "bunyi": "Grendel pintu kayu berderit",
+      "kataKunci": "wooden door bolt rattle",
+      "prompt": "An old iron bolt on a wooden door creaking as a hand rests on it, gunfire outside"
+    },
+    {
+      "nomor": 11,
+      "adegan": 13,
+      "bunyi": "Tanah diuruk sekop",
+      "kataKunci": "shovel dirt burial",
+      "prompt": "Shovels quietly filling a grave with soil, distant gunfire"
+    },
+    {
+      "nomor": 12,
+      "adegan": 14,
+      "bunyi": "Gesper koper ditutup",
+      "kataKunci": "old suitcase latch",
+      "prompt": "Two metal latches of an old leather suitcase snapping shut"
+    }
+  ],
+  "adeganHening": [
+    10
+  ],
+  "ulikan": {
+    "teks": "Hingga 2025, dr. Kariadi belum ditetapkan sebagai Pahlawan Nasional.",
+    "sumber": "detikJateng dan IDN Times (Oktober 2025); daftar penetapan Pahlawan Nasional 10 November 2025 (tirto.id)",
+    "kata": 9,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Istri dr. Kariadi, Semarang 1945",
+      "catatan": "Alternatif judul: POV: Kamu Melarang dr. Kariadi Pergi Malam Itu / POV: Kamu Istri dr. Kariadi, 14 Oktober 1945",
+      "caption": "Malam 14 Oktober 1945, kamu memintanya tetap di rumah. Ia tetap pergi.\n\ndrg. Soenarti menunggu di rumah dinas mereka di Semarang saat suaminya, dr. Kariadi, berangkat memeriksa kabar racun di Reservoir Siranda. Gugurnya dr. Kariadi menjadi salah satu pemicu Pertempuran Lima Hari di Semarang, yang menewaskan sekitar 2.000 orang Indonesia.\n\nKalau kamu di posisinya, kamu tetap melarangnya atau membiarkannya pergi?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: kajian Nina H. Lubis (Unpad, 2007) dan detikJateng.\n\n#UlikSilam #sejarahindonesia #drkariadi #pertempuranlimahari #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Istri dr. Kariadi, Semarang 1945",
+      "catatan": "",
+      "caption": "POV: kamu istri dr. Kariadi, dan malam ini kamu memintanya tetap di rumah.\n\nSemarang, 14 Oktober 1945. Suamimu berangkat memeriksa kabar racun di Reservoir Siranda dan tak pernah pulang. Gugurnya menjadi salah satu pemicu Pertempuran Lima Hari di Semarang, yang menewaskan sekitar 2.000 orang Indonesia.\n\nKalau kamu di posisinya, kamu tetap melarangnya atau membiarkannya pergi?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: kajian Nina H. Lubis (Unpad, 2007) dan detikJateng.\n\n#UlikSilam #sejarahindonesia #drkariadi #pertempuranlimahari #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 315,
+    "kataPerBabak": {
+      "1": 60,
+      "2": 55,
+      "3": 77,
+      "4": 60,
+      "5": 63
+    },
+    "karakterPerBabak": {
+      "1": 504,
+      "2": 477,
+      "3": 650,
+      "4": 471,
+      "5": 504
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 163.3,
+      "denganMerek": 168.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 157.9,
+      "denganMerek": 162.9
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

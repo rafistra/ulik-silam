@@ -1,0 +1,21 @@
+judul: "POV: Kamu Homo Soloensis di Tepi Bengawan Solo"
+slug: pov-homo-soloensis-ngandong
+format: POV
+lapisan: ["Sejarah"]
+latar: "Ngandong, tepi Bengawan Solo"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-11-01"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Perempuan Soloensis", "Anak Soloensis"]
+aset: {ilustrasi: 16, narasi: 22, musik: 3, sfx: 15}
+render: "out/pov-homo-soloensis-ngandong.mp4"
+tanggal_render: 2026-11-04
+tautan: {"shorts": "https://youtube.com/shorts/6A5PGYAE3DE", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7704398544370666759"}
+arsip_lama: "pov/pov-homo-soloensis-ngandong"
+catatan: ""
+metrik_shorts: {"views": 3116, "jam_tonton": 50.7, "rata_tonton_detik": 58.5, "durasi_detik": 151, "persen_ditonton": 38.7, "subscriber": 15, "impresi": 3956, "ctr": 4.3, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 10875, "suka": 174, "komentar": 4, "bagikan": 3, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-04", "tiktok": "2026-11-05"}

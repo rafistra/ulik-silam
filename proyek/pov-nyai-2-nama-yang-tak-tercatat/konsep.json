@@ -1,0 +1,541 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-24T17:55:54.138Z",
+  "judulDokumen": "Kamu Seorang Nyai (Part 2: Nama yang Tak Tercatat)",
+  "judul": "POV: Kamu Seorang Nyai (Part 2: Nama yang Tak Tercatat)",
+  "slug": "pov-nyai-2-nama-yang-tak-tercatat",
+  "versi": "v1 · 2026-10-24",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Semarang, masa Hindia Belanda",
+  "durasiMaksDetik": 120,
+  "durasiTargetDetik": 115,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Nyai yang sama dengan Part 1 (fiktif), sekitar 21 tahun di awal sampai sekitar 27 tahun di babak terakhir",
+  "ringkasan": {
+    "Judul": "POV: Kamu Seorang Nyai (Part 2: Nama yang Tak Tercatat)",
+    "Slug": "pov-nyai-2-nama-yang-tak-tercatat",
+    "Durasi": "2:00 maksimum, target ±1:55",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Nyai yang sama dengan Part 1 (fiktif), sekitar 21 tahun di awal sampai sekitar 27 tahun di babak terakhir",
+    "Jumlah ilustrasi": "16 (12 adegan + 4 lembar karakter: Nyai, Tuan, Anak, Anak Besar; diperbarui di Tahap 2B)",
+    "Lapisan": "Sejarah",
+    "Latar": "Semarang, masa Hindia Belanda",
+    "Premis": "Pengakuan yang kamu perjuangkan membuat keluarga Tuan berhak mengambil anakmu, dan kamu terhapus dari hidupnya.",
+    "Benang merah": "Tembang yang dilarang, lalu tak dikenali lagi",
+    "Seri": "Part 2 dari 2; lanjutan pov-nyai-1-surat-pengakuan",
+    "Asumsi": "Epilog di pagar rumah keluarga wali, mengikuti kisah nenek Reggie Baay; kekerasan fisik tertahan (genggaman dihentak, didorong jatuh) tanpa luka; \"kamu\" dewasa; tanpa pembuka nyala, kartu Ulikan 3,5 detik",
+    "Versi": "v1 · 2026-10-24"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Harga sebuah nama",
+      "suasana": "Hangat tapi canggung",
+      "palet": "Putih gading, cokelat jati, emas pudar",
+      "cahaya": "Pagi dan sore lembut; sosok gelap Tuan di ambang pintu"
+    },
+    {
+      "babak": 2,
+      "nama": "Surat-surat di meja",
+      "suasana": "Muram, berduka",
+      "palet": "Hijau kelabu, cokelat redup, abu",
+      "cahaya": "Lampu minyak di kamar sakit; langit mendung datar di pemakaman"
+    },
+    {
+      "babak": 3,
+      "nama": "Diambil",
+      "suasana": "Tegang, kacau",
+      "palet": "Cokelat debu, abu, merah bata kusam",
+      "cahaya": "Matahari sore yang keras; senja jingga kusam"
+    },
+    {
+      "babak": 4,
+      "nama": "Pagar",
+      "suasana": "Sepi, pahit",
+      "palet": "Oker pudar, abu hangat, hijau halaman",
+      "cahaya": "Siang terik dengan bayangan jeruji; matahari rendah kusam di adegan terakhir"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Harga sebuah nama",
+    "2": "Surat-surat di meja",
+    "3": "Diambil",
+    "4": "Pagar"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Harga sebuah nama",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Pagi di beranda belakang. Tuan duduk di kursi rotan dengan Anak di pangkuannya, membacakan buku bergambar berbahasa Belanda; Anak tertawa menunjuk gambar. Kamu berdiri di ambang pintu membawa nampan teh, tidak diajak duduk, menatap mereka dengan senyum yang tertahan.",
+      "narasiSuara": "[serious] Anakmu kini orang Eropa. [sad] Kamu sendiri yang memohon tanda tangan itu. [resigned] Dan pelan-pelan, kamu mulai paham harganya.",
+      "narasi": "Anakmu kini orang Eropa. Kamu sendiri yang memohon tanda tangan itu. Dan pelan-pelan, kamu mulai paham harganya.",
+      "teksLayar": [
+        "Semarang, 1880-an."
+      ],
+      "suara": "Burung pagi, halaman buku dibalik, tawa anak",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Harga sebuah nama",
+      "waktu": "0:08–0:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sore di kamar anak. Kamu duduk di tepi ranjang kecil, membungkuk menembangkan lagu untuk Anak yang mengantuk. Tuan berdiri di ambang pintu, rahang mengeras, satu tangan menunjuk; kamu menoleh terkejut, mulut terhenti di tengah tembang.",
+      "narasiSuara": "[tense] Suatu sore, Tuan mendengarmu menembang dalam bahasa Jawa. [angry] Anak ini hanya boleh mendengar bahasa Belanda, katanya. [sad] Tembangmu harus berhenti.",
+      "narasi": "Suatu sore, Tuan mendengarmu menembang dalam bahasa Jawa. Anak ini hanya boleh mendengar bahasa Belanda, katanya. Tembangmu harus berhenti.",
+      "teksLayar": [],
+      "suara": "Senandung terputus, langkah sepatu di lantai kayu",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Harga sebuah nama",
+      "waktu": "0:18–0:27",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Siang di ruang tengah. Tangan kananmu terulur hendak membelai kepala Anak; Anak menatapmu ragu, mundur selangkah dan memegang ujung kemeja Tuan yang berdiri di belakangnya.",
+      "narasiSuara": "[sad] Ia diajari memanggilmu dengan namamu saja, seperti memanggil pembantu. [resigned] Dan dia menurut, karena dia anak yang baik.",
+      "narasi": "Ia diajari memanggilmu dengan namamu saja, seperti memanggil pembantu. Dan dia menurut, karena dia anak yang baik.",
+      "teksLayar": [],
+      "suara": "Jam dinding berdetak",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Surat-surat di meja",
+      "waktu": "0:27–0:37",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Malam di kamar Tuan. Tuan terbaring pucat berkeringat di ranjang berkelambu; kamu memeras kain kompres di atas baskom, mata sembap karena kurang tidur. Di meja samping, setumpuk surat dan dokumen bersegel lilin merah.",
+      "narasiSuara": "[calm] Lalu Tuan jatuh sakit. [sad] Kamu yang mengompres dahinya, siang dan malam. [serious] Tapi tak satu pun surat di mejanya menyebut namamu.",
+      "narasi": "Lalu Tuan jatuh sakit. Kamu yang mengompres dahinya, siang dan malam. Tapi tak satu pun surat di mejanya menyebut namamu.",
+      "teksLayar": [],
+      "suara": "Napas berat, air menetes ke baskom",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Surat-surat di meja",
+      "waktu": "0:37–0:46",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Siang mendung di pemakaman Eropa. Para pelayat berbaju hitam berkumpul di depan nisan baru; seorang perempuan Eropa menggandeng Anak di barisan depan. Kamu berdiri sendirian jauh di belakang di bawah pohon kamboja, tangan terlipat di depan kain.",
+      "narasiSuara": "[sad] Di pemakaman, kamu berdiri paling belakang. [serious] Orang-orang Eropa menyalami kerabatnya, bukan kamu. [resigned] Bagi mereka, kamu tak pernah ada.",
+      "narasi": "Di pemakaman, kamu berdiri paling belakang. Orang-orang Eropa menyalami kerabatnya, bukan kamu. Bagi mereka, kamu tak pernah ada.",
+      "teksLayar": [],
+      "suara": "Angin, gumam doa dalam bahasa Belanda",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Surat-surat di meja",
+      "waktu": "0:46–0:56",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ruang tengah. Kerabat Tuan, pria Eropa berjas hitam, berdiri membacakan selembar surat tanpa menatapmu; perempuan Eropa di sampingnya memegang bahu Anak. Kamu berdiri di depan mereka, jari-jari meremas kain kebaya.",
+      "narasiSuara": "[tense] Seminggu kemudian, kerabat Tuan datang membawa surat. [serious] Di mata hukum, anakmu milik keluarga ayahnya. [serious] Kamu tidak punya hak asuh.",
+      "narasi": "Seminggu kemudian, kerabat Tuan datang membawa surat. Di mata hukum, anakmu milik keluarga ayahnya. Kamu tidak punya hak asuh.",
+      "teksLayar": [],
+      "suara": "Kertas dibuka, detak jam",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Diambil",
+      "waktu": "0:56–1:04",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Di beranda depan. Tangan kirimu menggenggam erat tangan kecil Anak; dari kanan, tangan pria berjas hitam mencengkeram pergelangan tanganmu dan menghentaknya lepas. Anak menoleh ke arahmu sambil menjerit, ditarik menuju kereta kuda.",
+      "narasiSuara": "[tense] Kamu menggenggam tangan anakmu. [angry] Sebuah tangan menghentak genggamanmu sampai lepas. [sad] Anakmu menjerit memanggil namamu. [sad] Bukan Ibu.",
+      "narasi": "Kamu menggenggam tangan anakmu. Sebuah tangan menghentak genggamanmu sampai lepas. Anakmu menjerit memanggil namamu. Bukan Ibu.",
+      "teksLayar": [],
+      "suara": "Jeritan anak, langkah tergesa",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Diambil",
+      "waktu": "1:04–1:12",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Bidikan dari bawah: kamu terduduk di anak tangga beranda, satu telapak tangan yang lecet tanpa darah menahan badan. Di jalan, kereta kuda menjauh; wajah kecil Anak menempel di jendelanya.",
+      "narasiSuara": "[tense] Kamu didorong mundur sampai terjatuh di anak tangga. [sad] Pintu kereta ditutup. [sad] Rodanya menjauh di jalan kerikil.",
+      "narasi": "Kamu didorong mundur sampai terjatuh di anak tangga. Pintu kereta ditutup. Rodanya menjauh di jalan kerikil.",
+      "teksLayar": [],
+      "suara": "Pintu kereta dibanting, roda dan derap kuda menjauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Diambil",
+      "waktu": "1:12–1:22",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja. Kamu berjalan keluar gerbang rumah loji bertiang putih dengan buntelan kain di dada, kebaya putihmu kusam, kaki telanjang di jalan berdebu: bingkai yang sama dengan adegan pertama Part 1, kini dari arah sebaliknya.",
+      "narasiSuara": "[resigned] Sore itu juga, kamu disuruh pergi. [sad] Kamu keluar lewat jalan yang sama seperti dulu kamu datang, hanya membawa sebuntel kain.",
+      "narasi": "Sore itu juga, kamu disuruh pergi. Kamu keluar lewat jalan yang sama seperti dulu kamu datang, hanya membawa sebuntel kain.",
+      "teksLayar": [],
+      "suara": "Jangkrik senja, langkah di kerikil",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Pagar",
+      "waktu": "1:22–1:32",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Siang. Kamu, lebih kurus, berkebaya pudar, berdiri di luar pagar besi sebuah rumah besar. Di halaman, Anak yang kini sekitar 8 tahun bermain gasing, bersepatu dan bercelana pendek putih.",
+      "narasiSuara": "[calm] Beberapa tahun kemudian, kamu berdiri di depan pagar sebuah rumah besar. [sad] Di halaman, anakmu bermain dengan sepatu barunya.",
+      "narasi": "Beberapa tahun kemudian, kamu berdiri di depan pagar sebuah rumah besar. Di halaman, anakmu bermain dengan sepatu barunya.",
+      "teksLayar": [
+        "Beberapa tahun kemudian."
+      ],
+      "suara": "Gasing berputar, burung siang",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Pagar",
+      "waktu": "1:32–1:39",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Kedua tanganmu menggenggam jeruji pagar besi. Di balik pagar, Anak Besar berhenti bermain dan menoleh ke arahmu, menatap langsung dengan wajah bingung, lalu berbalik.",
+      "narasiSuara": "[whispers] Kamu menggumamkan tembang itu... [sad] Dia menoleh sebentar. [sad] Dia tidak mengenalinya.",
+      "narasi": "Kamu menggumamkan tembang itu... Dia menoleh sebentar. Dia tidak mengenalinya.",
+      "teksLayar": [],
+      "suara": "Senandung lirih tanpa lirik; musik diturunkan",
+      "hening": true,
+      "epilog": false,
+      "kata": 10
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Pagar",
+      "waktu": "1:39–1:51",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Senja. Seorang pembantu laki-laki mengibaskan sapu lidi, mengusirmu dari pagar; kamu mundur menunduk. Di latar, Anak Besar sudah kembali bermain, membelakangimu.",
+      "narasiSuara": "[serious] Pembantu rumah itu mengusirmu, lagi dan lagi. [sad] Anakmu tumbuh tanpa pernah tahu siapa ibunya. [sad] Di semua kertas tentang hidupnya, namamu tidak pernah ada.",
+      "narasi": "Pembantu rumah itu mengusirmu, lagi dan lagi. Anakmu tumbuh tanpa pernah tahu siapa ibunya. Di semua kertas tentang hidupnya, namamu tidak pernah ada.",
+      "teksLayar": [],
+      "suara": "Sapu lidi mengibas, angin senja; musik habis",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Nyai",
+      "prompt": "Character reference sheet of Nyai.\nNyai, a Javanese woman of about 20 from a poor village near Semarang, living in the 1880s as the unmarried housekeeper and companion of a Dutch clerk. Slender and of medium height, with warm brown skin; oval face with soft cheekbones, dark almond-shaped eyes, straight thick black brows, a small nose with a low bridge, full lips held closed. Long black hair combed smoothly back into a low round bun at the nape, with no hair ornaments. She wears a long-sleeved, hip-length white cotton kebaya whose front edges and cuffs are trimmed with fine white European lace, closed with three small plain gold brooches, over an ankle-length hip-wrapped batik sarong in indigo blue and soga brown with a coastal pattern of small scattered flowers and storks; barefoot indoors. One thin plain gold bangle on her left wrist. She carries herself quietly upright, eyes often lowered, hands kept close to her body.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the kebaya lace, gold brooches and batik pattern, and one first-person panel of her hands and forearms seen from her own point of view: Slim hands with warm brown skin, smoother now, short clean nails; forearms covered by long white cotton kebaya sleeves edged at the cuff with fine white European lace; one thin plain gold bangle on the left wrist.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1880s coastal Javanese dress worn in a Dutch colonial household.\nAvoid modern brocade kebaya, headscarf, parang batik pattern, high heels, sexualized pose, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Tuan",
+      "prompt": "Character reference sheet of Tuan.\nTuan, a Dutch trading-company clerk of about 36 in 1880s Semarang. Tall and lean with slightly stooped shoulders; pale skin reddened by the tropical sun; a long narrow face, light grey-blue eyes, pale brows, a straight thin nose and thin lips under a neatly trimmed sandy-brown moustache; short sandy-brown hair parted on the side. At home he wears a collarless white cotton shirt with sleeves rolled to the elbow and loose ankle-length trousers of thin batik cloth printed with red and blue flowers, with leather slippers; for official business, a white closed-collar cotton jacket buttoned to the throat, matching white trousers and black leather shoes. A silver watch chain; often a cigar in hand. He moves slowly and deliberately, chin slightly raised, rarely looking directly at the people who serve him.\nFull-body front, side and back views in the home outfit in a relaxed natural standing pose, one extra full-body front view in the white closed-collar jacket outfit, and one three-quarter portrait of the face.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1880s European dress in the Dutch East Indies.\nAvoid modern business suit, necktie, sunglasses, military uniform, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Anak",
+      "prompt": "Character reference sheet of Anak.\nAnak, a Javanese-Dutch boy of about two to three. Small and round-cheeked, with light olive skin clearly lighter than his mother's, soft light-brown curly hair, large dark brown eyes and a small nose. He wears a loose knee-length white cotton smock with short sleeves and goes barefoot; in some scenes he also wears a small white cloth European-style cap. No jewelry. Clings to adults and reaches out with chubby hands; curious and often sleepy.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, and one detail panel of the curly hair with and without the small white cap.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1880s child's dress in a Dutch colonial household.\nAvoid modern toddler clothes, shoes, toys, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Anak Besar",
+      "prompt": "Character reference sheet of Anak Besar.\nAnak Besar, the same Javanese-Dutch boy at about eight years old, now raised in a Dutch household. Slim and long-limbed for his age, with light olive skin clearly lighter than his mother's, light-brown curly hair cut short and neatly combed with a side parting, large dark brown eyes, a small nose and a guarded, serious expression. He wears a white cotton shirt with a round collar, white knee-length short trousers, white knee socks and black leather shoes. No jewelry. He moves energetically while playing, but stiffens and becomes watchful around strangers.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, and one detail panel of the combed curly hair, the round shirt collar and the leather shoes.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1880s European-style child's clothing in the Dutch East Indies.\nAvoid modern school uniform, sneakers, backpack, toys from later eras, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Anakmu kini orang Eropa. Kamu sendiri yang memohon tanda tangan itu. Dan pelan-pelan, kamu mulai paham harganya.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Tuan reference image.\nSame character as the Anak reference image.\nMedium-wide shot at eye level on the back gallery of a Dutch colonial house in the morning.\nTuan, in his collarless white shirt, sits in a rattan chair with Anak on his lap, reading aloud from an open picture book, one finger on the page; Anak laughs and points at a picture, leaning into his father. Nyai stands in the doorway holding a tray with two tea cups, not invited to sit, a small restrained smile on her lips while her eyes stay on her son; her weight rests on one foot as if unsure whether to step closer. Tuan does not look at her.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ivory white, teak brown and faded gold palette, soft morning and afternoon light falling through the gallery columns, historically accurate 1880s Dutch colonial back gallery with rattan furniture.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:18",
+      "narasi": "Suatu sore, Tuan mendengarmu menembang dalam bahasa Jawa. Anak ini hanya boleh mendengar bahasa Belanda, katanya. Tembangmu harus berhenti.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Tuan reference image.\nSame character as the Anak reference image.\nMedium shot from a slightly high angle in a small child's bedroom in the late afternoon.\nNyai sits on the edge of a small wooden bed, bent toward the sleepy Anak, but her head has just turned sharply toward the door, eyes wide, lips frozen mid-song. Tuan stands in the doorway, jaw clenched, brows drawn down, one arm raised with a finger pointing at her. Anak blinks up at them, half asleep, clutching a small pillow.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ivory white, teak brown and faded gold palette, soft morning and afternoon light, warm low sunlight cut by the dark shape of Tuan in the doorway, historically accurate 1880s colonial child's bedroom with a mosquito net.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:27",
+      "narasi": "Ia diajari memanggilmu dengan namamu saja, seperti memanggil pembantu. Dan dia menurut, karena dia anak yang baik.",
+      "prompt": "The viewer is Nyai: the hands and forearms in the foreground match the first-person panel of the Nyai reference image.\nSame character as the Anak reference image.\nSame character as the Tuan reference image.\nMedium shot at eye level in the central hall at midday.\nFirst-person point of view. Slim hands with warm brown skin, smoother now, short clean nails; forearms covered by long white cotton kebaya sleeves edged at the cuff with fine white European lace; one thin plain gold bangle on the left wrist. The right hand reaches forward toward Anak's curls and stops in mid-air; the left hand stays out of frame.\nAnak takes a hesitant step back and looks straight at the viewer with uncertain eyes, lips pressed together, one small hand clutching the hem of Tuan's shirt. Tuan stands behind the boy, one hand resting on his shoulder, looking down at the boy, not at the viewer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ivory white, teak brown and faded gold palette, soft morning and afternoon light, soft daylight from tall shuttered windows, historically accurate 1880s Dutch colonial house interior.\nAvoid other characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:27–0:37",
+      "narasi": "Lalu Tuan jatuh sakit. Kamu yang mengompres dahinya, siang dan malam. Tapi tak satu pun surat di mejanya menyebut namamu.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Tuan reference image.\nMedium shot at eye level in a dim bedroom at night.\nTuan lies pale and sweating under a half-open mosquito net, eyes closed, lips dry, one hand limp on the sheet. Nyai sits beside the bed wringing a cloth over a white enamel basin, water dripping, her eyes puffy from sleeplessness, shoulders slumped but hands still working. On the bedside table lies a stack of folded letters and documents with red wax seals.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, greyish green, muted brown and ash grey palette, a single oil lamp casting a sickly warm glow, historically accurate 1880s colonial bedroom.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:46",
+      "narasi": "Di pemakaman, kamu berdiri paling belakang. Orang-orang Eropa menyalami kerabatnya, bukan kamu. Bagi mereka, kamu tak pernah ada.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Anak reference image.\nMedium-wide shot at eye level in a European cemetery under an overcast sky at midday.\nMourners in black gather around a fresh grave with a white headstone, heads bowed. At the front, a European woman of about forty in a black high-necked dress and a short black veil holds Anak by the hand; Anak looks back over his shoulder, searching. Far behind the crowd, Nyai stands alone under a frangipani tree, hands folded in front of her sarong, eyes fixed on her son, mouth tight. The mourners are different people from Nyai and Tuan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, greyish green, muted brown and ash grey palette, flat grey overcast light with no strong shadows, historically accurate 1880s Dutch colonial cemetery.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:46–0:56",
+      "narasi": "Seminggu kemudian, kerabat Tuan datang membawa surat. Di mata hukum, anakmu milik keluarga ayahnya. Kamu tidak punya hak asuh.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Anak reference image.\nMedium shot at eye level in the central hall during the day.\nA stout Dutch man of about forty-five with a grey-blond beard and a black frock coat stands reading from a single sheet of paper, eyes on the page, never looking up. Beside him the European woman in black, hair in a tight bun, rests one gloved hand on Anak's shoulder; Anak stands quietly, confused. Opposite them, Nyai stands with her fingers crushing the hem of her kebaya, brows raised, lips parted in disbelief. The man and woman are different people from Tuan and Nyai.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, greyish green, muted brown and ash grey palette, grey daylight from the gallery, historically accurate 1880s Dutch colonial interior.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:56–1:04",
+      "narasi": "Kamu menggenggam tangan anakmu. Sebuah tangan menghentak genggamanmu sampai lepas. Anakmu menjerit memanggil namamu. Bukan Ibu.",
+      "prompt": "The viewer is Nyai: the hands and forearms in the foreground match the first-person panel of the Nyai reference image.\nSame character as the Anak reference image.\nMedium shot at eye level on the front gallery in harsh afternoon light.\nFirst-person point of view. Slim hands with warm brown skin, smoother now, short clean nails; forearms covered by long white cotton kebaya sleeves edged at the cuff with fine white European lace; one thin plain gold bangle on the left wrist. The left hand grips Anak's small hand tightly; from the right side of the frame, a man's hand in a black coat sleeve clamps around the viewer's wrist and yanks it free mid-motion, fingers slipping apart.\nAnak twists back toward the viewer while being pulled away toward a waiting horse-drawn carriage, mouth wide open in a scream, tears on his cheeks, looking straight at the viewer. The man pulling him is a different person from Tuan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty brown, ash grey and dull brick red palette, harsh afternoon sun and hard shadows, historically accurate 1880s Dutch colonial front gallery.\nAvoid other characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:04–1:12",
+      "narasi": "Kamu didorong mundur sampai terjatuh di anak tangga. Pintu kereta ditutup. Rodanya menjauh di jalan kerikil.",
+      "prompt": "Same character as the Nyai reference image.\nSame character as the Anak reference image.\nLow-angle medium-wide shot from the front steps of the colonial house in the late afternoon.\nNyai has fallen onto the stone steps, one scraped palm without blood bracing her body, the other arm reaching after the carriage, face twisted with grief. On the gravel road, a black horse-drawn carriage pulls away in a cloud of dust; Anak's small face is pressed against its rear window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty brown, ash grey and dull brick red palette, low hard sunlight and drifting dust, historically accurate 1880s Semarang colonial house and road.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:12–1:22",
+      "narasi": "Sore itu juga, kamu disuruh pergi. Kamu keluar lewat jalan yang sama seperti dulu kamu datang, hanya membawa sebuntel kain.",
+      "prompt": "Same character as the Nyai reference image.\nMedium-wide shot at eye level from the dusty road at dusk, looking back at the gate of the white-columned colonial house.\nNyai walks out through the gate toward the viewer's left, clutching a cloth bundle to her chest, her white kebaya dull and wrinkled, barefoot on the dusty road, head lowered, eyes empty, one thin gold bangle still on her wrist. The house behind her is lit, its door shut.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty brown, ash grey and dull brick red palette, dull orange dusk light with long shadows, historically accurate 1880s Semarang colonial house.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:22–1:32",
+      "narasi": "Beberapa tahun kemudian, kamu berdiri di depan pagar sebuah rumah besar. Di halaman, anakmu bermain dengan sepatu barunya.",
+      "prompt": "Same character as the Nyai reference image, now thinner, in a faded greyish cotton kebaya with the lace torn away and a worn brown kain, no jewelry.\nSame character as the Anak Besar reference image.\nMedium-wide shot at eye level on a quiet street at midday, outside a tall black iron fence with a large white house behind it under an open sky.\nNyai stands just outside the fence, one hand resting on a bar, leaning slightly forward, eyes soft and hungry as she watches. In the garden, Anak Besar crouches on the path spinning a wooden top, laughing, his black leather shoes bright in the sun.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faded ochre, warm grey and garden green palette, bright midday sun with sharp shadows of the fence bars across the ground, historically accurate late-1880s Dutch colonial villa and garden.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:32–1:39",
+      "narasi": "Kamu menggumamkan tembang itu... Dia menoleh sebentar. Dia tidak mengenalinya.",
+      "prompt": "The viewer is Nyai: the hands and forearms in the foreground match the first-person panel of the Nyai reference image, but thinner, without the bangle and with the worn sleeves described below.\nSame character as the Anak Besar reference image.\nMedium shot at eye level through the bars of a tall black iron fence in the afternoon.\nFirst-person point of view. Thinner hands with warm brown skin, dry knuckles and short uneven nails, no jewelry; forearms covered by the frayed sleeves of a faded greyish cotton kebaya with the lace torn away at the cuffs. Both hands grip two vertical iron bars of the fence, knuckles pale.\nBeyond the fence, Anak Besar has stopped playing, the wooden top lying still beside his shoe; he has turned toward the viewer and looks straight at the viewer with a puzzled, blank expression, head slightly tilted, already half turning away.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faded ochre, warm grey and garden green palette, softening afternoon light, historically accurate late-1880s Dutch colonial villa garden.\nAvoid other characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:39–1:51",
+      "narasi": "Pembantu rumah itu mengusirmu, lagi dan lagi. Anakmu tumbuh tanpa pernah tahu siapa ibunya. Di semua kertas tentang hidupnya, namamu tidak pernah ada.",
+      "prompt": "Same character as the Nyai reference image, now thinner, in a faded greyish cotton kebaya with the lace torn away and a worn brown kain, no jewelry.\nSame character as the Anak Besar reference image.\nMedium-wide shot at eye level outside the iron fence at dusk.\nA Javanese male servant of about forty, wiry, in a plain dark shirt, a brown kain and a faded headcloth, flicks a broom of palm-leaf ribs at Nyai, shooing her away with an irritated scowl. Nyai steps back with her head bowed and shoulders hunched, one hand raised slightly as if to say she is leaving. In the background, Anak Besar plays again in the garden with his back turned to the fence. The servant is a different person from Nyai and Tuan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, faded ochre, warm grey and garden green palette, a low dull orange sun with long shadows, historically accurate late-1880s Dutch colonial villa and street.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Nyai's face or outfit, extra or malformed hands and fingers, nudity, sexualized pose, blood, wounds, modern brocade kebaya, headscarf, electric lights, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pakai voice yang sama dengan Part 1 supaya kedua part terasa satu suara.\n\n- Babak 1: tenang di permukaan, getir di bawahnya; \"katanya\" diucapkan datar.\n- Babak 2: sedih dan lelah, tempo pelan; dingin di kalimat hak asuh.\n- Babak 3: paling cepat dan tegang, lalu jatuh pasrah di adegan 9.\n- Babak 4: sunyi; adegan 11 nyaris berbisik, kalimat terakhir pelan dan jernih tanpa menangis.",
+    "arahanBabak": {
+      "1": "tenang di permukaan, getir di bawahnya; \"katanya\" diucapkan datar.",
+      "2": "sedih dan lelah, tempo pelan; dingin di kalimat hak asuh.",
+      "3": "paling cepat dan tegang, lalu jatuh pasrah di adegan 9.",
+      "4": "sunyi; adegan 11 nyaris berbisik, kalimat terakhir pelan dan jernih tanpa menangis."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[serious] Anakmu kini orang Eropa. [sad] Kamu sendiri yang memohon tanda tangan itu. [resigned] Dan pelan-pelan, kamu mulai paham harganya...\n\n[tense] Suatu sore, Tuan mendengarmu menembang dalam bahasa Jawa. [angry] Anak ini hanya boleh mendengar bahasa Belanda, katanya. [sad] Tembangmu harus berhenti...\n\n[sad] Ia diajari memanggilmu dengan namamu saja, seperti memanggil pembantu. [resigned] Dan dia menurut, karena dia anak yang baik...",
+    "2": "[calm] Lalu Tuan jatuh sakit. [sad] Kamu yang mengompres dahinya, siang dan malam. [serious] Tapi tak satu pun surat di mejanya menyebut namamu...\n\n[sad] Di pemakaman, kamu berdiri paling belakang. [serious] Orang-orang Eropa menyalami kerabatnya, bukan kamu. [resigned] Bagi mereka, kamu tak pernah ada...\n\n[tense] Seminggu kemudian, kerabat Tuan datang membawa surat. [serious] Di mata hukum, anakmu milik keluarga ayahnya. [serious] Kamu tidak punya hak asuh...",
+    "3": "[tense] Kamu menggenggam tangan anakmu. [angry] Sebuah tangan menghentak genggamanmu sampai lepas. [sad] Anakmu menjerit memanggil namamu. [sad] Bukan Ibu...\n\n[tense] Kamu didorong mundur sampai terjatuh di anak tangga. [sad] Pintu kereta ditutup. [sad] Rodanya menjauh di jalan kerikil...\n\n[resigned] Sore itu juga, kamu disuruh pergi. [sad] Kamu keluar lewat jalan yang sama seperti dulu kamu datang, hanya membawa sebuntel kain...",
+    "4": "[calm] Beberapa tahun kemudian, kamu berdiri di depan pagar sebuah rumah besar. [sad] Di halaman, anakmu bermain dengan sepatu barunya...\n\n[whispers] Kamu menggumamkan tembang itu... [sad] Dia menoleh sebentar. [sad] Dia tidak mengenalinya...\n\n[serious] Pembantu rumah itu mengusirmu, lagi dan lagi. [sad] Anakmu tumbuh tanpa pernah tahu siapa ibunya. [sad] Di semua kertas tentang hidupnya, namamu tidak pernah ada..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Tembang yang putus",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Canggung, lalu berduka",
+      "style": "Faint 19th-century parlour piano and soft gamelan gender playing a fragile lullaby melody that breaks off, then slow mournful suling over distant gong for a sickroom and funeral mood, melancholic, starts gentle and darkens, fades out at the end, about 65 seconds long (1:05), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "drums, EDM, choir, orchestral hits, vocals"
+    },
+    {
+      "nomor": 2,
+      "nama": "Diambil",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:35",
+      "suasana": "Tegang, panik, lalu hampa",
+      "style": "Tense low strings with a quick soft kendang pulse under dissonant gender notes, urgent and anguished, builds fast then cuts to a lingering low drone, about 35 seconds long (0:35), with a clear ending, 90 BPM, instrumental, no vocals",
+      "exclude": "EDM, choir, rock drums, vocals"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pagar",
+      "babakAwal": 4,
+      "babakAkhir": 4,
+      "durasiTarget": "0:35",
+      "suasana": "Sepi, getir",
+      "style": "Sparse solo suling playing a fragile lullaby melody, very slow, lonely and bitter, long silences between phrases, one soft low gong at the end, fades out, about 35 seconds long (0:35), with a clear ending, 54 BPM, instrumental, no vocals",
+      "exclude": "drums, EDM, choir, piano, vocals"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Burung pagi, halaman buku dibalik",
+      "kataKunci": "morning birds, page turn",
+      "prompt": "Morning birds in a tropical garden and the soft sound of a picture book page turning"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Senandung terputus, langkah sepatu di lantai kayu",
+      "kataKunci": "footsteps wooden floor, door",
+      "prompt": "Firm leather footsteps stopping on a wooden floor at a bedroom door"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Jam dinding",
+      "kataKunci": "clock ticking quiet room",
+      "prompt": "A wall clock ticking slowly in a quiet room"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Napas berat, air menetes ke baskom",
+      "kataKunci": "heavy breathing sick, water dripping basin",
+      "prompt": "A sick man's heavy breathing at night and water dripping from a wrung cloth into an enamel basin"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Angin di pemakaman, gumam doa (sulit; cadangan: angin saja)",
+      "kataKunci": "wind cemetery, distant prayer murmur",
+      "prompt": "Soft wind across a quiet cemetery with a distant low murmur of prayers"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Kertas dibuka, detak jam",
+      "kataKunci": "paper unfold, clock tick",
+      "prompt": "A sheet of thick paper being unfolded in a silent room with a ticking clock"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Jeritan anak dan langkah tergesa (sulit dan peka; cadangan: musik cue 2 dan langkah saja)",
+      "kataKunci": "child crying distant, hurried footsteps",
+      "prompt": "Hurried footsteps on a wooden veranda and a young child crying out in the distance"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Pintu kereta dibanting, derap kuda dan roda menjauh",
+      "kataKunci": "carriage door slam, horse hooves gravel receding",
+      "prompt": "A carriage door slamming, then horse hooves and wooden wheels on gravel moving away"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Jangkrik senja, langkah di kerikil",
+      "kataKunci": "crickets dusk, footsteps gravel",
+      "prompt": "Crickets at dusk and slow bare footsteps on a gravel road"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Gasing berputar, burung siang",
+      "kataKunci": "spinning top, birds daytime",
+      "prompt": "A wooden spinning top whirring on a stone path with birds chirping in a garden"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Senandung perempuan tanpa lirik (sulit; cadangan: suling cue 3)",
+      "kataKunci": "female humming lullaby",
+      "prompt": "A soft female voice humming a slow Javanese lullaby melody without words"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Sapu lidi mengibas, angin senja",
+      "kataKunci": "broom swish, evening wind",
+      "prompt": "A broom of palm-leaf ribs swishing sharply on the ground, then a soft evening wind"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Nama nenek Reggie Baay hanya tercatat di balik dokumen: \"Moeinah, sekitar 25 tahun.\"",
+    "sumber": "The Jakarta Post (2016), dari catatan ayah Reggie Baay",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Seorang Nyai di Semarang, 1880-an (Part 2)",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Seorang Nyai Tuan Belanda\nAlternatif judul: POV: Kamu Nyai yang Kehilangan Anaknya (Part 2) / POV: Kamu Seorang Nyai di Hindia Belanda (Part 2)",
+      "caption": "Anakmu menoleh, tapi tidak mengenalimu.\n\nDi Hindia Belanda, nyai tak bisa menuntut hak asuh atas anak yang diakui ayahnya, bahkan setelah sang ayah meninggal. Perempuan yang berkali-kali diusir dari pagar rumah anaknya sendiri tercatat dalam keluarga penulis Reggie Baay.\n\nMenurutmu, siapa yang paling bersalah dalam cerita ini?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Reggie Baay, Nyai dan Pergundikan di Hindia Belanda; The Jakarta Post.\n\n#UlikSilam #sejarahindonesia #nyai #hindiabelanda #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Seorang Nyai (Part 2: Nama yang Tak Tercatat)",
+      "catatan": "",
+      "caption": "Anakmu menoleh, tapi tidak mengenalimu.\n\nDi Hindia Belanda, nyai tak bisa menuntut hak asuh atas anak yang diakui ayahnya, bahkan setelah sang ayah meninggal. Perempuan yang berkali-kali diusir dari pagar rumah anaknya sendiri tercatat dalam keluarga penulis Reggie Baay.\n\nMenurutmu, siapa yang paling bersalah dalam cerita ini?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Reggie Baay, Nyai dan Pergundikan di Hindia Belanda; The Jakarta Post.\n\n#UlikSilam #sejarahindonesia #nyai #hindiabelanda #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 12,
+    "jumlahBabak": 4,
+    "totalKata": 213,
+    "kataPerBabak": {
+      "1": 53,
+      "2": 57,
+      "3": 52,
+      "4": 51
+    },
+    "karakterPerBabak": {
+      "1": 444,
+      "2": 467,
+      "3": 436,
+      "4": 421
+    },
+    "jedaBunyi": 1,
+    "perkiraanDetik130": {
+      "narasi": 111.1,
+      "denganMerek": 116.1
+    },
+    "perkiraanDetik135": {
+      "narasi": 107.5,
+      "denganMerek": 112.5
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

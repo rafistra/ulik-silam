@@ -1,0 +1,634 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-14T00:25:33.720Z",
+  "judulDokumen": "Si Pitung",
+  "judul": "POV: Kamu Opas yang Memburu Si Pitung",
+  "slug": "pov-opas-si-pitung",
+  "versi": "v2 · 2026-11-14",
+  "lapisan": [
+    "Sejarah",
+    "Legenda"
+  ],
+  "latar": "Batavia, masa Hindia Belanda",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Opas (polisi pribumi) fiktif di wilayah Tanah Abang, pemuda Betawi ±25 tahun, bawahan Schout A.W.V. Hinne; di epilog sudah tua",
+  "ringkasan": {
+    "Judul": "POV: Kamu Opas yang Memburu Si Pitung",
+    "Slug": "pov-opas-si-pitung",
+    "Durasi": "3:00 maksimum, target ±2:50 (hitungan naskah ±2:49 termasuk ±5 dtk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Opas (polisi pribumi) fiktif di wilayah Tanah Abang, pemuda Betawi ±25 tahun, bawahan Schout A.W.V. Hinne; di epilog sudah tua",
+    "Jumlah ilustrasi": "19 (16 adegan + 3 lembar karakter: Opas, Schout Hinne, Si Pitung)",
+    "Lapisan": "Sejarah, Legenda",
+    "Latar": "Batavia, masa Hindia Belanda",
+    "Premis": "Orang yang memburu Pitung tahu ia mati oleh peluru biasa, tetapi dunia memilih percaya peluru emas.",
+    "Benang merah": "Catatan koran 1892–1893 lawan cerita kampung: setiap babak menaruh versi polisi dan versi rakyat berdampingan.",
+    "Dipilih karena": "Opas bisa hadir di semua momen yang terdokumentasi, membawa konflik batin tidak hitam-putih, dan tokoh berulangnya sedikit.",
+    "Asumsi": "Penangkapan Kebayoran dan pelarian digabung dalam satu babak; epilog tanpa tahun pasti (\"puluhan tahun kemudian\"); wajah Pitung rekaan; klaim Hinne ikut menyebarkan kisah kesaktian tidak dipakai (1 sumber).",
+    "Versi": "v2 · 2026-11-14"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Seragam di rumah buronan",
+      "suasana": "Curiga, terang terik",
+      "palet": "Oker debu, indigo pudar, cokelat kayu",
+      "cahaya": "Siang terik lewat celah dinding; pelita di kolong rumah"
+    },
+    {
+      "babak": 2,
+      "nama": "Tanda silang",
+      "suasana": "Dingin, birokratis",
+      "palet": "Putih kapur, abu batu, besi kusam",
+      "cahaya": "Cahaya jendela berjeruji, satu lampu amber"
+    },
+    {
+      "babak": 3,
+      "nama": "Siapa yang kamu lindungi",
+      "suasana": "Gelisah, ragu",
+      "palet": "Biru-hitam, hijau lumut, titik emas",
+      "cahaya": "Senja ke malam, lampu rumah dan kunang-kunang"
+    },
+    {
+      "babak": 4,
+      "nama": "Kuburan Tanah Abang",
+      "suasana": "Tegang, meledak",
+      "palet": "Jingga bakar, putih kamboja, abu mesiu",
+      "cahaya": "Matahari terbenam, bayangan ungu panjang"
+    },
+    {
+      "babak": 5,
+      "nama": "Lagu riang",
+      "suasana": "Sunyi, getir",
+      "palet": "Amber, linen putih, cokelat tua",
+      "cahaya": "Satu lampu minyak"
+    },
+    {
+      "babak": 6,
+      "nama": "Peluru emas",
+      "suasana": "Meriah di luar, sepi di dalam",
+      "palet": "Emas lampu minyak, kain panggung merah-hijau pudar",
+      "cahaya": "Lampu minyak panggung lenong malam hari"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Seragam di rumah buronan",
+    "2": "Tanda silang",
+    "3": "Siapa yang kamu lindungi",
+    "4": "Kuburan Tanah Abang",
+    "5": "Lagu riang",
+    "6": "Peluru emas"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Seragam di rumah buronan",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Siang di dalam rumah kayu sederhana di Sukabumi (Rawabelong). Tangan kanan \"kamu\" mengangkat seragam polisi dan topinya dari tumpukan barang curian, tangan kiri menahan tutup peti; seorang schout Eropa membelakangi, membongkar lemari.",
+      "narasiSuara": "[tense] Kamu opas di Tanah Abang. [serious] Hari ini kalian menggeledah rumah seorang buronan. [nervous] Di antara barang curian... ada seragam polisi.",
+      "narasi": "Kamu opas di Tanah Abang. Hari ini kalian menggeledah rumah seorang buronan. Di antara barang curian... ada seragam polisi.",
+      "teksLayar": [
+        "Tanah Abang, Juli 1892."
+      ],
+      "suara": "Derit papan, peti dibongkar, ayam di luar",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Seragam di rumah buronan",
+      "waktu": "0:10–0:19",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Halaman kampung; warga berkerumun menonton para opas di depan rumah panggung. Seorang perempuan tua menatap \"kamu\" tajam, anak-anak bersembunyi di balik kain ibunya.",
+      "narasiSuara": "[curious] Koran menyebut pemiliknya Bitoeng. [curious] Kadang Pitang. [calm] Lalu semua orang menyebutnya Si Pitoeng. [serious] Di kampungmu, nama itu hanya dibisikkan.",
+      "narasi": "Koran menyebut pemiliknya Bitoeng. Kadang Pitang. Lalu semua orang menyebutnya Si Pitoeng. Di kampungmu, nama itu hanya dibisikkan.",
+      "teksLayar": [
+        "Bitoeng",
+        "Pitang",
+        "Si Pitoeng"
+      ],
+      "suara": "Bisik-bisik warga",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Seragam di rumah buronan",
+      "waktu": "0:19–0:30",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kolong rumah, cahaya pelita. Kedua tangan \"kamu\" mengangkat bungkusan kain berisi uang dari lubang tanah; sepatu bot schout tampak di tepi.",
+      "narasiSuara": "[serious] Sebulan kemudian, di lubang bawah rumah itu, ada seratus dua puluh lima gulden. [angry] Hasil merampok Haji Sapiudin di Marunda, dengan senjata api.",
+      "narasi": "Sebulan kemudian, di lubang bawah rumah itu, ada seratus dua puluh lima gulden. Hasil merampok Haji Sapiudin di Marunda, dengan senjata api.",
+      "teksLayar": [
+        "125 gulden"
+      ],
+      "suara": "Gemerincing koin, tanah dikorek",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Tanda silang",
+      "waktu": "0:30–0:39",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kepala kampung Kebayoran menerima kantong uang dari pejabat; di latar, Pitung dan kawanannya digiring opas dengan tangan terikat, Pitung menoleh ke arah kepala kampung.",
+      "narasiSuara": "[calm] Lalu kepala kampung Kebayoran datang membawa kabar. [serious] Imbalannya lima puluh ringgit. [tense] Pitung dan kawanannya digiring ke penjara.",
+      "narasi": "Lalu kepala kampung Kebayoran datang membawa kabar. Imbalannya lima puluh ringgit. Pitung dan kawanannya digiring ke penjara.",
+      "teksLayar": [
+        "Agustus 1892."
+      ],
+      "suara": "Langkah berderap, kantong koin",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Tanda silang",
+      "waktu": "0:39–0:49",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ruang penjara berdinding kapur; Pitung berjongkok, ibu jarinya bertinta menggores tanda silang di bawah surat; juru tulis pribumi menunjuk baris. \"Kamu\" berjaga di pintu, terlihat dari punggung.",
+      "narasiSuara": "[calm] Dari penjara, ia memohon ampun kepada Gubernur Jenderal. [sad] Ia tak bisa menulis. [sad] Suratnya hanya bertanda silang... atas nama Salihoen.",
+      "narasi": "Dari penjara, ia memohon ampun kepada Gubernur Jenderal. Ia tak bisa menulis. Suratnya hanya bertanda silang... atas nama Salihoen.",
+      "teksLayar": [],
+      "suara": "Pena menggores kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Tanda silang",
+      "waktu": "0:49–0:59",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Pagi, halaman penjara Meester Cornelis. Tangan kiri \"kamu\" menyentuh talang atap yang bengkok di puncak tembok; sipir dan opas lain ribut di bawah.",
+      "narasiSuara": "[excited] Lalu Pitung dan Dji-ih lolos dari penjara Meester Cornelis. [whispers] Kata orang kampung, ia menghilang. [sarcastic] Kata polisi, ia memanjat talang atap.",
+      "narasi": "Lalu Pitung dan Dji-ih lolos dari penjara Meester Cornelis. Kata orang kampung, ia menghilang. Kata polisi, ia memanjat talang atap.",
+      "teksLayar": [
+        "1893."
+      ],
+      "suara": "Kentongan tanda bahaya",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Siapa yang kamu lindungi",
+      "waktu": "0:59–1:09",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Arak-arakan di jalan kampung: demang dan schout berpedang terhunus di depan, Dji-ih yang lemah dipapah, kepala-kepala kampung mengawal; warga menonton dari pagar bambu.",
+      "narasiSuara": "[serious] Hadiah untuk kepalanya naik jadi empat ratus gulden. [calm] Dji-ih tertangkap lebih dulu, sakit parah. [sad] Seisi kampung menonton ia diarak.",
+      "narasi": "Hadiah untuk kepalanya naik jadi empat ratus gulden. Dji-ih tertangkap lebih dulu, sakit parah. Seisi kampung menonton ia diarak.",
+      "teksLayar": [
+        "Agustus 1893."
+      ],
+      "suara": "Gumam kerumunan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Siapa yang kamu lindungi",
+      "waktu": "1:09–1:18",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Jalan setapak sepi di antara pohon, senja; peci seorang juragan tergeletak di tanah, warga berlari mendekat; jauh di ujung jalan, siluet seorang pria menyelipkan pistol. Tanpa darah.",
+      "narasiSuara": "[tense] Seminggu kemudian, juragan yang melaporkan Dji-ih mati ditembak Pitung. [nervous] Sekarang kamu tahu... ia bukan dongeng pengantar tidur.",
+      "narasi": "Seminggu kemudian, juragan yang melaporkan Dji-ih mati ditembak Pitung. Sekarang kamu tahu... ia bukan dongeng pengantar tidur.",
+      "teksLayar": [],
+      "suara": "Satu letusan jauh, burung beterbangan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Siapa yang kamu lindungi",
+      "waktu": "1:18–1:30",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Malam di semak dekat kampung. Tangan kanan \"kamu\" menyibak daun, tangan kiri memegang senapan; schout Eropa berjongkok di depan; lampu-lampu rumah warga berkelip jauh.",
+      "narasiSuara": "[sad] Malam demi malam, kalian bersembunyi di semak. [resigned] Orang kampung memberi Pitung apa saja. [sad] Kamu tak tahu lagi... siapa yang sebenarnya kamu lindungi.",
+      "narasi": "Malam demi malam, kalian bersembunyi di semak. Orang kampung memberi Pitung apa saja. Kamu tak tahu lagi... siapa yang sebenarnya kamu lindungi.",
+      "teksLayar": [],
+      "suara": "Jangkrik, nyamuk",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Kuburan Tanah Abang",
+      "waktu": "1:30–1:40",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja di pinggir jalan; seorang informan berbisik di telinga Schout Hinne, yang menatap ke kejauhan; para opas memeriksa senapan.",
+      "narasiSuara": "[tense] Seorang informan berbisik kepada Schout Hinne: Pitung di Kampung Bambu. [tense] Lalu kabar berubah. [serious] Ia menuju kuburan Tanah Abang. [whispers] Kepung.",
+      "narasi": "Seorang informan berbisik kepada Schout Hinne: Pitung di Kampung Bambu. Lalu kabar berubah. Ia menuju kuburan Tanah Abang. Kepung.",
+      "teksLayar": [
+        "Oktober 1893."
+      ],
+      "suara": "Bisikan, senapan dikokang",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Kuburan Tanah Abang",
+      "waktu": "1:40–1:52",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Kuburan Tanah Abang, nisan miring dan pohon kamboja. Kedua tangan \"kamu\" menggenggam senapan; di antara nisan, Pitung bercelana pendek dengan sabuk peluru menoleh lalu berlari.",
+      "narasiSuara": "[nervous] Kamu dan seorang kawan menyisir kuburan. [tense] Di antara nisan, ada sosok bercelana pendek, sabuk peluru di pinggang. [tense] Ia lari, tepat ke arah schout menunggu.",
+      "narasi": "Kamu dan seorang kawan menyisir kuburan. Di antara nisan, ada sosok bercelana pendek, sabuk peluru di pinggang. Ia lari, tepat ke arah schout menunggu.",
+      "teksLayar": [],
+      "suara": "Langkah di rumput kering",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Kuburan Tanah Abang",
+      "waktu": "1:52–2:02",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Asap mesiu di antara nisan; Pitung setengah bangkit menodongkan revolver ke Hinne yang melompat ke samping; para opas berlari dari belakang. Tanpa darah.",
+      "narasiSuara": "[tense] Kamu berlari. [tense] Peluru mengenainya. [gasps] Ia roboh... lalu bangkit, menembak lagi. [serious] Seorang opas menembak punggungnya. [resigned] Ia tak bangkit lagi.",
+      "narasi": "Kamu berlari. Peluru mengenainya. Ia roboh... lalu bangkit, menembak lagi. Seorang opas menembak punggungnya. Ia tak bangkit lagi.",
+      "teksLayar": [],
+      "suara": "Letusan revolver beruntun, lalu sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Lagu riang",
+      "waktu": "2:02–2:11",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Jalan menuju rumah sakit; tangan kanan \"kamu\" memegang pinggir tandu; Pitung terbaring, bibirnya bersenandung, mata setengah terpejam; opas lain menyeringai.",
+      "narasiSuara": "[calm] Kamu ikut mengawalnya ke rumah sakit. [angry] Kawan-kawanmu mengejeknya sepanjang jalan. [sad] Pitung menjawab dengan bernyanyi... lagu riang.",
+      "narasi": "Kamu ikut mengawalnya ke rumah sakit. Kawan-kawanmu mengejeknya sepanjang jalan. Pitung menjawab dengan bernyanyi... lagu riang.",
+      "teksLayar": [
+        "Stadsverband, Batavia."
+      ],
+      "suara": "Senandung lirih, roda tandu",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Lagu riang",
+      "waktu": "2:11–2:23",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Bangsal rumah sakit pribumi, pelita; dipan berselimut kain putih, segelas tuak dengan es mencair di meja kecil; di jendela tampak tentara berjaga.",
+      "narasiSuara": "[sad] Ia meminta tuak dengan es. [sad] Hari itu juga, ia mati. [resigned] Schout Hinne mendapat bintang kehormatan. [whispers] Makamnya dijaga tentara, agar tak diziarahi.",
+      "narasi": "Ia meminta tuak dengan es. Hari itu juga, ia mati. Schout Hinne mendapat bintang kehormatan. Makamnya dijaga tentara, agar tak diziarahi.",
+      "teksLayar": [],
+      "suara": "Musik turun; tetes es",
+      "hening": true,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Peluru emas",
+      "waktu": "2:23–2:31",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Malam, panggung lenong berlampu minyak; aktor \"Pitung\" berpose kebal, aktor \"schout\" membidik dengan peluru emas berkilau. Di bawah bingkai, kedua tangan tua \"kamu\" yang keriput bertumpu di lutut.",
+      "narasiSuara": "[calm] Kamu sudah tua. [excited] Di panggung lenong, Pitung kebal peluru. [curious] Ia hanya mati oleh peluru emas. [excited] Penonton bersorak.",
+      "narasi": "Kamu sudah tua. Di panggung lenong, Pitung kebal peluru. Ia hanya mati oleh peluru emas. Penonton bersorak.",
+      "teksLayar": [
+        "Puluhan tahun kemudian."
+      ],
+      "suara": "Gambang kromong, sorak penonton",
+      "hening": false,
+      "epilog": true,
+      "kata": 17
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Peluru emas",
+      "waktu": "2:31–2:44",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "\"Kamu\" tua terlihat dari samping di tengah penonton yang bersorak, wajah setengah dalam bayangan, bertepuk pelan sambil menatap panggung.",
+      "narasiSuara": "[sad] Kamu ada di kuburan itu. [resigned] Tak ada peluru emas. [whispers] Hanya peluru biasa... dan seorang opas yang menembak dari belakang. [resigned] Kamu ikut bertepuk tangan. [sad] Dan diam.",
+      "narasi": "Kamu ada di kuburan itu. Tak ada peluru emas. Hanya peluru biasa... dan seorang opas yang menembak dari belakang. Kamu ikut bertepuk tangan. Dan diam.",
+      "teksLayar": [],
+      "suara": "Sorak memudar",
+      "hening": false,
+      "epilog": true,
+      "kata": 25
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Opas",
+      "prompt": "Character reference sheet of Opas.\nOpas, a fictional Betawi native police assistant (oppas) in Batavia, 1892 to 1893, about 25 years old. Lean wiry build, medium-brown sun-darkened skin, oval face with high cheekbones, dark watchful almond eyes under straight thick brows, broad nose, thin lips, clean-shaven, short black hair. Clothing from head to foot: a dark indigo cotton iket head cloth tied flat with a small knot at the back; a plain dark indigo collarless cotton jacket with long sleeves, narrow buttoned cuffs and small brass buttons down the front; a worn brown leather belt over the jacket with a small cartridge pouch; loose dark indigo knee-length trousers; barefoot. Carries an old single-shot rifle with a plain wooden stock. No jewelry. Holds himself stiffly, shoulders slightly hunched, eyes often glancing sideways.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the head cloth, jacket buttons and belt pouch, and one first-person panel showing both forearms and hands held forward at chest height exactly as seen by the wearer: medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry.\nPlain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1890s Batavia native police assistant, plain indigo cotton, simple head cloth.\nAvoid Japanese or modern police uniforms, peaked caps on Opas, shoes, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Schout Hinne",
+      "prompt": "Character reference sheet of Schout Hinne.\nSchout A.W.V. Hinne, Dutch colonial police chief of the Tanah Abang district in Batavia, early 1890s, in his late thirties (face invented, no portrait known). Tall and heavy-set, ruddy sunburned pale skin, square jaw, small pale grey eyes, thick drooping light-brown moustache, short receding light-brown hair. Clothing from head to foot: a white cotton cap with a short black visor; a white high-collared closed tunic with a single row of brass buttons; a black leather belt with a revolver holster on the right hip and a sabre on the left; white trousers; black leather ankle boots; a pocket-watch chain across the chest. Moves restlessly, leans forward when listening, jaw often clenched.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the cap, tunic buttons, revolver holster and sabre hilt.\nPlain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1890s Dutch East Indies colonial police officer.\nAvoid medals on the chest, modern police uniforms, pith helmets, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Si Pitung",
+      "prompt": "Character reference sheet of Si Pitung.\nSi Pitung (real name Salihoen), Betawi bandit from Rawa Belong, Batavia, early 1890s, in his late twenties (face invented, no portrait known; costume follows the popular Betawi depiction). Medium height, compact muscular build, warm brown skin, oval face, sharp dark eyes under thick brows, a thin black moustache, short black hair. Clothing from head to foot: a black kopiah (rimless felt cap); a loose deep red pangsi shirt with a round collarless neck and long wide sleeves over a plain white undershirt; a wide green cloth sash tied at the waist; loose deep red pangsi trousers ending at mid-calf; a checked sarong in muted red and brown draped around the neck, its folds hanging over the left shoulder; brown leather terompah sandals. A short golok in a plain wooden sheath tucked into the left side of the sash; a dark akar bahar bracelet on the right wrist. Stands loose and relaxed with his weight on one leg, often with a half smile.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the checked sarong, green sash, golok sheath and akar bahar bracelet.\nPlain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, popular Betawi jawara costume of the late nineteenth century.\nAvoid a red and white headband, modern batik shirts, sunglasses, superhero poses, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Kamu opas di Tanah Abang. Hari ini kalian menggeledah rumah seorang buronan. Di antara barang curian... ada seragam polisi.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nSame character as the Schout Hinne reference image.\nMedium shot at eye level, midday inside a simple wooden kampung house in Rawa Belong, light falling through gaps in the plank walls, dust in the air.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. The right hand lifts a folded dark police jacket and a cap from a pile of stolen goods on the floor; the left hand holds open the lid of a wooden chest.\nSchout Hinne stands with his back half turned, mid-motion as he pulls a drawer from a cabinet, shoulders hunched with impatience, eyes on the drawer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of ochre dust, faded indigo and dry wood brown under hard midday light, historically accurate 1890s colonial Batavia kampung house interior with bamboo and plank walls and a packed earth floor.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:19",
+      "narasi": "Koran menyebut pemiliknya Bitoeng. Kadang Pitang. Lalu semua orang menyebutnya Si Pitoeng. Di kampungmu, nama itu hanya dibisikkan.",
+      "prompt": "Same character as the Opas reference image.\nMedium-wide shot from a slightly low angle, a dusty kampung yard in front of a raised wooden house in Rawa Belong, hard midday sun.\nOpas stands at the foot of the house steps, mid-turn toward the crowd, rifle held low, jaw tight and eyes lowered, uneasy.\nVillagers crowd behind a bamboo fence watching. An old woman with a grey bun and a white kebaya grips the fence and stares hard at Opas, brows pulled down, lips pressed thin; two small children hide behind their mother's cloth and peek out; a young man whispers into an older man's ear while both glance at the house.\nThe villagers are different people from Si Pitung and Opas: mixed ages and builds, men in plain white or black loose shirts and trousers with simple head cloths, women in plain white kebaya with faded batik cloth and shawls over their hair, no golok, no green sash, no kopiah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of ochre dust, faded indigo and dry wood brown under hard midday light, historically accurate 1890s colonial Batavia kampung with banana trees and a well.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:30",
+      "narasi": "Sebulan kemudian, di lubang bawah rumah itu, ada seratus dua puluh lima gulden. Hasil merampok Haji Sapiudin di Marunda, dengan senjata api.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nSame character as the Schout Hinne reference image.\nClose medium shot from low angle, the dim crawlspace under a raised wooden house at dusk, lit by one clay oil lamp on the ground.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. Both hands lift a dirty knotted cloth bundle heavy with silver guilder coins out of a small hole dug in the earth; a few coins slip between the fingers.\nSchout Hinne crouches beside the house post, leaning forward, eyes fixed on the bundle, lips parted in grim satisfaction.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of earthy brown shadows and flickering lamp gold, historically accurate 1890s colonial Batavia kampung house posts and packed earth.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:39",
+      "narasi": "Lalu kepala kampung Kebayoran datang membawa kabar. Imbalannya lima puluh ringgit. Pitung dan kawanannya digiring ke penjara.",
+      "prompt": "Same character as the Si Pitung reference image.\nMedium-wide shot at eye level, a dusty road at the edge of Kebayoran village in the late afternoon.\nIn the foreground a village head, a stout middle-aged man in a white jacket, sarong and dark head cloth, takes a small cloth money pouch from a Dutch clerk, his eyes avoiding the clerk and his shoulders hunched.\nBehind them Si Pitung, hands tied in front, is led away by native police assistants; he walks unhurried and turns his head over his shoulder to look straight at the village head, a calm half smile on his lips.\nThe police assistants are different people from Opas: one older and stockier, one very young and thin, both in dark indigo jackets and head cloths. The Dutch clerk is a thin bespectacled man in a white suit, a different person from Schout Hinne.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty late-afternoon palette of ochre road, faded indigo and pale grey sky, historically accurate 1890s colonial Batavia kampung road with bamboo houses.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:49",
+      "narasi": "Dari penjara, ia memohon ampun kepada Gubernur Jenderal. Ia tak bisa menulis. Suratnya hanya bertanda silang... atas nama Salihoen.",
+      "prompt": "Same character as the Si Pitung reference image.\nSame character as the Opas reference image.\nMedium shot at eye level, a small lime-washed prison office with a barred window, afternoon light in dusty shafts.\nSi Pitung kneels at a low wooden table, without his sarong and golok, his inked right thumb pressing a cross mark under a handwritten letter, brows slightly raised, mouth closed, quietly hopeful.\nA native clerk in a white jacket and black kopiah leans over him, pointing at the line with a pen, eyes on the paper.\nOpas stands in the open doorway seen from behind and slightly to the side, rifle at his side, head tilted toward the table.\nThe clerk is a different person from Si Pitung: older, round-faced, wearing spectacles.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cool palette of lime-white walls, slate grey and dull iron with a single warm amber lamp, historically accurate 1890s colonial prison office.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:49–0:59",
+      "narasi": "Lalu Pitung dan Dji-ih lolos dari penjara Meester Cornelis. Kata orang kampung, ia menghilang. Kata polisi, ia memanjat talang atap.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nMedium shot from a low angle, early morning at the top of the whitewashed outer wall of Meester Cornelis prison, mist over the rooftops.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. The left hand touches a bent zinc roof gutter hanging loose from the edge of the wall; the right hand grips the ladder rail.\nBelow, a Dutch prison warden in a white uniform and two native guards argue, one pointing up at the gutter, the other spreading his hands in disbelief, all looking at the gutter.\nThe warden and guards are different people from Schout Hinne and Opas.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold palette of misty morning blue, lime-white walls and slate grey, historically accurate 1890s colonial prison with tiled roofs.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:59–1:09",
+      "narasi": "Hadiah untuk kepalanya naik jadi empat ratus gulden. Dji-ih tertangkap lebih dulu, sakit parah. Seisi kampung menonton ia diarak.",
+      "prompt": "Medium-wide shot from slightly above, a kampung road in the afternoon.\nA procession moves forward: in front walk a Javanese demang in a dark jacket and batik head cloth and a Dutch police officer in a white tunic, both holding drawn sabres upright. Behind them Dji-ih, a thin sick man in a stained black shirt and trousers, is held up by two village heads, his head drooping, eyes half closed.\nVillagers line the bamboo fences watching; a woman covers her mouth, a boy climbs a fence post to see better, an old man shakes his head slowly.\nThe Dutch officer is a different person from Schout Hinne: younger, clean-shaven and slim. Dji-ih wears no kopiah, no sarong and no green sash.\nThe villagers are different people from Si Pitung and Opas: mixed ages and builds, men in plain white or black loose shirts and trousers with simple head cloths, women in plain white kebaya with faded batik cloth and shawls over their hair, no golok, no green sash, no kopiah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky palette of deep blue-brown shadows and low late-afternoon gold, historically accurate 1890s colonial Batavia kampung road.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:09–1:18",
+      "narasi": "Seminggu kemudian, juragan yang melaporkan Dji-ih mati ditembak Pitung. Sekarang kamu tahu... ia bukan dongeng pengantar tidur.",
+      "prompt": "Medium-wide shot at eye level, a quiet footpath between tall trees at dusk.\nA black peci lies upside down on the path beside a dropped walking stick. Two villagers run toward it from the foreground, one mid-stride, the other stopping short with a hand raised to his mouth, both staring at the peci.\nFar down the path, a small dark silhouette of a man with a sarong around his neck walks away, slipping a revolver into his sash, his back to the viewer.\nNo body is visible.\nThe villagers are different people from Si Pitung: an old farmer and a young boy in plain white shirts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky palette of deep blue-black, mossy green and warm lamp-gold points of light, historically accurate 1890s Batavia outskirts with bamboo groves.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:18–1:30",
+      "narasi": "Malam demi malam, kalian bersembunyi di semak. Orang kampung memberi Pitung apa saja. Kamu tak tahu lagi... siapa yang sebenarnya kamu lindungi.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nSame character as the Schout Hinne reference image.\nMedium shot at eye level, night in thick bushes at the edge of a kampung.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. The right hand parts wet leaves; the left hand holds the rifle barrel upright against the shoulder.\nSchout Hinne crouches a little ahead, half turned toward the viewer with a finger to his lips, his eyes on the distant houses.\nFar away, small warm lamps glow in the windows of kampung houses; fireflies drift between the leaves.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky palette of deep blue-black, mossy green and warm lamp-gold points of light, historically accurate 1890s colonial Batavia kampung at night.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:30–1:40",
+      "narasi": "Seorang informan berbisik kepada Schout Hinne: Pitung di Kampung Bambu. Lalu kabar berubah. Ia menuju kuburan Tanah Abang. Kepung.",
+      "prompt": "Same character as the Schout Hinne reference image.\nSame character as the Opas reference image.\nMedium shot from slightly low angle at the edge of a road at sunset.\nA thin informant in a faded brown shirt and head cloth leans close to whisper into Schout Hinne's ear, shielding his mouth with one hand and glancing nervously over his shoulder. Schout Hinne listens with his head tilted, eyes narrowing toward the distance, one hand already on his holster.\nBehind them, Opas and two other police assistants check their rifles, Opas looking at Hinne and waiting for the order.\nThe informant and the two police assistants are different people from Opas: the assistants are older and stockier, the informant is gaunt and middle-aged.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, sunset palette of burnt orange sky, frangipani white, gunsmoke grey and long violet shadows, historically accurate 1890s colonial Batavia kampung road with coconut palms.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:40–1:52",
+      "narasi": "Kamu dan seorang kawan menyisir kuburan. Di antara nisan, ada sosok bercelana pendek, sabuk peluru di pinggang. Ia lari, tepat ke arah schout menunggu.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nSame character as the Si Pitung reference image.\nMedium-wide shot at eye level, the Tanah Abang cemetery at sunset, leaning old gravestones, frangipani trees and tall dry grass.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. Both hands grip the rifle across the chest.\nBetween the gravestones ahead, Si Pitung turns sharply to look back at the viewer, mid-stride as he starts to run; in this scene he wears black knee-length shorts, a leather cartridge belt around his waist, no sarong, and holds a revolver low. A second police assistant crouches behind a gravestone to the left, pointing at him.\nThe second police assistant is a different person from Opas: older, with a grey moustache.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, sunset palette of burnt orange sky, frangipani white, gunsmoke grey and long violet shadows, historically accurate 1890s Batavia Muslim and Chinese cemetery.\nAvoid stiff symmetrical poses, background figures copying the faces or outfits of the main characters, blood or gore, modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:52–2:02",
+      "narasi": "Kamu berlari. Peluru mengenainya. Ia roboh... lalu bangkit, menembak lagi. Seorang opas menembak punggungnya. Ia tak bangkit lagi.",
+      "prompt": "Same character as the Si Pitung reference image.\nSame character as the Schout Hinne reference image.\nMedium-wide shot from a low angle among the gravestones at sunset, drifting gunsmoke.\nSi Pitung has pushed himself up on one knee beside a gravestone, aiming his revolver at Schout Hinne, jaw set, eyes fierce; he wears black knee-length shorts and a leather cartridge belt, no sarong.\nSchout Hinne leaps sideways mid-air, revolver in hand, face tense. In the background, two native police assistants run in through the grass with rifles raised.\nNo blood is visible.\nThe running police assistants are different people from Opas: one older and stocky, one tall and thin.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, sunset palette of burnt orange sky, frangipani white, gunsmoke grey and long violet shadows, historically accurate 1890s Batavia cemetery with frangipani trees.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:02–2:11",
+      "narasi": "Kamu ikut mengawalnya ke rumah sakit. Kawan-kawanmu mengejeknya sepanjang jalan. Pitung menjawab dengan bernyanyi... lagu riang.",
+      "prompt": "The viewer is Opas: the hands and forearms in the foreground match the first-person panel of the Opas reference image.\nSame character as the Si Pitung reference image.\nMedium shot from above, a dusty city road in Batavia at dusk on the way to the hospital.\nFirst-person point of view. medium-brown sun-darkened hands of a young man with calloused palms, short square nails and a small pale scar across the left knuckles, sleeves of a plain dark indigo collarless cotton jacket with narrow buttoned cuffs at the wrists, no jewelry. The right hand grips the wooden pole of a stretcher.\nOn the stretcher lies Si Pitung, pale, without his sarong and kopiah, eyes half closed, lips curved as he hums a song. Another police assistant walks alongside, sneering down at him.\nThe sneering police assistant is a different person from Opas: heavy-jawed, older, with a thin moustache.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of amber lamplight, off-white linen and deep brown shadows, historically accurate 1890s Batavia street with colonial buildings and a horse cart.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:11–2:23",
+      "narasi": "Ia meminta tuak dengan es. Hari itu juga, ia mati. Schout Hinne mendapat bintang kehormatan. Makamnya dijaga tentara, agar tak diziarahi.",
+      "prompt": "Medium shot at eye level, a ward of the native city hospital in Batavia at night, lit by one oil lamp.\nAn empty iron bed covered with a white sheet; on a small wooden table beside it stands a glass of pale palm wine with half-melted ice, a drop of water running down the glass.\nThrough the window in the background, two colonial soldiers stand guard under a frangipani tree, faces turned away.\nNo body and no people in the foreground.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of amber lamplight, off-white linen and deep brown shadows, historically accurate 1890s colonial hospital ward.\nAvoid blood or gore, modern hospital equipment, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:23–2:31",
+      "narasi": "Kamu sudah tua. Di panggung lenong, Pitung kebal peluru. Ia hanya mati oleh peluru emas. Penonton bersorak.",
+      "prompt": "The viewer is Opas in old age: the hands keep the small pale scar of the Opas reference image but are now an old man's hands.\nMedium shot at eye level, a lenong stage at night in a Betawi village, lit by oil lamps hanging from a bamboo frame, painted backdrop cloth behind.\nFirst-person point of view. medium-brown hands of an old man, thin and wrinkled with age spots and swollen knuckles, short square nails and the same small pale scar across the left knuckles, sleeves of a faded grey-blue collarless cotton shirt, no jewelry. Both hands rest on the knees of the viewer, who sits among the audience.\nOn stage, an actor dressed as Si Pitung in deep red pangsi, black kopiah and a checked sarong around his neck spreads his arms proudly, chest out; an actor dressed as a Dutch policeman in a white tunic aims a revolver with a glowing golden bullet at him.\nAudience members in the foreground cheer with raised hands.\nThe actors are different people from Si Pitung and Schout Hinne: the Pitung actor is plump and round-faced, the policeman actor is a Betawi man with a painted moustache.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, nighttime palette of oil-lamp gold, faded red and green stage cloth and deep shadows, historically accurate early twentieth century Betawi lenong stage with gambang kromong musicians at the side.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:31–2:44",
+      "narasi": "Kamu ada di kuburan itu. Tak ada peluru emas. Hanya peluru biasa... dan seorang opas yang menembak dari belakang. Kamu ikut bertepuk tangan. Dan diam.",
+      "prompt": "Medium shot from the side at eye level, among a cheering lenong audience at night.\nAn old Betawi man sits still in the crowd: thin, medium-brown skin, wrinkled face, white stubble, sparse grey hair under a faded grey head cloth, a faded grey-blue collarless shirt, a small pale scar across the left knuckles. He claps slowly, his face half in shadow, eyes fixed on the stage, lips pressed together.\nPeople around him laugh and cheer with raised arms, all looking at the stage.\nThe people around him are different from the main characters: mixed ages, plain clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, nighttime palette of oil-lamp gold, faded red and green stage cloth and deep shadows, historically accurate early twentieth century Betawi village at night.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the faces or outfits of the main characters, identical faces, blood or gore, Japanese or modern police uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Voice laki-laki dewasa yang hangat dan agak serak, bercerita seperti orang tua mengenang. Pilihan voice paling menentukan: tag tidak bisa memaksa voice yang lembut untuk terdengar tegang.\n\n- Babak 1: tenang dan curiga, tempo sedang.\n- Babak 2: datar seperti membaca laporan, melunak di \"tanda silang\".\n- Babak 3: makin lambat dan ragu, berbisik di kalimat terakhir.\n- Babak 4: tegang, tempo sedikit lebih cepat, kalimat pendek.\n- Babak 5: pelan dan berat; jeda panjang sebelum \"Hari itu juga\".\n- Babak 6: suara tua, lambat, getir; \"Dan diam.\" hampir berbisik.",
+    "arahanBabak": {
+      "1": "tenang dan curiga, tempo sedang.",
+      "2": "datar seperti membaca laporan, melunak di \"tanda silang\".",
+      "3": "makin lambat dan ragu, berbisik di kalimat terakhir.",
+      "4": "tegang, tempo sedikit lebih cepat, kalimat pendek.",
+      "5": "pelan dan berat; jeda panjang sebelum \"Hari itu juga\".",
+      "6": "suara tua, lambat, getir; \"Dan diam.\" hampir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu opas di Tanah Abang. [serious] Hari ini kalian menggeledah rumah seorang buronan. [nervous] Di antara barang curian... ada seragam polisi...\n\n[curious] Koran menyebut pemiliknya Bitoeng. [curious] Kadang Pitang. [calm] Lalu semua orang menyebutnya Si Pitoeng. [serious] Di kampungmu, nama itu hanya dibisikkan...\n\n[serious] Sebulan kemudian, di lubang bawah rumah itu, ada seratus dua puluh lima gulden. [angry] Hasil merampok Haji Sapiudin di Marunda, dengan senjata api...",
+    "2": "[calm] Lalu kepala kampung Kebayoran datang membawa kabar. [serious] Imbalannya lima puluh ringgit. [tense] Pitung dan kawanannya digiring ke penjara...\n\n[calm] Dari penjara, ia memohon ampun kepada Gubernur Jenderal. [sad] Ia tak bisa menulis. [sad] Suratnya hanya bertanda silang... atas nama Salihoen...\n\n[excited] Lalu Pitung dan Dji-ih lolos dari penjara Meester Cornelis. [whispers] Kata orang kampung, ia menghilang. [sarcastic] Kata polisi, ia memanjat talang atap...",
+    "3": "[serious] Hadiah untuk kepalanya naik jadi empat ratus gulden. [calm] Dji-ih tertangkap lebih dulu, sakit parah. [sad] Seisi kampung menonton ia diarak...\n\n[tense] Seminggu kemudian, juragan yang melaporkan Dji-ih mati ditembak Pitung. [nervous] Sekarang kamu tahu... ia bukan dongeng pengantar tidur...\n\n[sad] Malam demi malam, kalian bersembunyi di semak. [resigned] Orang kampung memberi Pitung apa saja. [sad] Kamu tak tahu lagi... siapa yang sebenarnya kamu lindungi...",
+    "4": "[tense] Seorang informan berbisik kepada Schout Hinne: Pitung di Kampung Bambu. [tense] Lalu kabar berubah. [serious] Ia menuju kuburan Tanah Abang. [whispers] Kepung...\n\n[nervous] Kamu dan seorang kawan menyisir kuburan. [tense] Di antara nisan, ada sosok bercelana pendek, sabuk peluru di pinggang. [tense] Ia lari, tepat ke arah schout menunggu...\n\n[tense] Kamu berlari. [tense] Peluru mengenainya. [gasps] Ia roboh... lalu bangkit, menembak lagi. [serious] Seorang opas menembak punggungnya. [resigned] Ia tak bangkit lagi...",
+    "5": "[calm] Kamu ikut mengawalnya ke rumah sakit. [angry] Kawan-kawanmu mengejeknya sepanjang jalan. [sad] Pitung menjawab dengan bernyanyi... lagu riang...\n\n[sad] Ia meminta tuak dengan es. [sad] Hari itu juga, ia mati. [resigned] Schout Hinne mendapat bintang kehormatan. [whispers] Makamnya dijaga tentara, agar tak diziarahi...",
+    "6": "[calm] Kamu sudah tua. [excited] Di panggung lenong, Pitung kebal peluru. [curious] Ia hanya mati oleh peluru emas. [excited] Penonton bersorak...\n\n[sad] Kamu ada di kuburan itu. [resigned] Tak ada peluru emas. [whispers] Hanya peluru biasa... dan seorang opas yang menembak dari belakang. [resigned] Kamu ikut bertepuk tangan. [sad] Dan diam..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Perburuan",
+      "babakAwal": 1,
+      "babakAkhir": 3,
+      "durasiTarget": "1:35",
+      "suasana": "Gambang kromong lirih, curiga, makin gelisah",
+      "style": "slow Betawi gambang kromong ambient, sparse gambang xylophone and tehyan bowed fiddle over a soft kendang pulse, wary and mysterious, starts sparse and grows uneasy, fades out at the end, about 95 seconds long (1:35), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "electronic, synth, drum kit, epic orchestra, vocals"
+    },
+    {
+      "nomor": 2,
+      "nama": "Kuburan",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "1:00",
+      "suasana": "Perkusi tegang memuncak, lalu runtuh menjadi hening",
+      "style": "tense Indonesian percussion, urgent kendang and low gong hits with a dark drone and tehyan tremolo, builds to a sudden peak then collapses into a sparse sad gong, ends in near silence, about 60 seconds long (1:00), with a clear ending, 96 BPM, instrumental, no vocals",
+      "exclude": "electronic, rock, trap, epic choir, vocals"
+    },
+    {
+      "nomor": 3,
+      "nama": "Panggung",
+      "babakAwal": 6,
+      "babakAkhir": 6,
+      "durasiTarget": "0:30",
+      "suasana": "Gambang kromong lenong yang riang tetapi terdengar jauh dan getir",
+      "style": "lively Betawi gambang kromong lenong tune heard from a distance, gambang, tehyan, kecrek and kempul, cheerful but faded and wistful, slows and fades out at the end, about 30 seconds long (0:30), with a clear ending, 100 BPM, instrumental, no vocals",
+      "exclude": "electronic, synth, pop, vocals"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Peti kayu dibuka, papan berderit",
+      "kataKunci": "wooden chest open creak",
+      "prompt": "an old wooden chest lid creaking open inside a wooden house, dust, close"
+    },
+    {
+      "nomor": 2,
+      "adegan": 3,
+      "bunyi": "Koin perak bergemerincing di kain",
+      "kataKunci": "coins in cloth bag",
+      "prompt": "silver coins clinking inside a knotted cloth bundle lifted from dirt"
+    },
+    {
+      "nomor": 3,
+      "adegan": 6,
+      "bunyi": "Kentongan tanda bahaya",
+      "kataKunci": "wooden slit drum alarm",
+      "prompt": "rapid Indonesian bamboo kentongan alarm beats in the distance at dawn"
+    },
+    {
+      "nomor": 4,
+      "adegan": 8,
+      "bunyi": "Satu letusan jauh, burung terbang",
+      "kataKunci": "distant gunshot birds flutter",
+      "prompt": "one distant 19th century revolver shot in a forest at dusk, birds flying off"
+    },
+    {
+      "nomor": 5,
+      "adegan": 9,
+      "bunyi": "Jangkrik dan dengung nyamuk malam",
+      "kataKunci": "night crickets jungle",
+      "prompt": "tropical night crickets and a mosquito buzzing close in bushes"
+    },
+    {
+      "nomor": 6,
+      "adegan": 12,
+      "bunyi": "Tembakan revolver beruntun, lalu sunyi",
+      "kataKunci": "revolver shots exchange",
+      "prompt": "several old black powder revolver shots in an open cemetery, echo, then silence"
+    },
+    {
+      "nomor": 7,
+      "adegan": 13,
+      "bunyi": "Tandu berderit dan langkah kaki",
+      "kataKunci": "stretcher footsteps dirt road",
+      "prompt": "wooden stretcher poles creaking and footsteps on a dirt road at dusk"
+    },
+    {
+      "nomor": 8,
+      "adegan": 15,
+      "bunyi": "Sorak penonton",
+      "kataKunci": "crowd cheering village",
+      "prompt": "small outdoor village crowd cheering and clapping at night"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Rumah Si Pitung di Marunda sebenarnya rumah Haji Sapiudin, korban rampokannya.",
+    "sumber": "van Till (1996); Sejarah Kampung Marunda (Dinas Museum dan Sejarah DKI, 1985)",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Opas yang Memburu Si Pitung",
+      "catatan": "Alternatif judul: POV: Kamu Polisi Pribumi yang Memburu Si Pitung / POV: Kamu Ada di Kuburan Saat Si Pitung Tertembak",
+      "caption": "Kamu digaji untuk memburunya. Kampungmu menyanyikan namanya.\n\nBatavia, 1892–1893: Si Pitung diburu polisi Tanah Abang di bawah Schout Hinne sampai tewas disergap di kuburan Tanah Abang, Oktober 1893. Koran masa itu mencatat pelurunya satu per satu, dan tak satu pun peluru emas.\n\nKalau kamu opas itu, kamu bongkar ceritanya atau ikut bertepuk tangan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: van Till (1996), Hindia Olanda dan De Locomotief 1893. Sebagian adegan bersumber dari kisah tradisional Betawi.\n\n#UlikSilam #sejarahindonesia #sipitung #betawi #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Opas yang Memburu Si Pitung",
+      "catatan": "",
+      "caption": "Kamu digaji untuk memburunya. Kampungmu menyanyikan namanya.\n\nBatavia, 1892–1893: Si Pitung diburu polisi Tanah Abang di bawah Schout Hinne sampai tewas disergap di kuburan Tanah Abang, Oktober 1893. Koran masa itu mencatat pelurunya satu per satu, dan tak satu pun peluru emas.\n\nKalau kamu opas itu, kamu bongkar ceritanya atau ikut bertepuk tangan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: van Till (1996), Hindia Olanda dan De Locomotief 1893. Sebagian adegan bersumber dari kisah tradisional Betawi.\n\n#UlikSilam #sejarahindonesia #sipitung #betawi #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 6,
+    "totalKata": 313,
+    "kataPerBabak": {
+      "1": 59,
+      "2": 56,
+      "3": 58,
+      "4": 61,
+      "5": 37,
+      "6": 42
+    },
+    "karakterPerBabak": {
+      "1": 490,
+      "2": 478,
+      "3": 477,
+      "4": 532,
+      "5": 328,
+      "6": 347
+    },
+    "jedaBunyi": 8,
+    "perkiraanDetik130": {
+      "narasi": 164.4,
+      "denganMerek": 169.4
+    },
+    "perkiraanDetik135": {
+      "narasi": 159,
+      "denganMerek": 164
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

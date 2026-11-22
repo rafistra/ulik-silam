@@ -1,0 +1,514 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-30T23:32:31.450Z",
+  "judulDokumen": "Qusyairi, Masa Kecil Abah Guru Sekumpul",
+  "judul": "POV: Masa Kecil Abah Guru Sekumpul",
+  "slug": "pov-qusyairi-martapura",
+  "versi": "v1 · 2026-10-31",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Martapura",
+  "durasiMaksDetik": 120,
+  "durasiTargetDetik": 110,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Qusyairi (tokoh nyata), nama kecil KH Muhammad Zaini Abdul Ghani (Abah Guru Sekumpul), 7 tahun, anak sulung keluarga sederhana di Martapura",
+  "ringkasan": {
+    "Judul": "POV: Masa Kecil Abah Guru Sekumpul",
+    "Slug": "pov-qusyairi-martapura",
+    "Durasi": "2:00 maksimum, target ±1:50 (pengecualian dari rentang 2:00–3:00; naskah ±1:47)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Qusyairi (tokoh nyata), nama kecil KH Muhammad Zaini Abdul Ghani (Abah Guru Sekumpul), 7 tahun, anak sulung keluarga sederhana di Martapura",
+    "Jumlah ilustrasi": "13 (12 adegan + 1 lembar karakter: Qusyairi)",
+    "Lapisan": "Sejarah",
+    "Latar": "Martapura",
+    "Premis": "Satu hari seorang bocah dari keluarga buruh penggosok intan, yang berangkat mengaji membawa sebotol minyak tanah untuk gurunya.",
+    "Benang merah": "Minyak tanah: dihemat di rumah sendiri, tetapi diberikan utuh kepada guru",
+    "Nada": "Sederhana, hangat, khidmat; reflektif di epilog",
+    "Asumsi": "Satu hari rekaan pada 1949 (usia 7 dihitung dari tahun lahir); wajah Qusyairi sebisa mungkin tak tampak (bidikan orang pertama atau dari belakang); guru di adegan 6 tidak dinamai",
+    "Hubungan seri": "Bisa menjadi pembuka trilogi Sekumpul bersama pov-jamaah-sekumpul dan pov-santri-guru-zuhdi",
+    "Versi": "v1 · 2026-10-31"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Subuh di Martapura",
+      "suasana": "Tenang, sederhana",
+      "palet": "Biru fajar tua, cokelat kayu lapuk, kuning pelita",
+      "cahaya": "Pelita kecil sebelum fajar"
+    },
+    {
+      "babak": 2,
+      "nama": "Sebotol minyak tanah",
+      "suasana": "Hati-hati, khidmat",
+      "palet": "Abu-abu kabut pagi, cokelat tanah basah, hijau daun",
+      "cahaya": "Matahari pagi yang rendah dan lembut"
+    },
+    {
+      "babak": 3,
+      "nama": "Huruf demi huruf",
+      "suasana": "Tekun, ingin tahu",
+      "palet": "Cokelat madu papan kayu, emas sore",
+      "cahaya": "Cahaya sore dari jendela"
+    },
+    {
+      "babak": 4,
+      "nama": "Lampu yang dihemat",
+      "suasana": "Hangat, lalu reflektif",
+      "palet": "Biru malam dan satu cahaya pelita; epilog putih dan emas fajar",
+      "cahaya": "Pelita yang diredupkan; fajar di epilog"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Subuh di Martapura",
+    "2": "Sebotol minyak tanah",
+    "3": "Huruf demi huruf",
+    "4": "Lampu yang dihemat"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Subuh di Martapura",
+      "waktu": "0:02–0:10",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Subuh, di dalam rumah panggung kayu sederhana; tangan kecil \"kamu\" melipat sajadah lusuh di lantai papan, cahaya pelita kuning dari sudut, langit biru tua di celah dinding.",
+      "narasiSuara": "[calm] Subuh di Martapura, azan baru saja selesai. [curious] Kamu tujuh tahun, anak sulung, dan orang-orang memanggilmu Qusyairi.",
+      "narasi": "Subuh di Martapura, azan baru saja selesai. Kamu tujuh tahun, anak sulung, dan orang-orang memanggilmu Qusyairi.",
+      "teksLayar": [
+        "Martapura, 1949."
+      ],
+      "suara": "Sisa azan dari kejauhan, ayam berkokok",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Subuh di Martapura",
+      "waktu": "0:10–0:20",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ayah duduk bersila di beranda, menggosok sebutir batu intan pada batu asah kecil di bawah cahaya pelita, dahi berkerut tekun; \"kamu\" tampak dari belakang, memperhatikan di ambang pintu.",
+      "narasiSuara": "[serious] Ayahmu sudah duduk menggosok batu intan di bawah cahaya pelita. [calm] Intan itu milik orang lain. [sad] Upahnya tak pernah benar-benar cukup.",
+      "narasi": "Ayahmu sudah duduk menggosok batu intan di bawah cahaya pelita. Intan itu milik orang lain. Upahnya tak pernah benar-benar cukup.",
+      "teksLayar": [],
+      "suara": "Gesekan batu, berulang",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Subuh di Martapura",
+      "waktu": "0:20–0:30",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Di atas tikar purun, sepiring kecil nasi dengan sepotong ikan; tangan \"kamu\" membagi ikan itu menjadi dua dan menyodorkan separuhnya ke piring ibu; ibu tersenyum tipis.",
+      "narasiSuara": "[calm] Sarapan pagi ini sedikit, nasi dengan sepotong kecil ikan. [serious] Tapi orang tuamu selalu mengajarkan: yang sedikit pun harus dibagi.",
+      "narasi": "Sarapan pagi ini sedikit, nasi dengan sepotong kecil ikan. Tapi orang tuamu selalu mengajarkan: yang sedikit pun harus dibagi.",
+      "teksLayar": [],
+      "suara": "Denting piring seng",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Sebotol minyak tanah",
+      "waktu": "0:30–0:38",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Di ambang pintu, tangan ayah yang kasar menyerahkan sebotol kaca berisi minyak tanah ke kedua tangan kecil \"kamu\"; wajah ayah teduh, menatap \"kamu\".",
+      "narasiSuara": "[serious] Sebelum berangkat, ayahmu menyerahkan sebotol minyak tanah. [curious] Bukan untuk lampu rumahmu. [calm] Untuk gurumu, sebagai tanda hormat.",
+      "narasi": "Sebelum berangkat, ayahmu menyerahkan sebotol minyak tanah. Bukan untuk lampu rumahmu. Untuk gurumu, sebagai tanda hormat.",
+      "teksLayar": [],
+      "suara": "Botol kaca beradu pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Sebotol minyak tanah",
+      "waktu": "0:38–0:47",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi berkabut tipis; \"kamu\" tampak dari belakang, bocah berpeci putih dan sarung, berjalan di jalan tanah becek di antara rumah-rumah panggung Kampung Keraton, botol didekap di dada; sungai Martapura di kejauhan.",
+      "narasiSuara": "[calm] Kamu berjalan menyusuri Kampung Keraton, botol itu didekap di dada. [nervous] Jalanan masih licin. [nervous] Jangan sampai tumpah.",
+      "narasi": "Kamu berjalan menyusuri Kampung Keraton, botol itu didekap di dada. Jalanan masih licin. Jangan sampai tumpah.",
+      "teksLayar": [],
+      "suara": "Langkah kecil di tanah basah, burung pagi",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Sebotol minyak tanah",
+      "waktu": "0:47–0:55",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Kedua tangan kecil \"kamu\" mengulurkan botol minyak tanah kepada tangan tua seorang guru berbaju putih dan berkopiah; wajah guru tidak tampak jelas, hanya senyumnya.",
+      "narasiSuara": "[whispers] Di depan gurumu, kamu menyerahkannya dengan kedua tangan... [calm] lalu mencium tangannya.",
+      "narasi": "Di depan gurumu, kamu menyerahkannya dengan kedua tangan... lalu mencium tangannya.",
+      "teksLayar": [],
+      "suara": "Hening",
+      "hening": true,
+      "epilog": false,
+      "kata": 11
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Huruf demi huruf",
+      "waktu": "0:55–1:04",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ruang belajar sederhana berlantai papan; anak-anak bersila di depan meja rendah (rehal), membaca kitab; \"kamu\" dari samping belakang, telunjuk menyusuri huruf Arab.",
+      "narasiSuara": "[calm] Kamu duduk bersila bersama anak-anak kampung. [serious] Huruf demi huruf, kamu mengaji. [curious] Ada begitu banyak yang ingin kamu tahu.",
+      "narasi": "Kamu duduk bersila bersama anak-anak kampung. Huruf demi huruf, kamu mengaji. Ada begitu banyak yang ingin kamu tahu.",
+      "teksLayar": [],
+      "suara": "Suara mengaji anak-anak, bergantian",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Huruf demi huruf",
+      "waktu": "1:04–1:12",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sore di beranda; seorang lelaki dewasa berjubah dan berserban (paman, Guru Semman) duduk membimbing \"kamu\" membaca, tangan menunjuk halaman kitab; \"kamu\" tampak dari belakang.",
+      "narasiSuara": "[calm] Pamanmu, Guru Semman, juga membimbingmu. [curious] Kelak, ia membawamu menemui para ulama di Kalimantan, sampai ke Jawa.",
+      "narasi": "Pamanmu, Guru Semman, juga membimbingmu. Kelak, ia membawamu menemui para ulama di Kalimantan, sampai ke Jawa.",
+      "teksLayar": [],
+      "suara": "Angin sore, kitab dibalik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "Lampu yang dihemat",
+      "waktu": "1:12–1:21",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam; \"kamu\" berbaring di tikar, tangan kecil memegang ujung selimut kain; nenek Salbiyah duduk di sebelah, bercerita dengan tangan bergerak pelan, pelita kecil menyala redup.",
+      "narasiSuara": "[calm] Malamnya, nenekmu Salbiyah bercerita sebelum kamu tidur, seperti setiap malam. [whispers] Lampu di rumahmu menyala kecil, minyaknya dihemat.",
+      "narasi": "Malamnya, nenekmu Salbiyah bercerita sebelum kamu tidur, seperti setiap malam. Lampu di rumahmu menyala kecil, minyaknya dihemat.",
+      "teksLayar": [],
+      "suara": "Jangkrik, suara nenek samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Lampu yang dihemat",
+      "waktu": "1:21–1:29",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Close-up pelita kaca yang apinya dikecilkan; tangan ibu memutar sumbunya turun; bayang-bayang keluarga di dinding papan.",
+      "narasiSuara": "[sad] Di rumah ini, minyak tanah pun harus dihitung. [calm] Tapi untuk guru, orang tuamu tak pernah berhitung.",
+      "narasi": "Di rumah ini, minyak tanah pun harus dihitung. Tapi untuk guru, orang tuamu tak pernah berhitung.",
+      "teksLayar": [],
+      "suara": "Api pelita berdesis kecil",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Lampu yang dihemat",
+      "waktu": "1:29–1:37",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Bayang-bayang seorang lelaki dewasa berjubah putih duduk di majelis, tampak dari belakang, di depan jamaah yang memenuhi ruangan; tak ada wajah yang terlihat.",
+      "narasiSuara": "[serious] Kelak, namamu berganti menjadi Muhammad Zaini. [calm] Puluhan tahun kemudian, orang-orang memanggilmu Abah Guru Sekumpul.",
+      "narasi": "Kelak, namamu berganti menjadi Muhammad Zaini. Puluhan tahun kemudian, orang-orang memanggilmu Abah Guru Sekumpul.",
+      "teksLayar": [],
+      "suara": "Lantunan shalawat samar",
+      "hening": false,
+      "epilog": true,
+      "kata": 14
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Lampu yang dihemat",
+      "waktu": "1:37–1:44",
+      "durasiCadangan": 7,
+      "bidikan": "B",
+      "visual": "Jalan menuju Sekumpul dipenuhi lautan jamaah berpakaian putih di bawah langit fajar; di latar depan, sebotol minyak tanah kecil di atas tikar purun.",
+      "narasiSuara": "[calm] Setiap haulnya, jutaan orang datang ke Martapura. [whispers] Dan mungkin, semuanya berawal dari sebotol minyak tanah.",
+      "narasi": "Setiap haulnya, jutaan orang datang ke Martapura. Dan mungkin, semuanya berawal dari sebotol minyak tanah.",
+      "teksLayar": [],
+      "suara": "Riuh lembut jamaah, memudar",
+      "hening": false,
+      "epilog": true,
+      "kata": 15
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Qusyairi",
+      "prompt": "Character reference sheet of Qusyairi. Qusyairi, a seven-year-old Banjar boy from a poor family in Martapura, South Kalimantan, around 1949. Small and slender for his age, warm light-brown skin, a gentle round face, calm attentive dark eyes, short black hair mostly covered by a plain white cotton kopiah skullcap. A plain off-white belacu cotton long-sleeved shirt, buttoned, slightly too big and frayed at the cuffs, over a faded brown-and-dark-green checked tapih kaling sarong reaching his shins; barefoot. His hands are small and thin, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. Quiet, careful movements, often holding things close to his chest with both hands.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait with a soft, modest expression, one detail panel of the kopiah, shirt cuffs and checked sarong, and one first-person panel showing only his two small hands and forearms raised to chest height from the bottom of the frame as he would see them, holding a small glass bottle.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate everyday clothing of a poor Banjar village boy around 1949.\nAvoid halo, idealized or adult features, batik, modern clothing, sandals with logos, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:10",
+      "narasi": "Subuh di Martapura, azan baru saja selesai. Kamu tujuh tahun, anak sulung, dan orang-orang memanggilmu Qusyairi.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nMedium shot at a slightly high angle inside a modest Banjar wooden stilt house before dawn: worn plank floor, plank walls with thin gaps showing deep blue sky, a small glass oil lamp burning in the corner.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. Both small hands fold a faded prayer mat on the plank floor, the left hand smoothing its edge, the right hand turning it over.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep dawn blue, weathered wood brown and the amber glow of a small oil lamp, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:20",
+      "narasi": "Ayahmu sudah duduk menggosok batu intan di bawah cahaya pelita. Intan itu milik orang lain. Upahnya tak pernah benar-benar cukup.",
+      "prompt": "Same character as the Qusyairi reference image.\nMedium-wide shot at eye level on the narrow front veranda of the stilt house at dawn, the small oil lamp on the floor beside a low wooden stool.\nIn the foreground, Qusyairi stands in the doorway seen from behind, one hand resting on the door frame, watching. The boy's father, a lean Banjar man in his thirties with a thin moustache, sun-darkened skin and work-roughened hands, in a black peci, a plain faded grey belacu shirt and a dark checked sarong; he is a different person from Qusyairi; he sits cross-legged, bent forward with brows knitted in concentration, rubbing a tiny rough gemstone against a small flat whetstone wet with water, eyes fixed on the stone.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep dawn blue, weathered wood brown and the amber glow of a small oil lamp, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, the boy's face, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:20–0:30",
+      "narasi": "Sarapan pagi ini sedikit, nasi dengan sepotong kecil ikan. Tapi orang tuamu selalu mengajarkan: yang sedikit pun harus dibagi.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nClose shot at a slightly high angle of a woven purun mat on the plank floor in early morning light.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. A small enamel plate with a mound of white rice and one small piece of fried fish; the right hand breaks the fish in two and pushes half onto a second plate held out by a woman's hand, the left hand steadies the plate.\nAcross the mat, the boy's mother, a slim Banjar woman in her late twenties in a plain light floral kebaya-style blouse, a long dark tapih bahalai wrap and a simple pale cloth draped loosely over her hair, smiles softly while looking down at the plates, not at the viewer; she is a different person from Qusyairi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep dawn blue, weathered wood brown and the amber glow of a small oil lamp, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:38",
+      "narasi": "Sebelum berangkat, ayahmu menyerahkan sebotol minyak tanah. Bukan untuk lampu rumahmu. Untuk gurumu, sebagai tanda hormat.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nMedium close shot at eye level in the open doorway of the stilt house, soft morning light behind.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. Both small hands reach up and receive a small clear glass bottle filled with kerosene, sealed with a rolled cloth stopper, from a pair of large work-roughened hands.\nThe giver is the boy's father, a lean Banjar man in his thirties with a thin moustache, sun-darkened skin and work-roughened hands, in a black peci, a plain faded grey belacu shirt and a dark checked sarong; he is a different person from Qusyairi; he bends slightly toward the viewer and looks straight at the viewer with calm, gentle eyes and a faint encouraging smile.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft earthy palette of misty morning grey, wet earth brown and fresh leaf green with warm low sunlight, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:38–0:47",
+      "narasi": "Kamu berjalan menyusuri Kampung Keraton, botol itu didekap di dada. Jalanan masih licin. Jangan sampai tumpah.",
+      "prompt": "Same character as the Qusyairi reference image.\nMedium-wide shot from behind at eye level on a muddy dirt path between weathered wooden stilt houses of a Martapura village in thin morning mist, puddles reflecting the sky, a river glimpsed between the houses.\nQusyairi walks away from the viewer mid-step, seen fully from behind, hugging the small glass bottle to his chest with both arms, shoulders hunched carefully, bare feet stepping around a puddle. A woman hanging cloth on a veranda and an old man sweeping glance at him kindly; they are different people from Qusyairi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft earthy palette of misty morning grey, wet earth brown and fresh leaf green with warm low sunlight, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, the boy's face, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:55",
+      "narasi": "Di depan gurumu, kamu menyerahkannya dengan kedua tangan... lalu mencium tangannya.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nClose shot at eye level on the veranda of a teacher's wooden house, warm morning light, the room behind softly blurred.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. Both small hands hold out the glass bottle of kerosene with great care, offered upward, fingers wrapped around it.\nAn elderly teacher's weathered hands, in the white sleeves of a plain cotton robe, reach to receive it; only his chest, white beard and a gentle smile under a white kopiah are visible at the top edge of the frame, eyes out of view. He is a different person from Qusyairi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft earthy palette of misty morning grey, wet earth brown and fresh leaf green with warm low sunlight, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:55–1:04",
+      "narasi": "Kamu duduk bersila bersama anak-anak kampung. Huruf demi huruf, kamu mengaji. Ada begitu banyak yang ingin kamu tahu.",
+      "prompt": "Same character as the Qusyairi reference image.\nMedium shot from behind and slightly to the side at eye level inside a simple wooden study room with a plank floor, afternoon light through a window.\nA row of village boys in kopiah sit cross-legged behind low wooden book rests, reading aloud from open books with Arabic script drawn as unreadable strokes. Qusyairi sits among them, seen from behind and in partial profile with his face turned to the page, his small index finger tracing the lines. The other boys are different people from Qusyairi: varied ages, faces and faded sarongs.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of honey-brown wooden planks and soft afternoon gold, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, clear frontal view of the boy's face, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:04–1:12",
+      "narasi": "Pamanmu, Guru Semman, juga membimbingmu. Kelak, ia membawamu menemui para ulama di Kalimantan, sampai ke Jawa.",
+      "prompt": "Same character as the Qusyairi reference image.\nMedium shot at eye level on the veranda of a wooden house in late afternoon, golden light.\nA Banjar man in his forties, Qusyairi's uncle, in a long white robe and a white turban wrapped around a kopiah, with a short dark beard, sits cross-legged and points to a line in an open book on a low book rest, looking down at the page with patient eyes. Qusyairi sits facing him, seen from behind, head bowed over the book. The uncle is a different person from Qusyairi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of honey-brown wooden planks and soft afternoon gold, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, the boy's face, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:12–1:21",
+      "narasi": "Malamnya, nenekmu Salbiyah bercerita sebelum kamu tidur, seperti setiap malam. Lampu di rumahmu menyala kecil, minyaknya dihemat.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nClose shot at eye level from the floor inside the stilt house at night, a small oil lamp with a low flame the only light.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. Lying on a woven mat, the small hands hold the edge of a thin faded cloth blanket up to the chin.\nBeside the viewer sits his grandmother Salbiyah, a small elderly Banjar woman with deep wrinkles, in a faded dark kebaya-style blouse and tapih bahalai with a pale cloth draped loosely over her grey hair; she leans close, one hand raised mid-gesture as she tells a story, eyes soft and smiling, looking down at the viewer. She is a different person from Qusyairi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of night blue and a single amber oil-lamp glow, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:21–1:29",
+      "narasi": "Di rumah ini, minyak tanah pun harus dihitung. Tapi untuk guru, orang tuamu tak pernah berhitung.",
+      "prompt": "The viewer is Qusyairi: the hands and forearms in the foreground match the first-person panel of the Qusyairi reference image.\nClose shot at eye level of a small glass oil lamp on a plank floor at night, family shadows stretched on the plank wall behind.\nFirst-person point of view. Small thin hands of a seven-year-old Banjar boy, warm light-brown skin, short clean nails, slightly chapped knuckles, no rings or bracelets; forearms covered by the loose sleeves of a plain off-white belacu cotton long-sleeved shirt with slightly frayed cuffs. The left hand rests on the edge of the mat in the lower corner of the frame.\nA woman's slender hand, the mother's, turns the small brass wick knob of the lamp down; the flame shrinks to a small steady glow.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of night blue and a single amber oil-lamp glow, historically accurate Martapura, South Kalimantan, around 1949: modest Banjar stilt houses of weathered wooden planks with thatched or wooden-shingle roofs, plank floors, woven purun mats.\nAvoid characters looking at the camera, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:29–1:37",
+      "narasi": "Kelak, namamu berganti menjadi Muhammad Zaini. Puluhan tahun kemudian, orang-orang memanggilmu Abah Guru Sekumpul.",
+      "prompt": "Wide shot at eye level inside a large modest prayer hall, seen from the back of the hall, warm soft light.\nAt the far front, a man in a long white robe and white turban sits cross-legged facing a large seated congregation, seen only from behind and far away, his face never visible. Hundreds of men in white kopiah and plain shirts sit in rows, all facing forward, backs to the viewer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of white robes, warm wood and gentle dawn gold, historically accurate Martapura, South Kalimantan, in the 1990s: a large plain prayer hall with a wooden floor.\nAvoid characters looking at the camera, faces of the man at the front, portraits, halo, glowing light around anyone's head, angelic or miraculous effects, modern clothing, plastic objects, electric lights, concrete houses, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:37–1:44",
+      "narasi": "Setiap haulnya, jutaan orang datang ke Martapura. Dan mungkin, semuanya berawal dari sebotol minyak tanah.",
+      "prompt": "Wide shot from a slightly high angle at dawn over a crowded road in Martapura, a vast sea of pilgrims in white clothes walking in one direction toward a distant domed prayer hall, golden dawn sky.\nIn the foreground, resting on a woven purun mat at the bottom edge of the frame, a small glass bottle of kerosene with a rolled cloth stopper catches the dawn light. The pilgrims are seen from behind or far away, faces small and indistinct.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft palette of white clothing and golden dawn light, present-day Martapura, South Kalimantan, during the annual haul.\nAvoid characters looking at the camera, modern cars dominating the scene, banners with readable text, halo, glowing light around anyone's head, angelic or miraculous effects, plastic objects, Middle Eastern desert scenery, background figures copying Qusyairi's face or outfit, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice dewasa yang lembut dan hangat, seperti orang tua yang bercerita; hindari voice yang dramatis atau berat. Voice paling menentukan, tag tidak bisa memaksa voice yang keras menjadi lembut.\n\n- Babak 1: tenang, pelan, hangat.\n- Babak 2: sedikit menahan napas di \"Jangan sampai tumpah\"; berbisik dan jeda panjang di adegan 6.\n- Babak 3: ringan, ada rasa ingin tahu.\n- Babak 4: pelan dan lembut; kalimat terakhir berbisik.",
+    "arahanBabak": {
+      "1": "tenang, pelan, hangat.",
+      "2": "sedikit menahan napas di \"Jangan sampai tumpah\"; berbisik dan jeda panjang di adegan 6.",
+      "3": "ringan, ada rasa ingin tahu.",
+      "4": "pelan dan lembut; kalimat terakhir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Subuh di Martapura, azan baru saja selesai. [curious] Kamu tujuh tahun, anak sulung, dan orang-orang memanggilmu Qusyairi...\n\n[serious] Ayahmu sudah duduk menggosok batu intan di bawah cahaya pelita. [calm] Intan itu milik orang lain. [sad] Upahnya tak pernah benar-benar cukup...\n\n[calm] Sarapan pagi ini sedikit, nasi dengan sepotong kecil ikan. [serious] Tapi orang tuamu selalu mengajarkan: yang sedikit pun harus dibagi...",
+    "2": "[serious] Sebelum berangkat, ayahmu menyerahkan sebotol minyak tanah. [curious] Bukan untuk lampu rumahmu. [calm] Untuk gurumu, sebagai tanda hormat...\n\n[calm] Kamu berjalan menyusuri Kampung Keraton, botol itu didekap di dada. [nervous] Jalanan masih licin. [nervous] Jangan sampai tumpah...\n\n[whispers] Di depan gurumu, kamu menyerahkannya dengan kedua tangan... [calm] lalu mencium tangannya...",
+    "3": "[calm] Kamu duduk bersila bersama anak-anak kampung. [serious] Huruf demi huruf, kamu mengaji. [curious] Ada begitu banyak yang ingin kamu tahu...\n\n[calm] Pamanmu, Guru Semman, juga membimbingmu. [curious] Kelak, ia membawamu menemui para ulama di Kalimantan, sampai ke Jawa...",
+    "4": "[calm] Malamnya, nenekmu Salbiyah bercerita sebelum kamu tidur, seperti setiap malam. [whispers] Lampu di rumahmu menyala kecil, minyaknya dihemat...\n\n[sad] Di rumah ini, minyak tanah pun harus dihitung. [calm] Tapi untuk guru, orang tuamu tak pernah berhitung...\n\n[serious] Kelak, namamu berganti menjadi Muhammad Zaini. [calm] Puluhan tahun kemudian, orang-orang memanggilmu Abah Guru Sekumpul...\n\n[calm] Setiap haulnya, jutaan orang datang ke Martapura. [whispers] Dan mungkin, semuanya berawal dari sebotol minyak tanah..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Subuh dan botol",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:00",
+      "suasana": "Tenang, sederhana, hati-hati",
+      "style": "Gentle Malay-Indonesian folk ambient with a soft plucked lute (panting/gambus style), light frame drum heartbeat and morning birds, calm, humble and tender, starts sparse at dawn and grows slightly warmer, about 60 seconds long (1:00), with a clear ending, 72 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, chant, EDM, epic orchestra"
+    },
+    {
+      "nomor": 2,
+      "nama": "Huruf demi huruf",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:25",
+      "suasana": "Ringan, ingin tahu",
+      "style": "Light and curious acoustic piece, plucked lute and soft wooden percussion with a playful gentle rhythm, warm afternoon feeling, about 25 seconds long (0:25), with a clear ending, 84 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, chant, drums kit, EDM"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pelita",
+      "babakAwal": 4,
+      "babakAkhir": 4,
+      "durasiTarget": "0:40",
+      "suasana": "Hangat, haru, terbuka di akhir",
+      "style": "Tender emotional acoustic lullaby, slow plucked lute and soft strings, a quiet frame drum entering near the end for a warm, open, hopeful swell that fades gently, about 40 seconds long (0:40), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, chant, triumphant brass, EDM"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Ayam berkokok dan sisa azan jauh",
+      "kataKunci": "rooster dawn village",
+      "prompt": "Rooster crowing at dawn in a tropical village, distant echo, quiet"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Batu digosok di batu asah basah",
+      "kataKunci": "stone grinding whetstone",
+      "prompt": "Small stone rubbed slowly on a wet whetstone, steady rhythm, close"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Denting piring seng",
+      "kataKunci": "enamel plate",
+      "prompt": "Soft clink of a small enamel plate on a woven mat"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Botol kaca diserahkan",
+      "kataKunci": "glass bottle handling",
+      "prompt": "Small glass bottle handed over, faint liquid slosh"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Langkah kecil di tanah becek dan burung pagi",
+      "kataKunci": "footsteps mud birds",
+      "prompt": "Small bare feet stepping on wet mud, morning birds"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Anak-anak mengaji bersahutan, samar",
+      "kataKunci": "children reciting classroom",
+      "prompt": "Distant group of children reciting softly, unintelligible, wooden room"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Angin sore dan halaman kitab dibalik",
+      "kataKunci": "page turn breeze",
+      "prompt": "Old book page turned, light breeze through wooden veranda"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Jangkrik malam",
+      "kataKunci": "crickets night",
+      "prompt": "Crickets at night outside a wooden house, soft"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Api pelita berdesis kecil",
+      "kataKunci": "oil lamp flame",
+      "prompt": "Tiny oil lamp flame flicker and soft hiss"
+    },
+    {
+      "nomor": 10,
+      "adegan": 12,
+      "bunyi": "Riuh lembut kerumunan, memudar",
+      "kataKunci": "crowd ambience distant",
+      "prompt": "Huge distant crowd at dawn, soft murmur, fading"
+    }
+  ],
+  "adeganHening": [
+    6
+  ],
+  "ulikan": {
+    "teks": "Pada haul ke-20 tahun 2025, lebih dari 32 ribu relawan melayani jamaah.",
+    "sumber": "NU Online (data posko induk Ar-Raudah)",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Masa Kecil Abah Guru Sekumpul",
+      "catatan": "Alternatif judul: POV: Kamu Qusyairi, Bocah Martapura Tahun 1949 / POV: Kamu Abah Guru Sekumpul Kecil, Martapura 1949 / POV: Kamu Bocah yang Kelak Jadi Abah Guru Sekumpul",
+      "caption": "Ayahnya penggosok intan. Tiap mengaji, ia membawa sebotol minyak tanah untuk gurunya.\n\nQusyairi adalah nama kecil KH Muhammad Zaini Abdul Ghani, Abah Guru Sekumpul, yang lahir di Martapura pada 1942. Pamannya, Guru Semman, kelak membawanya menemui para ulama sampai ke Jawa.\n\nSiapa guru yang paling kamu hormati sampai hari ini?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online; iNews.\n\n#UlikSilam #sejarahindonesia #gurusekumpul #martapura #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Masa Kecil Abah Guru Sekumpul",
+      "catatan": "",
+      "caption": "Ayahnya penggosok intan. Tiap mengaji, ia membawa sebotol minyak tanah untuk gurunya.\n\nQusyairi adalah nama kecil KH Muhammad Zaini Abdul Ghani, Abah Guru Sekumpul, yang lahir di Martapura pada 1942. Pamannya, Guru Semman, kelak membawanya menemui para ulama sampai ke Jawa.\n\nSiapa guru yang paling kamu hormati sampai hari ini?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online; iNews.\n\n#UlikSilam #sejarahindonesia #gurusekumpul #martapura #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 12,
+    "jumlahBabak": 4,
+    "totalKata": 194,
+    "kataPerBabak": {
+      "1": 55,
+      "2": 43,
+      "3": 34,
+      "4": 62
+    },
+    "karakterPerBabak": {
+      "1": 437,
+      "2": 400,
+      "3": 279,
+      "4": 530
+    },
+    "jedaBunyi": 1,
+    "perkiraanDetik130": {
+      "narasi": 102.3,
+      "denganMerek": 107.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 99,
+      "denganMerek": 104
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

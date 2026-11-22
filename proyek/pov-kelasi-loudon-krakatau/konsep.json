@@ -1,0 +1,675 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-04T23:00:44.430Z",
+  "judulDokumen": "Kelasi Kapal Loudon, Krakatau 1883",
+  "judul": "POV: Kamu Kelasi Kapal Loudon, Krakatau 1883",
+  "slug": "pov-kelasi-loudon-krakatau",
+  "versi": "v2 · 2026-11-05",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Selat Sunda",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "Kelasi pribumi (fiktif), ±22 tahun, di kapal uap Gouverneur Generaal Loudon; ikut pelayaran wisata Mei 1883 dan pelayaran 26–27 Agustus 1883",
+  "ringkasan": {
+    "Judul": "POV: Kamu Kelasi Kapal Loudon, Krakatau 1883",
+    "Slug": "pov-kelasi-loudon-krakatau",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:46, ±2:51 dengan elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "Kelasi pribumi (fiktif), ±22 tahun, di kapal uap Gouverneur Generaal Loudon; ikut pelayaran wisata Mei 1883 dan pelayaran 26–27 Agustus 1883",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter)",
+    "Lapisan": "Sejarah",
+    "Latar": "Selat Sunda",
+    "Premis": "Kelasi yang tiga bulan sebelumnya mendayung turis piknik ke Krakatau selamat dari tsunami dan siang yang berubah malam di atas kapal yang sama.",
+    "Benang merah": "Kapal yang sama: dari piknik ke gunung api, ke gelombang yang menelan kota.",
+    "Dipilih karena": "Dari brainstorming topik berpotensi banyak view: Krakatau dikenal luas, twist piknik-ke-bencana kuat di 3 detik pertama, dan log nakhoda memberi jam demi jam. Posisi 1, alur A (sebelum dan sesudah), akhir 2 (Anak Krakatau) disetujui Rafi.",
+    "Asumsi": "Susunan awak Loudon tidak tercatat, jadi kelasi pribumi adalah tafsir; durasi default 3:00; Nakhoda Lindeman ditulis dengan ejaan \"Lindeman\".",
+    "Versi": "v2 · 2026-11-05"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Piknik ke gunung api",
+      "suasana": "Riang tapi ganjil",
+      "palet": "Biru-hijau laut redup, abu kelabu, pasir hangat",
+      "cahaya": "Siang tropis terang"
+    },
+    {
+      "babak": 2,
+      "nama": "Anyer",
+      "suasana": "Gelisah lalu menegang",
+      "palet": "Emas berkabut, awan putih; malam biru-hitam dengan lampu kota amber",
+      "cahaya": "Siang berkabut; malam"
+    },
+    {
+      "babak": 3,
+      "nama": "Gelombang",
+      "suasana": "Ngeri dan dahsyat",
+      "palet": "Abu dingin, hijau batu, buih putih",
+      "cahaya": "Fajar kelabu di bawah langit timah"
+    },
+    {
+      "babak": 4,
+      "nama": "Siang menjadi malam",
+      "suasana": "Mencekam",
+      "palet": "Abu kelabu ke hitam pekat, amber lentera, putih kilat",
+      "cahaya": "Satu lentera; kilat"
+    },
+    {
+      "babak": 5,
+      "nama": "Kelabu",
+      "suasana": "Sunyi dan hampa",
+      "palet": "Kelabu timah, cahaya pucat",
+      "cahaya": "Cahaya pucat yang kembali"
+    },
+    {
+      "babak": 6,
+      "nama": "Gunung yang belum selesai",
+      "suasana": "Reflektif lalu waspada",
+      "palet": "Laut kelabu; merah-jingga senja; biru-abu senja",
+      "cahaya": "Mendung; senja menyala; senja hangat"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Piknik ke gunung api",
+    "2": "Anyer",
+    "3": "Gelombang",
+    "4": "Siang menjadi malam",
+    "5": "Kelabu",
+    "6": "Gunung yang belum selesai"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Piknik ke gunung api",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Siang terik di Selat Sunda. Kedua tangan \"kamu\" menarik dayung sekoci kayu yang penuh penumpang Eropa berpayung putih; di depan, pulau Krakatau dengan kawah yang mengepulkan asap kelabu.",
+      "narasiSuara": "[curious] Tiga bulan sebelum kiamat itu, kamu mendayung orang-orang kaya ke kaki gunungnya. [calm] Mereka menyebutnya piknik.",
+      "narasi": "Tiga bulan sebelum kiamat itu, kamu mendayung orang-orang kaya ke kaki gunungnya. Mereka menyebutnya piknik.",
+      "teksLayar": [
+        "Selat Sunda, 27 Mei 1883."
+      ],
+      "suara": "Dayung membelah air, obrolan penumpang, gemuruh rendah gunung",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Piknik ke gunung api",
+      "waktu": "0:08–0:19",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Pantai abu kelabu di kaki kawah yang berasap. Penumpang Eropa berjas putih dan bergaun panjang berjalan ke arah kawah, seorang lelaki memasang kamera bertripod; \"kamu\" berjaga di samping sekoci yang ditarik ke pantai, menatap asap dengan cemas.",
+      "narasiSuara": "[curious] Hampir sembilan puluh penumpang dari Batavia datang untuk melihat Krakatau yang baru terbangun. [calm] Ada yang memotret, ada yang mendaki ke arah kawah.",
+      "narasi": "Hampir sembilan puluh penumpang dari Batavia datang untuk melihat Krakatau yang baru terbangun. Ada yang memotret, ada yang mendaki ke arah kawah.",
+      "teksLayar": [],
+      "suara": "Desis uap, langkah di pasir abu, tawa samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Piknik ke gunung api",
+      "waktu": "0:19–0:27",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan kanan \"kamu\" memegang sebelah sepatu kulit penumpang yang solnya meleleh dan berasap tipis; tangan kiri menahan sekoci. Penumpang perempuan di dekatnya mengangkat ujung gaunnya dari tanah panas.",
+      "narasiSuara": "[tense] Tanahnya panas. [curious] Konon, sol sepatu sebagian penumpang sampai meleleh. [sad] Kamu belum tahu, gunung itu baru pemanasan.",
+      "narasi": "Tanahnya panas. Konon, sol sepatu sebagian penumpang sampai meleleh. Kamu belum tahu, gunung itu baru pemanasan.",
+      "teksLayar": [],
+      "suara": "Desis uap, peluit kapal di kejauhan",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Anyer",
+      "waktu": "0:27–0:39",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Pelabuhan Anyer, siang 26 Agustus. Kapal uap Loudon berlabuh; kuli memanggul karung naik tangga kapal; di cakrawala barat, awan putih membubung tinggi dari arah Krakatau. \"Kamu\" di geladak menoleh ke awan itu.",
+      "narasiSuara": "[calm] Tiga bulan kemudian, Loudon singgah di Anyer, memuat penumpang dan kuli. [tense] Siang itu, dentuman terdengar dari arah Krakatau, dan awan putih membubung tinggi.",
+      "narasi": "Tiga bulan kemudian, Loudon singgah di Anyer, memuat penumpang dan kuli. Siang itu, dentuman terdengar dari arah Krakatau, dan awan putih membubung tinggi.",
+      "teksLayar": [
+        "Anyer, 26 Agustus 1883."
+      ],
+      "suara": "Dentuman jauh, teriakan kuli, desis cerobong",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Anyer",
+      "waktu": "0:39–0:48",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Di sisi kapal. Kedua tangan \"kamu\" mencengkeram pagar geladak, menatap ke bawah: air laut di sisi kapal naik dan turun tak beraturan. Di anjungan, Nakhoda Lindeman menunjuk ke utara.",
+      "narasiSuara": "[nervous] Air laut naik turun tak beraturan. [serious] Pukul tiga kurang seperempat, Nakhoda Lindeman memerintahkan kapal berangkat ke Teluk Betung.",
+      "narasi": "Air laut naik turun tak beraturan. Pukul tiga kurang seperempat, Nakhoda Lindeman memerintahkan kapal berangkat ke Teluk Betung.",
+      "teksLayar": [],
+      "suara": "Air menampar lambung kapal, lonceng kapal",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Anyer",
+      "waktu": "0:48–0:57",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Malam di perairan Teluk Betung. Loudon membuang sauh; lampu-lampu kota berkelip di pantai; air di sekitar kapal berputar seperti pusaran; mualim kembali dengan sekoci basah kuyup, menggeleng ke arah anjungan.",
+      "narasiSuara": "[tense] Malamnya, kapal membuang sauh di depan Teluk Betung. [nervous] Arus berputar-putar seperti pusaran, dan ombak terlalu besar untuk mendarat.",
+      "narasi": "Malamnya, kapal membuang sauh di depan Teluk Betung. Arus berputar-putar seperti pusaran, dan ombak terlalu besar untuk mendarat.",
+      "teksLayar": [],
+      "suara": "Arus bergemuruh, dentuman jauh berulang",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Gelombang",
+      "waktu": "0:57–1:05",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Fajar kelabu di haluan. Tangan kiri \"kamu\" mencengkeram tali tambat, tangan kanan menunjuk ke depan: dinding air raksasa bergulung naik di mulut teluk, lebih tinggi dari tiang kapal.",
+      "narasiSuara": "[tense] Sekitar pukul tujuh pagi, kamu melihat laut berdiri di mulut teluk. [shouting] Gelombang raksasa datang menuju kapalmu!",
+      "narasi": "Sekitar pukul tujuh pagi, kamu melihat laut berdiri di mulut teluk. Gelombang raksasa datang menuju kapalmu!",
+      "teksLayar": [
+        "27 Agustus, pukul tujuh pagi."
+      ],
+      "suara": "Gemuruh air membesar, teriakan awak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Gelombang",
+      "waktu": "1:05–1:14",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Bidikan lebar dari samping: Loudon terangkat tinggi di punggung gelombang raksasa, haluan menunjuk ke langit; gelombang itu terus melaju ke pantai, menelan deretan rumah dan pohon kelapa.",
+      "narasiSuara": "[tense] Kapalmu terangkat tinggi, lalu terhempas turun. [serious] Gelombang itu terus melaju, menumpahkan laut ke rumah-rumah di tepi pantai.",
+      "narasi": "Kapalmu terangkat tinggi, lalu terhempas turun. Gelombang itu terus melaju, menumpahkan laut ke rumah-rumah di tepi pantai.",
+      "teksLayar": [],
+      "suara": "Deru air, kayu kapal berderit keras",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Gelombang",
+      "waktu": "1:14–1:25",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" berpegangan pada pagar yang basah. Di pantai yang porak-poranda, kapal uap kecil Berouw tergeletak di darat di antara pohon kelapa; tempat menara isyarat pelabuhan kini kosong.",
+      "narasiSuara": "[gasps] [sad] Menara isyarat di pelabuhan hilang. [nervous] Kapal Berouw tergeletak di darat, di antara pohon kelapa. [sad] Dan kota itu... tak ada lagi.",
+      "narasi": "Menara isyarat di pelabuhan hilang. Kapal Berouw tergeletak di darat, di antara pohon kelapa. Dan kota itu... tak ada lagi.",
+      "teksLayar": [],
+      "suara": "Air surut menggelegak, hening yang tiba-tiba",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Siang menjadi malam",
+      "waktu": "1:25–1:36",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Geladak Loudon di bawah hujan batu apung. Kelasi-kelasi menyekop abu kelabu ke laut; \"kamu\" menyekop di dekat cerobong; penumpang digiring turun ke palka.",
+      "narasiSuara": "[tense] Kapal berlayar ke selatan, tapi hujan batu apung makin deras. [serious] Kamu dan kelasi lain menyekop abu dari geladak, supaya kapal tidak terbalik.",
+      "narasi": "Kapal berlayar ke selatan, tapi hujan batu apung makin deras. Kamu dan kelasi lain menyekop abu dari geladak, supaya kapal tidak terbalik.",
+      "teksLayar": [],
+      "suara": "Batu apung berjatuhan di geladak, sekop menggesek",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Siang menjadi malam",
+      "waktu": "1:36–1:45",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan kanan \"kamu\" memegang sekop berlapis abu, tangan kiri menutup hidung dan mulut dengan kain. Langit hitam pekat menelan cahaya terakhir; hanya satu lentera kapal yang menyala.",
+      "narasiSuara": "[tense] Sekitar pukul sepuluh, terdengar ledakan yang mengguncang dada. [nervous] Setengah jam kemudian, siang berubah menjadi malam yang pekat.",
+      "narasi": "Sekitar pukul sepuluh, terdengar ledakan yang mengguncang dada. Setengah jam kemudian, siang berubah menjadi malam yang pekat.",
+      "teksLayar": [
+        "Pukul sepuluh pagi."
+      ],
+      "suara": "Ledakan dahsyat teredam, lalu angin menderu",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Siang menjadi malam",
+      "waktu": "1:45–1:54",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Gelap total diterangi kilat. Petir menyambar penangkal di tiang utama; hujan lumpur kelabu mengguyur geladak; \"kamu\" merunduk memeluk kaki tiang.",
+      "narasiSuara": "[tense] Angin badai menderu, dan hujan lumpur turun setengah kaki dalam sepuluh menit. [shouting] Petir menyambar tiang kapal, berkali-kali!",
+      "narasi": "Angin badai menderu, dan hujan lumpur turun setengah kaki dalam sepuluh menit. Petir menyambar tiang kapal, berkali-kali!",
+      "teksLayar": [],
+      "suara": "Guntur, angin badai, lumpur menghantam kayu",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Kelabu",
+      "waktu": "1:54–2:03",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Tengah hari yang gelap. Geladak sunyi diterangi satu lentera; mesin berhenti; para kelasi duduk diam berselimut lumpur, \"kamu\" di antara mereka menatap gelap.",
+      "narasiSuara": "[calm] Tengah hari, angin tiba-tiba berhenti. [whispers] Mesin dimatikan. [sad] Dalam gelap, tak ada yang berani bicara, bahkan untuk berdoa.",
+      "narasi": "Tengah hari, angin tiba-tiba berhenti. Mesin dimatikan. Dalam gelap, tak ada yang berani bicara, bahkan untuk berdoa.",
+      "teksLayar": [],
+      "suara": "Mesin melambat lalu mati, tetes lumpur",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Kelabu",
+      "waktu": "2:03–2:13",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Cahaya pucat kembali. Kedua tangan \"kamu\", berlapis lumpur kelabu, bertumpu di pagar; laut di depan kelabu dan penuh batu apung yang mengapung; di kejauhan garis pantai yang gundul.",
+      "narasiSuara": "[sad] [whispers] Ketika gelap akhirnya terangkat, laut berwarna kelabu, penuh batu apung. [sad] Pantai yang kamu kenal sudah tak ada...",
+      "narasi": "Ketika gelap akhirnya terangkat, laut berwarna kelabu, penuh batu apung. Pantai yang kamu kenal sudah tak ada...",
+      "teksLayar": [],
+      "suara": "Hening, riak air menyentuh batu apung",
+      "hening": true,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Gunung yang belum selesai",
+      "waktu": "2:13–2:24",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Loudon berlayar perlahan di laut kelabu, geladaknya penuh orang yang selamat; di pantai jauh, reruntuhan desa pesisir dan batang pohon bertumbangan.",
+      "narasiSuara": "[serious] Semua orang di kapalmu selamat. [sad] Tapi letusan itu menewaskan lebih dari tiga puluh enam ribu orang, kebanyakan warga pesisir Banten dan Lampung.",
+      "narasi": "Semua orang di kapalmu selamat. Tapi letusan itu menewaskan lebih dari tiga puluh enam ribu orang, kebanyakan warga pesisir Banten dan Lampung.",
+      "teksLayar": [],
+      "suara": "Mesin kapal pelan, burung laut",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Gunung yang belum selesai",
+      "waktu": "2:24–2:34",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja merah menyala di atas jalan kota New York tahun 1883; kereta pemadam kebakaran berkuda melaju, orang-orang menunjuk ke langit.",
+      "narasiSuara": "[calm] Dentumannya terdengar sampai empat ribu delapan ratus kilometer jauhnya. [curious] Di New York, pemadam kebakaran dipanggil karena langit senja dikira kebakaran.",
+      "narasi": "Dentumannya terdengar sampai empat ribu delapan ratus kilometer jauhnya. Di New York, pemadam kebakaran dipanggil karena langit senja dikira kebakaran.",
+      "teksLayar": [],
+      "suara": "Lonceng pemadam, derap kuda di jalan batu",
+      "hening": false,
+      "epilog": true,
+      "kata": 20
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Gunung yang belum selesai",
+      "waktu": "2:34–2:46",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Anak Krakatau masa kini di tengah Selat Sunda, mengepulkan asap kelabu di bawah langit senja; perahu nelayan kecil di kejauhan.",
+      "narasiSuara": "[calm] Puluhan tahun kemudian, dari laut tempat Krakatau runtuh, muncul gunung baru: Anak Krakatau. [sad] Tahun 2018, longsorannya memicu tsunami lagi. [whispers] Gunung itu belum selesai.",
+      "narasi": "Puluhan tahun kemudian, dari laut tempat Krakatau runtuh, muncul gunung baru: Anak Krakatau. Tahun 2018, longsorannya memicu tsunami lagi. Gunung itu belum selesai.",
+      "teksLayar": [
+        "Selat Sunda, hari ini."
+      ],
+      "suara": "Ombak tenang, gemuruh rendah gunung",
+      "hening": false,
+      "epilog": true,
+      "kata": 23
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Kelasi Loudon",
+      "prompt": "Character reference sheet of Kelasi Loudon.\nKelasi Loudon is a Javanese sailor of about twenty-two serving on the Dutch East Indies mail steamer Gouverneur Generaal Loudon in 1883. Wiry and agile, with sun-darkened brown skin, a lean oval face, high cheekbones, alert dark eyes, straight brows, a broad nose and a thin moustache; short black hair under his headcloth. He wears a faded red-brown cotton headcloth tied around the head with the knot at the back; a loose collarless jacket of faded indigo cotton, open at the throat, sleeves pushed to the elbow; loose dark cotton trousers rolled to mid-calf; a brown-and-black checked cotton sarong folded and knotted around the waist like a sash; barefoot. A coil of rope often hangs over one shoulder. Quick and watchful, always holding on to something as the deck moves.\nFront, side and back full-body views standing in a relaxed, natural pose; one three-quarter face portrait; one detail panel of the red-brown headcloth, the checked sarong sash and the rope coil; one first-person panel of the hands and forearms seen from the viewer's eyes: Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Javanese sailor on a Dutch East Indies steamer in the 1880s.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, shoes, sailor caps, naval uniforms, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Nakhoda Lindeman",
+      "prompt": "Character reference sheet of Nakhoda Lindeman.\nNakhoda Lindeman is the Dutch captain of the steamer Gouverneur Generaal Loudon in 1883, a man in his forties. Tall and broad-shouldered, with fair skin weathered red by the tropical sun, a square jaw, a short brown beard streaked with grey, pale eyes narrowed from years of watching the sea, and heavy brows. He wears a white cotton tropical jacket with a high stand collar buttoned to the throat and a single row of brass buttons, white cotton trousers, black leather shoes and a dark blue peaked cap with a small gold badge. A brass telescope is often in his hand. Calm and unhurried, he stands with his feet planted wide against the roll of the ship.\nFront, side and back full-body views standing in a relaxed, natural pose; one three-quarter face portrait; one detail panel of the stand-collar jacket with brass buttons, the peaked cap badge and the brass telescope.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Dutch merchant steamer captain in the tropics in the 1880s.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, naval admiral uniform, medals, epaulettes, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Tiga bulan sebelum kiamat itu, kamu mendayung orang-orang kaya ke kaki gunungnya. Mereka menyebutnya piknik.",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nMedium shot at chest height, slightly low angle, from the stern of a wooden lifeboat crossing the Sunda Strait at midday.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets. Both hands pull the wooden oars back in mid-stroke, water dripping from the blades.\nIn the boat sit European passengers of 1883: men in white linen suits with straw hats or white pith helmets, women in long pale bustle-backed dresses with fitted bodices, small hats and parasols; one woman tilts her parasol to look ahead, a man points with his walking stick, two others chat with raised eyebrows of excitement. Ahead rises Krakatoa island: a tall forested peak to the south and, on the low northern end, a crater sending up a thick column of grey-white steam and ash. The passengers are different people from Kelasi Loudon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright tropical midday light, muted turquoise sea, ash grey and warm sand tones, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Krakatoa during its May 1883 eruption.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:19",
+      "narasi": "Hampir sembilan puluh penumpang dari Batavia datang untuk melihat Krakatau yang baru terbangun. Ada yang memotret, ada yang mendaki ke arah kawah.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nMedium-wide shot at eye level on a grey ash beach at the foot of a steaming crater on Krakatoa island, midday, a plume of grey-white steam billowing overhead.\nA group of European passengers of 1883: men in white linen suits with straw hats or white pith helmets, women in long pale bustle-backed dresses with fitted bodices, small hats and parasols walks up the ash slope toward the crater, some holding handkerchiefs to their noses, one woman lifting her hem; a bearded man in a white suit sets up a wooden bellows camera on a tripod, bending to the viewfinder. Kelasi Loudon stands beside the beached lifeboat with one hand on its gunwale, head tilted back, eyes fixed uneasily on the rising steam, brows drawn together. The passengers are different people from Kelasi Loudon. Offshore, the steamer waits at anchor: an 1870s iron screw steamer with a black hull, a single tall black funnel, two masts with furled sails and rigging, canvas deck awnings and wooden lifeboats on davits.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright tropical midday light, muted turquoise sea, ash grey and warm sand tones, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Krakatoa during its May 1883 eruption.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, stiff symmetrical poses, background figures copying Kelasi Loudon's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:27",
+      "narasi": "Tanahnya panas. Konon, sol sepatu sebagian penumpang sampai meleleh. Kamu belum tahu, gunung itu baru pemanasan.",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nClose medium shot looking down at the grey ash beach beside the lifeboat, wisps of steam rising from cracks in the ground.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets. The right hand holds up a European man's black leather shoe whose sole has partly melted and curls with thin smoke; the left hand grips the lifeboat's wooden gunwale.\nNearby, a European woman in a long pale bustle-backed dress lifts her hem off the hot ground with a startled, wide-eyed expression, looking down at her feet; a man in a white suit hops on one stockinged foot, grimacing. They are different people from Kelasi Loudon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright tropical midday light, muted turquoise sea, ash grey and warm sand tones, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Krakatoa during its May 1883 eruption.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:27–0:39",
+      "narasi": "Tiga bulan kemudian, Loudon singgah di Anyer, memuat penumpang dan kuli. Siang itu, dentuman terdengar dari arah Krakatau, dan awan putih membubung tinggi.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nWide shot at a slightly low angle of the small harbour of Anyer on the west coast of Java, early afternoon, a tall white cloud column rising over the sea on the western horizon.\nThe steamer lies close to shore: an 1870s iron screw steamer with a black hull, a single tall black funnel, two masts with furled sails and rigging, canvas deck awnings and wooden lifeboats on davits. Javanese porters in headcloths and bare chests carry sacks on their shoulders up a wooden gangway, one pausing to stare west. On deck, Kelasi Loudon turns sharply toward the horizon, one hand gripping the rail, eyes wide, lips parted. Palm trees and low tiled and thatched roofs line the shore. The porters are different people from Kelasi Loudon, varied in age and build, with plain headcloths in other colors.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, hazy golden afternoon light with a towering white cloud on the horizon, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Anyer harbour in 1883.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, stiff symmetrical poses, background figures copying Kelasi Loudon's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:48",
+      "narasi": "Air laut naik turun tak beraturan. Pukul tiga kurang seperempat, Nakhoda Lindeman memerintahkan kapal berangkat ke Teluk Betung.",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nSame character as the Nakhoda Lindeman reference image.\nMedium shot at chest height at the ship's side rail in the hazy afternoon, the sea heaving strangely below.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets. Both hands grip the wooden rail tightly as the viewer leans over, looking down at the water rising and falling unevenly against the black hull.\nUp on the bridge wing, Nakhoda Lindeman points north with his telescope, mouth open giving an order, eyes narrowed toward the sea, his other hand on the bridge rail.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, hazy golden afternoon light with a towering white cloud on the horizon, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:48–0:57",
+      "narasi": "Malamnya, kapal membuang sauh di depan Teluk Betung. Arus berputar-putar seperti pusaran, dan ombak terlalu besar untuk mendarat.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nWide shot at eye level of the steamer anchored off Teluk Betung on the southern coast of Sumatra at night: an 1870s iron screw steamer with a black hull, a single tall black funnel, two masts with furled sails and rigging, canvas deck awnings and wooden lifeboats on davits, its lanterns glowing. Dark water swirls around the hull in a slow whirlpool; a few warm lights of the town flicker along the shore under a hill.\nA wooden lifeboat, its crew soaked, pulls back alongside; the ship's mate in the bow shakes his head toward the bridge. Kelasi Loudon leans over the rail with a rope ready, face tense, eyes on the returning boat. The mate and rowers are different people from Kelasi Loudon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep blue-black night, a few warm amber town lights on the shore, dark heaving water, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Teluk Betung in 1883.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, background figures copying Kelasi Loudon's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:57–1:05",
+      "narasi": "Sekitar pukul tujuh pagi, kamu melihat laut berdiri di mulut teluk. Gelombang raksasa datang menuju kapalmu!",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nMedium-wide shot at chest height from the ship's bow at a grey dawn, looking across the bay toward its mouth, a low leaden sky above.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets. The left hand clutches a thick mooring rope; the right arm points forward.\nAhead, a colossal wall of grey-green water rolls up the bay toward the ship, its crest foaming white and higher than the ship's masts, small native fishing boats tossed before it.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey dawn, slate-green sea and white foam under a low leaden sky, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:05–1:14",
+      "narasi": "Kapalmu terangkat tinggi, lalu terhempas turun. Gelombang itu terus melaju, menumpahkan laut ke rumah-rumah di tepi pantai.",
+      "prompt": "Dramatic wide shot from the side at low angle of the steamer lifted high on the back of an enormous grey wave in the bay at dawn: an 1870s iron screw steamer with a black hull, a single tall black funnel, two masts with furled sails and rigging, canvas deck awnings and wooden lifeboats on davits, its bow pointing at the sky, foam pouring off its deck. Beyond, the wave rushes on toward the shore, swallowing a row of wooden houses on stilts and coconut palms.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey dawn, slate-green sea and white foam under a low leaden sky, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Teluk Betung in 1883.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, people's faces, bodies or gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:14–1:25",
+      "narasi": "Menara isyarat di pelabuhan hilang. Kapal Berouw tergeletak di darat, di antara pohon kelapa. Dan kota itu... tak ada lagi.",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nMedium shot at chest height from the wet deck looking toward the devastated shore of Teluk Betung in grey morning light.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy bare forearms below the pushed-up sleeves of a faded indigo cotton jacket, no rings or bracelets. Both hands grip the dripping wooden rail, knuckles tight.\nOn the shore, where the town stood, only mud, broken timber and bent palms remain; a small government paddle steamer lies stranded high on land among coconut trees, its paddle box tilted; at the end of the wrecked pier, the spot where the harbour signal beacon stood is empty.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey dawn, slate-green sea and white foam under a low leaden sky, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait; Teluk Betung in 1883.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, bodies or gore, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:25–1:36",
+      "narasi": "Kapal berlayar ke selatan, tapi hujan batu apung makin deras. Kamu dan kelasi lain menyekop abu dari geladak, supaya kapal tidak terbalik.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nSame character as the Nakhoda Lindeman reference image.\nMedium-wide shot at eye level on the steamer's deck under a falling rain of grey pumice and ash, the sky darkening overhead.\nKelasi Loudon shovels heaps of grey ash over the side near the black funnel, body twisted mid-throw, face strained, a cloth tied over his nose; other sailors shovel and sweep beside him. Nakhoda Lindeman stands on the bridge, one arm raised, shouting an order down at the deck, eyes squinting through the falling ash. Passengers in pale clothes are hurried down a hatch by a steward. The other sailors and passengers are different people from Kelasi Loudon and Nakhoda Lindeman, with other headcloth colors and faces.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ash grey sky darkening to pitch black, a single amber ship lantern, harsh white lightning, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, stiff symmetrical poses, background figures copying Kelasi Loudon's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:45",
+      "narasi": "Sekitar pukul sepuluh, terdengar ledakan yang mengguncang dada. Setengah jam kemudian, siang berubah menjadi malam yang pekat.",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nMedium shot at chest height on the deck as the sky turns pitch black at mid-morning, only one amber ship lantern burning on the mast ahead.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy forearms below the pushed-up sleeves of a faded indigo cotton jacket, hands, nails and sleeves caked with grey volcanic ash and mud, no rings or bracelets. The right hand grips the handle of a shovel coated in ash; the left hand presses a cloth over the nose and mouth.\nAsh falls thickly through the lantern light; the last pale glow on the horizon is being swallowed by darkness.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ash grey sky darkening to pitch black, a single amber ship lantern, harsh white lightning, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:54",
+      "narasi": "Angin badai menderu, dan hujan lumpur turun setengah kaki dalam sepuluh menit. Petir menyambar tiang kapal, berkali-kali!",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nMedium-wide shot at a low angle in total darkness on deck, lit by a harsh flash of lightning striking the lightning conductor on the mainmast, sparks spraying.\nKelasi Loudon crouches at the foot of the mast, arms wrapped around it, head ducked, mouth open in a shout, as grey mud rain pours over him and pools on the deck; a torn canvas awning flaps wildly in the hurricane wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ash grey sky darkening to pitch black, a single amber ship lantern, harsh white lightning, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:54–2:03",
+      "narasi": "Tengah hari, angin tiba-tiba berhenti. Mesin dimatikan. Dalam gelap, tak ada yang berani bicara, bahkan untuk berdoa.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nSame character as the Nakhoda Lindeman reference image.\nMedium-wide shot at a slightly high angle on the silent deck at noon in darkness, lit by a single amber lantern; the wind has dropped, grey mud covers everything.\nSailors sit huddled against the funnel, mud-covered, heads bowed; Kelasi Loudon sits among them, knees drawn up, staring into the dark with hollow eyes and lips pressed together. Nakhoda Lindeman stands near the lantern with his cap in his hand, mud streaking his white jacket, looking out into the blackness, jaw set. The other sailors are different people from Kelasi Loudon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ash grey sky darkening to pitch black, a single amber ship lantern, harsh white lightning, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, characters looking at the camera, stiff symmetrical poses, background figures copying Kelasi Loudon's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:03–2:13",
+      "narasi": "Ketika gelap akhirnya terangkat, laut berwarna kelabu, penuh batu apung. Pantai yang kamu kenal sudah tak ada...",
+      "prompt": "The viewer is Kelasi Loudon: the hands and forearms in the foreground match the first-person panel of the Kelasi Loudon reference image.\nMedium-wide shot at chest height from the rail as pale light returns over the sea.\nFirst-person point of view. Young sailor's hands with sun-darkened brown skin, rope-calloused palms, short cracked nails, sinewy forearms below the pushed-up sleeves of a faded indigo cotton jacket, hands, nails and sleeves caked with grey volcanic ash and mud, no rings or bracelets. Both hands rest heavily on the mud-caked rail, fingers slack.\nThe sea ahead is grey and choked with floating grey pumice stretching to the horizon; far away, the coastline is stripped bare, its trees snapped and grey.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dim pewter grey and pale washed-out light over a grey sea, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, bodies or gore, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:13–2:24",
+      "narasi": "Semua orang di kapalmu selamat. Tapi letusan itu menewaskan lebih dari tiga puluh enam ribu orang, kebanyakan warga pesisir Banten dan Lampung.",
+      "prompt": "Same character as the Kelasi Loudon reference image.\nWide shot at eye level of the steamer sailing slowly across a grey sea littered with pumice: an 1870s iron screw steamer with a black hull, a single tall black funnel, two masts with furled sails and rigging, canvas deck awnings and wooden lifeboats on davits, its deck crowded with exhausted survivors in mud-stained clothes; Kelasi Loudon stands at the stern rail looking back toward the shore with a grieving face. On the distant coast, ruined fishing villages and toppled trees.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted grey sea and pale overcast light, historically accurate Dutch East Indies coastal steamer of the 1880s in the Sunda Strait.\nAvoid modern ships, ocean liners, steel cranes, life jackets, outboard motors, modern clothing, parang batik pattern, bodies or gore, characters looking at the camera, background figures copying Kelasi Loudon's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:24–2:34",
+      "narasi": "Dentumannya terdengar sampai empat ribu delapan ratus kilometer jauhnya. Di New York, pemadam kebakaran dipanggil karena langit senja dikira kebakaran.",
+      "prompt": "Wide shot at eye level of a New York street in late 1883 at sunset: brick and brownstone buildings, gas lamps, a horse-drawn steam fire engine with a polished brass boiler racing down the cobblestones, firemen clinging on; men in bowler hats and women in long bustle dresses stop and point up at a sky glowing an unnatural fiery red.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, blazing red-orange sunset sky over dark city silhouettes, historically accurate New York street of the 1880s.\nAvoid modern cars, modern clothing, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:34–2:46",
+      "narasi": "Puluhan tahun kemudian, dari laut tempat Krakatau runtuh, muncul gunung baru: Anak Krakatau. Tahun 2018, longsorannya memicu tsunami lagi. Gunung itu belum selesai.",
+      "prompt": "Wide shot at eye level across the Sunda Strait at dusk: Anak Krakatau, a low dark-grey volcanic cone of ash with a broad crater, sends up a thin plume of grey steam; behind it rises the sheer cliff of Rakata island, the remnant of old Krakatoa, its top green with forest. A small wooden fishing boat with an outrigger drifts in the foreground water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm dusk light over a calm blue-grey sea, accurate present-day Sunda Strait.\nAvoid characters looking at the camera, buildings on the volcano, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice lelaki Indonesia yang hangat dan agak berat, mampu berteriak dan berbisik; voice paling menentukan, karena tag tidak bisa memaksa voice yang lembut untuk berteriak (adegan 7 dan 12).\n\n- Babak 1: ringan dan penasaran, sedikit ironis di kalimat terakhir.\n- Babak 2: tenang lalu gelisah, tempo sedang.\n- Babak 3: tegang dan cepat, berteriak di adegan 7, terkesiap di adegan 9.\n- Babak 4: mencekam, tempo cepat, berteriak di kalimat petir.\n- Babak 5: pelan, berbisik, banyak jeda; adegan 14 paling sunyi.\n- Babak 6: tenang dan berat di epilog, berbisik di kalimat terakhir.",
+    "arahanBabak": {
+      "1": "ringan dan penasaran, sedikit ironis di kalimat terakhir.",
+      "2": "tenang lalu gelisah, tempo sedang.",
+      "3": "tegang dan cepat, berteriak di adegan 7, terkesiap di adegan 9.",
+      "4": "mencekam, tempo cepat, berteriak di kalimat petir.",
+      "5": "pelan, berbisik, banyak jeda; adegan 14 paling sunyi.",
+      "6": "tenang dan berat di epilog, berbisik di kalimat terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[curious] Tiga bulan sebelum kiamat itu, kamu mendayung orang-orang kaya ke kaki gunungnya. [calm] Mereka menyebutnya piknik...\n\n[curious] Hampir sembilan puluh penumpang dari Batavia datang untuk melihat Krakatau yang baru terbangun. [calm] Ada yang memotret, ada yang mendaki ke arah kawah...\n\n[tense] Tanahnya panas. [curious] Konon, sol sepatu sebagian penumpang sampai meleleh. [sad] Kamu belum tahu, gunung itu baru pemanasan...",
+    "2": "[calm] Tiga bulan kemudian, Loudon singgah di Anyer, memuat penumpang dan kuli. [tense] Siang itu, dentuman terdengar dari arah Krakatau, dan awan putih membubung tinggi...\n\n[nervous] Air laut naik turun tak beraturan. [serious] Pukul tiga kurang seperempat, Nakhoda Lindeman memerintahkan kapal berangkat ke Teluk Betung...\n\n[tense] Malamnya, kapal membuang sauh di depan Teluk Betung. [nervous] Arus berputar-putar seperti pusaran, dan ombak terlalu besar untuk mendarat...",
+    "3": "[tense] Sekitar pukul tujuh pagi, kamu melihat laut berdiri di mulut teluk. [shouting] Gelombang raksasa datang menuju kapalmu!...\n\n[tense] Kapalmu terangkat tinggi, lalu terhempas turun. [serious] Gelombang itu terus melaju, menumpahkan laut ke rumah-rumah di tepi pantai...\n\n[gasps] [sad] Menara isyarat di pelabuhan hilang. [nervous] Kapal Berouw tergeletak di darat, di antara pohon kelapa. [sad] Dan kota itu... tak ada lagi...",
+    "4": "[tense] Kapal berlayar ke selatan, tapi hujan batu apung makin deras. [serious] Kamu dan kelasi lain menyekop abu dari geladak, supaya kapal tidak terbalik...\n\n[tense] Sekitar pukul sepuluh, terdengar ledakan yang mengguncang dada. [nervous] Setengah jam kemudian, siang berubah menjadi malam yang pekat...\n\n[tense] Angin badai menderu, dan hujan lumpur turun setengah kaki dalam sepuluh menit. [shouting] Petir menyambar tiang kapal, berkali-kali!...",
+    "5": "[calm] Tengah hari, angin tiba-tiba berhenti. [whispers] Mesin dimatikan. [sad] Dalam gelap, tak ada yang berani bicara, bahkan untuk berdoa...\n\n[sad] [whispers] Ketika gelap akhirnya terangkat, laut berwarna kelabu, penuh batu apung. [sad] Pantai yang kamu kenal sudah tak ada...",
+    "6": "[serious] Semua orang di kapalmu selamat. [sad] Tapi letusan itu menewaskan lebih dari tiga puluh enam ribu orang, kebanyakan warga pesisir Banten dan Lampung...\n\n[calm] Dentumannya terdengar sampai empat ribu delapan ratus kilometer jauhnya. [curious] Di New York, pemadam kebakaran dipanggil karena langit senja dikira kebakaran...\n\n[calm] Puluhan tahun kemudian, dari laut tempat Krakatau runtuh, muncul gunung baru: Anak Krakatau. [sad] Tahun 2018, longsorannya memicu tsunami lagi. [whispers] Gunung itu belum selesai..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pelayaran",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Pelayaran tropis yang ringan, perlahan diselimuti firasat buruk",
+      "style": "Nautical ambient with soft Javanese gamelan colors, gentle bonang and saron over light strings and creaking-ship texture, curious and airy at first, then low drones and a distant rumble creep in, growing uneasy, about 65 seconds long (1:05), with a clear ending, 80 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, synth pop, rock drums, happy ukulele"
+    },
+    {
+      "nomor": 2,
+      "nama": "Gelombang dan gelap",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:05",
+      "suasana": "Dahsyat, berdentum, lalu mencekam dalam gelap",
+      "style": "Dark cinematic disaster score, thunderous low taiko and bedug drums, roaring brass swells and deep gong hits, a massive surge followed by heavy pulsing dread in near darkness, chaotic then oppressive, about 65 seconds long (1:05), with a clear ending, 110 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, dubstep, rock guitar, choir"
+    },
+    {
+      "nomor": 3,
+      "nama": "Kelabu",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "1:00",
+      "suasana": "Sunyi dan berduka, lalu reflektif dengan sisa ketegangan",
+      "style": "Mournful ambient with a lone suling flute and soft gender over slow distant gong and sustained low strings, hollow and grieving, very sparse at first, then a calm reflective theme with a faint lingering rumble, fades out at the end, about 60 seconds long (1:00), with a clear ending, 55 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, synth, piano pop, upbeat percussion"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Dayung membelah air, gemuruh rendah gunung",
+      "kataKunci": "rowing boat oars water volcano rumble",
+      "prompt": "Wooden oars dipping in calm sea water, distant low volcanic rumble"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Desis uap dari tanah, langkah di pasir abu",
+      "kataKunci": "steam vent hiss footsteps ash",
+      "prompt": "Hissing steam vents and footsteps crunching on volcanic ash"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Dentuman jauh, teriakan kuli, cerobong uap",
+      "kataKunci": "distant explosion harbour steam ship",
+      "prompt": "A distant deep boom across the sea, harbour voices, an old steamship funnel hissing"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Air menampar lambung kapal, lonceng kapal",
+      "kataKunci": "waves hitting hull ship bell",
+      "prompt": "Choppy water slapping an iron ship hull, a ship's bell ringing twice"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Arus bergemuruh, dentuman jauh berulang",
+      "kataKunci": "night sea current rumble distant explosions",
+      "prompt": "Swirling sea current at night with repeated distant volcanic booms"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Gemuruh gelombang membesar",
+      "kataKunci": "tsunami wave roar approaching",
+      "prompt": "A huge ocean wave roaring closer and closer, men shouting"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Deru air, kayu kapal berderit",
+      "kataKunci": "ship creaking huge wave crash",
+      "prompt": "An old ship creaking violently as it is lifted by a huge wave and crashes down"
+    },
+    {
+      "nomor": 8,
+      "adegan": 10,
+      "bunyi": "Batu apung berjatuhan, sekop menggesek",
+      "kataKunci": "pumice falling deck shovel scraping",
+      "prompt": "Light stones raining on a wooden deck, shovels scraping ash"
+    },
+    {
+      "nomor": 9,
+      "adegan": 11,
+      "bunyi": "Ledakan dahsyat teredam, angin menderu",
+      "kataKunci": "huge explosion muffled wind",
+      "prompt": "One enormous muffled explosion followed by rising roaring wind"
+    },
+    {
+      "nomor": 10,
+      "adegan": 12,
+      "bunyi": "Guntur, angin badai, lumpur menghantam kayu",
+      "kataKunci": "thunder storm hurricane rain mud",
+      "prompt": "Close lightning crack and thunder, hurricane wind and heavy mud rain on deck"
+    },
+    {
+      "nomor": 11,
+      "adegan": 13,
+      "bunyi": "Mesin melambat lalu mati",
+      "kataKunci": "steam engine slowing stop",
+      "prompt": "An old steam engine slowing down and stopping, dripping water, silence"
+    },
+    {
+      "nomor": 12,
+      "adegan": 16,
+      "bunyi": "Lonceng pemadam, derap kuda",
+      "kataKunci": "fire engine bell horses cobblestone",
+      "prompt": "A 19th-century fire engine bell clanging, horses galloping on cobblestones"
+    },
+    {
+      "nomor": 13,
+      "adegan": 17,
+      "bunyi": "Ombak tenang, gemuruh rendah gunung",
+      "kataKunci": "calm sea waves volcano rumble",
+      "prompt": "Calm sea waves lapping, a low distant volcanic rumble"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Kalau ditawari piknik ke gunung yang sedang erupsi, kamu ikut?",
+    "sumber": "-",
+    "kata": 10,
+    "pertanyaan": true
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mengantar Turis Piknik ke Krakatau",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Antar Turis Piknik ke Krakatau 1883\nAlternatif judul: POV: Kamu Kelasi Kapal Loudon, Krakatau 1883 / POV: Kamu Selamat dari Tsunami Krakatau 1883",
+      "caption": "Mei 1883, orang-orang kaya Batavia piknik ke Krakatau yang sedang erupsi. Tiga bulan kemudian...\n\nKapal uap Gouverneur Generaal Loudon membawa hampir 90 wisatawan ke Krakatau pada 27 Mei 1883. Pada 27 Agustus 1883, kapal yang sama berada di Teluk Betung ketika tsunami datang, dan semua orang di dalamnya selamat.\n\nKalau kamu ditawari piknik ke gunung yang sedang erupsi, kamu ikut?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: catatan Nakhoda Lindeman (dikutip Scientific American); Tirto.\n\n#UlikSilam #sejarahindonesia #krakatau #letusankrakatau #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Kelasi Kapal Loudon, Krakatau 1883",
+      "catatan": "",
+      "caption": "Tiga bulan sebelum Krakatau meledak, kapal ini mengantar turis piknik ke kawahnya.\n\nPada 27 Agustus 1883, kapal uap Loudon berlabuh di Teluk Betung ketika tsunami datang. Kotanya lenyap, tetapi semua orang di kapal selamat.\n\nKalau kamu ditawari piknik ke gunung yang sedang erupsi, kamu ikut?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: catatan Nakhoda Lindeman (dikutip Scientific American); Tirto.\n\n#UlikSilam #sejarahindonesia #krakatau #letusankrakatau #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 320,
+    "kataPerBabak": {
+      "1": 53,
+      "2": 59,
+      "3": 53,
+      "4": 56,
+      "5": 34,
+      "6": 65
+    },
+    "karakterPerBabak": {
+      "1": 437,
+      "2": 478,
+      "3": 434,
+      "4": 453,
+      "5": 281,
+      "6": 528
+    },
+    "jedaBunyi": 3,
+    "perkiraanDetik130": {
+      "narasi": 166,
+      "denganMerek": 171
+    },
+    "perkiraanDetik135": {
+      "narasi": 160.5,
+      "denganMerek": 165.5
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

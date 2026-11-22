@@ -1,0 +1,683 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-25T08:06:34.545Z",
+  "judulDokumen": "Rumphius, Naturalis Buta di Ambon",
+  "judul": "POV: Kamu Rumphius, Naturalis Buta di Ambon",
+  "slug": "pov-rumphius-naturalis-buta",
+  "versi": "v2 · 2026-10-25",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Ambon, masa VOC",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "Georg Eberhard Rumphius (tokoh nyata), pegawai VOC kelahiran Jerman dan naturalis di Ambon; usia 42 saat buta (1670), wafat 1702",
+  "ringkasan": {
+    "Judul": "POV: Kamu Rumphius, Naturalis Buta di Ambon",
+    "Slug": "pov-rumphius-naturalis-buta",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan 2:54 termasuk elemen merek, pada 130 kpm)",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "Georg Eberhard Rumphius (tokoh nyata), pegawai VOC kelahiran Jerman dan naturalis di Ambon; usia 42 saat buta (1670), wafat 1702",
+    "Lapisan": "Sejarah",
+    "Latar": "Ambon, masa VOC",
+    "Jumlah ilustrasi": "19 (18 adegan + 1 lembar karakter Rumphius)",
+    "Premis": "Kamu menulis ensiklopedia tumbuhan Ambon dalam gelap, dan alam, api, laut, serta majikanmu sendiri bergantian merampasnya.",
+    "Benang merah": "Setiap babak dibuka dengan hook dan ditutup dengan \"kamu mulai lagi\"; satu sentuhan (meraba daun, wajah, gambar) menggantikan penglihatan.",
+    "Struktur": "6 babak, 18 adegan, 324 kata narasi (2.701 karakter bertag, 2.235 tanpa tag)",
+    "Asumsi": "Akhir berupa pertanyaan ke penonton; panjang narasi dipangkas dari permintaan 2.939 karakter agar tetap di bawah 3:00; putra (Paul August) tampil sebagai tokoh pendukung",
+    "Dipilih karena": "Paling cocok untuk narasi panjang: empat pukulan berurutan memberi struktur alami tiap babak",
+    "Versi": "v2 · 2026-10-25"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Gelap",
+      "suasana": "Getir, tenang",
+      "palet": "Oker, cokelat tua, emas pelita",
+      "cahaya": "Satu pelita di meja; siang terang di adegan 2"
+    },
+    {
+      "babak": 2,
+      "nama": "Lonceng",
+      "suasana": "Kacau, duka",
+      "palet": "Nila gelap, jingga obor, abu debu",
+      "cahaya": "Lentera Imlek dan obor di malam hari"
+    },
+    {
+      "babak": 3,
+      "nama": "Anggrek",
+      "suasana": "Kenangan, hening",
+      "palet": "Hijau lembut, oker pudar, emas pucat",
+      "cahaya": "Senja di kebun, pelita tunggal"
+    },
+    {
+      "babak": 4,
+      "nama": "Api",
+      "suasana": "Panik, hancur",
+      "palet": "Hitam, jingga bara, abu asap",
+      "cahaya": "Kobaran api sebagai cahaya utama"
+    },
+    {
+      "babak": 5,
+      "nama": "Laut",
+      "suasana": "Harap, lalu kehilangan",
+      "palet": "Krem perkamen, emas lilin, biru laut kehitaman",
+      "cahaya": "Lilin di kantor, kilat meriam di laut"
+    },
+    {
+      "babak": 6,
+      "nama": "Majikan",
+      "suasana": "Pahit, reflektif",
+      "palet": "Cokelat kayu, emas pudar, cahaya jendela hangat",
+      "cahaya": "Jendela tinggi, pelita yang nyaris padam"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Gelap",
+    "2": "Lonceng",
+    "3": "Anggrek",
+    "4": "Api",
+    "5": "Laut",
+    "6": "Majikan"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Gelap",
+      "waktu": "0:02–0:11",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Meja kerja kayu diterangi pelita. Tangan tua Rumphius meraba helai daun panjang bergerigi di atas meja; jemari kanan menyusuri tepinya, tangan kiri menahan pangkal daun.",
+      "narasiSuara": "[calm] Daun ini panjang, tepinya bergerigi. [curious] Ujung jarimu mengenalinya lebih cepat daripada matamu dulu. [sad] Karena matamu sudah tidak melihat apa-apa.",
+      "narasi": "Daun ini panjang, tepinya bergerigi. Ujung jarimu mengenalinya lebih cepat daripada matamu dulu. Karena matamu sudah tidak melihat apa-apa.",
+      "teksLayar": [
+        "Ambon, 1670."
+      ],
+      "suara": "Hening, gesekan daun",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Gelap",
+      "waktu": "0:11–0:20",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Rumphius duduk dekat jendela, wajah terangkat ke cahaya siang yang tak lagi ia lihat; mata keruh, alis berkerut, tangan menggenggam lensa pembesar yang kini tak berguna.",
+      "narasiSuara": "[serious] Tahun ini, dalam tiga bulan saja, cahaya di matamu meredup. [sad] Lalu padam. [resigned] Usiamu baru empat puluh dua.",
+      "narasi": "Tahun ini, dalam tiga bulan saja, cahaya di matamu meredup. Lalu padam. Usiamu baru empat puluh dua.",
+      "teksLayar": [],
+      "suara": "Angin lembut, burung di luar",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Gelap",
+      "waktu": "0:20–0:32",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Juru tulis muda duduk dengan pena dan kertas, menatap Rumphius yang mendikte sambil memegang ranting tumbuhan; tumpukan naskah Latin lama tersisih di sudut meja.",
+      "narasiSuara": "[serious] Bukumu ditulis dalam bahasa Latin. [tense] Tapi tak seorang pun di sini bisa mencatat Latin dari mulutmu. [calm] Maka kamu mulai lagi, kali ini dalam bahasa Belanda.",
+      "narasi": "Bukumu ditulis dalam bahasa Latin. Tapi tak seorang pun di sini bisa mencatat Latin dari mulutmu. Maka kamu mulai lagi, kali ini dalam bahasa Belanda.",
+      "teksLayar": [],
+      "suara": "Gores pena di kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 25
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Lonceng",
+      "waktu": "0:32–0:42",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Malam, Kastil Victoria di Ambon. Lonceng menara bergoyang sendiri; di jalan, lentera perayaan Imlek berayun dan orang-orang mendongak kaget.",
+      "narasiSuara": "[tense] Lonceng kastil berdentang sendiri. [nervous] Tak satu tangan pun menariknya. [curious] Malam itu, orang-orang Tionghoa di kota sedang merayakan Tahun Baru.",
+      "narasi": "Lonceng kastil berdentang sendiri. Tak satu tangan pun menariknya. Malam itu, orang-orang Tionghoa di kota sedang merayakan Tahun Baru.",
+      "teksLayar": [
+        "17 Februari 1674."
+      ],
+      "suara": "Lonceng berdentang, riuh perayaan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Lonceng",
+      "waktu": "0:42–0:51",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Lantai rumah retak dan miring; tangan kanan meraih kusen pintu, tangan kiri terulur ke depan dalam gelap. Debu turun dari atap.",
+      "narasiSuara": "[nervous] Tanah terangkat di bawah kakimu. [shouting] Kamu memanggil nama istrimu! [tense] Yang menjawab hanya suara tembok batu yang runtuh.",
+      "narasi": "Tanah terangkat di bawah kakimu. Kamu memanggil nama istrimu! Yang menjawab hanya suara tembok batu yang runtuh.",
+      "teksLayar": [],
+      "suara": "Gemuruh tanah, tembok runtuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Lonceng",
+      "waktu": "0:51–1:00",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Reruntuhan tembok batu diterangi obor; Rumphius berlutut di puing, kedua tangannya gemetar di atas kain yang menutupi dua sosok (tidak terlihat jelas).",
+      "narasiSuara": "[sad] Suzanna dan putri bungsumu tertimpa tembok itu. [crying] Kamu meraba wajah mereka... [sad] satu-satunya cara melihat mereka, untuk terakhir kalinya.",
+      "narasi": "Suzanna dan putri bungsumu tertimpa tembok itu. Kamu meraba wajah mereka... satu-satunya cara melihat mereka, untuk terakhir kalinya.",
+      "teksLayar": [],
+      "suara": "Isak tertahan, obor berderak",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Anggrek",
+      "waktu": "1:00–1:11",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Tangan memegang setangkai anggrek putih dengan hati-hati; kenangan samar Suzanna di kebun, menunjuk bunga itu di antara pepohonan.",
+      "narasiSuara": "[sad] Ada satu bunga di bukumu yang tidak kamu temukan sendiri. [whispers] Suzanna yang pertama menunjukkannya. [sad] [whispers] Anggrek putih itu kamu namai Flos Susannae.",
+      "narasi": "Ada satu bunga di bukumu yang tidak kamu temukan sendiri. Suzanna yang pertama menunjukkannya. Anggrek putih itu kamu namai Flos Susannae.",
+      "teksLayar": [],
+      "suara": "Angin di dedaunan, sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Anggrek",
+      "waktu": "1:11–1:20",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ruang kerja sunyi, satu pelita menyala; Rumphius duduk diam, lalu mengangkat kepala ke arah pintu tempat juru tulis masuk.",
+      "narasiSuara": "[resigned] Rumahmu sunyi. [sighs] [calm] Lalu kamu memanggil juru tulis... [serious] dan mendikte halaman berikutnya.",
+      "narasi": "Rumahmu sunyi. Lalu kamu memanggil juru tulis... dan mendikte halaman berikutnya.",
+      "teksLayar": [],
+      "suara": "Hening, pelita",
+      "hening": true,
+      "epilog": false,
+      "kata": 11
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Anggrek",
+      "waktu": "1:20–1:29",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kerang-kerang dikemas ke dalam peti kayu oleh para pekerja; Rumphius meraba satu kerang nautilus terakhir sebelum diserahkan.",
+      "narasiSuara": "[tense] Lalu Adipati Agung Toskana menginginkan kerang-kerangmu. [sad] Tiga ratus enam puluh jenis, hasil hampir tiga puluh tahun. [resigned] Kamu terpaksa melepasnya.",
+      "narasi": "Lalu Adipati Agung Toskana menginginkan kerang-kerangmu. Tiga ratus enam puluh jenis, hasil hampir tiga puluh tahun. Kamu terpaksa melepasnya.",
+      "teksLayar": [
+        "1682."
+      ],
+      "suara": "Ketukan palu peti kayu",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Api",
+      "waktu": "1:29–1:38",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam, jendela rumah; cahaya jingga di kejauhan, asap menebal. Tangan kanan menekan ambang jendela, tangan kiri meraba ke arah rak buku.",
+      "narasiSuara": "[tense] Kamu mencium asap, sebelum ada yang berteriak kebakaran. [nervous] Api melompat dari atap ke atap, menuju rumahmu.",
+      "narasi": "Kamu mencium asap, sebelum ada yang berteriak kebakaran. Api melompat dari atap ke atap, menuju rumahmu.",
+      "teksLayar": [
+        "11 Januari 1687."
+      ],
+      "suara": "Teriakan jauh, api berderak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Api",
+      "waktu": "1:38–1:45",
+      "durasiCadangan": 7,
+      "bidikan": "B",
+      "visual": "Perpustakaan terbakar; lembar-lembar gambar tumbuhan melengkung dalam api. Seorang pembantu menyelamatkan satu bundel naskah dari rak yang menyala.",
+      "narasiSuara": "[sad] Perpustakaanmu terbakar. [sad] Catatan-catatanmu. [crying] Gambar-gambar tumbuhan yang dilukis bertahun-tahun, jadi abu. [tense] Naskah bukumu selamat, nyaris saja.",
+      "narasi": "Perpustakaanmu terbakar. Catatan-catatanmu. Gambar-gambar tumbuhan yang dilukis bertahun-tahun, jadi abu. Naskah bukumu selamat, nyaris saja.",
+      "teksLayar": [],
+      "suara": "Api menderu, kertas terbakar",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Api",
+      "waktu": "1:45–1:55",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Paul August, pemuda, menggambar ulang daun di meja; Rumphius duduk di sampingnya, menyentuh sehelai daun dan menjelaskan bentuknya.",
+      "narasiSuara": "[resigned] Usiamu hampir enam puluh, dan kamu buta. [serious] Tapi putramu, Paul August, mengangkat pena gambar. [calm] Dan kalian menggambar ulang semuanya.",
+      "narasi": "Usiamu hampir enam puluh, dan kamu buta. Tapi putramu, Paul August, mengangkat pena gambar. Dan kalian menggambar ulang semuanya.",
+      "teksLayar": [],
+      "suara": "Gores pensil, napas pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Laut",
+      "waktu": "1:55–2:02",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Tangan meletakkan setumpuk naskah terikat tali di atas meja; jemari mengusap sampul paling atas.",
+      "narasiSuara": "[calm] Tahun 1690, enam kitab pertama bukumu akhirnya selesai. [tense] Kamu belum tahu, laut sedang menunggunya.",
+      "narasi": "Tahun 1690, enam kitab pertama bukumu akhirnya selesai. Kamu belum tahu, laut sedang menunggunya.",
+      "teksLayar": [
+        "1690."
+      ],
+      "suara": "Kertas diletakkan",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Laut",
+      "waktu": "2:02–2:13",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Ruang kantor VOC; beberapa juru salin membungkuk menyalin halaman demi halaman dengan pena bulu, cahaya lilin.",
+      "narasiSuara": "[curious] Gubernur jenderal memerintahkan satu salinan dibuat lebih dulu. [serious] Halaman demi halaman, selama dua tahun. [calm] Baru setelah itu, naskahmu berlayar ke Belanda.",
+      "narasi": "Gubernur jenderal memerintahkan satu salinan dibuat lebih dulu. Halaman demi halaman, selama dua tahun. Baru setelah itu, naskahmu berlayar ke Belanda.",
+      "teksLayar": [],
+      "suara": "Gores pena bulu, lilin",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Laut",
+      "waktu": "2:13–2:21",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Laut malam; kapal dagang Belanda terbakar dan miring setelah ditembaki kapal perang Prancis di kejauhan; lembar-lembar kertas mengapung di air.",
+      "narasiSuara": "[tense] Di tengah laut, kapal itu diserang Prancis. [sad] Tenggelam, bersama naskahmu. [whispers] Yang tersisa hanya salinan di Ambon.",
+      "narasi": "Di tengah laut, kapal itu diserang Prancis. Tenggelam, bersama naskahmu. Yang tersisa hanya salinan di Ambon.",
+      "teksLayar": [],
+      "suara": "Dentuman meriam, ombak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Majikan",
+      "waktu": "2:21–2:31",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ruang rapat di Belanda; para pejabat VOC berjubah gelap membolak-balik naskah, satu orang menutupnya dan menyorongkannya ke laci.",
+      "narasiSuara": "[serious] Bukumu tiba di Belanda. [sarcastic] Kali ini yang menahannya bukan api, bukan laut, tapi majikanmu sendiri. [serious] VOC takut rahasia rempahnya terbongkar.",
+      "narasi": "Bukumu tiba di Belanda. Kali ini yang menahannya bukan api, bukan laut, tapi majikanmu sendiri. VOC takut rahasia rempahnya terbongkar.",
+      "teksLayar": [],
+      "suara": "Kertas dibalik, laci ditutup",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Majikan",
+      "waktu": "2:31–2:39",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Kamar sederhana di Ambon, malam; Rumphius tua terbaring, tangannya di atas tumpukan naskah, pelita hampir padam.",
+      "narasiSuara": "[sad] Kamu wafat tahun 1702, di pulau ini. [resigned] Tanpa sekali pun memegang bukumu dalam bentuk cetak.",
+      "narasi": "Kamu wafat tahun 1702, di pulau ini. Tanpa sekali pun memegang bukumu dalam bentuk cetak.",
+      "teksLayar": [
+        "1702."
+      ],
+      "suara": "Napas pelan, sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 18,
+      "babak": 6,
+      "namaBabak": "Majikan",
+      "waktu": "2:39–2:51",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Percetakan Amsterdam; jilid pertama Herbarium Amboinense terbuka di meja, halaman ukiran tumbuhan Ambon tersinari cahaya hangat jendela.",
+      "narasiSuara": "[calm] Tiga puluh sembilan tahun kemudian, jilid pertamanya terbit. [serious] Kamu kehilangan matamu, istrimu, dan karyamu. [curious] Kalau itu kamu... apa kamu akan mulai lagi?",
+      "narasi": "Tiga puluh sembilan tahun kemudian, jilid pertamanya terbit. Kamu kehilangan matamu, istrimu, dan karyamu. Kalau itu kamu... apa kamu akan mulai lagi?",
+      "teksLayar": [
+        "Amsterdam, 1741."
+      ],
+      "suara": "Mesin cetak berderak pelan",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Rumphius",
+      "prompt": "Character reference sheet of Rumphius.\nGeorg Eberhard Rumphius, a German-born Dutch East India Company merchant and naturalist living on Ambon in the late 17th century, shown in his mid-forties to sixties. Tall, lean frame slightly stooped at the shoulders; pale skin weathered and tanned by tropical sun; long narrow face, high forehead, deep-set eyes clouded milky grey from glaucoma, heavy brows, straight nose, thin lips; shoulder-length wavy greying-brown hair, clean-shaven with light stubble. Wears a soft round dark-brown cloth skullcap; a plain loose white linen shirt with a simple falling collar and full sleeves gathered at the wrist; a long unbuttoned dark-brown wool-and-linen house coat reaching below the knee; dark knee breeches, pale stockings, and plain black leather shoes with low heels. No jewelry except a plain brass ring on the left hand; often holds a leaf, shell or plant sprig. Carries himself with head tilted slightly upward as if listening, fingertips always reaching to touch what is near him.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the skullcap, coat fabric and brass ring, and one first-person panel showing his two hands and forearms in the foreground as the viewer sees them: Two pale, sun-weathered male hands of a man in his forties to fifties, long bony fingers with light calluses and short clean nails, a plain brass ring on the left ring finger, full white linen shirt cuffs gathered at the wrist peeking out from the loose dark-brown sleeves of a long house coat. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-17th-century Dutch merchant dress as worn in the tropical East Indies.\nUse the uploaded engraving only as a reference for the face, cap and coat, not for the pose or art style.\nAvoid 18th-century powdered wigs, tricorn hats, lace cravats, modern glasses, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:11",
+      "narasi": "Daun ini panjang, tepinya bergerigi. Ujung jarimu mengenalinya lebih cepat daripada matamu dulu. Karena matamu sudah tidak melihat apa-apa.",
+      "prompt": "The viewer is Rumphius: the hands and forearms in the foreground match the first-person panel of the Rumphius reference image.\nMedium close shot, slightly high angle over a wooden work table at night, lit by one small clay oil lamp; the rest of the room falls into darkness above.\nFirst-person point of view. Two pale, sun-weathered male hands of a man in his forties to fifties, long bony fingers with light calluses and short clean nails, a plain brass ring on the left ring finger, full white linen shirt cuffs gathered at the wrist peeking out from the loose dark-brown sleeves of a long house coat. The right fingertips trace the serrated edge of a long narrow green leaf lying on the table; the left hand holds the leaf stalk down. A dried seashell and a stack of loose papers sit near the lamp.\nLeaf veins and lamp flame glow softly; a moth circles the flame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of ochre, deep brown and lamp gold with deep shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid stiff symmetrical poses, background figures copying Rumphius's face or outfit, mismatched sleeves, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:20",
+      "narasi": "Tahun ini, dalam tiga bulan saja, cahaya di matamu meredup. Lalu padam. Usiamu baru empat puluh dua.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium shot at eye level, inside a modest whitewashed room with a wooden window open to bright midday light and palm fronds outside.\nRumphius sits half turned toward the window, face lifted toward the light he can no longer see; brows drawn together, clouded eyes unfocused, lips slightly parted, shoulders sunk. His right hand loosely grips a brass magnifying glass resting uselessly on his knee; his left hand gropes along the windowsill.\nDust drifts in the beam of light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of ochre, deep brown and lamp gold with deep shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:20–0:32",
+      "narasi": "Bukumu ditulis dalam bahasa Latin. Tapi tak seorang pun di sini bisa mencatat Latin dari mulutmu. Maka kamu mulai lagi, kali ini dalam bahasa Belanda.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium-wide shot from a slightly low angle, a lamp-lit study with shelves of jars, dried plants and shells.\nRumphius stands mid-gesture beside the table, holding up a leafy plant sprig in his right hand and speaking, head tilted as if listening for the pen; calm but determined, mouth open mid-word. A young clerk sits at the table writing with a quill, leaning forward, eyes on Rumphius's hand.\nThe clerk is a different person from Rumphius: a slim young Dutch man around twenty with short straw-blond hair, no cap, a plain grey wool doublet and white collar. A stack of old Latin manuscripts is pushed aside to the table corner.\nThe quill scratches, lamp smoke curls.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of ochre, deep brown and lamp gold with deep shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:32–0:42",
+      "narasi": "Lonceng kastil berdentang sendiri. Tak satu tangan pun menariknya. Malam itu, orang-orang Tionghoa di kota sedang merayakan Tahun Baru.",
+      "prompt": "Wide shot from a low angle at night, the stone walls and bell tower of a Dutch colonial castle by the sea, starlit sky above.\nThe bell in the tower swings on its own, rope hanging slack with no one holding it. In the street below, Chinese residents celebrating the Lunar New Year freeze mid-step under swaying paper lanterns, looking up at the tower in alarm; a man drops a lantern, a woman pulls a child close.\nThe townspeople are varied in age and build: Chinese men with long queues and dark tunics, Chinese women in long jackets, a few Ambonese in plain cotton cloth; none wear brown coats or skullcaps.\nLanterns sway, dust shakes from the walls.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, night palette of indigo shadows, torch orange and dusty grey, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:42–0:51",
+      "narasi": "Tanah terangkat di bawah kakimu. Kamu memanggil nama istrimu! Yang menjawab hanya suara tembok batu yang runtuh.",
+      "prompt": "The viewer is Rumphius: the hands and forearms in the foreground match the first-person panel of the Rumphius reference image.\nClose shot, tilted angle, inside a dark house at night as the floor cracks and the walls shake.\nFirst-person point of view. Two pale, sun-weathered male hands of a man in his forties to fifties, long bony fingers with light calluses and short clean nails, a plain brass ring on the left ring finger, full white linen shirt cuffs gathered at the wrist peeking out from the loose dark-brown sleeves of a long house coat. The right hand grabs a shaking wooden door frame; the left hand stretches forward into the darkness, fingers spread, reaching for someone. Plaster and dust fall from the ceiling; a lamp tips over on the floor.\nCracks run across the plastered wall.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, night palette of indigo shadows, torch orange and dusty grey, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid stiff symmetrical poses, background figures copying Rumphius's face or outfit, mismatched sleeves, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:51–1:00",
+      "narasi": "Suzanna dan putri bungsumu tertimpa tembok itu. Kamu meraba wajah mereka... satu-satunya cara melihat mereka, untuk terakhir kalinya.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium shot at eye level, collapsed stone wall rubble at night lit by torches held by unseen helpers.\nRumphius kneels among broken stones, body bent forward, both trembling hands resting on a cloth that covers two still shapes (bodies not visible, only the draped cloth); face crumpled in grief, eyes wet and unseeing, mouth open in a silent cry.\nTwo Ambonese helpers in plain cotton shirts and cloth stand back holding torches, heads bowed; they are different people from Rumphius, younger and darker-skinned, no coats.\nTorch smoke drifts over the rubble.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, night palette of indigo shadows, torch orange and dusty grey, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:00–1:11",
+      "narasi": "Ada satu bunga di bukumu yang tidak kamu temukan sendiri. Suzanna yang pertama menunjukkannya. Anggrek putih itu kamu namai Flos Susannae.",
+      "prompt": "The viewer is Rumphius: the hands and forearms in the foreground match the first-person panel of the Rumphius reference image.\nClose shot at eye level in a shaded garden at dusk.\nFirst-person point of view. Two pale, sun-weathered male hands of a man in his forties to fifties, long bony fingers with light calluses and short clean nails, a plain brass ring on the left ring finger, full white linen shirt cuffs gathered at the wrist peeking out from the loose dark-brown sleeves of a long house coat. Both hands cradle a single delicate white orchid stem with care, thumbs avoiding the petals. Behind, softened and faded like a memory, a woman (Suzanna) kneels among plants, pointing toward the same white orchid on a tree trunk, smiling gently, looking at the orchid.\nSuzanna is a woman around thirty with warm brown skin, black hair in a low bun, a long loose dark-red cotton blouse and a checked cotton cloth wrapped as a skirt; she is a different person from Rumphius.\nSoft leaves sway; the memory figure is slightly translucent.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of soft green, faded ochre and pale lamp gold with long shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid stiff symmetrical poses, background figures copying Rumphius's face or outfit, mismatched sleeves, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:20",
+      "narasi": "Rumahmu sunyi. Lalu kamu memanggil juru tulis... dan mendikte halaman berikutnya.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium-wide shot at eye level, a quiet study at night with one oil lamp; deep darkness fills the upper room.\nRumphius sits alone and still in a wooden chair, hands folded on a closed bundle of papers, shoulders heavy; then he lifts his head toward the doorway, brows easing, jaw firming with quiet resolve. In the doorway, the young clerk pauses with papers under his arm, looking at Rumphius.\nThe clerk is a different person from Rumphius: slim, short straw-blond hair, no cap, grey doublet.\nThe lamp flame flickers gently.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of soft green, faded ochre and pale lamp gold with long shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:20–1:29",
+      "narasi": "Lalu Adipati Agung Toskana menginginkan kerang-kerangmu. Tiga ratus enam puluh jenis, hasil hampir tiga puluh tahun. Kamu terpaksa melepasnya.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium shot from a slightly high angle, a veranda by day where wooden crates are being packed.\nTwo workers pack shells into straw-filled wooden crates; Rumphius stands at the crate holding a paper nautilus shell in both hands, fingertips tracing its ridges one last time before giving it up; face drawn, lips pressed, head bowed.\nThe workers are different people from Rumphius: one older Ambonese man with grey hair and a plain white cotton shirt, one young Ambonese man in a short-sleeved cotton shirt; both barefoot, no coats or caps.\nStraw drifts in the breeze.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of soft green, faded ochre and pale lamp gold with long shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:29–1:38",
+      "narasi": "Kamu mencium asap, sebelum ada yang berteriak kebakaran. Api melompat dari atap ke atap, menuju rumahmu.",
+      "prompt": "The viewer is Rumphius: the hands and forearms in the foreground match the first-person panel of the Rumphius reference image.\nMedium shot at eye level through an open wooden window at night; an orange glow and thick smoke rise over neighboring rooftops in the distance.\nFirst-person point of view. Two pale, sun-weathered male hands of a man around sixty, thin and visibly veined with age spots and swollen knuckles, long bony fingers and short clean nails, a plain brass ring on the left ring finger, frayed white linen shirt cuffs gathered at the wrist peeking out from the loose worn dark-brown sleeves of a long house coat. The right hand presses on the windowsill; the left hand reaches back toward a bookshelf full of bound volumes and rolled drawings. Sparks float in the air.\nSmoke rolls across the night sky.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of black, ember orange and smoky grey with deep shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid stiff symmetrical poses, background figures copying Rumphius's face or outfit, mismatched sleeves, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:38–1:45",
+      "narasi": "Perpustakaanmu terbakar. Catatan-catatanmu. Gambar-gambar tumbuhan yang dilukis bertahun-tahun, jadi abu. Naskah bukumu selamat, nyaris saja.",
+      "prompt": "Medium-wide shot at eye level inside a burning library at night.\nFlames climb wooden shelves; botanical drawings curl and blacken in the fire. A young Ambonese house servant rushes out mid-stride, clutching a bundle of manuscript tied with string to his chest, face turned away from the heat, eyes squinting.\nThe servant is barefoot, in a plain cotton shirt and cloth, with no coat or cap.\nEmbers and paper ash swirl upward.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of black, ember orange and smoky grey with deep shadows, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:55",
+      "narasi": "Usiamu hampir enam puluh, dan kamu buta. Tapi putramu, Paul August, mengangkat pena gambar. Dan kalian menggambar ulang semuanya.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium shot at eye level, a simple room by day with a table near a window.\nPaul August, Rumphius's son, a young man in his twenties, leans over the table drawing a leaf with a pen, eyes on his paper; Rumphius sits beside him, older and frailer, holding up the real leaf and explaining its shape with his other hand, head tilted, a faint determined smile.\nPaul August is a different person from Rumphius: younger, olive-tan skin, short dark hair, no cap, a plain blue linen shirt with rolled sleeves.\nPapers flutter slightly on the table.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of ochre, ash grey and soft daylight after the fire, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:55–2:02",
+      "narasi": "Tahun 1690, enam kitab pertama bukumu akhirnya selesai. Kamu belum tahu, laut sedang menunggunya.",
+      "prompt": "The viewer is Rumphius: the hands and forearms in the foreground match the first-person panel of the Rumphius reference image.\nClose shot from a high angle over a wooden table at dusk, warm window light from the side.\nFirst-person point of view. Two pale, sun-weathered male hands of a man around sixty, thin and visibly veined with age spots and swollen knuckles, long bony fingers and short clean nails, a plain brass ring on the left ring finger, frayed white linen shirt cuffs gathered at the wrist peeking out from the loose worn dark-brown sleeves of a long house coat. Both hands set down a tall stack of bound manuscript volumes tied with string; the right fingertips rest on the top cover, the left hand steadies the stack. A dried leaf pressed between pages sticks out.\nDust motes drift in the light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of parchment beige, candle gold and deep sea blue-black, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid stiff symmetrical poses, background figures copying Rumphius's face or outfit, mismatched sleeves, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:02–2:13",
+      "narasi": "Gubernur jenderal memerintahkan satu salinan dibuat lebih dulu. Halaman demi halaman, selama dua tahun. Baru setelah itu, naskahmu berlayar ke Belanda.",
+      "prompt": "Medium-wide shot at eye level inside a Dutch East India Company office at night lit by candles.\nThree copyists bend over a long table, copying pages with quill pens, one rubbing his tired eyes, one dipping his pen, one turning a page carefully; stacks of finished pages grow beside them.\nThe copyists vary in age and build, Dutch clerks in plain black coats with white collars, no skullcaps.\nCandle flames sway.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of parchment beige, candle gold and deep sea blue-black, historically accurate late-17th-century Dutch East India Company office.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:13–2:21",
+      "narasi": "Di tengah laut, kapal itu diserang Prancis. Tenggelam, bersama naskahmu. Yang tersisa hanya salinan di Ambon.",
+      "prompt": "Wide shot from a low angle at sea at night.\nA Dutch merchant ship lists and burns after cannon fire from a French warship in the distance, flashes on the horizon; loose manuscript pages float on dark waves in the foreground.\nSmoke and spray whip across the water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of parchment beige, candle gold and deep sea blue-black, historically accurate late-17th-century Dutch and French ships.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:21–2:31",
+      "narasi": "Bukumu tiba di Belanda. Kali ini yang menahannya bukan api, bukan laut, tapi majikanmu sendiri. VOC takut rahasia rempahnya terbongkar.",
+      "prompt": "Medium shot at eye level inside a dark-paneled meeting room in the Netherlands, lit by a tall window.\nDutch East India Company directors in black coats and white collars sit at a long table; one leafs through a thick manuscript with a frown, another taps a page warningly, a third closes the manuscript and slides it into a drawer.\nThe directors are different people from Rumphius: older, stout, with long dark periwigs, black clothes and no skullcaps.\nWindow light falls in a long beam across the table.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark wood brown, faded gold and soft warm window light, historically accurate Dutch Republic interior of the 1690s–1740s.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:31–2:39",
+      "narasi": "Kamu wafat tahun 1702, di pulau ini. Tanpa sekali pun memegang bukumu dalam bentuk cetak.",
+      "prompt": "Same character as the Rumphius reference image.\nMedium shot from a slightly high angle, a simple bedroom in Ambon at night.\nRumphius, now very old and frail, lies in bed, head turned toward the lamp, eyes half closed; his right hand rests on a stack of manuscripts beside him, fingers spread over the pages; expression peaceful but tired.\nThe oil lamp is nearly out, its flame small.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark wood brown, faded gold and soft warm window light, historically accurate late-17th-century Dutch colonial Ambon, Maluku.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "18": {
+      "waktu": "2:39–2:51",
+      "narasi": "Tiga puluh sembilan tahun kemudian, jilid pertamanya terbit. Kamu kehilangan matamu, istrimu, dan karyamu. Kalau itu kamu... apa kamu akan mulai lagi?",
+      "prompt": "Medium shot at eye level inside an Amsterdam print shop by day.\nA printer in an apron lifts the freshly printed first volume of the Ambonese Herbal, open to a page of engraved Ambon plants; an apprentice leans in to look, pointing at the illustration.\nThe printer and apprentice are different people from Rumphius: a stocky middle-aged man with rolled sleeves and a leather apron, and a thin teenage boy.\nWarm window light falls on the open pages.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark wood brown, faded gold and soft warm window light, historically accurate Dutch Republic interior of the 1690s–1740s.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Rumphius's face or outfit, identical faces, 18th-century powdered wigs, tricorn hats, modern glasses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice pria dewasa yang hangat dan agak berat; voice paling menentukan, tag tidak bisa memaksa voice lembut untuk berteriak (adegan 5).\n\n- Babak 1: tenang dan getir, tempo pelan, jeda di \"tidak melihat apa-apa\".\n- Babak 2: tegang dan makin cepat, satu teriakan di adegan 5, lalu runtuh menjadi tangis.\n- Babak 3: berbisik dan lembut, hening di adegan 8, lalu datar dan pasrah.\n- Babak 4: cemas, tempo cepat, sedih di adegan 11, bangkit perlahan di adegan 12.\n- Babak 5: tenang penuh harap, lalu tegang, berbisik di akhir.\n- Babak 6: serius dan sinis di adegan 16, sedih di 17, reflektif dan bertanya di 18.",
+    "arahanBabak": {
+      "1": "tenang dan getir, tempo pelan, jeda di \"tidak melihat apa-apa\".",
+      "2": "tegang dan makin cepat, satu teriakan di adegan 5, lalu runtuh menjadi tangis.",
+      "3": "berbisik dan lembut, hening di adegan 8, lalu datar dan pasrah.",
+      "4": "cemas, tempo cepat, sedih di adegan 11, bangkit perlahan di adegan 12.",
+      "5": "tenang penuh harap, lalu tegang, berbisik di akhir.",
+      "6": "serius dan sinis di adegan 16, sedih di 17, reflektif dan bertanya di 18."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Daun ini panjang, tepinya bergerigi. [curious] Ujung jarimu mengenalinya lebih cepat daripada matamu dulu. [sad] Karena matamu sudah tidak melihat apa-apa. ...\n\n[serious] Tahun ini, dalam tiga bulan saja, cahaya di matamu meredup. [sad] Lalu padam. [resigned] Usiamu baru empat puluh dua. ...\n\n[serious] Bukumu ditulis dalam bahasa Latin. [tense] Tapi tak seorang pun di sini bisa mencatat Latin dari mulutmu. [calm] Maka kamu mulai lagi, kali ini dalam bahasa Belanda. ...",
+    "2": "[tense] Lonceng kastil berdentang sendiri. [nervous] Tak satu tangan pun menariknya. [curious] Malam itu, orang-orang Tionghoa di kota sedang merayakan Tahun Baru. ...\n\n[nervous] Tanah terangkat di bawah kakimu. [shouting] Kamu memanggil nama istrimu! [tense] Yang menjawab hanya suara tembok batu yang runtuh. ...\n\n[sad] Suzanna dan putri bungsumu tertimpa tembok itu. [crying] Kamu meraba wajah mereka... [sad] satu-satunya cara melihat mereka, untuk terakhir kalinya. ...",
+    "3": "[sad] Ada satu bunga di bukumu yang tidak kamu temukan sendiri. [whispers] Suzanna yang pertama menunjukkannya. [sad] [whispers] Anggrek putih itu kamu namai Flos Susannae. ...\n\n[resigned] Rumahmu sunyi. [sighs] [calm] Lalu kamu memanggil juru tulis... [serious] dan mendikte halaman berikutnya. ...\n\n[tense] Lalu Adipati Agung Toskana menginginkan kerang-kerangmu. [sad] Tiga ratus enam puluh jenis, hasil hampir tiga puluh tahun. [resigned] Kamu terpaksa melepasnya. ...",
+    "4": "[tense] Kamu mencium asap, sebelum ada yang berteriak kebakaran. [nervous] Api melompat dari atap ke atap, menuju rumahmu. ...\n\n[sad] Perpustakaanmu terbakar. [sad] Catatan-catatanmu. [crying] Gambar-gambar tumbuhan yang dilukis bertahun-tahun, jadi abu. [tense] Naskah bukumu selamat, nyaris saja. ...\n\n[resigned] Usiamu hampir enam puluh, dan kamu buta. [serious] Tapi putramu, Paul August, mengangkat pena gambar. [calm] Dan kalian menggambar ulang semuanya. ...",
+    "5": "[calm] Tahun 1690, enam kitab pertama bukumu akhirnya selesai. [tense] Kamu belum tahu, laut sedang menunggunya. ...\n\n[curious] Gubernur jenderal memerintahkan satu salinan dibuat lebih dulu. [serious] Halaman demi halaman, selama dua tahun. [calm] Baru setelah itu, naskahmu berlayar ke Belanda. ...\n\n[tense] Di tengah laut, kapal itu diserang Prancis. [sad] Tenggelam, bersama naskahmu. [whispers] Yang tersisa hanya salinan di Ambon. ...",
+    "6": "[serious] Bukumu tiba di Belanda. [sarcastic] Kali ini yang menahannya bukan api, bukan laut, tapi majikanmu sendiri. [serious] VOC takut rahasia rempahnya terbongkar. ...\n\n[sad] Kamu wafat tahun 1702, di pulau ini. [resigned] Tanpa sekali pun memegang bukumu dalam bentuk cetak. ...\n\n[calm] Tiga puluh sembilan tahun kemudian, jilid pertamanya terbit. [serious] Kamu kehilangan matamu, istrimu, dan karyamu. [curious] Kalau itu kamu... apa kamu akan mulai lagi? ..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pelita dan Lonceng",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Tenang dan sunyi, berubah tegang dan pecah saat gempa",
+      "style": "Baroque chamber ambient with soft harpsichord and solo viola, a faint Moluccan tifa drum pulse underneath, contemplative and lonely, starts sparse and still, builds tension with low strings and rumbling drums in the second half, then breaks off into a sorrowful fade, about 65 seconds long (1:05), with a clear ending, 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic, pop, epic trailer"
+    },
+    {
+      "nomor": 2,
+      "nama": "Anggrek dan Abu",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Duka lembut, hening, lalu cemas dan membara",
+      "style": "Melancholic solo viola da gamba and soft lute over a slow tifa heartbeat, tender and grieving, near-silent stretch in the middle, then rising urgency with tremolo strings and crackling percussion, ending in a quiet resolute phrase, about 60 seconds long (1:00), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic, pop, rock"
+    },
+    {
+      "nomor": 3,
+      "nama": "Laut dan Laci",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "1:05",
+      "suasana": "Harap yang tenggelam, getir, lalu reflektif di akhir",
+      "style": "Somber baroque strings and harpsichord with distant ocean-like low drones, hopeful opening melody that sinks into minor key, sparse and bittersweet, final reflective cadence fading out gently, about 65 seconds long (1:05), with a clear ending, 62 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic, pop, epic trailer"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Gesekan daun di meja kayu",
+      "kataKunci": "leaf rustle paper close",
+      "prompt": "Close-up rustle of a dry leaf being touched on a wooden table, quiet room"
+    },
+    {
+      "nomor": 2,
+      "adegan": 3,
+      "bunyi": "Gores pena bulu",
+      "kataKunci": "quill pen writing",
+      "prompt": "Quill pen scratching on paper, slow and steady"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Lonceng kastil berdentang tak beraturan",
+      "kataKunci": "church bell irregular ringing",
+      "prompt": "A large bronze bell ringing irregularly by itself at night, distant crowd murmurs"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Gemuruh gempa dan tembok runtuh",
+      "kataKunci": "earthquake rumble wall collapse",
+      "prompt": "Deep earthquake rumble with cracking plaster and a stone wall collapsing"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Obor berderak",
+      "kataKunci": "torch crackle",
+      "prompt": "Burning torches crackling softly outdoors at night"
+    },
+    {
+      "nomor": 6,
+      "adegan": 9,
+      "bunyi": "Palu memaku peti kayu",
+      "kataKunci": "hammer nailing crate",
+      "prompt": "Hammer nailing a wooden crate lid, a few slow blows"
+    },
+    {
+      "nomor": 7,
+      "adegan": 10,
+      "bunyi": "Kebakaran di kejauhan",
+      "kataKunci": "distant fire crowd shouting",
+      "prompt": "Distant fire roaring with faint shouting voices at night"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Api menderu, kertas terbakar",
+      "kataKunci": "fire roar paper burning",
+      "prompt": "Close fire roaring and paper pages burning and curling"
+    },
+    {
+      "nomor": 9,
+      "adegan": 15,
+      "bunyi": "Meriam dan ombak",
+      "kataKunci": "cannon fire sea waves",
+      "prompt": "Distant cannon shots over the sea at night, heavy waves"
+    },
+    {
+      "nomor": 10,
+      "adegan": 16,
+      "bunyi": "Laci kayu ditutup",
+      "kataKunci": "wooden drawer close",
+      "prompt": "Heavy wooden drawer sliding shut in a quiet room"
+    },
+    {
+      "nomor": 11,
+      "adegan": 18,
+      "bunyi": "Mesin cetak kayu",
+      "kataKunci": "printing press wooden",
+      "prompt": "Old wooden hand printing press creaking and thumping slowly"
+    }
+  ],
+  "adeganHening": [
+    8
+  ],
+  "ulikan": {
+    "teks": "Tsunami Ambon 1674 mencapai sekitar 100 meter, tertinggi yang pernah tercatat di Indonesia.",
+    "sumber": "Wikipedia (1674 Ambon earthquake and megatsunami), mengutip Pranantyo & Cummins (2020)",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Rumphius, Naturalis Buta di Ambon",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Rumphius, Naturalis Buta\nAlternatif judul: POV: Kamu Naturalis Buta di Ambon, 1670 / POV: Kamu Kehilangan Segalanya demi Satu Buku",
+      "caption": "Kamu buta. Istrimu tewas. Perpustakaanmu terbakar. Kamu masih mau menulis?\n\nGeorg Eberhard Rumphius, pegawai VOC di Ambon, buta sejak 1670 tetapi terus mendikte ensiklopedia tumbuhan Maluku. Herbarium Amboinense memuat sekitar 1.200 jenis tumbuhan dan baru terbit pada 1741, 39 tahun setelah ia wafat.\n\nKalau kamu di posisinya, kamu mulai lagi atau berhenti?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Encyclopaedia Romana (University of Chicago), Wikipedia.\n\n#UlikSilam #sejarahindonesia #rumphius #ambon #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Rumphius, Naturalis Buta di Ambon",
+      "catatan": "",
+      "caption": "Kamu buta. Istrimu tewas. Perpustakaanmu terbakar. Kamu masih mau menulis?\n\nRumphius, naturalis VOC di Ambon, kehilangan mata, keluarga, perpustakaan, dan naskahnya, tetapi bukunya tentang sekitar 1.200 jenis tumbuhan Maluku akhirnya terbit pada 1741.\n\nKalau kamu di posisinya, kamu mulai lagi atau berhenti?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Encyclopaedia Romana (University of Chicago), Wikipedia.\n\n#UlikSilam #sejarahindonesia #rumphius #ambon #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 18,
+    "jumlahBabak": 6,
+    "totalKata": 324,
+    "kataPerBabak": {
+      "1": 61,
+      "2": 54,
+      "3": 51,
+      "4": 50,
+      "5": 51,
+      "6": 57
+    },
+    "karakterPerBabak": {
+      "1": 477,
+      "2": 471,
+      "3": 469,
+      "4": 462,
+      "5": 437,
+      "6": 463
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 169.2,
+      "denganMerek": 174.2
+    },
+    "perkiraanDetik135": {
+      "narasi": 163.7,
+      "denganMerek": 168.7
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

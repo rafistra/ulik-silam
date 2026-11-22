@@ -1,0 +1,21 @@
+judul: "POV: Kamu Bangsawan Jawa di Abad ke-19"
+slug: pov-bangsawan-jawa
+format: POV
+lapisan: ["Sejarah"]
+latar: "Kabupaten di Jawa Tengah, masa Tanam Paksa"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v3 · 2026-10-17"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Raden Mas"]
+aset: {ilustrasi: 17, narasi: 23, musik: 3, sfx: 17}
+render: "out/Video.mp4"
+tanggal_render: 2026-10-17
+tautan: {"shorts": "https://youtube.com/shorts/6VW_Osg2LaI", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7697450790348180754"}
+arsip_lama: "pov/pov-bangsawan-jawa"
+catatan: ""
+metrik_shorts: {"views": 374, "jam_tonton": 6.8, "rata_tonton_detik": 65.6, "durasi_detik": 180, "persen_ditonton": 36.4, "subscriber": 2, "impresi": 1279, "ctr": 5.63, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-17", "tiktok": "2026-10-17"}
+metrik_tiktok: {"views": 1003, "suka": 47, "komentar": 2, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

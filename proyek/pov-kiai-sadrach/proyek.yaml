@@ -1,0 +1,21 @@
+judul: "POV: Kamu Kiai Sadrach, Santri yang Dicurigai Semua Pihak"
+slug: pov-kiai-sadrach
+format: POV
+lapisan: ["Sejarah"]
+latar: "Karangjasa, Bagelen (Purworejo)"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v3 · 2026-11-11"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Radin", "Kiai Sadrach", "Zendeling Bieger"]
+aset: {ilustrasi: 17, narasi: 24, musik: 3, sfx: 10}
+render: "out/pov-kiai-sadrach.mp4"
+tanggal_render: 2026-11-11
+tautan: {"shorts": "https://youtube.com/shorts/x2TtM9HzsCM", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7706929497706286354"}
+arsip_lama: "pov/pov-kiai-sadrach"
+catatan: ""
+metrik_shorts: {"views": 27079, "jam_tonton": 521.4, "rata_tonton_detik": 69.3, "durasi_detik": 168, "persen_ditonton": 41.2, "subscriber": 39, "impresi": 1890, "ctr": 5.19, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-12", "tiktok": "2026-11-12"}
+metrik_tiktok: {"views": 3018, "suka": 75, "komentar": 1, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

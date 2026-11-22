@@ -1,0 +1,670 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-20T12:17:40.425Z",
+  "judulDokumen": "Buruh Gula Tionghoa, Geger Pacinan 1740",
+  "judul": "POV: Kamu Buruh Gula Tionghoa di Batavia, 1740",
+  "slug": "pov-buruh-gula-geger-pacinan",
+  "versi": "v1 · 2026-10-19",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Batavia, masa VOC",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Buruh harian Tionghoa (fiktif, ±25 tahun) di pabrik gula milik saudagar Tionghoa di luar tembok Batavia; adiknya, A Kiong, bekerja di toko di dalam kota",
+  "ringkasan": {
+    "Judul": "POV: Kamu Buruh Gula Tionghoa di Batavia, 1740",
+    "Slug": "pov-buruh-gula-geger-pacinan",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:43, dengan elemen merek ±2:48)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Buruh harian Tionghoa (fiktif, ±25 tahun) di pabrik gula milik saudagar Tionghoa di luar tembok Batavia; adiknya, A Kiong, bekerja di toko di dalam kota",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter: Kamu, A Seng)",
+    "Lapisan": "Sejarah",
+    "Latar": "Batavia, masa VOC",
+    "Benang merah": "Dua desas-desus: kabar kapal ke Ceylon memicu pemberontakan buruh; kabar \"orang Tionghoa akan membunuh warga lain\" memicu pembantaian di dalam kota",
+    "Nada": "Tegang di awal, megah dan heroik di babak serangan (dari mata \"kamu\"), lalu kelam dan reflektif",
+    "Kekerasan": "Ditampilkan: serbuan bersenjata, rumah terbakar, mayat di medan dan kanal. Tanpa gore eksplisit (luka terbuka, potongan tubuh, kepala hadiah)",
+    "Hindari": "Gore eksplisit; menyalahkan satu suku; narasi yang menyimpulkan kekerasan itu benar atau mulia; arti \"Angke = sungai merah\" sebagai fakta; kutipan tokoh nyata yang tidak terdokumentasi",
+    "Asumsi": "Adik laki-laki; nasib adik tidak diketahui; kawan buruh A Seng gugur dalam serangan 8 Oktober; kejadian di dalam kota hadir lewat cerita penyintas di Gading Melati; caption memuat peringatan konten kekerasan",
+    "Dipilih karena": "Brainstorming 19 Okt 2026: alur hitung mundur ke 9 Oktober dengan akhir \"dua desas-desus\"; kekerasan dirasakan heroik oleh \"kamu\" saat itu, lalu dibayar dengan mayat kawan",
+    "Versi": "v1 · 2026-10-19"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Gula yang tak lagi manis",
+      "suasana": "Kerja keras, resah tertahan",
+      "palet": "Cokelat gula aren, oker, hitam arang, merah tungku",
+      "cahaya": "Malam, api tungku sebagai satu-satunya cahaya hangat; siang lembap untuk adegan kota"
+    },
+    {
+      "babak": 2,
+      "nama": "Kapal ke Ceylon",
+      "suasana": "Cemas, kehilangan",
+      "palet": "Biru nila pudar, abu laut, tembaga senja",
+      "cahaya": "Matahari rendah, bayangan panjang"
+    },
+    {
+      "babak": 3,
+      "nama": "Malam perlawanan",
+      "suasana": "Megah, heroik, tegang",
+      "palet": "Jingga obor, merah bara, hitam malam, kilau besi",
+      "cahaya": "Obor, api pos yang terbakar, kilatan meriam"
+    },
+    {
+      "babak": 4,
+      "nama": "Asap di atas tembok",
+      "suasana": "Hening, duka, ngeri",
+      "palet": "Abu mesiu, cokelat lumpur, jingga redup di ufuk",
+      "cahaya": "Senja berasap; asap hitam dengan cahaya api di baliknya"
+    },
+    {
+      "babak": 5,
+      "nama": "Cerita dari dalam",
+      "suasana": "Kelam, mencekam",
+      "palet": "Merah api tua, hitam kanal, oker hangus",
+      "cahaya": "Api unggun di perkemahan; kota terbakar di adegan cerita"
+    },
+    {
+      "babak": 6,
+      "nama": "Ke timur",
+      "suasana": "Reflektif, letih",
+      "palet": "Abu fajar, biru kelabu laut, satu titik hangat",
+      "cahaya": "Fajar redup dari timur"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Gula yang tak lagi manis",
+    "2": "Kapal ke Ceylon",
+    "3": "Malam perlawanan",
+    "4": "Asap di atas tembok",
+    "5": "Cerita dari dalam",
+    "6": "Ke timur"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Gula yang tak lagi manis",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam di pabrik gula: tangan \"kamu\" yang lengket gula menyodorkan tebu ke gilingan kayu; api tungku di bawah kuali gula jadi satu-satunya cahaya hangat.",
+      "narasiSuara": "[tense] Harga gula anjlok, dan kerja makin langka. [whispers] Kini kabarnya, kapal ke Ceylon membuang orang sepertimu ke laut.",
+      "narasi": "Harga gula anjlok, dan kerja makin langka. Kini kabarnya, kapal ke Ceylon membuang orang sepertimu ke laut.",
+      "teksLayar": [
+        "Luar tembok Batavia, 1740."
+      ],
+      "suara": "Derit gilingan, api tungku, serangga malam",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Gula yang tak lagi manis",
+      "waktu": "0:09–0:18",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "\"Kamu\" dan A Seng mengaduk kuali gula bersama buruh lain; di serambi, saudagar pemilik pabrik berbaju sutra menghitung dengan sempoa.",
+      "narasiSuara": "[calm] Kamu dan A Seng buruh pabrik gula di luar tembok Batavia. [serious] Pabriknya milik saudagar Tionghoa, harga gulanya diatur Kompeni.",
+      "narasi": "Kamu dan A Seng buruh pabrik gula di luar tembok Batavia. Pabriknya milik saudagar Tionghoa, harga gulanya diatur Kompeni.",
+      "teksLayar": [],
+      "suara": "Adukan kayu di kuali, klik sempoa",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Gula yang tak lagi manis",
+      "waktu": "0:18–0:28",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Jalan pecinan di dalam tembok kota, rumah berderet di tepi kanal; A Kiong tersenyum di depan toko sambil mengikatkan gelang benang merah di pergelangan \"kamu\".",
+      "narasiSuara": "[calm] Adikmu, A Kiong, lebih beruntung. [curious] Ia bekerja di sebuah toko di dalam tembok kota, tempat orang Tionghoa boleh tinggal.",
+      "narasi": "Adikmu, A Kiong, lebih beruntung. Ia bekerja di sebuah toko di dalam tembok kota, tempat orang Tionghoa boleh tinggal.",
+      "teksLayar": [],
+      "suara": "Keramaian pasar, perahu di kanal",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Kapal ke Ceylon",
+      "waktu": "0:28–0:37",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kerumunan buruh di depan pabrik; petugas Kompeni membacakan maklumat dari gulungan kertas, dijaga serdadu bersenapan.",
+      "narasiSuara": "[tense] Lalu Kompeni memutuskan: orang Tionghoa yang dicurigai akan diangkut ke Ceylon. [serious] Memetik kayu manis, jauh di seberang laut.",
+      "narasi": "Lalu Kompeni memutuskan: orang Tionghoa yang dicurigai akan diangkut ke Ceylon. Memetik kayu manis, jauh di seberang laut.",
+      "teksLayar": [
+        "25 Juli 1740."
+      ],
+      "suara": "Suara pembaca maklumat samar, bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Kapal ke Ceylon",
+      "waktu": "0:37–0:46",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Senja di pelabuhan: serdadu menggiring kawan sekampung \"kamu\", tangan terikat, ke perahu menuju kapal besar di laut.",
+      "narasiSuara": "[sad] Kawan sekampungmu ikut digiring ke kapal. [whispers] Kabarnya, begitu Jawa hilang dari pandangan, mereka dilempar ke laut.",
+      "narasi": "Kawan sekampungmu ikut digiring ke kapal. Kabarnya, begitu Jawa hilang dari pandangan, mereka dilempar ke laut.",
+      "teksLayar": [],
+      "suara": "Ombak, tali, teriakan jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Kapal ke Ceylon",
+      "waktu": "0:46–0:54",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Gerbang kota sore hari: A Kiong menggeleng di balik gerbang, lentera menyala di belakangnya; \"kamu\" berdiri di luar.",
+      "narasiSuara": "[nervous] Kamu memohon A Kiong ikut keluar dari kota. [sad] Ia menggeleng. [calm] Katanya, di balik tembok, ia aman.",
+      "narasi": "Kamu memohon A Kiong ikut keluar dari kota. Ia menggeleng. Katanya, di balik tembok, ia aman.",
+      "teksLayar": [],
+      "suara": "Langkah, angin sore",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Malam perlawanan",
+      "waktu": "0:54–1:03",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Pabrik gula yang ditinggalkan, malam: tangan \"kamu\" menggenggam parang buatan sendiri; buruh lain menyiapkan tombak bambu di bawah cahaya obor.",
+      "narasiSuara": "[angry] Satu per satu, para buruh meninggalkan pabrik. [excited] Kalian membuat senjata sendiri. [excited] Daripada menunggu kapal, lebih baik melawan.",
+      "narasi": "Satu per satu, para buruh meninggalkan pabrik. Kalian membuat senjata sendiri. Daripada menunggu kapal, lebih baik melawan.",
+      "teksLayar": [
+        "September 1740."
+      ],
+      "suara": "Gesekan logam, obor berkobar",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Malam perlawanan",
+      "waktu": "1:03–1:14",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sudut rendah, heroik: A Seng berlari membawa obor dan parang di depan barisan buruh yang menyerbu pos kayu Kompeni; pos terbakar, sosok serdadu tumbang di latar.",
+      "narasiSuara": "[excited] 7 Oktober, kalian menyergap pos-pos Kompeni. [excited] A Seng berlari di sampingmu, parang terangkat. [serious] Lima puluh serdadu tewas. [excited] Untuk pertama kalinya, merekalah yang takut.",
+      "narasi": "7 Oktober, kalian menyergap pos-pos Kompeni. A Seng berlari di sampingmu, parang terangkat. Lima puluh serdadu tewas. Untuk pertama kalinya, merekalah yang takut.",
+      "teksLayar": [],
+      "suara": "Sorak, letusan senapan, api",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Malam perlawanan",
+      "waktu": "1:14–1:23",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Dari tengah barisan ribuan pemberontak di depan parit, tembok bastion Batavia menjulang; kilatan meriam di atasnya.",
+      "narasiSuara": "[excited] Esoknya, ribuan orang dari Tangerang dan Bekasi bergabung. [shouting] Kalian menyerbu tembok Batavia! [tense] Lalu meriam di atas tembok menyalak.",
+      "narasi": "Esoknya, ribuan orang dari Tangerang dan Bekasi bergabung. Kalian menyerbu tembok Batavia! Lalu meriam di atas tembok menyalak.",
+      "teksLayar": [],
+      "suara": "Sorak massa, dentuman meriam",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Asap di atas tembok",
+      "waktu": "1:23–1:35",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Senja berasap di parit depan tembok: tangan \"kamu\" menyentuh bahu A Seng yang terbaring diam di antara tubuh-tubuh pemberontak. Mayat tampak utuh, tanpa luka terbuka.",
+      "narasiSuara": "[sad] Serangan itu dipukul mundur. [sad] [whispers] Saat asap mesiu turun, kamu menemukan A Seng... di antara tubuh-tubuh di bawah tembok.",
+      "narasi": "Serangan itu dipukul mundur. Saat asap mesiu turun, kamu menemukan A Seng... di antara tubuh-tubuh di bawah tembok.",
+      "teksLayar": [],
+      "suara": "Hening, angin, burung jauh",
+      "hening": true,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Asap di atas tembok",
+      "waktu": "1:35–1:46",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Sore 9 Oktober, dari semak di luar tembok: asap hitam tebal membubung di atas atap-atap kota, cahaya api di baliknya.",
+      "narasiSuara": "[tense] Sore 9 Oktober, meriam berdentum di kota. [nervous] Asap hitam naik dari arah toko adikmu. [resigned] Tembok yang katanya melindungi A Kiong... kini mengurungnya.",
+      "narasi": "Sore 9 Oktober, meriam berdentum di kota. Asap hitam naik dari arah toko adikmu. Tembok yang katanya melindungi A Kiong... kini mengurungnya.",
+      "teksLayar": [],
+      "suara": "Dentuman meriam jauh, gemeretak api",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 12,
+      "babak": 5,
+      "namaBabak": "Cerita dari dalam",
+      "waktu": "1:46–1:56",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Malam di perkemahan penyintas Gading Melati: pemuda berbaju hangus bercerita di depan api unggun; \"kamu\" mendengarkan.",
+      "narasiSuara": "[serious] Di Gading Melati, kamu bertemu penyintas dari dalam kota. [sad] Ia bercerita: sebelum serbuan, pisau dapur pun disita, lilin dilarang dinyalakan.",
+      "narasi": "Di Gading Melati, kamu bertemu penyintas dari dalam kota. Ia bercerita: sebelum serbuan, pisau dapur pun disita, lilin dilarang dinyalakan.",
+      "teksLayar": [
+        "Gading Melati, Oktober 1740."
+      ],
+      "suara": "Api unggun, suara pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Cerita dari dalam",
+      "waktu": "1:56–2:07",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Cerita penyintas: deretan rumah Tionghoa di tepi Kali Besar terbakar malam hari; orang-orang berlari keluar dari api, serdadu Kompeni membidik.",
+      "narasiSuara": "[tense] Lalu tersiar kabar: orang Tionghoa akan membunuh dan memperbudak warga lain. [angry] Rumah-rumah di tepi Kali Besar dibakar. [sad] Yang keluar dari api, ditembak.",
+      "narasi": "Lalu tersiar kabar: orang Tionghoa akan membunuh dan memperbudak warga lain. Rumah-rumah di tepi Kali Besar dibakar. Yang keluar dari api, ditembak.",
+      "teksLayar": [],
+      "suara": "Api, teriakan, letusan senapan",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Cerita dari dalam",
+      "waktu": "2:07–2:17",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Kanal di bawah langit merah api; perahu berisi serdadu; tubuh-tubuh mengapung di air gelap, tanpa luka terbuka.",
+      "narasiSuara": "[sad] Yang lari ke kanal dihabisi dari atas perahu. [sad] Orang sakit dan tahanan pun dibunuh. [sad] [whispers] Kanal-kanal penuh mayat...",
+      "narasi": "Yang lari ke kanal dihabisi dari atas perahu. Orang sakit dan tahanan pun dibunuh. Kanal-kanal penuh mayat...",
+      "teksLayar": [],
+      "suara": "Air, api jauh, hening",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Cerita dari dalam",
+      "waktu": "2:17–2:25",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menggenggam gelang benang merah di pergelangan; di depan, penyintas menunduk dan menggeleng.",
+      "narasiSuara": "[sad] Kepala orang Tionghoa pun diberi harga. [whispers] Kamu menyebut nama A Kiong. [sad] Tak seorang pun pernah melihatnya lagi.",
+      "narasi": "Kepala orang Tionghoa pun diberi harga. Kamu menyebut nama A Kiong. Tak seorang pun pernah melihatnya lagi.",
+      "teksLayar": [],
+      "suara": "Api unggun, isak tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Ke timur",
+      "waktu": "2:25–2:34",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dari belakang: \"kamu\" berjalan bersama rombongan pemberontak menyusuri pantai utara saat fajar; di kejauhan asap pabrik gula terbakar.",
+      "narasiSuara": "[resigned] Pabrik-pabrik gula tempat kalian bertahan dibakar pasukan Kompeni. [serious] Kamu berjalan ke timur menyusuri pantai utara, bersama sisa-sisa pemberontak.",
+      "narasi": "Pabrik-pabrik gula tempat kalian bertahan dibakar pasukan Kompeni. Kamu berjalan ke timur menyusuri pantai utara, bersama sisa-sisa pemberontak.",
+      "teksLayar": [
+        "Akhir Oktober 1740."
+      ],
+      "suara": "Ombak, langkah di pasir",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Ke timur",
+      "waktu": "2:34–2:43",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" memegang parang yang sompek, gelang benang merah di pergelangan, diterangi cahaya fajar redup.",
+      "narasiSuara": "[resigned] Kamu menatap parangmu. [sad] Satu desas-desus membuatmu mengangkat parang itu... [whispers] Desas-desus lain membuat sebuah kota memburu adikmu.",
+      "narasi": "Kamu menatap parangmu. Satu desas-desus membuatmu mengangkat parang itu... Desas-desus lain membuat sebuah kota memburu adikmu.",
+      "teksLayar": [],
+      "suara": "Ombak pelan, musik turun",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Kamu",
+      "prompt": "Character reference sheet of Kamu: a Chinese sugar-mill laborer in 1740 Batavia, about 25 years old, lean and sun-darkened, high cheekbones, tired but steady eyes, shaved forehead with a long single braided queue, faded indigo-blue loose cotton jacket with cloth knot buttons and rolled sleeves, dark baggy cotton trousers, straw sandals, a thin red string bracelet on the left wrist. Front view, side view and back view, full body, neutral standing pose, plain warm off-white background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate 1740 Batavia, Dutch East India Company era. Avoid caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "A Seng",
+      "prompt": "Character reference sheet of A Seng: a Chinese sugar-mill laborer in 1740 Batavia, about 30 years old, stocky and broad-shouldered, round weathered face with short stubble and a small scar through the left eyebrow, shaved forehead with a long queue coiled around his head, open faded black cotton vest over a bare chest, dark trousers rolled to the knee, cloth sash at the waist. Front view, side view and back view, full body, neutral standing pose, plain warm off-white background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate 1740 Batavia, Dutch East India Company era. Avoid caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Harga gula anjlok, dan kerja makin langka. Kini kabarnya, kapal ke Ceylon membuang orang sepertimu ke laut.",
+      "prompt": "First-person view at night inside a Chinese sugar mill outside the walls of Batavia: the viewer's own sun-darkened hands, sticky with sugar, bare wrists without any bracelet, faded indigo-blue sleeves rolled up, push a stalk of sugarcane between a pair of upright stone cylinder rollers turned by a water buffalo in the dim background; beside them a wood-fired furnace glows under a large boiling pan of sugarcane juice, the only warm light. The hands sit at the lower edge of the middle third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of palm-sugar brown, ochre, charcoal black and furnace red, deep shadows, steam rising into darkness. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:18",
+      "narasi": "Kamu dan A Seng buruh pabrik gula di luar tembok Batavia. Pabriknya milik saudagar Tionghoa, harga gulanya diatur Kompeni.",
+      "prompt": "Same character as the Kamu reference image. Same character as the A Seng reference image. Kamu, without any bracelet, and A Seng stir a large boiling pan of sugarcane juice with long wooden paddles beside other Chinese laborers in an open-sided mill shed with a thatched roof; on a raised veranda in the background a plump wealthy Chinese mill owner about 50, in a dark teal silk robe and skullcap, counts on an abacus. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Evening, warm furnace light and steam, palette of brown, ochre and charcoal. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:28",
+      "narasi": "Adikmu, A Kiong, lebih beruntung. Ia bekerja di sebuah toko di dalam tembok kota, tempat orang Tionghoa boleh tinggal.",
+      "prompt": "Same character as the Kamu reference image. A street of the Chinese quarter inside the walled city of Batavia, two-storey houses with tiled roofs lining a canal with small boats; A Kiong, a Chinese shop assistant about 17 years old, slim, clean-shaven boyish face, bright eyes, shaved forehead with a neat long queue, clean light-grey long cotton tunic fastened at the side, black trousers, black cloth shoes, smiles in front of a small shop as he ties a thin red string bracelet around Kamu's left wrist, while Kamu carries a sack of sugar on his shoulder. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Soft humid daylight, warm earth palette with touches of red lanterns. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:37",
+      "narasi": "Lalu Kompeni memutuskan: orang Tionghoa yang dicurigai akan diangkut ke Ceylon. Memetik kayu manis, jauh di seberang laut.",
+      "prompt": "First-person view from inside a crowd of Chinese sugar-mill laborers in front of a mill at dusk: an official of the Dutch East India Company in a dark coat and tricorn hat reads a decree from a paper scroll, guarded by soldiers of the Dutch East India Company in plain dark-blue coats with brass buttons and black tricorn hats, holding flintlock muskets; the viewer's faded indigo-blue sleeve and thin red string bracelet show at the lower edge of the middle third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Tense faces, long shadows, palette of faded indigo, dusty grey and copper sunset light. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:46",
+      "narasi": "Kawan sekampungmu ikut digiring ke kapal. Kabarnya, begitu Jawa hilang dari pandangan, mereka dilempar ke laut.",
+      "prompt": "Dusk at the harbor of Batavia: soldiers of the Dutch East India Company in plain dark-blue coats with brass buttons and black tricorn hats, holding flintlock muskets, march a line of Chinese laborers with bound hands onto a rowing boat heading toward a large sailing ship waiting at sea; one young laborer looks back over his shoulder toward the shore. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Low copper sun, grey sea, long shadows, sorrowful mood. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:46–0:54",
+      "narasi": "Kamu memohon A Kiong ikut keluar dari kota. Ia menggeleng. Katanya, di balik tembok, ia aman.",
+      "prompt": "Same character as the Kamu reference image. Late afternoon at a coral-stone city gate of Batavia: just inside the gate stands A Kiong, a Chinese shop assistant about 17 years old, slim, clean-shaven boyish face, bright eyes, shaved forehead with a neat long queue, clean light-grey long cotton tunic fastened at the side, black trousers, black cloth shoes, shaking his head with a gentle, reassuring smile, a lit lantern glowing behind him; Kamu stands outside the gate in the foreground, seen from behind at a three-quarter angle, reaching toward him. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Warm lantern light against the cool shadow of the gate, earth palette. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:54–1:03",
+      "narasi": "Satu per satu, para buruh meninggalkan pabrik. Kalian membuat senjata sendiri. Daripada menunggu kapal, lebih baik melawan.",
+      "prompt": "First-person view at night inside an abandoned sugar mill: the viewer's own hands, thin red string bracelet on the left wrist, grip a crude homemade machete at the lower edge of the middle third; around him Chinese laborers sharpen bamboo spears and makeshift blades by torchlight, determined faces. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of torch orange, ember red and deep black, sparks flying. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:03–1:14",
+      "narasi": "7 Oktober, kalian menyergap pos-pos Kompeni. A Seng berlari di sampingmu, parang terangkat. Lima puluh serdadu tewas. Untuk pertama kalinya, merekalah yang takut.",
+      "prompt": "Same character as the A Seng reference image. Heroic low-angle view at night: A Seng runs forward with a blazing torch and a raised machete at the head of a charging crowd of Chinese laborers storming a wooden outpost of the Dutch East India Company; the outpost is burning, and silhouettes of soldiers in tricorn hats fall back into the smoke behind. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Torch orange and ember red against a black sky, dynamic motion, epic mood. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:14–1:23",
+      "narasi": "Esoknya, ribuan orang dari Tangerang dan Bekasi bergabung. Kalian menyerbu tembok Batavia! Lalu meriam di atas tembok menyalak.",
+      "prompt": "First-person view from the middle of a crowd of thousands of Chinese rebels with torches, bamboo spears and machetes before a moat: the massive coral-stone city wall of Batavia with an angular bastion towers ahead, soldiers in tricorn hats along the top, bright cannon flashes and smoke bursting from the wall; the viewer's hand with the thin red string bracelet grips a machete at the lower edge of the middle third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Smoky daylight, palette of gunpowder grey, ochre and fire orange. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:23–1:35",
+      "narasi": "Serangan itu dipukul mundur. Saat asap mesiu turun, kamu menemukan A Seng... di antara tubuh-tubuh di bawah tembok.",
+      "prompt": "Same character as the A Seng reference image. First-person view at a smoky dusk in the ditch below the coral-stone wall of Batavia after a failed attack: the viewer's hand with the thin red string bracelet rests gently on the shoulder of A Seng, who lies still on his back with eyes closed among the still bodies of fallen rebels; abandoned spears and torches scattered, thin gunpowder smoke drifting. The bodies are intact, quiet and dignified, with no visible wounds. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of gunpowder grey, mud brown and a faint dim orange on the horizon. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:35–1:46",
+      "narasi": "Sore 9 Oktober, meriam berdentum di kota. Asap hitam naik dari arah toko adikmu. Tembok yang katanya melindungi A Kiong... kini mengurungnya.",
+      "prompt": "First-person view at late afternoon from tall grass outside the walls of Batavia: thick black smoke billows above the tiled roofs of the city behind the coral-stone wall, orange firelight glowing beneath it; the viewer's hand parts the grass at the lower edge of the middle third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Ominous grey sky stained with smoke, warm firelight as the only bright color. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:46–1:56",
+      "narasi": "Di Gading Melati, kamu bertemu penyintas dari dalam kota. Ia bercerita: sebelum serbuan, pisau dapur pun disita, lilin dilarang dinyalakan.",
+      "prompt": "Same character as the Kamu reference image. Night at a hidden camp of Chinese survivors at Gading Melati among trees: a gaunt young Chinese man about 20 years old, soot on his face, scorched and torn pale cotton jacket, queue half undone, speaks quietly beside a campfire, staring into the flames; Kamu sits listening across the fire in three-quarter view; other exhausted survivors rest in the shadows. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Warm campfire light, deep shadows, muted earth palette. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:56–2:07",
+      "narasi": "Lalu tersiar kabar: orang Tionghoa akan membunuh dan memperbudak warga lain. Rumah-rumah di tepi Kali Besar dibakar. Yang keluar dari api, ditembak.",
+      "prompt": "Night in the walled city of Batavia, the burning Chinese quarter along the Kali Besar river: rows of two-storey houses with tiled roofs engulfed in flames, Chinese residents fleeing out of burning doorways, soldiers of the Dutch East India Company in plain dark-blue coats with brass buttons and black tricorn hats, holding flintlock muskets, aiming from the street, cannon smoke in the air. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Deep fire red, old ochre and black, chaotic and harrowing. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:07–2:17",
+      "narasi": "Yang lari ke kanal dihabisi dari atas perahu. Orang sakit dan tahanan pun dibunuh. Kanal-kanal penuh mayat...",
+      "prompt": "Night on a canal of Batavia under a sky glowing red with fire: soldiers in tricorn hats stand in small rowing boats; still bodies float face-down in the dark water, a burning house reflected on the surface. Silent and dignified, no visible wounds. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Deep fire red, black water, drifting smoke. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:17–2:25",
+      "narasi": "Kepala orang Tionghoa pun diberi harga. Kamu menyebut nama A Kiong. Tak seorang pun pernah melihatnya lagi.",
+      "prompt": "First-person view at night by a campfire: the viewer's own hand tightly grips the thin red string bracelet on his left wrist at the lower edge of the middle third; across the fire a gaunt young Chinese man about 20 years old, soot on his face, scorched and torn pale cotton jacket, queue half undone, bows his head and slowly shakes it. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Low warm campfire light, heavy shadows, grief. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:25–2:34",
+      "narasi": "Pabrik-pabrik gula tempat kalian bertahan dibakar pasukan Kompeni. Kamu berjalan ke timur menyusuri pantai utara, bersama sisa-sisa pemberontak.",
+      "prompt": "Same character as the Kamu reference image. Seen from behind: Kamu walks with a small band of weary Chinese rebels carrying spears and bundles along the north coast beach of Java at dawn, heading east; far behind them a thin column of smoke rises from a burning sugar mill. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Grey dawn light, blue-grey sea, one warm glow on the horizon, reflective mood. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:34–2:43",
+      "narasi": "Kamu menatap parangmu. Satu desas-desus membuatmu mengangkat parang itu... Desas-desus lain membuat sebuah kota memburu adikmu.",
+      "prompt": "First-person view at dim dawn on the beach: the viewer's own hands hold a chipped, dulled homemade machete across the palms at the lower edge of the middle third, the thin red string bracelet on the left wrist, gentle waves behind, a single warm ray of sunrise on the blade. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Quiet and reflective, muted grey with one warm accent. Historically accurate 1740 Batavia, Dutch East India Company era. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, open wounds, blood splatter, severed body parts, caricatured or stereotyped facial features, modern objects, text, logos, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice pria bertekstur, agak berat, bergaya pencerita; voice paling menentukan, karena tag tidak bisa memaksa voice yang lembut untuk berteriak.\n\n- Babak 1: tenang, rendah, sedikit lelah; tempo sedang.\n- Babak 2: cemas, tempo sedikit melambat, berbisik di kalimat desas-desus.\n- Babak 3: bersemangat dan naik, satu teriakan di \"Kalian menyerbu tembok Batavia!\", lalu tegang.\n- Babak 4: sangat pelan dengan jeda panjang; adegan 10 berbisik.\n- Babak 5: berat dan sedih tanpa melodrama; biarkan fakta yang bicara.\n- Babak 6: pasrah dan lambat; kalimat terakhir berbisik.",
+    "arahanBabak": {
+      "1": "tenang, rendah, sedikit lelah; tempo sedang.",
+      "2": "cemas, tempo sedikit melambat, berbisik di kalimat desas-desus.",
+      "3": "bersemangat dan naik, satu teriakan di \"Kalian menyerbu tembok Batavia!\", lalu tegang.",
+      "4": "sangat pelan dengan jeda panjang; adegan 10 berbisik.",
+      "5": "berat dan sedih tanpa melodrama; biarkan fakta yang bicara.",
+      "6": "pasrah dan lambat; kalimat terakhir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Harga gula anjlok, dan kerja makin langka. [whispers] Kini kabarnya, kapal ke Ceylon membuang orang sepertimu ke laut...\n\n[calm] Kamu dan A Seng buruh pabrik gula di luar tembok Batavia. [serious] Pabriknya milik saudagar Tionghoa, harga gulanya diatur Kompeni...\n\n[calm] Adikmu, A Kiong, lebih beruntung. [curious] Ia bekerja di sebuah toko di dalam tembok kota, tempat orang Tionghoa boleh tinggal...",
+    "2": "[tense] Lalu Kompeni memutuskan: orang Tionghoa yang dicurigai akan diangkut ke Ceylon. [serious] Memetik kayu manis, jauh di seberang laut...\n\n[sad] Kawan sekampungmu ikut digiring ke kapal. [whispers] Kabarnya, begitu Jawa hilang dari pandangan, mereka dilempar ke laut...\n\n[nervous] Kamu memohon A Kiong ikut keluar dari kota. [sad] Ia menggeleng. [calm] Katanya, di balik tembok, ia aman...",
+    "3": "[angry] Satu per satu, para buruh meninggalkan pabrik. [excited] Kalian membuat senjata sendiri. [excited] Daripada menunggu kapal, lebih baik melawan...\n\n[excited] 7 Oktober, kalian menyergap pos-pos Kompeni. [excited] A Seng berlari di sampingmu, parang terangkat. [serious] Lima puluh serdadu tewas. [excited] Untuk pertama kalinya, merekalah yang takut...\n\n[excited] Esoknya, ribuan orang dari Tangerang dan Bekasi bergabung. [shouting] Kalian menyerbu tembok Batavia! [tense] Lalu meriam di atas tembok menyalak...",
+    "4": "[sad] Serangan itu dipukul mundur. [sad] [whispers] Saat asap mesiu turun, kamu menemukan A Seng... di antara tubuh-tubuh di bawah tembok...\n\n[tense] Sore 9 Oktober, meriam berdentum di kota. [nervous] Asap hitam naik dari arah toko adikmu. [resigned] Tembok yang katanya melindungi A Kiong... kini mengurungnya...",
+    "5": "[serious] Di Gading Melati, kamu bertemu penyintas dari dalam kota. [sad] Ia bercerita: sebelum serbuan, pisau dapur pun disita, lilin dilarang dinyalakan...\n\n[tense] Lalu tersiar kabar: orang Tionghoa akan membunuh dan memperbudak warga lain. [angry] Rumah-rumah di tepi Kali Besar dibakar. [sad] Yang keluar dari api, ditembak...\n\n[sad] Yang lari ke kanal dihabisi dari atas perahu. [sad] Orang sakit dan tahanan pun dibunuh. [sad] [whispers] Kanal-kanal penuh mayat...\n\n[sad] Kepala orang Tionghoa pun diberi harga. [whispers] Kamu menyebut nama A Kiong. [sad] Tak seorang pun pernah melihatnya lagi...",
+    "6": "[resigned] Pabrik-pabrik gula tempat kalian bertahan dibakar pasukan Kompeni. [serious] Kamu berjalan ke timur menyusuri pantai utara, bersama sisa-sisa pemberontak...\n\n[resigned] Kamu menatap parangmu. [sad] Satu desas-desus membuatmu mengangkat parang itu... [whispers] Desas-desus lain membuat sebuah kota memburu adikmu..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Gula dan desas-desus",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±60 dtk",
+      "suasana": "Resah tertahan, kerja, kecemasan merayap",
+      "style": "Cinematic period score, Chinese folk instruments in colonial Java: solo erhu melody over low plucked guqin and a soft frame-drum pulse, distant rhythmic wooden creaks like a mill at work; uneasy and restrained, starts sparse with solo erhu, slowly adds low strings and a creeping pulse, ends on an unresolved tense note, 72 BPM, no vocals",
+      "exclude": "vocals, EDM, pop, electric guitar, synth lead"
+    },
+    {
+      "nomor": 2,
+      "nama": "Malam perlawanan",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "±35 dtk",
+      "suasana": "Heroik, megah, membara, berhenti mendadak",
+      "style": "Epic heroic battle score with Chinese war drums: thundering dagu drums and driving ensemble percussion, soaring suona and erhu over swelling low strings and brass; fierce, triumphant and urgent, starts with a single drum, builds fast to a full heroic climax, ends abruptly on one sharp hit, 120 BPM, no vocals",
+      "exclude": "vocals, EDM, rock, electric guitar, pop"
+    },
+    {
+      "nomor": 3,
+      "nama": "Asap dan abu",
+      "babakAwal": 4,
+      "babakAkhir": 6,
+      "durasiTarget": "±90 dtk",
+      "suasana": "Duka, hening, reflektif, memudar",
+      "style": "Somber elegy, sparse and mournful: slow solo erhu over a soft low drone, distant temple gong, gentle guzheng plucks and quiet low strings; grief, ash and silence, starts almost silent with a single drone, swells softly in the middle, fades into a long quiet ending, 60 BPM, no vocals",
+      "exclude": "vocals, drums, EDM, pop, upbeat"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Derit gilingan dan dengus kerbau, api tungku",
+      "kataKunci": "wooden mill creak, buffalo snort, fire crackle",
+      "prompt": "Creaking wooden animal-powered sugar mill turning slowly, water buffalo snorting, crackling furnace fire at night"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Adukan kayu di kuali mendidih",
+      "kataKunci": "thick liquid bubbling, wooden stir",
+      "prompt": "Thick sugar syrup bubbling in a large pan, wooden paddle stirring, faint abacus clicks"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Keramaian pasar di tepi kanal",
+      "kataKunci": "old market crowd, canal water",
+      "prompt": "Busy 18th-century Asian street market beside a canal, chatter, wooden boats knocking, no modern sounds"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Ombak pelabuhan dan dayung",
+      "kataKunci": "harbor waves, rowing oars",
+      "prompt": "Gentle harbor waves, oars creaking on a wooden rowing boat, distant shouting, seagulls at dusk"
+    },
+    {
+      "nomor": 5,
+      "adegan": 7,
+      "bunyi": "Bilah diasah, obor berkobar",
+      "kataKunci": "blade sharpening, torch fire",
+      "prompt": "Rough blade sharpened on a whetstone, torches crackling, low murmuring voices"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Sorak penyerbuan, tembakan, api",
+      "kataKunci": "battle charge crowd, musket shot, building fire",
+      "prompt": "Crowd of men shouting a battle charge, running footsteps, flintlock musket shots, wooden building burning"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Dentuman meriam dari tembok",
+      "kataKunci": "cannon fire, musket volley",
+      "prompt": "18th-century cannon blasts from a fortress wall, musket volley, roaring crowd"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Dentuman jauh dan gemeretak api",
+      "kataKunci": "distant cannon, large fire",
+      "prompt": "Distant muffled cannon booms over a burning city, crackling fire carried by the wind"
+    },
+    {
+      "nomor": 9,
+      "adegan": 12,
+      "bunyi": "Api unggun malam",
+      "kataKunci": "campfire, night crickets",
+      "prompt": "Small campfire crackling at night in a forest, crickets, quiet breathing"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Rumah terbakar dan tembakan",
+      "kataKunci": "house fire collapse, musket shots",
+      "prompt": "Wooden houses collapsing in fire, distant screams, flintlock musket shots, chaos at night"
+    },
+    {
+      "nomor": 11,
+      "adegan": 14,
+      "bunyi": "Air kanal dan api jauh",
+      "kataKunci": "water lapping boat, distant fire",
+      "prompt": "Dark canal water lapping against a wooden boat, distant fire roaring, eerie silence"
+    },
+    {
+      "nomor": 12,
+      "adegan": 16,
+      "bunyi": "Langkah di pasir dan ombak",
+      "kataKunci": "footsteps wet sand, gentle waves",
+      "prompt": "Tired footsteps on wet sand, gentle waves at dawn, distant seabirds"
+    }
+  ],
+  "adeganHening": [
+    10
+  ],
+  "ulikan": {
+    "teks": "Sesudah pembantaian, orang Tionghoa dipindah ke luar tembok: kawasan yang kini Glodok.",
+    "sumber": "Benny G. Setiono, Tionghoa dalam Pusaran Politik (2008); Kementerian Pariwisata RI (Indonesia Travel)",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Buruh Gula Tionghoa di Batavia, 1740",
+      "catatan": "Alternatif judul: POV: Kamu Buruh Tionghoa saat Geger Pacinan 1740 / POV: Kamu di Luar Tembok Batavia, Oktober 1740",
+      "caption": "Satu desas-desus membuatmu melawan. Desas-desus lain membuat sebuah kota memburu saudaramu.\n\nBatavia, Oktober 1740. Terhimpit harga gula dan ancaman deportasi ke Ceylon, buruh gula Tionghoa memberontak. Dua hari kemudian, Geger Pacinan pecah: sedikitnya 10.000 orang Tionghoa terbunuh.\n\nKalau kamu di posisinya, desas-desus mana yang akan kamu percaya?\n\nPeringatan: memuat penggambaran kekerasan dan kematian.\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Setiono (2008); van Hoëvell (1840).\n\n#UlikSilam #sejarahindonesia #gegerpacinan #batavia #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Buruh Gula Tionghoa di Batavia, 1740",
+      "catatan": "",
+      "caption": "Satu desas-desus membuatmu melawan. Desas-desus lain membuat sebuah kota memburu saudaramu.\n\nBatavia, Oktober 1740. Terhimpit harga gula dan ancaman deportasi ke Ceylon, buruh gula Tionghoa memberontak. Dua hari kemudian, Geger Pacinan pecah: sedikitnya 10.000 orang Tionghoa terbunuh.\n\nKalau kamu di posisinya, desas-desus mana yang akan kamu percaya?\n\nPeringatan: memuat penggambaran kekerasan dan kematian.\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Setiono (2008); van Hoëvell (1840).\n\n#UlikSilam #gegerpacinan #sejarahindonesia #batavia #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 313,
+    "kataPerBabak": {
+      "1": 55,
+      "2": 50,
+      "3": 58,
+      "4": 40,
+      "5": 76,
+      "6": 34
+    },
+    "karakterPerBabak": {
+      "1": 413,
+      "2": 397,
+      "3": 522,
+      "4": 316,
+      "5": 608,
+      "6": 328
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 163.3,
+      "denganMerek": 168.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 157.9,
+      "denganMerek": 162.9
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

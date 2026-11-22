@@ -1,0 +1,20 @@
+judul: "POV: Kamu Rumphius, Naturalis Buta di Ambon"
+slug: pov-rumphius-naturalis-buta
+format: POV
+lapisan: ["Sejarah"]
+latar: "Ambon, masa VOC"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-10-25"
+merek: pra-repo
+adegan: 18
+lembar_karakter: ["Rumphius"]
+aset: {ilustrasi: 18, narasi: 26, musik: 3, sfx: 0}
+render: "out/pov-rumphius-naturalis-buta.mp4"
+tanggal_render: 2026-10-25
+tautan: {"shorts": "https://youtube.com/shorts/NCYnA7MSSOM"}
+arsip_lama: "pov/pov-rumphius-naturalis-buta"
+catatan: ""
+metrik_shorts: {"views": 1721, "jam_tonton": 23.2, "rata_tonton_detik": 48.6, "durasi_detik": 176, "persen_ditonton": 27.6, "subscriber": 3, "impresi": 4292, "ctr": 2.1, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-26"}

@@ -1,0 +1,628 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-31T14:16:36.015Z",
+  "judulDokumen": "Pengikut Demang Lehman di Benteng Tabanio",
+  "judul": "POV: Kamu Pengikut Demang Lehman di Benteng Tabanio, 1859",
+  "slug": "pov-pengikut-demang-lehman-tabanio",
+  "versi": "v3 · 2026-10-31",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Pelaihari dan Tabanio, Tanah Laut",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "Pemuda Banjar pendulang emas dari Pelaihari (fiktif, ±20 tahun), pengikut pasukan Demang Lehman",
+  "ringkasan": {
+    "Judul": "POV: Kamu Pengikut Demang Lehman di Benteng Tabanio, 1859",
+    "Slug": "pov-pengikut-demang-lehman-tabanio",
+    "Versi": "v3 · 2026-10-31",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:35 + ±5 dtk elemen merek, total ±2:40)",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "Pemuda Banjar pendulang emas dari Pelaihari (fiktif, ±20 tahun), pengikut pasukan Demang Lehman",
+    "Jumlah ilustrasi": "19 (16 adegan + 3 lembar karakter: Pendulang Pelaihari, Utuh, Demang Lehman; diperbarui di Tahap 2B)",
+    "Lapisan": "Sejarah",
+    "Latar": "Pelaihari dan Tabanio, Tanah Laut",
+    "Premis": "Kemenangan kecil rakyat Tanah Laut di awal Perang Banjar, dilihat dari mata seorang pendulang yang meninggalkan dulangnya demi sebatang tombak.",
+    "Benang merah": "Dari butir emas di dulang sampai bata benteng di dinding masjid: kemenangan yang hilang dalam beberapa minggu, tetapi jejaknya masih dipakai orang hari ini.",
+    "Dipilih karena": "Hook langsung beraksi, latar paling beragam (sungai, pantai, benteng, kapal, bukit), pemimpinnya tokoh terdokumentasi, dan epilog bata masjid menutup dengan jejak yang masih ada.",
+    "Tokoh nyata": "Kiai Demang Lehman (lahir Idis, 1832–1864); Haji Buyasin (Muhammad Yasin, 1837–1866); disebut di catatan: Kiai Langlang",
+    "Asumsi": "Durasi, platform, dan generator memakai default. Kawan fiktif bernama Utuh. Nada tegang lalu reflektif. Kekerasan hanya tersirat dan serdadu Belanda tidak karikatural. \"Kamu\" sebagai pendulang Banjar adalah tafsir, karena penambang emas Pelaihari yang tercatat terutama orang Cina Parit."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Emas di Pelaihari",
+      "suasana": "Tenang lalu gelisah",
+      "palet": "Hijau sungai keruh, cokelat lumpur, kilau emas",
+      "cahaya": "Pagi hangat; malam diterangi obor (adegan 3)"
+    },
+    {
+      "babak": 2,
+      "nama": "Merebut Tabanio",
+      "suasana": "Tegang, berani",
+      "palet": "Bata merah kusam, pasir abu, biru fajar dingin",
+      "cahaya": "Fajar kelabu lalu pagi pucat"
+    },
+    {
+      "babak": 3,
+      "nama": "Kapal Bone",
+      "suasana": "Waspada lalu mencekam",
+      "palet": "Biru laut gelap, abu asap mesiu, jingga kilatan meriam",
+      "cahaya": "Siang berkabut lalu malam dengan kilatan meriam"
+    },
+    {
+      "babak": 4,
+      "nama": "Gunung Lawak",
+      "suasana": "Terdesak, berduka",
+      "palet": "Hijau hutan gelap, abu mesiu, jingga senja",
+      "cahaya": "Siang berasap; senja redup (adegan 14)"
+    },
+    {
+      "babak": 5,
+      "nama": "Jejak Bata",
+      "suasana": "Reflektif",
+      "palet": "Hijau rumput lembut, bata merah tua, emas senja",
+      "cahaya": "Sore dan senja hangat, satu sumber cahaya"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Emas di Pelaihari",
+    "2": "Merebut Tabanio",
+    "3": "Kapal Bone",
+    "4": "Gunung Lawak",
+    "5": "Jejak Bata"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Emas di Pelaihari",
+      "waktu": "0:00–0:11",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Pagi di sungai dangkal berair cokelat dekat Pelaihari. Kedua tangan \"kamu\" memegang dulang kayu, beberapa butir emas berkilau di pasir. Di tepi sungai seorang lelaki berlari mendekat sambil melambai dan berteriak.",
+      "narasiSuara": "[calm] Butir emas pertama hari ini berkilau di dulangmu. [tense] Lalu seseorang berlari ke tepi sungai sambil berteriak. [shouting] Perang sudah pecah di Martapura!",
+      "narasi": "Butir emas pertama hari ini berkilau di dulangmu. Lalu seseorang berlari ke tepi sungai sambil berteriak. Perang sudah pecah di Martapura!",
+      "teksLayar": [
+        "Pelaihari, 1859"
+      ],
+      "suara": "Gemericik air, pasir berdesir di dulang, teriakan dari jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Emas di Pelaihari",
+      "waktu": "0:11–0:22",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tepi sungai. Utuh, kawan sebaya, berdiri dengan dulang di pinggang dan menatap \"kamu\" dengan cemas; di belakangnya warga berkerumun mendengar kabar dari si pembawa berita.",
+      "narasiSuara": "[serious] Pos-pos Belanda di Martapura dan Pengaron diserang. [nervous] Utuh, kawan mendulangmu, menatapmu lama. [resigned] Kalian berdua tahu, tanah ini sudah lama diserahkan sultan kepada Belanda.",
+      "narasi": "Pos-pos Belanda di Martapura dan Pengaron diserang. Utuh, kawan mendulangmu, menatapmu lama. Kalian berdua tahu, tanah ini sudah lama diserahkan sultan kepada Belanda.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik warga, air sungai",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Emas di Pelaihari",
+      "waktu": "0:22–0:34",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Malam, jalan kampung diterangi obor. Rombongan bersenjata tombak dan senapan lantak lewat; Demang Lehman berjalan paling depan, Haji Buyasin muda di sampingnya. Warga mengintip dari rumah panggung.",
+      "narasiSuara": "[excited] Tak lama kemudian, rombongan bersenjata lewat kampungmu. [serious] Di depan, Kiai Demang Lehman, orang kepercayaan Pangeran Hidayatullah. [calm] Di sampingnya Haji Buyasin dari Sabuhur, sebaya denganmu.",
+      "narasi": "Tak lama kemudian, rombongan bersenjata lewat kampungmu. Di depan, Kiai Demang Lehman, orang kepercayaan Pangeran Hidayatullah. Di sampingnya Haji Buyasin dari Sabuhur, sebaya denganmu.",
+      "teksLayar": [],
+      "suara": "Langkah banyak orang, obor berderak, jangkrik",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Merebut Tabanio",
+      "waktu": "0:34–0:43",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Jalan setapak di hutan. Tangan kanan menggenggam tombak, tangan kiri menyibak semak; di ujung jalan tampak kilau laut. Utuh berjalan tepat di depan dan menoleh ke arah \"kamu\" dengan senyum gugup; barisan pejuang lain di depannya.",
+      "narasiSuara": "[tense] Kalian berjalan dari Pelaihari menuju pantai, menembus hutan. [nervous] Dulangmu tertinggal di rumah. [serious] Di tanganmu kini sebatang tombak.",
+      "narasi": "Kalian berjalan dari Pelaihari menuju pantai, menembus hutan. Dulangmu tertinggal di rumah. Di tanganmu kini sebatang tombak.",
+      "teksLayar": [
+        "Menuju Tabanio, pesisir Tanah Laut"
+      ],
+      "suara": "Serangga hutan, langkah di daun kering",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Merebut Tabanio",
+      "waktu": "0:43–0:53",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Fajar kelabu. Benteng bata dengan bastion bundar di muara sungai, pantai di belakangnya. Pejuang memanjat dan menyerbu tembok; Demang Lehman memimpin dengan tombak terangkat. Tanpa darah.",
+      "narasiSuara": "[tense] Benteng Tabanio berdiri di muara sungai, empat bastionnya menjaga pantai. [excited] Kalian menyerbu temboknya. [whispers] Kamu tak sempat menghitung berapa lama.",
+      "narasi": "Benteng Tabanio berdiri di muara sungai, empat bastionnya menjaga pantai. Kalian menyerbu temboknya. Kamu tak sempat menghitung berapa lama.",
+      "teksLayar": [],
+      "suara": "Sorakan, debur ombak, letusan senapan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Merebut Tabanio",
+      "waktu": "0:53–1:02",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi di dalam benteng. Para pejuang beristirahat, tiang bendera kosong. Utuh tertawa sambil menepuk bahu \"kamu\" (tampak dari belakang). Pemegang pos tidak ditampilkan.",
+      "narasiSuara": "[serious] Ketika semuanya reda, benteng itu milik kalian. [sad] Pemegang pos Belanda tak terlihat lagi. [excited] Utuh menepuk bahumu sambil tertawa.",
+      "narasi": "Ketika semuanya reda, benteng itu milik kalian. Pemegang pos Belanda tak terlihat lagi. Utuh menepuk bahumu sambil tertawa.",
+      "teksLayar": [],
+      "suara": "Tawa pejuang, ombak tenang",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Kapal Bone",
+      "waktu": "1:02–1:11",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Di atas tembok benteng. Tangan kiri bertumpu pada tembok bata, tangan kanan memegang tombak; di laut lepas sebuah kapal perang mendekat.",
+      "narasiSuara": "[calm] Berhari-hari kamu berjaga di atas tembok. [nervous] Lalu suatu pagi, sebuah kapal muncul di cakrawala. [tense] Kapal perang Belanda, Bone.",
+      "narasi": "Berhari-hari kamu berjaga di atas tembok. Lalu suatu pagi, sebuah kapal muncul di cakrawala. Kapal perang Belanda, Bone.",
+      "teksLayar": [
+        "Agustus 1859"
+      ],
+      "suara": "Angin laut, ombak",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Kapal Bone",
+      "waktu": "1:11–1:20",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pantai. Serdadu berseragam gelap turun dari sekoci dan berlari ke benteng; di gerbang, Haji Buyasin maju paling depan bersama pejuang.",
+      "narasiSuara": "[tense] Serdadu turun dari kapal dan menyerbu dari arah pantai. [excited] Haji Buyasin maju paling depan. [shouting] Kalian menyusul di belakangnya!",
+      "narasi": "Serdadu turun dari kapal dan menyerbu dari arah pantai. Haji Buyasin maju paling depan. Kalian menyusul di belakangnya!",
+      "teksLayar": [],
+      "suara": "Tembakan senapan, teriakan, ombak",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Kapal Bone",
+      "waktu": "1:20–1:28",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Serdadu mundur ke sekoci di pantai; pejuang di atas tembok bersorak; kapal tetap menunggu di kejauhan. Korban tidak ditampilkan.",
+      "narasiSuara": "[excited] Serangan itu patah. [serious] Sembilan serdadu Belanda tewas, sisanya mundur. [calm] Untuk sesaat, kamu percaya kalian akan menang.",
+      "narasi": "Serangan itu patah. Sembilan serdadu Belanda tewas, sisanya mundur. Untuk sesaat, kamu percaya kalian akan menang.",
+      "teksLayar": [],
+      "suara": "Sorak, tembakan mereda",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Kapal Bone",
+      "waktu": "1:28–1:39",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Malam. Kilatan meriam dari kapal di laut, debu bata beterbangan di tembok. Demang Lehman berjongkok di balik tembok, memberi isyarat diam kepada pejuang.",
+      "narasiSuara": "[tense] Tapi mereka kembali dengan kekuatan lebih besar. [nervous] Meriam kapal menghujani tembok dari laut. [whispers] Malam itu, Kiai Demang Lehman memerintahkan kalian keluar diam-diam.",
+      "narasi": "Tapi mereka kembali dengan kekuatan lebih besar. Meriam kapal menghujani tembok dari laut. Malam itu, Kiai Demang Lehman memerintahkan kalian keluar diam-diam.",
+      "teksLayar": [],
+      "suara": "Dentuman meriam, tembok berderak",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Gunung Lawak",
+      "waktu": "1:39–1:48",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam gelap. Kedua tangan merayap di pasir dan semak; di depan siluet pejuang menunduk; jauh di belakang, benteng diterangi kilatan meriam.",
+      "narasiSuara": "[whispers] Kalian merayap keluar lewat gelap. [calm] Tak satu pun tertinggal. [sad] Di belakangmu, benteng itu kembali ke tangan Belanda.",
+      "narasi": "Kalian merayap keluar lewat gelap. Tak satu pun tertinggal. Di belakangmu, benteng itu kembali ke tangan Belanda.",
+      "teksLayar": [],
+      "suara": "Napas tertahan, dentuman jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Gunung Lawak",
+      "waktu": "1:48–1:57",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Benteng pertahanan di puncak bukit berhutan, meriam kecil di sudutnya; pejuang berjaga menatap lembah.",
+      "narasiSuara": "[serious] Kalian bertahan lagi di sebuah benteng di atas bukit, Gunung Lawak. [tense] Di setiap sudutnya, meriam menunggu musuh datang.",
+      "narasi": "Kalian bertahan lagi di sebuah benteng di atas bukit, Gunung Lawak. Di setiap sudutnya, meriam menunggu musuh datang.",
+      "teksLayar": [
+        "Gunung Lawak, Tanah Laut"
+      ],
+      "suara": "Angin bukit, serangga",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Gunung Lawak",
+      "waktu": "1:57–2:07",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lereng bukit penuh asap mesiu; barisan serdadu Belanda naik lereng, pejuang menembak dari benteng.",
+      "narasiSuara": "[tense] Lalu Belanda datang dengan pasukan jauh lebih besar. [shouting] Bukit itu bergemuruh sepanjang hari. [serious] Kalian terpaksa mundur sekali lagi.",
+      "narasi": "Lalu Belanda datang dengan pasukan jauh lebih besar. Bukit itu bergemuruh sepanjang hari. Kalian terpaksa mundur sekali lagi.",
+      "teksLayar": [
+        "27 September 1859"
+      ],
+      "suara": "Tembakan bertubi-tubi, dentuman meriam",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Gunung Lawak",
+      "waktu": "2:07–2:16",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Senja di kaki bukit. \"Kamu\" tampak dari belakang, berdiri sendiri menggenggam ikat kepala milik Utuh; asap tipis di puncak bukit.",
+      "narasiSuara": "[sad] Utuh tidak ikut turun bukit bersamamu. [sad] [whispers] Kamu bahkan tak sempat mengucapkan selamat tinggal...",
+      "narasi": "Utuh tidak ikut turun bukit bersamamu. Kamu bahkan tak sempat mengucapkan selamat tinggal...",
+      "teksLayar": [],
+      "suara": "Hening, angin",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Jejak Bata",
+      "waktu": "2:16–2:25",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Masa kini. Lapangan berumput tak rata dengan bekas parit dangkal dekat muara Sungai Tabanio; sapi merumput, pohon kelapa di tepi pantai.",
+      "narasiSuara": "[calm] Perang ini masih berkobar bertahun-tahun kemudian. [calm] Benteng Tabanio kini tinggal sebidang tanah dan bekas parit, tempat ternak merumput.",
+      "narasi": "Perang ini masih berkobar bertahun-tahun kemudian. Benteng Tabanio kini tinggal sebidang tanah dan bekas parit, tempat ternak merumput.",
+      "teksLayar": [
+        "Tabanio, hari ini"
+      ],
+      "suara": "Angin pantai, lenguh sapi jauh",
+      "hening": false,
+      "epilog": true,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Jejak Bata",
+      "waktu": "2:25–2:35",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Dinding masjid kampung dengan bata merah tua yang menyembul di sela plester; cahaya senja hangat jatuh ke sajadah.",
+      "narasiSuara": "[serious] Bata-batanya diangkut warga, menjadi rumah, sumur, dan masjid. [calm] Tembok yang dulu kamu panjat... [whispers] kini menjadi dinding tempat orang bersujud.",
+      "narasi": "Bata-batanya diangkut warga, menjadi rumah, sumur, dan masjid. Tembok yang dulu kamu panjat... kini menjadi dinding tempat orang bersujud.",
+      "teksLayar": [],
+      "suara": "Angin, azan sayup di kejauhan",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Pendulang Pelaihari",
+      "prompt": "Character reference sheet of Pendulang Pelaihari. A young Banjar man of about 20 from Pelaihari, South Kalimantan, in 1859, a poor gold panner. Slim, wiry build, warm brown sun-darkened skin, oval face with high cheekbones, dark brown eyes under straight thick brows, broad nose, full lips, a small pale scar through the left eyebrow, short black hair mostly hidden. Head: a faded indigo plain cotton headcloth (laung) wrapped around the head and knotted at the back. Body: a loose long-sleeved collarless shirt of undyed coarse cotton, sleeves rolled to mid-forearm, stained with river mud. Waist: a brown-and-dark-red checked cotton sarong folded and tied short at the waist over knee-length dark brown cotton trousers. Barefoot. A small woven rattan pouch on a cord at the hip for gold dust; from Act 2 on he carries a plain wooden-shafted spear with an iron leaf-shaped blade. Carries himself with quiet, watchful caution, shoulders slightly hunched.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the headcloth, the shirt fabric and the rattan pouch, and one first-person panel of the hands and forearms seen from the wearer's own eyes, raised at chest height: Warm brown, sun-darkened young man's hands with calloused palms and short cracked nails with grit under them, a thin pale scar across the back of the right hand, a thin braided black cord on the left wrist, loose undyed coarse cotton sleeves rolled up to mid-forearm with frayed edges. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate mid-19th-century Banjar commoner clothing of plain handwoven cotton in natural dyes.\nAvoid modern clothing, black velvet peci caps, bright modern sasirangan patterns, shoes, jewelry, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Utuh",
+      "prompt": "Character reference sheet of Utuh. Utuh, a young Banjar man of about 19 from Pelaihari, South Kalimantan, in 1859, a gold panner and the viewer's closest friend. Short and stocky, warm brown skin, round cheerful face, wide dark eyes, thick eyebrows, a gap between his front teeth, a thin wispy moustache, black hair. Head: a faded rust-red plain cotton headcloth (laung) knotted at the front with the two ends sticking up. Body: a sleeveless loose vest of faded dark blue cotton, open over a bare chest. Waist: a plain brown cotton sarong hitched and tied above the knees over short black cotton trousers. Barefoot. In Act 1 a shallow round wooden gold pan (dulang) is tucked at his hip; from Act 2 on he carries a short parang in a plain wooden sheath at his waist instead. Restless and expressive, quick to laugh and to fidget with his hands.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter face portrait laughing, and one detail panel of the rust-red headcloth knot, the wooden gold pan and the sheathed parang. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate mid-19th-century Banjar commoner clothing of plain handwoven cotton in natural dyes.\nAvoid modern clothing, black velvet peci caps, bright modern sasirangan patterns, shoes, jewelry, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Demang Lehman",
+      "prompt": "Character reference sheet of Demang Lehman. Kiai Demang Lehman (born Idis), a Banjar war leader of about 27, South Kalimantan, 1859, trusted aide and commander for Prince Hidayatullah; his face follows the only known photograph of him (1864), drawn about five years younger. Lean, wiry build of medium height with narrow shoulders, warm brown skin; a narrow face with prominent cheekbones and slightly hollow cheeks, large wide-set dark eyes under straight dark brows drawn slightly together, a broad flat nose, full lips held firmly closed, clean-shaven with no beard and no moustache; short black hair with a few loose strands falling to the neck below the headcloth. Head: a dark green cotton headcloth with a small faded pale print, wrapped around the head with one loose end hanging at the side. Body: a plain white collarless long-sleeved cotton shirt under a collarless dark green cotton jacket fastened down the front with a row of small round buttons; a thin plain cord around the neck. Waist: a wide undyed cotton sash holding a kris in a plain dark wooden sheath, over loose ankle-length cotton trousers with a small dotted print. Barefoot. Carries a long spear with a dark wooden shaft and a slim iron blade bound with a red cloth tassel. Calm, still and commanding, moves with economy and never hurries.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the kris in its wooden sheath, the red-tasseled spear blade and the headcloth wrap. Plain light background.\nUse the uploaded 1864 photograph only as a reference for his face, build and hair, not for the ropes, the wooden board, the chair, the seated pose, the clothing colors or the photographic style; show him free, younger and in his 1859 role.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate mid-19th-century Banjar leader's clothing of plain cotton, dignified and simple, no royal regalia.\nAvoid beard, moustache, ropes, restraints, wooden stocks, prisoner poses, crowns, gold ornaments, modern clothing, black velvet peci caps, bright modern sasirangan patterns, caricature, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:11",
+      "narasi": "Butir emas pertama hari ini berkilau di dulangmu. Lalu seseorang berlari ke tepi sungai sambil berteriak. Perang sudah pecah di Martapura!",
+      "prompt": "The viewer is Pendulang Pelaihari: the hands and forearms in the foreground match the first-person panel of the Pendulang Pelaihari reference image.\nMedium shot at chest height, a shallow muddy brown river near Pelaihari in early morning, a low warm sun through tall grass and palms on the bank, a wide hazy sky above the trees.\nFirst-person point of view. Warm brown, sun-darkened young man's hands with calloused palms and short cracked nails with grit under them, a thin pale scar across the back of the right hand, a thin braided black cord on the left wrist, loose undyed coarse cotton sleeves rolled up to mid-forearm with frayed edges. Both hands hold a shallow round wooden gold pan (dulang) raised to chest height and tilted toward the viewer; wet sand swirls inside it and three tiny gold grains glint at its centre.\nOn the far bank, a thin older villager in a plain brown headcloth and a faded shirt runs mid-stride along the water, one arm raised and waving, mouth open in a shout, eyes on the river; ripples spread around the pan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of muddy river green, earth brown and morning gold with soft shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting, a simple riverside gold-panning spot.\nAvoid characters looking at the camera, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:22",
+      "narasi": "Pos-pos Belanda di Martapura dan Pengaron diserang. Utuh, kawan mendulangmu, menatapmu lama. Kalian berdua tahu, tanah ini sudah lama diserahkan sultan kepada Belanda.",
+      "prompt": "Same character as the Utuh reference image.\nMedium shot at eye level on a muddy riverbank in morning light, wooden stilt houses with thatched roofs behind, a pale sky above the roofs.\nUtuh stands knee-deep at the water's edge with the wooden gold pan tucked at his hip, half-turned toward someone just outside the left edge of the frame; brows drawn up and together, eyes wide and searching, lips parted, one hand gripping the rim of the pan.\nBehind him, villagers of different ages cluster around a panting messenger, the thin older man in the brown headcloth: two men lean in to listen, a grey-haired woman covers her mouth, a small boy peeks between their legs. The villagers are different people from Utuh, in plain undyed or brown clothes, and none wears a rust-red headcloth.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of muddy river green, earth brown and morning gold with soft shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting, Banjar village of wooden stilt houses.\nAvoid characters looking at the camera, background figures copying Utuh's face or outfit, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:22–0:34",
+      "narasi": "Tak lama kemudian, rombongan bersenjata lewat kampungmu. Di depan, Kiai Demang Lehman, orang kepercayaan Pangeran Hidayatullah. Di sampingnya Haji Buyasin dari Sabuhur, sebaya denganmu.",
+      "prompt": "Same character as the Demang Lehman reference image.\nMedium-wide shot from a slightly low angle, a narrow village path at night lit by torches, wooden stilt houses on both sides, a dark sky with a few stars above the roofs.\nDemang Lehman walks at the head of an armed column mid-stride, spear upright in his right hand, left hand resting on the kris at his sash; face calm and set, jaw firm, eyes fixed far ahead down the path.\nBeside him walks Haji Buyasin, a young man of about 22 with a lean face and a light beard, wearing a white haji cap wrapped in a white cloth turban and a long white collarless cotton shirt over a dark sarong, a long muzzle-loading musket on his shoulder, glancing sideways at the onlookers with an eager, determined look. Behind them fighters of mixed ages carry spears and a few long muskets, torches swaying and smoke trailing. Villagers peer from the doorways and steps of the stilt houses, a mother holding back a curious child. Haji Buyasin, the fighters and the villagers are different people from Demang Lehman: no green clothing, plainer headcloths.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep night blue and warm torch orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, background figures copying Demang Lehman's face or outfit, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:34–0:43",
+      "narasi": "Kalian berjalan dari Pelaihari menuju pantai, menembus hutan. Dulangmu tertinggal di rumah. Di tanganmu kini sebatang tombak.",
+      "prompt": "The viewer is Pendulang Pelaihari: the hands and forearms in the foreground match the first-person panel of the Pendulang Pelaihari reference image.\nSame character as the Utuh reference image.\nMedium shot at chest height, a narrow forest path toward the coast, tall trees and ferns on both sides, a bright strip of grey sea glinting at the end of the path, morning light filtering through the canopy.\nFirst-person point of view. Warm brown, sun-darkened young man's hands with calloused palms and short cracked nails with grit under them, a thin pale scar across the back of the right hand, a thin braided black cord on the left wrist, loose undyed coarse cotton sleeves rolled up to mid-forearm with frayed edges. The right hand grips a plain wooden spear shaft upright, its iron blade rising into view; the left hand pushes aside a leafy branch.\nUtuh walks just ahead mid-stride, a sheathed parang at his waist instead of his gold pan, and glances back over his shoulder straight at the viewer with a nervous half-smile and raised brows. Further ahead, a line of fighters with spears moves single file away from the viewer. The fighters are different people from Utuh, with brown, white or black headcloths.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusty brick red, grey sand and cold dawn blue with a faint warm glow, historically accurate mid-19th-century South Kalimantan (Banjar) setting, lowland coastal forest of Tanah Laut.\nAvoid background figures copying Utuh's face or outfit, identical faces, other figures looking at the camera, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:43–0:53",
+      "narasi": "Benteng Tabanio berdiri di muara sungai, empat bastionnya menjaga pantai. Kalian menyerbu temboknya. Kamu tak sempat menghitung berapa lama.",
+      "prompt": "Same character as the Demang Lehman reference image.\nWide shot from a low angle at grey dawn, a squat brick fort with round bastions at its corners at a river mouth, its gate facing a grey sandy beach and calm sea, a pale sky above the walls.\nDemang Lehman charges mid-stride toward the wall, spear raised high in his right hand, mouth open in a shout, eyes locked on the top of the wall. Around him fighters scramble up the brick wall with bamboo ladders and ropes, one reaching down to pull another up, another bracing a ladder with both arms. The fighters are different people from Demang Lehman: plainer headcloths, no green clothing. No one is wounded or bleeding.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusty brick red, grey sand and cold dawn blue with a faint warm glow, historically accurate mid-19th-century South Kalimantan (Banjar) setting, a small 18th-century Dutch colonial brick fort with round corner bastions.\nAvoid characters looking at the camera, background figures copying Demang Lehman's face or outfit, identical faces, star-shaped European citadels, stone castles, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:53–1:02",
+      "narasi": "Ketika semuanya reda, benteng itu milik kalian. Pemegang pos Belanda tak terlihat lagi. Utuh menepuk bahumu sambil tertawa.",
+      "prompt": "Same character as the Utuh reference image.\nSame character as the Pendulang Pelaihari reference image.\nMedium shot at eye level inside the brick fort courtyard in pale morning light, a bare wooden flagpole with no flag, the sea visible through the open gate.\nPendulang Pelaihari is seen from behind and slightly to the side, shoulders loosening, spear resting against his shoulder. Utuh faces him, laughing with his head tipped back and eyes squeezed half shut, one hand clapping Pendulang Pelaihari on the shoulder. Around them weary fighters sit against the wall: one drinks from a gourd, another binds a torn sleeve, a third stares out at the sea. The fighters are different people from Utuh and Pendulang Pelaihari. No Dutch figures, no bodies.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusty brick red, grey sand and cold dawn blue with a faint warm glow, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, background figures copying Utuh's or Pendulang Pelaihari's face or outfit, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:02–1:11",
+      "narasi": "Berhari-hari kamu berjaga di atas tembok. Lalu suatu pagi, sebuah kapal muncul di cakrawala. Kapal perang Belanda, Bone.",
+      "prompt": "The viewer is Pendulang Pelaihari: the hands and forearms in the foreground match the first-person panel of the Pendulang Pelaihari reference image.\nMedium shot at chest height from the top of the fort wall in late morning, the grey-blue sea stretching out, a pale hazy sky above the horizon.\nFirst-person point of view. Warm brown, sun-darkened young man's hands with calloused palms and short cracked nails with grit under them, a thin pale scar across the back of the right hand, a thin braided black cord on the left wrist, loose undyed coarse cotton sleeves rolled up to mid-forearm with frayed edges. The left hand rests flat on the rough brick top of the wall; the right hand grips the spear shaft leaning against the wall.\nFar out at sea, a dark mid-19th-century wooden naval warship with masts and a row of gunports approaches the shore, small against the horizon. A fighter on the wall to the right points toward it, body tense, eyes fixed on the ship.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep sea blue, gunsmoke grey and flashes of cannon orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, modern steel ships, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:20",
+      "narasi": "Serdadu turun dari kapal dan menyerbu dari arah pantai. Haji Buyasin maju paling depan. Kalian menyusul di belakangnya!",
+      "prompt": "Medium-wide shot from slightly behind the defenders at the open fort gate, a beach with ship's boats pulled onto the sand, the warship anchored offshore under a hazy sky.\nAt the very front in the gateway stands Haji Buyasin, a young man of about 22 with a lean face and a light beard, wearing a white haji cap wrapped in a white cloth turban and a long white collarless cotton shirt over a dark sarong, musket raised and aimed toward the beach, mouth set in a determined line, eyes narrowed. Behind him fighters with spears surge forward mid-stride, one shouting.\nOn the beach, soldiers of the colonial army, a mix of European and Indonesian men of different ages and builds, in dark blue short jackets, light trousers and dark peaked caps, carrying muzzle-loading muskets with bayonets, run from the boats toward the fort, some kneeling to fire; white smoke puffs from the muzzles. The defenders are varied in age and build, with plain headcloths. No blood.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep sea blue, gunsmoke grey and flashes of cannon orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:20–1:28",
+      "narasi": "Serangan itu patah. Sembilan serdadu Belanda tewas, sisanya mundur. Untuk sesaat, kamu percaya kalian akan menang.",
+      "prompt": "Medium-wide shot from the top of the fort wall looking down to the beach in the afternoon, drifting gun smoke, the warship waiting offshore.\nOn the beach, soldiers of the colonial army, a mix of European and Indonesian men of different ages and builds, in dark blue short jackets, light trousers and dark peaked caps, carrying muzzle-loading muskets with bayonets, retreat toward the boats, some helping others along, glancing back over their shoulders at the fort. On the wall in the foreground, fighters raise spears and fists, cheering with open mouths, one embracing another. No bodies or blood shown.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep sea blue, gunsmoke grey and flashes of cannon orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:28–1:39",
+      "narasi": "Tapi mereka kembali dengan kekuatan lebih besar. Meriam kapal menghujani tembok dari laut. Malam itu, Kiai Demang Lehman memerintahkan kalian keluar diam-diam.",
+      "prompt": "Same character as the Demang Lehman reference image.\nMedium shot at eye level behind the inner side of the fort wall at night, orange flashes of cannon fire from the warship on the dark sea lighting the sky above the wall, brick dust and chips falling.\nDemang Lehman crouches low behind the wall, one hand raised palm-down signalling silence, the other on his spear; eyes steady and serious, lips pressed together, looking at the crouching fighters beside him. The fighters huddle and flinch at a blast: one covers his head with his arms, another nods at Demang Lehman. The fighters are different people from Demang Lehman, with plainer headcloths and no green clothing.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep sea blue, gunsmoke grey and flashes of cannon orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, background figures copying Demang Lehman's face or outfit, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:39–1:48",
+      "narasi": "Kalian merayap keluar lewat gelap. Tak satu pun tertinggal. Di belakangmu, benteng itu kembali ke tangan Belanda.",
+      "prompt": "The viewer is Pendulang Pelaihari: the hands and forearms in the foreground match the first-person panel of the Pendulang Pelaihari reference image.\nMedium shot close to the ground at night, sandy scrub and low bushes, a dark sky; far behind, the fort is silhouetted against a brief orange flash.\nFirst-person point of view. Warm brown, sun-darkened young man's hands with calloused palms and short cracked nails with grit under them, a thin pale scar across the back of the right hand, a thin braided black cord on the left wrist, loose undyed coarse cotton sleeves rolled up to mid-forearm with frayed edges. Both hands press into the sand as the viewer crawls forward, the right hand still clutching the spear shaft low.\nAhead, the dark silhouettes of crouching fighters creep in single file through the bushes, one glancing back toward the fort.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark night blue and black with a faint warm glow on the horizon, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:48–1:57",
+      "narasi": "Kalian bertahan lagi di sebuah benteng di atas bukit, Gunung Lawak. Di setiap sudutnya, meriam menunggu musuh datang.",
+      "prompt": "Wide shot from a low angle, a defensive fort of earthworks and timber palisades on top of a forested hill, small cannons at its corners, a cloudy sky above.\nFighters stand on the palisade looking down into the valley: one shades his eyes with his hand, another rams a charge into a small cannon, a third sharpens a spear blade. The fighters vary in age and build, with plain brown, white or black headcloths.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark forest green, gunpowder grey and dusk orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting, a hilltop stronghold in the forests of Tanah Laut.\nAvoid characters looking at the camera, stone castles, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:57–2:07",
+      "narasi": "Lalu Belanda datang dengan pasukan jauh lebih besar. Bukit itu bergemuruh sepanjang hari. Kalian terpaksa mundur sekali lagi.",
+      "prompt": "Wide shot from slightly above, a steep forested hillside thick with gun smoke in daylight, the palisaded hilltop fort at the top.\nA long line of soldiers of the colonial army, a mix of European and Indonesian men of different ages and builds, in dark blue short jackets, light trousers and dark peaked caps, carrying muzzle-loading muskets with bayonets, climbs the slope in formation, muskets raised, some firing. From the palisade, fighters fire back and heave a small cannon forward, smoke swirling around them. Injuries are not shown.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark forest green, gunpowder grey and dusk orange with deep shadows, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, identical faces, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:07–2:16",
+      "narasi": "Utuh tidak ikut turun bukit bersamamu. Kamu bahkan tak sempat mengucapkan selamat tinggal...",
+      "prompt": "Same character as the Pendulang Pelaihari reference image.\nMedium-wide shot at eye level at dusk at the foot of the hill, tall grass bending in the wind, thin smoke rising from the dark hilltop against an orange and violet sky.\nPendulang Pelaihari stands alone, seen from behind, head bowed and shoulders slumped, the spear leaning against his left shoulder; his right hand loosely holds a faded rust-red headcloth, its end lifting in the wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusk orange, violet and dark green with a single warm low light, historically accurate mid-19th-century South Kalimantan (Banjar) setting.\nAvoid characters looking at the camera, bodies, modern clothing, black velvet peci caps, bright modern sasirangan patterns, Dayak feathered headdresses, World War II uniforms or steel helmets, stiff symmetrical poses, characters standing straight and facing forward, blood, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:16–2:25",
+      "narasi": "Perang ini masih berkobar bertahun-tahun kemudian. Benteng Tabanio kini tinggal sebidang tanah dan bekas parit, tempat ternak merumput.",
+      "prompt": "Wide shot at eye level, present day, a flat uneven grassy field near a river mouth on the south coast of Kalimantan, a shallow grass-filled ditch tracing the outline of a large square, a few brown cows grazing, coconut palms and the sea beyond, a soft evening sky.\nOne cow lifts its head and looks toward the palms while the others graze; a lone farmer in a straw hat walks away along the ditch, his back to the viewer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of soft grass green, old brick red and warm evening gold with gentle shadows, present-day rural Tanah Laut.\nAvoid characters looking at the camera, ruined walls, monuments, stiff symmetrical poses, characters standing straight and facing forward, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:25–2:35",
+      "narasi": "Bata-batanya diangkut warga, menjadi rumah, sumur, dan masjid. Tembok yang dulu kamu panjat... kini menjadi dinding tempat orang bersujud.",
+      "prompt": "Medium shot at eye level, present day, inside a simple village mosque at dusk, a wall of old dark-red bricks showing through patches of worn white plaster, warm sunset light streaming through a window onto green prayer mats.\nAn elderly man in a white cap and a sarong kneels in prayer facing the wall, his forehead lowered toward the mat; dust motes drift in the light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of soft grass green, old brick red and warm evening gold with gentle shadows, present-day rural Tanah Laut.\nAvoid characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice pria atau wanita bertimbre hangat dan agak berat yang sanggup berbisik maupun berteriak; pilihan voice paling menentukan, karena tag tidak bisa memaksa voice yang lembut untuk berteriak. Generate satu babak sekali.\n\n- Babak 1: tenang di awal, lalu tegang dan cepat saat kabar perang; satu teriakan di akhir adegan 1.\n- Babak 2: tegang dan berani, tempo sedang; berbisik di akhir adegan 5.\n- Babak 3: waspada, lalu bersemangat saat serangan patah; turun ke bisikan di akhir.\n- Babak 4: bisik dan berat, satu teriakan di adegan 13, lalu sedih dan pelan di adegan 14.\n- Babak 5: tenang dan reflektif, tempo lambat; kalimat terakhir berbisik.",
+    "arahanBabak": {
+      "1": "tenang di awal, lalu tegang dan cepat saat kabar perang; satu teriakan di akhir adegan 1.",
+      "2": "tegang dan berani, tempo sedang; berbisik di akhir adegan 5.",
+      "3": "waspada, lalu bersemangat saat serangan patah; turun ke bisikan di akhir.",
+      "4": "bisik dan berat, satu teriakan di adegan 13, lalu sedih dan pelan di adegan 14.",
+      "5": "tenang dan reflektif, tempo lambat; kalimat terakhir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Butir emas pertama hari ini berkilau di dulangmu. [tense] Lalu seseorang berlari ke tepi sungai sambil berteriak. [shouting] Perang sudah pecah di Martapura! ...\n\n[serious] Pos-pos Belanda di Martapura dan Pengaron diserang. [nervous] Utuh, kawan mendulangmu, menatapmu lama. [resigned] Kalian berdua tahu, tanah ini sudah lama diserahkan sultan kepada Belanda. ...\n\n[excited] Tak lama kemudian, rombongan bersenjata lewat kampungmu. [serious] Di depan, Kiai Demang Lehman, orang kepercayaan Pangeran Hidayatullah. [calm] Di sampingnya Haji Buyasin dari Sabuhur, sebaya denganmu. ...",
+    "2": "[tense] Kalian berjalan dari Pelaihari menuju pantai, menembus hutan. [nervous] Dulangmu tertinggal di rumah. [serious] Di tanganmu kini sebatang tombak. ...\n\n[tense] Benteng Tabanio berdiri di muara sungai, empat bastionnya menjaga pantai. [excited] Kalian menyerbu temboknya. [whispers] Kamu tak sempat menghitung berapa lama. ...\n\n[serious] Ketika semuanya reda, benteng itu milik kalian. [sad] Pemegang pos Belanda tak terlihat lagi. [excited] Utuh menepuk bahumu sambil tertawa. ...",
+    "3": "[calm] Berhari-hari kamu berjaga di atas tembok. [nervous] Lalu suatu pagi, sebuah kapal muncul di cakrawala. [tense] Kapal perang Belanda, Bone. ...\n\n[tense] Serdadu turun dari kapal dan menyerbu dari arah pantai. [excited] Haji Buyasin maju paling depan. [shouting] Kalian menyusul di belakangnya! ...\n\n[excited] Serangan itu patah. [serious] Sembilan serdadu Belanda tewas, sisanya mundur. [calm] Untuk sesaat, kamu percaya kalian akan menang. ...\n\n[tense] Tapi mereka kembali dengan kekuatan lebih besar. [nervous] Meriam kapal menghujani tembok dari laut. [whispers] Malam itu, Kiai Demang Lehman memerintahkan kalian keluar diam-diam. ...",
+    "4": "[whispers] Kalian merayap keluar lewat gelap. [calm] Tak satu pun tertinggal. [sad] Di belakangmu, benteng itu kembali ke tangan Belanda. ...\n\n[serious] Kalian bertahan lagi di sebuah benteng di atas bukit, Gunung Lawak. [tense] Di setiap sudutnya, meriam menunggu musuh datang. ...\n\n[tense] Lalu Belanda datang dengan pasukan jauh lebih besar. [shouting] Bukit itu bergemuruh sepanjang hari. [serious] Kalian terpaksa mundur sekali lagi. ...\n\n[sad] Utuh tidak ikut turun bukit bersamamu. [sad] [whispers] Kamu bahkan tak sempat mengucapkan selamat tinggal...",
+    "5": "[calm] Perang ini masih berkobar bertahun-tahun kemudian. [calm] Benteng Tabanio kini tinggal sebidang tanah dan bekas parit, tempat ternak merumput. ...\n\n[serious] Bata-batanya diangkut warga, menjadi rumah, sumur, dan masjid. [calm] Tembok yang dulu kamu panjat... [whispers] kini menjadi dinding tempat orang bersujud. ..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Sungai dan Tombak",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:10",
+      "suasana": "Petikan lute Banjar yang tenang di sungai, lalu derap gelisah menuju benteng",
+      "style": "Southeast Asian folk ambient, gentle plucked Banjar panting lute and soft frame drum over flowing river atmosphere, calm and earthy at first, then uneasy, building into a steady marching drum pulse, about 70 seconds long (1:10), with a clear ending, 84 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, EDM, Javanese gamelan, Chinese erhu"
+    },
+    {
+      "nomor": 2,
+      "nama": "Kapal dan Bukit",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:20",
+      "suasana": "Genderang perang dan gong berat, memuncak di Gunung Lawak, lalu runtuh menjadi petikan sendu",
+      "style": "Cinematic tension, low war drums and deep gong hits, tense plucked lute ostinato, distant brass swells, rising to a battle climax, then dropping suddenly to a sparse mournful lute over a soft low drone, about 80 seconds long (1:20), with a clear ending, 100 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, rock drums, EDM, electric guitar"
+    },
+    {
+      "nomor": 3,
+      "nama": "Jejak Bata",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:25",
+      "suasana": "Reflektif dan hangat, menutup ke kartu Ulikan",
+      "style": "Reflective ambient, soft plucked lute melody over a warm string pad and light coastal wind, gentle, quiet and hopeful, fades out at the end, about 25 seconds long (0:25), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, drums, EDM, electric guitar"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Air sungai dangkal dan pasir di dulang",
+      "kataKunci": "shallow river stream, sand panning",
+      "prompt": "Gentle shallow river flowing, wet sand swirling in a wooden pan, close"
+    },
+    {
+      "nomor": 2,
+      "adegan": 1,
+      "bunyi": "Teriakan dari kejauhan",
+      "kataKunci": "distant man shouting outdoor",
+      "prompt": "A man shouting urgently from across a river, distant, outdoors"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Obor dan langkah banyak orang",
+      "kataKunci": "torch fire crackle, crowd footsteps dirt",
+      "prompt": "Crackling torches and many bare feet walking on a dirt path at night, crickets"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Sorak serbuan dan ombak",
+      "kataKunci": "battle cry crowd, waves beach",
+      "prompt": "Group of men shouting a battle cry at dawn, waves on a beach behind"
+    },
+    {
+      "nomor": 5,
+      "adegan": 7,
+      "bunyi": "Angin laut di atas tembok",
+      "kataKunci": "sea wind, ocean waves distant",
+      "prompt": "Steady sea wind and distant waves heard from a fort wall"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Tembakan senapan lantak",
+      "kataKunci": "musket volley, flintlock fire",
+      "prompt": "Volley of old muzzle-loading muskets on a beach, men shouting"
+    },
+    {
+      "nomor": 7,
+      "adegan": 10,
+      "bunyi": "Dentuman meriam kapal dan bata runtuh",
+      "kataKunci": "cannon boom distant, debris falling",
+      "prompt": "Distant ship cannon booms at night, bricks and dust crumbling nearby"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Napas tertahan dan merangkak di pasir",
+      "kataKunci": "breathing heavy quiet, crawling sand",
+      "prompt": "Quiet held breaths and a person crawling through sand and dry leaves"
+    },
+    {
+      "nomor": 9,
+      "adegan": 13,
+      "bunyi": "Tembakan bertubi-tubi di bukit",
+      "kataKunci": "musket battle, gunfire forest",
+      "prompt": "Continuous musket fire and small cannon shots echoing in a forested hill"
+    },
+    {
+      "nomor": 10,
+      "adegan": 16,
+      "bunyi": "Azan sayup di kejauhan",
+      "kataKunci": "distant call to prayer village",
+      "prompt": "(pakai rekaman pustaka, bukan generator)"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Kepala Demang Lehman konon dibawa ke Belanda. Sampai kini, keberadaannya belum terbukti.",
+    "sumber": "Good News From Indonesia (2025), mengutip sejarawan ULM Mansyur; Van Rees, De Bandjermasinsche Krijg (1865)",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Pengikut Demang Lehman di Benteng Tabanio",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Pejuang Tanah Laut, 1859\nAlternatif judul: POV: Kamu Pejuang Tanah Laut di Perang Banjar 1859 / POV: Kamu Pendulang Emas Pelaihari yang Ikut Berperang",
+      "caption": "Benteng Belanda di pesisir Tanah Laut ini pernah jatuh ke tangan rakyat. Tapi tidak lama.\n\nPada 1859, di awal Perang Banjar, pasukan Kiai Demang Lehman, Haji Buyasin, dan Kiai Langlang merebut Benteng Tabanio. Kapal perang Bone datang merebutnya kembali, dan perlawanan berlanjut di Gunung Lawak. Nama Haji Buyasin kini dipakai sebagai nama RSUD di Pelaihari.\n\nKalau kamu di Gunung Lawak, kamu bertahan atau pulang ke dulangmu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Atlas of Mutual Heritage; Sejarah Tanah Laut (PPID Kabupaten Tanah Laut).\n\n#UlikSilam #perangbanjar #sejarahindonesia #pelaihari"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Pengikut Demang Lehman di Benteng Tabanio, 1859",
+      "catatan": "",
+      "caption": "Benteng Belanda di pesisir Tanah Laut ini pernah jatuh ke tangan rakyat. Tapi tidak lama.\n\nPada 1859, di awal Perang Banjar, pasukan Kiai Demang Lehman, Haji Buyasin, dan Kiai Langlang merebut Benteng Tabanio. Kapal perang Bone datang merebutnya kembali, dan perlawanan berlanjut di Gunung Lawak. Nama Haji Buyasin kini dipakai sebagai nama RSUD di Pelaihari.\n\nKalau kamu di Gunung Lawak, kamu bertahan atau pulang ke dulangmu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Atlas of Mutual Heritage; Sejarah Tanah Laut (PPID Kabupaten Tanah Laut).\n\n#UlikSilam #sejarahindonesia #perangbanjar #pelaihari #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 299,
+    "kataPerBabak": {
+      "1": 68,
+      "2": 54,
+      "3": 74,
+      "4": 66,
+      "5": 37
+    },
+    "karakterPerBabak": {
+      "1": 587,
+      "2": 484,
+      "3": 640,
+      "4": 556,
+      "5": 323
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 154.9,
+      "denganMerek": 159.9
+    },
+    "perkiraanDetik135": {
+      "narasi": 149.8,
+      "denganMerek": 154.8
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

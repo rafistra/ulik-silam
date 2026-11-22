@@ -1,0 +1,437 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-27T14:37:32.542Z",
+  "judulDokumen": "Mohammad Yamin di Kongres Pemuda II",
+  "judul": "POV: Kamu Mohammad Yamin di Kongres Pemuda II, 1928",
+  "slug": "pov-yamin-kongres-pemuda",
+  "versi": "v3 · 2026-10-27",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Batavia",
+  "durasiMaksDetik": 89,
+  "durasiTargetDetik": 85,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Mohammad Yamin (tokoh nyata), 25 tahun, sekretaris panitia Kongres Pemuda II, wakil Jong Sumatranen Bond",
+  "ringkasan": {
+    "Judul": "POV: Kamu Mohammad Yamin di Kongres Pemuda II, 1928",
+    "Slug": "pov-yamin-kongres-pemuda",
+    "Durasi": "1:29 maksimum, target ±1:25 (pengecualian dari rentang 2:00–3:00 atas permintaan Rafi; tanpa pembuka Ulik Silam, kartu Ulikan tetap)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Mohammad Yamin (tokoh nyata), 25 tahun, sekretaris panitia Kongres Pemuda II, wakil Jong Sumatranen Bond",
+    "Jumlah ilustrasi": "11 (9 adegan + perkiraan 2 lembar karakter: Yamin, Soegondo)",
+    "Lapisan": "Sejarah",
+    "Latar": "Batavia",
+    "Premis": "Dua hari kongres yang diawasi polisi Belanda, dan secarik kertas yang ditulis saat orang lain berpidato.",
+    "Benang merah": "Secarik kertas: kosong di adegan 1, penuh tanda setuju di adegan 7, dan menjadi pertanyaan untuk penonton di adegan 9",
+    "Dipilih karena": "Satu momen, satu benda, cocok untuk video di bawah 2 menit; momentum 28 Oktober",
+    "Asumsi": "Waktu tiap sesi (siang atau malam) tidak disebut di narasi karena sumber tidak seragam; Supratman dan rapat di Oost-Java Bioscoop tidak ditampilkan agar muat di bawah 1:30 dan tidak tumpang tindih dengan pov-supratman-sumpah-pemuda; pembuka Ulik Silam dilewati saat produksi, jadi Waktu dimulai dari 0:00",
+    "Versi": "v3 · 2026-10-27"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kertas kosong",
+      "suasana": "Ramai, waspada",
+      "palet": "Cokelat jati gelap, dinding krem, kuning lampu",
+      "cahaya": "Lampu gantung aula, bayangan dalam"
+    },
+    {
+      "babak": 2,
+      "nama": "Secarik kertas",
+      "suasana": "Akrab, tegang tertahan",
+      "palet": "Oker tegel, cokelat kayu, satu lampu hangat",
+      "cahaya": "Satu lampu gantung, makin sempit di adegan 7"
+    },
+    {
+      "babak": 3,
+      "nama": "Bahasa persatuan",
+      "suasana": "Khidmat, lalu reflektif",
+      "palet": "Emas lampu memudar ke cokelat gelap",
+      "cahaya": "Ruangan terang saat pembacaan, lampu diredupkan di adegan 9"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kertas kosong",
+    "2": "Secarik kertas",
+    "3": "Bahasa persatuan"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kertas kosong",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam, di bawah lampu gantung sebuah aula; tangan \"kamu\" berlengan jas putih menarik secarik kertas kosong yang terlipat dari saku dada. Di latar kabur, deretan pemuda berjas dan berpeci duduk di kursi kayu.",
+      "narasiSuara": "[calm] Kamu Mohammad Yamin, dua puluh lima tahun, sekretaris Kongres Pemuda Kedua. [curious] Di sakumu, secarik kertas masih kosong.",
+      "narasi": "Kamu Mohammad Yamin, dua puluh lima tahun, sekretaris Kongres Pemuda Kedua. Di sakumu, secarik kertas masih kosong.",
+      "teksLayar": [
+        "Batavia, 27 Oktober 1928."
+      ],
+      "suara": "Riuh rendah percakapan, kursi bergeser",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kertas kosong",
+      "waktu": "0:09–0:17",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Yamin berdiri di mimbar kayu aula gedung KJB, satu tangan terangkat saat berbicara; para hadirin muda menyimak, beberapa mencatat. Di dinding, papan pengumuman berbahasa Belanda.",
+      "narasiSuara": "[serious] Di gedung Katholieke Jongenlingen Bond, kamu berpidato soal persatuan. [sarcastic] Ironisnya, rapat-rapat ini kebanyakan masih berbahasa Belanda.",
+      "narasi": "Di gedung Katholieke Jongenlingen Bond, kamu berpidato soal persatuan. Ironisnya, rapat-rapat ini kebanyakan masih berbahasa Belanda.",
+      "teksLayar": [],
+      "suara": "Suara pidato bergema samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Kertas kosong",
+      "waktu": "0:17–0:25",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Barisan belakang aula: dua pria Eropa berjas gelap dengan buku catatan, satu menulis cepat. Di depan, Soegondo membungkuk ke arah seorang pembicara, berbisik meminta ganti kata.",
+      "narasiSuara": "[tense] Polisi rahasia Belanda mencatat setiap kata. [nervous] Saat seorang pembicara menyebut kemerdekaan, Soegondo memintanya memakai kata lain.",
+      "narasi": "Polisi rahasia Belanda mencatat setiap kata. Saat seorang pembicara menyebut kemerdekaan, Soegondo memintanya memakai kata lain.",
+      "teksLayar": [],
+      "suara": "Pensil menggores kertas, bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Secarik kertas",
+      "waktu": "0:25–0:34",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Ruang tengah rumah Kramat 106: lantai tegel bermotif, pemuda dan pemudi berdesakan, seorang polisi Belanda duduk di sudut. Sunario berdiri berpidato di latar. Di meja panitia, tangan kanan \"kamu\" mulai menulis dengan pena di secarik kertas; tangan kiri menahannya.",
+      "narasiSuara": "[calm] Esoknya, sesi terakhir digelar di Kramat 106. [serious] Sunario sedang berpidato. [whispers] Kamu mengeluarkan kertas itu dan mulai menulis.",
+      "narasi": "Esoknya, sesi terakhir digelar di Kramat 106. Sunario sedang berpidato. Kamu mengeluarkan kertas itu dan mulai menulis.",
+      "teksLayar": [
+        "Kramat 106, 28 Oktober 1928."
+      ],
+      "suara": "Pena menggores kertas, pidato samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Secarik kertas",
+      "waktu": "0:34–0:43",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menggeser kertas itu ke kiri, ke depan Soegondo yang duduk di sebelah; Soegondo menunduk membaca, lalu menoleh dan menatap \"kamu\".",
+      "narasiSuara": "[whispers] Kamu menyodorkannya ke Soegondo, sambil berbisik bahwa kamu punya rumusan yang lebih elegan. [nervous] Ia membaca, lalu menatapmu.",
+      "narasi": "Kamu menyodorkannya ke Soegondo, sambil berbisik bahwa kamu punya rumusan yang lebih elegan. Ia membaca, lalu menatapmu.",
+      "teksLayar": [],
+      "suara": "Bisik pendek",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Secarik kertas",
+      "waktu": "0:43–0:50",
+      "durasiCadangan": 7,
+      "bidikan": "B",
+      "visual": "Close-up kertas di meja: tangan Soegondo menulis \"Setuju\" di pojok; lalu kertas berpindah ke tangan Amir Sjarifuddin, dan seterusnya ke tangan-tangan lain di sepanjang meja.",
+      "narasiSuara": "[curious] Soegondo menulis: setuju. [calm] Amir Sjarifuddin juga. [serious] Kertas itu berpindah dari wakil ke wakil organisasi.",
+      "narasi": "Soegondo menulis: setuju. Amir Sjarifuddin juga. Kertas itu berpindah dari wakil ke wakil organisasi.",
+      "teksLayar": [],
+      "suara": "Kertas digeser, pena",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Secarik kertas",
+      "waktu": "0:50–0:57",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" memegang kertas yang kembali, kini penuh paraf dan coretan \"Setuju\"; cahaya lampu jatuh di atasnya.",
+      "narasiSuara": "[whispers] Kertas itu kembali ke tanganmu... [calm] penuh tanda setuju.",
+      "narasi": "Kertas itu kembali ke tanganmu... penuh tanda setuju.",
+      "teksLayar": [],
+      "suara": "Hening, detak jam dinding",
+      "hening": true,
+      "epilog": false,
+      "kata": 8
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Bahasa persatuan",
+      "waktu": "0:57–1:06",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Soegondo berdiri di depan meja membacakan kertas itu; para peserta berdiri menyimak, beberapa menahan napas. Yamin berdiri di sampingnya, siap menjelaskan. Polisi di sudut menegakkan punggung.",
+      "narasiSuara": "[serious] Soegondo membacakan putusan itu: satu tanah air, satu bangsa, dan bahasa persatuan, bahasa Indonesia. [calm] Lalu kamu menjelaskannya panjang lebar.",
+      "narasi": "Soegondo membacakan putusan itu: satu tanah air, satu bangsa, dan bahasa persatuan, bahasa Indonesia. Lalu kamu menjelaskannya panjang lebar.",
+      "teksLayar": [],
+      "suara": "Ruangan sunyi, suara pembacaan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Bahasa persatuan",
+      "waktu": "1:06–1:19",
+      "durasiCadangan": 13,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" meletakkan kertas itu di meja yang kini kosong; lampu meredup. Bayangan kertas perlahan berganti dengan buku pelajaran sekolah modern yang terbuka di halaman Sumpah Pemuda.",
+      "narasiSuara": "[calm] Malam itu, namanya masih putusan kongres. [serious] Hampir seabad kemudian, anak sekolah menghafalnya sebagai Sumpah Pemuda. [curious] Kalau kertas itu di tanganmu hari ini, apa yang kamu tulis?",
+      "narasi": "Malam itu, namanya masih putusan kongres. Hampir seabad kemudian, anak sekolah menghafalnya sebagai Sumpah Pemuda. Kalau kertas itu di tanganmu hari ini, apa yang kamu tulis?",
+      "teksLayar": [],
+      "suara": "Musik memudar",
+      "hening": false,
+      "epilog": true,
+      "kata": 26
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Mohammad Yamin",
+      "prompt": "Character reference sheet of Mohammad Yamin. Mohammad Yamin, a young Minangkabau law student about twenty-five years old, secretary of the Second Youth Congress in Batavia, 1928. Slim build, medium height, light-brown skin, a full rounded face, thick dark eyebrows, alert dark eyes, clean-shaven, thick wavy black hair combed back from the forehead. Bareheaded. A single-breasted dark charcoal wool lounge jacket over a white collared shirt and a plain dark tie, dark trousers, black leather shoes; a fountain pen clipped in the breast pocket and a folded slip of paper peeking out of it. His hands are slender and smooth, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. Leans forward eagerly when he listens, quick restless hands.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the jacket collar, breast pocket, pen and folded paper, and one first-person panel showing only his two hands and forearms raised to chest height from the bottom of the frame as the wearer would see them.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1920s Indonesian student dress in Batavia.\nAvoid caricature, modern clothing, military uniform, glasses, batik shirts, parang batik pattern, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Soegondo",
+      "prompt": "Character reference sheet of Soegondo. Soegondo Djojopoespito, a Javanese law student in his early twenties and chairman of the Second Youth Congress, Batavia, 1928. Medium height with a compact, upright build; light brown skin; a broad face with a square jaw, straight nose and full lips; calm dark eyes under thick straight brows; clean-shaven, no glasses. Short black hair neatly trimmed, mostly hidden under a plain black velvet peci. A white cotton jas tutup with a high stand-up collar, five small brass buttons down the front and two lower patch pockets, over long dark trousers and black leather shoes. No jewelry; often holds a few folded sheets of paper or a pencil. Stands squarely and moves deliberately, as if weighing every word before he speaks.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the jas tutup collar, its brass buttons and the velvet peci.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late-1920s Indonesian student dress in Batavia.\nAvoid caricature, modern clothing, military uniform, glasses, batik shirts, parang batik pattern, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Kamu Mohammad Yamin, dua puluh lima tahun, sekretaris Kongres Pemuda Kedua. Di sakumu, secarik kertas masih kosong.",
+      "prompt": "The viewer is Mohammad Yamin: the hands and forearms in the foreground match the first-person panel of the Mohammad Yamin reference image.\nMedium shot at eye level in a meeting hall at night under a hanging oil lamp, rows of wooden chairs filling up behind.\nFirst-person point of view. Slender, smooth hands of a young Indonesian man about twenty-five, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. The right hand pulls a folded, blank slip of paper halfway out of the jacket's breast pocket; the left hand holds a fountain pen, cap still on.\nIndonesian youth delegates of different ages and builds: some in black velvet peci caps and dark European-cut suits, some in khaki jas tutup jackets, one in a batik headcloth (blangkon), a few young women in plain kebaya blouses and batik kain, chatting and taking their seats in soft focus, turned toward each other, not toward the viewer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teak brown, cream walls and amber lamplight with deep shadows, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, mismatched sleeves, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:17",
+      "narasi": "Di gedung Katholieke Jongenlingen Bond, kamu berpidato soal persatuan. Ironisnya, rapat-rapat ini kebanyakan masih berbahasa Belanda.",
+      "prompt": "Same character as the Mohammad Yamin reference image.\nMedium-wide shot from a slightly low angle in the hall of the Katholieke Jongenlingen Bond building at night, a plain wooden lectern, high windows with wooden shutters, a notice board with a Dutch-language poster drawn as unreadable lines.\nMohammad Yamin stands at the lectern mid-speech, right hand raised with fingers spread, leaning forward, brows lifted, mouth open in emphasis, eyes sweeping across the audience.\nThe audience are Indonesian youth delegates of different ages and builds: some in black velvet peci caps and dark European-cut suits, some in khaki jas tutup jackets, one in a batik headcloth (blangkon), a few young women in plain kebaya blouses and batik kain; some lean in listening, one scribbles notes, one older delegate frowns thoughtfully. They are different people from Mohammad Yamin.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teak brown, cream walls and amber lamplight with deep shadows, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:25",
+      "narasi": "Polisi rahasia Belanda mencatat setiap kata. Saat seorang pembicara menyebut kemerdekaan, Soegondo memintanya memakai kata lain.",
+      "prompt": "Same character as the Soegondo reference image.\nMedium shot at eye level from the back of the same hall, two rows of wooden chairs in the foreground.\nIn the back row two European men in dark suits and hats, Dutch political police agents, write in small notebooks; one stops mid-word and glances up sharply. In the middle ground Soegondo bends toward a young speaker at the lectern, one hand lightly on the speaker's arm, whispering, brows knit with quiet urgency; the speaker, a stocky young man in a grey suit and no peci, pauses with a startled look.\nThe agents and the speaker are different people from Soegondo: the agents pale, one heavyset with a ginger moustache, one thin and clean-shaven.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teak brown, cream walls and amber lamplight with deep shadows, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:25–0:34",
+      "narasi": "Esoknya, sesi terakhir digelar di Kramat 106. Sunario sedang berpidato. Kamu mengeluarkan kertas itu dan mulai menulis.",
+      "prompt": "The viewer is Mohammad Yamin: the hands and forearms in the foreground match the first-person panel of the Mohammad Yamin reference image.\nMedium shot at eye level from the committee table inside the front room of the Kramat 106 boarding house at night: patterned colonial floor tiles, cream walls, one hanging lamp, people crowded close.\nFirst-person point of view. Slender, smooth hands of a young Indonesian man about twenty-five, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. The right hand writes quickly with a fountain pen on a small slip of paper on the wooden table; the left hand holds the paper flat. The writing is small, unreadable strokes.\nSunario, a slim young man in a grey suit and bare head, stands at the far end of the room mid-speech, one hand on the table, eyes on the audience. In the corner a Dutch colonial police officer in a white high-collared uniform sits with his cap on his knee, watching the room.\nDelegates fill the room: Indonesian youth delegates of different ages and builds: some in black velvet peci caps and dark European-cut suits, some in khaki jas tutup jackets, one in a batik headcloth (blangkon), a few young women in plain kebaya blouses and batik kain, all facing Sunario. They are different people from Mohammad Yamin.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of patterned tile ochre, deep brown wood and a single warm hanging lamp, intimate and close, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, mismatched sleeves, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:34–0:43",
+      "narasi": "Kamu menyodorkannya ke Soegondo, sambil berbisik bahwa kamu punya rumusan yang lebih elegan. Ia membaca, lalu menatapmu.",
+      "prompt": "Same character as the Soegondo reference image.\nThe viewer is Mohammad Yamin: the hands and forearms in the foreground match the first-person panel of the Mohammad Yamin reference image.\nClose medium shot at eye level at the committee table in the Kramat 106 front room, warm lamplight.\nFirst-person point of view. Slender, smooth hands of a young Indonesian man about twenty-five, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. The left hand slides the folded slip of paper across the table toward the man seated to the left; the right hand rests near the pen.\nSoegondo, seated beside the viewer, has just read the paper; he turns his head and looks straight at the viewer, one eyebrow raised, lips pressed in a faint questioning smile, the paper between his fingers.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of patterned tile ochre, deep brown wood and a single warm hanging lamp, intimate and close, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, mismatched sleeves, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:43–0:50",
+      "narasi": "Soegondo menulis: setuju. Amir Sjarifuddin juga. Kertas itu berpindah dari wakil ke wakil organisasi.",
+      "prompt": "Same character as the Soegondo reference image.\nClose shot from a slightly high angle of the wooden committee table in lamplight.\nSoegondo's hand writes a short word in the corner of the slip of paper; beside him another hand, belonging to Amir Sjarifuddin (a young man in a dark suit sleeve), reaches in to take the paper next; further along the table more hands of different skin tones and sleeves wait their turn, passing it on.\nThe other hands and sleeves are different from Soegondo's: one with a batik cuff, one with a white kebaya sleeve, one in grey wool; none in a white jas tutup sleeve.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of patterned tile ochre, deep brown wood and a single warm hanging lamp, intimate and close, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:50–0:57",
+      "narasi": "Kertas itu kembali ke tanganmu... penuh tanda setuju.",
+      "prompt": "The viewer is Mohammad Yamin: the hands and forearms in the foreground match the first-person panel of the Mohammad Yamin reference image.\nClose shot at a slightly high angle on the committee table, the room behind dissolved into dark shadow, one pool of warm lamplight.\nFirst-person point of view. Slender, smooth hands of a young Indonesian man about twenty-five, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. Both hands hold the returned slip of paper up near the chest, now covered with many small handwritten marks and initials in different inks, drawn as unreadable strokes; the thumbs grip it gently.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of patterned tile ochre, deep brown wood and a single warm hanging lamp, intimate and close, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, mismatched sleeves, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "0:57–1:06",
+      "narasi": "Soegondo membacakan putusan itu: satu tanah air, satu bangsa, dan bahasa persatuan, bahasa Indonesia. Lalu kamu menjelaskannya panjang lebar.",
+      "prompt": "Same character as the Soegondo reference image.\nSame character as the Mohammad Yamin reference image.\nMedium-wide shot at eye level in the crowded Kramat 106 front room at night, everyone on their feet.\nSoegondo stands at the front reading aloud from the slip of paper held in both hands, chin raised, voice carrying; Mohammad Yamin stands just beside him, half turned to the crowd, one hand lifted, ready to explain, eyes bright. Delegates lean forward, a young woman presses her hand to her chest.\nDelegates: Indonesian youth delegates of different ages and builds: some in black velvet peci caps and dark European-cut suits, some in khaki jas tutup jackets, one in a batik headcloth (blangkon), a few young women in plain kebaya blouses and batik kain. In the corner the Dutch police officer in a white uniform straightens in his chair. All are different people from Soegondo and Mohammad Yamin.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of soft gold lamplight fading into deep brown shadows, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:06–1:19",
+      "narasi": "Malam itu, namanya masih putusan kongres. Hampir seabad kemudian, anak sekolah menghafalnya sebagai Sumpah Pemuda. Kalau kertas itu di tanganmu hari ini, apa yang kamu tulis?",
+      "prompt": "The viewer is Mohammad Yamin: the hands and forearms in the foreground match the first-person panel of the Mohammad Yamin reference image.\nClose shot at eye level of the now empty committee table late at night, chairs pushed back, the lamp turned low.\nFirst-person point of view. Slender, smooth hands of a young Indonesian man about twenty-five, light-brown skin, neatly trimmed nails, a small ink stain on the right middle finger, no rings or watch; forearms covered by the sleeves of a dark charcoal wool lounge jacket, about one centimetre of white shirt cuff showing at each wrist. The right hand lays the slip of paper down on the table; the left hand rests on the table edge. Beside the paper, as if in a dream overlay, an open modern Indonesian school textbook appears in soft focus, its page showing a small illustration of young people of the 1920s and unreadable lines of text.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of soft gold lamplight fading into deep brown shadows, historically accurate Batavia, Dutch East Indies, October 1928.\nAvoid characters looking at the camera, modern clothing, smartphones, red-and-white flags, military uniforms, hijab, background figures copying the main characters' faces or outfits, mismatched sleeves, delegates in white jas tutup, stiff symmetrical poses, extra or malformed hands and fingers, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki muda yang hangat dan jernih; voice paling menentukan, tag tidak bisa memaksa voice yang berat menjadi muda.\n\n- Babak 1: tenang dan percaya diri, sedikit sinis di \"Ironisnya\", menegang di kalimat polisi.\n- Babak 2: makin pelan dan dekat, berbisik di adegan 4–5, jeda panjang di adegan 7.\n- Babak 3: khidmat saat pembacaan, lalu lembut dan bertanya di kalimat terakhir.",
+    "arahanBabak": {
+      "1": "tenang dan percaya diri, sedikit sinis di \"Ironisnya\", menegang di kalimat polisi.",
+      "2": "makin pelan dan dekat, berbisik di adegan 4–5, jeda panjang di adegan 7.",
+      "3": "khidmat saat pembacaan, lalu lembut dan bertanya di kalimat terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Kamu Mohammad Yamin, dua puluh lima tahun, sekretaris Kongres Pemuda Kedua. [curious] Di sakumu, secarik kertas masih kosong...\n\n[serious] Di gedung Katholieke Jongenlingen Bond, kamu berpidato soal persatuan. [sarcastic] Ironisnya, rapat-rapat ini kebanyakan masih berbahasa Belanda...\n\n[tense] Polisi rahasia Belanda mencatat setiap kata. [nervous] Saat seorang pembicara menyebut kemerdekaan, Soegondo memintanya memakai kata lain...",
+    "2": "[calm] Esoknya, sesi terakhir digelar di Kramat 106. [serious] Sunario sedang berpidato. [whispers] Kamu mengeluarkan kertas itu dan mulai menulis...\n\n[whispers] Kamu menyodorkannya ke Soegondo, sambil berbisik bahwa kamu punya rumusan yang lebih elegan. [nervous] Ia membaca, lalu menatapmu...\n\n[curious] Soegondo menulis: setuju. [calm] Amir Sjarifuddin juga. [serious] Kertas itu berpindah dari wakil ke wakil organisasi...\n\n[whispers] Kertas itu kembali ke tanganmu... [calm] penuh tanda setuju...",
+    "3": "[serious] Soegondo membacakan putusan itu: satu tanah air, satu bangsa, dan bahasa persatuan, bahasa Indonesia. [calm] Lalu kamu menjelaskannya panjang lebar...\n\n[calm] Malam itu, namanya masih putusan kongres. [serious] Hampir seabad kemudian, anak sekolah menghafalnya sebagai Sumpah Pemuda. [curious] Kalau kertas itu di tanganmu hari ini, apa yang kamu tulis?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Aula yang diawasi",
+      "babakAwal": 1,
+      "babakAkhir": 1,
+      "durasiTarget": "0:30",
+      "suasana": "Ramai tertahan, waspada",
+      "style": "1920s colonial-era chamber ambience, soft upright piano and pizzicato strings with a light kroncong-style ukulele pulse, curious and watchful, a subtle tense low cello note near the end, about 30 seconds long (0:30), with a clear ending, 84 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, rock, national anthem melody"
+    },
+    {
+      "nomor": 2,
+      "nama": "Secarik kertas",
+      "babakAwal": 2,
+      "babakAkhir": 2,
+      "durasiTarget": "0:40",
+      "suasana": "Sunyi dan intim, ketegangan kecil",
+      "style": "Intimate minimal piano and solo violin, quiet ticking clock texture, hushed and hopeful with restrained tension, builds very slightly then drops to near silence, about 40 seconds long (0:40), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, drums, EDM, national anthem melody"
+    },
+    {
+      "nomor": 3,
+      "nama": "Putusan",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:30",
+      "suasana": "Khidmat, hangat, terbuka di akhir",
+      "style": "Warm solemn strings and piano, a solo violin line rising gently, dignified and reflective, swells softly then fades open and unresolved, about 30 seconds long (0:30), with a clear ending, 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, march, triumphant brass, national anthem melody"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Riuh percakapan dan kursi kayu bergeser",
+      "kataKunci": "crowd murmur hall chairs",
+      "prompt": "Indoor hall murmur of young people talking, wooden chairs scraping, 1920s"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Pidato bergema samar",
+      "kataKunci": "distant speech hall echo",
+      "prompt": "Muffled speech echoing in a wooden hall, words unintelligible"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Pensil menggores kertas",
+      "kataKunci": "pencil writing paper",
+      "prompt": "Close pencil scribbling quickly on a small notebook"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Pena menggores kertas",
+      "kataKunci": "fountain pen writing",
+      "prompt": "Fountain pen nib scratching on paper, quiet room, distant speech"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Kertas digeser di meja",
+      "kataKunci": "paper slide table",
+      "prompt": "A folded paper slid across a wooden table, soft"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Kertas berpindah tangan",
+      "kataKunci": "paper handling",
+      "prompt": "Paper passed hand to hand, light rustle, pen tap"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Detak jam dinding",
+      "kataKunci": "clock ticking",
+      "prompt": "Slow wall clock ticking in a silent room"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Ruangan sunyi lalu suara pembacaan samar",
+      "kataKunci": "room tone crowd hush",
+      "prompt": "Crowded room falls silent, faint voice reading aloud, unintelligible"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Lampu diredupkan, kursi bergeser pelan",
+      "kataKunci": "room tone night",
+      "prompt": "Quiet empty room at night, a chair pushed back softly"
+    }
+  ],
+  "adeganHening": [
+    7
+  ],
+  "ulikan": {
+    "teks": "Rumah Kramat 106 milik Sie Kong Lian, seorang Tionghoa Batavia, disewakan sebagai kos pelajar.",
+    "sumber": "Wikipedia (Youth Pledge); detikProperti",
+    "kata": 14,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mohammad Yamin di Kongres Pemuda II, 1928",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Mohammad Yamin di Kongres Pemuda\nAlternatif judul: POV: Kamu Menulis Sumpah Pemuda di Secarik Kertas / POV: Kamu Yamin, Sekretaris Kongres Pemuda II",
+      "caption": "Ikrar bahasa persatuan lahir di forum yang masih berbahasa Belanda.\n\n28 Oktober 1928, di Kramat 106, Batavia, sekretaris kongres Mohammad Yamin menulis rumusan putusan di secarik kertas saat Sunario berpidato. Kongres itu diawasi polisi Belanda; kata \"kemerdekaan\" pun diminta diganti.\n\nKalau kertas itu di tanganmu hari ini, apa yang akan kamu tulis?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Hukumonline; Wikipedia (Youth Pledge).\n\n#UlikSilam #sejarahindonesia #sumpahpemuda #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Mohammad Yamin di Kongres Pemuda II, 1928",
+      "catatan": "",
+      "caption": "Ikrar bahasa persatuan lahir di forum yang masih berbahasa Belanda.\n\n28 Oktober 1928, di Kramat 106, Batavia, sekretaris kongres Mohammad Yamin menulis rumusan putusan di secarik kertas saat Sunario berpidato. Kongres itu diawasi polisi Belanda; kata \"kemerdekaan\" pun diminta diganti.\n\nKalau kertas itu di tanganmu hari ini, apa yang akan kamu tulis?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Hukumonline; Wikipedia (Youth Pledge).\n\n#UlikSilam #sejarahindonesia #sumpahpemuda #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 9,
+    "jumlahBabak": 3,
+    "totalKata": 150,
+    "kataPerBabak": {
+      "1": 49,
+      "2": 56,
+      "3": 45
+    },
+    "karakterPerBabak": {
+      "1": 446,
+      "2": 505,
+      "3": 367
+    },
+    "jedaBunyi": 1,
+    "perkiraanDetik130": {
+      "narasi": 79.3,
+      "denganMerek": 84.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 76.8,
+      "denganMerek": 81.8
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

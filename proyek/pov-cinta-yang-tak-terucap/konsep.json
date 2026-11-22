@@ -1,0 +1,653 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-08T13:03:43.466Z",
+  "judulDokumen": "Tetangga di Kamar Sebelah",
+  "judul": "Cinta yang Tak Terucap, 1986",
+  "slug": "pov-cinta-yang-tak-terucap",
+  "versi": "v3 · 2026-11-08",
+  "lapisan": [
+    "Rekaan"
+  ],
+  "latar": "Jakarta",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "Laki-laki 30-an, wartawan Sinar Harapan dan penulis cerita bersambung (fiktif)",
+  "ringkasan": {
+    "Judul": "Cinta yang Tak Terucap, 1986",
+    "Slug": "pov-cinta-yang-tak-terucap",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan naskah ±2:41)",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "Laki-laki 30-an, wartawan Sinar Harapan dan penulis cerita bersambung (fiktif)",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Wartawan, Ratna)",
+    "Lapisan": "Rekaan",
+    "Latar": "Jakarta",
+    "Jenis": "Rekaan berlatar sejarah",
+    "Genre": "Romansa, drama",
+    "Musik": "Yumeji's Theme (Shigeru Umebayashi), dipasang lewat pustaka suara TikTok/Shorts saat unggah; video dirender tanpa musik. Lagu ±2:30 diputar dari awal dan habis sekitar akhir adegan 15; epilog dan kartu Ulikan berjalan tanpa musik",
+    "Premis": "Kamu dan perempuan di kamar sebelah ditinggalkan dengan cara yang sama, dan memilih untuk tidak membalasnya.",
+    "Benang merah": "Yang tak pernah diucapkan: janji \"tidak seperti mereka\", karcis kedua, bab terakhir yang tak dikirim.",
+    "Asumsi": "Kamar sewaan di Sawah Besar; induk semang Bu Hasnah; pasangan kedua tokoh tak pernah tampak wajahnya; perselingkuhan dibuktikan lewat petunjuk (korek api hotel di Puncak, kepergian di akhir pekan yang sama); pekerjaan baru di Surabaya; epilog tiga tahun kemudian; durasi 3:00 dipertahankan, lagu sengaja habis sebelum epilog; aplikasi tidak mengulang lagu dari awal (dicek Rafi sebelum unggah).",
+    "Versi": "v3 · 2026-11-08"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kamar sebelah",
+      "suasana": "Canggung, baru",
+      "palet": "Hijau giok, krem, merah tua",
+      "cahaya": "Sore keemasan dari jendela krepyak"
+    },
+    {
+      "babak": 2,
+      "nama": "Korek api",
+      "suasana": "Curiga, sepi",
+      "palet": "Merah tua, hijau gelap, amber",
+      "cahaya": "Lampu minyak gerobak dan bohlam kuning, bayangan dalam"
+    },
+    {
+      "babak": 3,
+      "nama": "Latihan",
+      "suasana": "Intim, tertahan",
+      "palet": "Merah anggur, mustard, cokelat tua",
+      "cahaya": "Satu lampu meja, sisanya gelap, asap rokok"
+    },
+    {
+      "babak": 4,
+      "nama": "Cerita bersambung",
+      "suasana": "Hangat lalu cemas",
+      "palet": "Mustard, hijau zaitun, abu-abu hujan",
+      "cahaya": "Lampu meja; sore hujan kelabu dengan lampu toko hangat"
+    },
+    {
+      "babak": 5,
+      "nama": "Oktober 1986",
+      "suasana": "Kehilangan",
+      "palet": "Cokelat kusam, biru dongker, satu aksen merah",
+      "cahaya": "Bohlam tunggal, lampu peron kuning dalam kabut"
+    },
+    {
+      "babak": 6,
+      "nama": "Bab terakhir",
+      "suasana": "Sunyi",
+      "palet": "Cokelat tua, amber",
+      "cahaya": "Satu lampu meja"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kamar sebelah",
+    "2": "Korek api",
+    "3": "Latihan",
+    "4": "Cerita bersambung",
+    "5": "Oktober 1986",
+    "6": "Bab terakhir"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kamar sebelah",
+      "waktu": "0:01–0:11",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Lorong rumah tua berlantai tegel, sore. Kardus berisi mesin tik diletakkan di lantai; kedua tangan kamu bertumpu di tepi atasnya. Di depan pintu sebelah, Ratna menurunkan koper, menoleh sekilas ke arahmu, lalu menunduk dan menepi memberi jalan.",
+      "narasiSuara": "[calm] Kamu dan perempuan itu pindah ke rumah ini pada hari yang sama. [sad] Kalian juga akan ditinggalkan dengan cara yang sama.",
+      "narasi": "Kamu dan perempuan itu pindah ke rumah ini pada hari yang sama. Kalian juga akan ditinggalkan dengan cara yang sama.",
+      "teksLayar": [
+        "Sawah Besar, Jakarta, 1985."
+      ],
+      "suara": "Langkah di lantai tegel, kardus bergeser",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kamar sebelah",
+      "waktu": "0:11–0:20",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ruang depan rumah sewaan, lampu bohlam. Ratna merapikan taplak di meja kecil, menatap pintu. Di ambang pintu, dua sosok dari belakang, istrimu dan suami Ratna, masing-masing keluar membawa tas; wajah mereka tak terlihat.",
+      "narasiSuara": "[calm] Kamu wartawan Sinar Harapan. [curious] Ratna, tetanggamu, sekretaris di kantor pelayaran. [resigned] Istrimu dan suaminya sama-sama jarang di rumah.",
+      "narasi": "Kamu wartawan Sinar Harapan. Ratna, tetanggamu, sekretaris di kantor pelayaran. Istrimu dan suaminya sama-sama jarang di rumah.",
+      "teksLayar": [],
+      "suara": "Radio kecil di kejauhan, pintu ditutup",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "Korek api",
+      "waktu": "0:20–0:30",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Gang sempit malam, cahaya kuning dari gerobak bakmi. Tangan kanan kamu menjinjing bungkus bakmi. Ratna berjalan dari arah berlawanan membawa rantang, bahu kalian hampir bersentuhan, matanya ke bawah.",
+      "narasiSuara": "[calm] Setiap malam, kalian makan sendiri-sendiri. [calm] Kalian sering berpapasan di gang. [sad] Ia selalu membawa rantang untuk satu orang.",
+      "narasi": "Setiap malam, kalian makan sendiri-sendiri. Kalian sering berpapasan di gang. Ia selalu membawa rantang untuk satu orang.",
+      "teksLayar": [],
+      "suara": "Denting mangkuk tukang bakmi, langkah di gang",
+      "hening": true,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Korek api",
+      "waktu": "0:30–0:39",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kamar kamu, pagi, cahaya miring dari jendela. Tangan kanan kamu memungut kotak korek api bergambar hotel dari lantai dekat pintu; tangan kiri masih memegang cangkir kopi.",
+      "narasiSuara": "[calm] Istrimu tidak merokok. [tense] Tapi sebuah korek api jatuh dari tasnya pagi itu. [tense] Bergambar sebuah hotel di Puncak.",
+      "narasi": "Istrimu tidak merokok. Tapi sebuah korek api jatuh dari tasnya pagi itu. Bergambar sebuah hotel di Puncak.",
+      "teksLayar": [],
+      "suara": "Kicau burung, kotak korek jatuh ke lantai",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Korek api",
+      "waktu": "0:39–0:50",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Ruang depan. Ratna berdiri membeku di samping meja kecil, menatap kotak korek api yang sama di atas taplak; tangannya meremas ujung blus. Kamu terlihat dari belakang di ambang pintu.",
+      "narasiSuara": "[tense] Dua hari kemudian, korek yang sama ada di meja suami Ratna. [serious] Akhir pekan itu, istrimu pamit ke Bandung. [serious] Suaminya, ke luar kota.",
+      "narasi": "Dua hari kemudian, korek yang sama ada di meja suami Ratna. Akhir pekan itu, istrimu pamit ke Bandung. Suaminya, ke luar kota.",
+      "teksLayar": [],
+      "suara": "Detak jam dinding",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Korek api",
+      "waktu": "0:50–0:58",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Rumah makan sederhana, malam, kipas angin di langit-langit. Ratna di seberang meja menaruh kotak korek api di samping korek yang dipegang tangan kanan kamu, lalu menatap kamu (kontak mata disengaja). Dua gelas teh tak tersentuh.",
+      "narasiSuara": "[sad] Ratna menaruh korek yang sama di samping korekmu. [resigned] Teh kalian dingin, tak tersentuh.",
+      "narasi": "Ratna menaruh korek yang sama di samping korekmu. Teh kalian dingin, tak tersentuh.",
+      "teksLayar": [],
+      "suara": "Kipas angin, sendok beradu di meja lain",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Latihan",
+      "waktu": "0:58–1:09",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kamar kamu, malam, lampu meja. Ratna berdiri di dekat jendela, setengah berbalik, tangannya terangkat lalu berhenti di udara. Tangan kanan kamu terulur ke arahnya, ragu.",
+      "narasiSuara": "[curious] Kalian ingin tahu, bagaimana mereka memulainya. [calm] Maka kalian memerankannya. [calm] Kamu menjadi suaminya. [calm] Ia menjadi istrimu. [sad] Lalu ia berhenti di tengah kalimat...",
+      "narasi": "Kalian ingin tahu, bagaimana mereka memulainya. Maka kalian memerankannya. Kamu menjadi suaminya. Ia menjadi istrimu. Lalu ia berhenti di tengah kalimat...",
+      "teksLayar": [],
+      "suara": "Jangkrik, kendaraan lewat di jalan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Latihan",
+      "waktu": "1:09–1:21",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Kamar yang sama. Ratna menatap kamu, mata berkaca, lalu menutup wajah dengan kedua tangan. Tangan kamu terangkat ke arah bahunya, berhenti, tidak menyentuh.",
+      "narasiSuara": "[serious] Ia memintamu berpura-pura menjadi suaminya, untuk berlatih bertanya. [serious] Kamu menjawab: ya, ada perempuan lain. [sad] Hanya latihan. [crying] Tapi ia menangis sungguhan.",
+      "narasi": "Ia memintamu berpura-pura menjadi suaminya, untuk berlatih bertanya. Kamu menjawab: ya, ada perempuan lain. Hanya latihan. Tapi ia menangis sungguhan.",
+      "teksLayar": [],
+      "suara": "Isak tertahan",
+      "hening": true,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Latihan",
+      "waktu": "1:21–1:30",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Tangga kayu rumah sewaan, malam. Ratna berhenti di anak tangga atas dan menoleh ke bawah; kamu terlihat dari belakang di kaki tangga, satu tangan di pegangan.",
+      "narasiSuara": "[serious] Malam itu, di tangga, kalian berjanji. [serious] Apa pun yang terjadi... [whispers] kalian tidak akan menjadi seperti mereka.",
+      "narasi": "Malam itu, di tangga, kalian berjanji. Apa pun yang terjadi... kalian tidak akan menjadi seperti mereka.",
+      "teksLayar": [],
+      "suara": "Derit anak tangga",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Cerita bersambung",
+      "waktu": "1:30–1:39",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kamar kamu, malam. Kedua tangan kamu di atas tuts mesin tik. Ratna duduk di kursi rotan membaca lembar ketikan, pensil di tangan, mencoret satu baris sambil tersenyum tipis.",
+      "narasiSuara": "[calm] Kamu mulai menulis cerita bersambung untuk koranmu. [curious] Ratna pembaca pertamanya. [calm] Ia mencoret kalimat yang terlalu manis, dan kamu membiarkannya.",
+      "narasi": "Kamu mulai menulis cerita bersambung untuk koranmu. Ratna pembaca pertamanya. Ia mencoret kalimat yang terlalu manis, dan kamu membiarkannya.",
+      "teksLayar": [],
+      "suara": "Ketukan mesin tik, bunyi pengait baris",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Cerita bersambung",
+      "waktu": "1:39–1:48",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Emperan toko di Pasar Baru, hujan deras, sore. Kamu terlihat dari samping memegang payung tertutup; Ratna berdiri dua langkah darimu, memeluk tas, menatap hujan. Pejalan kaki berlalu dengan payung.",
+      "narasiSuara": "[sad] Kamu membawa payung, satu untuk berdua. [sad] Ia menolak berjalan di bawahnya. [whispers] Orang-orang bisa melihat.",
+      "narasi": "Kamu membawa payung, satu untuk berdua. Ia menolak berjalan di bawahnya. Orang-orang bisa melihat.",
+      "teksLayar": [],
+      "suara": "Hujan deras di atap seng",
+      "hening": true,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Cerita bersambung",
+      "waktu": "1:48–1:58",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ruang depan, malam. Bu Hasnah dan dua ibu tetangga bermain kartu di meja, menoleh bersamaan ke tangga; Ratna naik sambil menunduk.",
+      "narasiSuara": "[tense] Bu Hasnah mulai bertanya kenapa lampu kamarmu menyala sampai larut. [sad] Ratna memintamu berhenti menunggunya di gang. [resigned] Kamu menurut.",
+      "narasi": "Bu Hasnah mulai bertanya kenapa lampu kamarmu menyala sampai larut. Ratna memintamu berhenti menunggunya di gang. Kamu menurut.",
+      "teksLayar": [],
+      "suara": "Kartu dikocok, bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Oktober 1986",
+      "waktu": "1:58–2:06",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Ruang redaksi, malam, meja-meja kosong, mesin tik bertutup. Tangan kiri kamu memegang koran yang terlipat; tangan kanan menarik lembar kertas terakhir dari mesin tik.",
+      "narasiSuara": "[serious] Oktober 1986. [serious] Pemerintah mencabut izin terbit Sinar Harapan. [sad] Ruang redaksi mendadak sunyi, dan ceritamu kehilangan rumahnya.",
+      "narasi": "Oktober 1986. Pemerintah mencabut izin terbit Sinar Harapan. Ruang redaksi mendadak sunyi, dan ceritamu kehilangan rumahnya.",
+      "teksLayar": [
+        "Oktober 1986."
+      ],
+      "suara": "Sunyi, kipas angin berputar pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Oktober 1986",
+      "waktu": "2:06–2:16",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Lorong rumah sewaan, malam. Tangan kanan kamu menyelipkan secarik kertas ke celah bawah pintu kamar Ratna; cahaya lampu dari dalam kamar.",
+      "narasiSuara": "[calm] Kamu mendapat pekerjaan di Surabaya. [sad] Di bawah pintunya, kamu menyelipkan secarik kertas: jam keberangkatan keretamu. [whispers] Karcis kedua ada di saku kemejamu.",
+      "narasi": "Kamu mendapat pekerjaan di Surabaya. Di bawah pintunya, kamu menyelipkan secarik kertas: jam keberangkatan keretamu. Karcis kedua ada di saku kemejamu.",
+      "teksLayar": [],
+      "suara": "Kertas bergeser di lantai",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Oktober 1986",
+      "waktu": "2:16–2:27",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Peron stasiun, malam. Kamu terlihat dari belakang, memegang dua karcis, menoleh ke pintu masuk peron; orang-orang berlalu, Ratna tidak ada di antara mereka.",
+      "narasiSuara": "[sad] Kamu menunggu sampai peluit terakhir... [whispers] Ia tidak datang. [resigned] Atau datang, setelah kereta pergi. [resigned] Kamu tak pernah tahu.",
+      "narasi": "Kamu menunggu sampai peluit terakhir... Ia tidak datang. Atau datang, setelah kereta pergi. Kamu tak pernah tahu.",
+      "teksLayar": [],
+      "suara": "Peluit, mesin diesel, roda kereta",
+      "hening": true,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Bab terakhir",
+      "waktu": "2:27–2:38",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kamar kos di Surabaya, malam, lampu meja. Tangan kamu menarik lembar terakhir dari mesin tik, melipatnya, dan menaruhnya di laci, di samping kotak korek api hotel yang sama.",
+      "narasiSuara": "[calm] Kamu menuliskan kisah kalian sebagai cerita bersambung. [sad] Pembaca menunggu akhirnya. [whispers] Tapi bab terakhir itu... tak pernah kamu kirim ke redaksi.",
+      "narasi": "Kamu menuliskan kisah kalian sebagai cerita bersambung. Pembaca menunggu akhirnya. Tapi bab terakhir itu... tak pernah kamu kirim ke redaksi.",
+      "teksLayar": [
+        "Surabaya, tiga tahun kemudian."
+      ],
+      "suara": "Tanpa musik: ketukan mesin tik terakhir, laci ditutup",
+      "hening": false,
+      "epilog": true,
+      "kata": 20
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Wartawan",
+      "prompt": "Character reference sheet of Wartawan.\nWartawan, a 34-year-old Indonesian newspaper journalist in Jakarta in the mid-1980s. Slim build, medium height, warm light-brown skin, oval face with high cheekbones, tired dark eyes under straight thick brows, a thin neat moustache, short black hair parted on the side and combed back. Wears a pale blue long-sleeved cotton shirt with a pointed collar, sleeves rolled to mid-forearm, tucked into high-waisted grey pleated trousers with a thin brown leather belt, and black leather lace-up shoes. A thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, a ballpoint pen clipped in the shirt pocket. Carries himself quietly, shoulders slightly forward, often with one hand in a trouser pocket.\nFull-body front, side and back views in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the shirt collar, wristwatch and wedding band, and one first-person panel showing his own hands and forearms as he sees them, raised at chest height: warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate mid-1980s Jakarta office clothing.\nAvoid bell-bottom trousers, safari suit, mullet hairstyle, modern slim-fit clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Ratna",
+      "prompt": "Character reference sheet of Ratna.\nRatna, a 31-year-old Indonesian woman, secretary at a Jakarta shipping company in the mid-1980s. Slender, with an upright, contained posture, warm light-brown skin, oval face, almond-shaped dark eyes under softly arched brows, small straight nose, full lips with muted brick-red lipstick. Shoulder-length black hair in soft waves, side-parted and brushed back, often tucked behind one ear. Wears a fitted long-sleeved blouse with a small collar tucked into a knee-length A-line skirt, tan low-heeled pumps, and carries a small structured brown leather handbag. Thin gold stud earrings, a slim gold wedding band on the right ring finger, a small gold ladies' wristwatch. Moves with restraint: small steps, hands folded or holding something close to her body.\nFull-body front, side and back views in a relaxed natural standing pose wearing a deep jade-green blouse with a small pointed collar and a cream skirt, one three-quarter portrait of the face, and four small outfit panels of the same woman: (1) deep jade-green blouse with a small pointed collar, cream skirt; (2) deep wine-red blouse with tiny cream polka dots and a rounded collar, black skirt; (3) mustard-yellow blouse with a thin self-tie bow at the collar, brown skirt; (4) navy blouse with a small white floral print, grey skirt. One detail panel of the earrings, wristwatch and handbag. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate mid-1980s Jakarta office clothing.\nAvoid cheongsam, high mandarin collars, kebaya, shoulder pads larger than subtle, heavy makeup, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:01–0:11",
+      "narasi": "Kamu dan perempuan itu pindah ke rumah ini pada hari yang sama. Kalian juga akan ditinggalkan dengan cara yang sama.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nMedium shot at eye level down the narrow corridor of an old Jakarta house in late afternoon, framed on one side by a dark wooden door frame; patterned cream-and-green cement floor tiles, a jade-green wall, a high dark ceiling, warm golden light slanting through a wooden louvered window.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The cardboard box holding a typewriter rests on the tiled floor just in front of the viewer, who bends over it. Exactly two hands are visible, both resting on the top edges of the box: the left hand with the wristwatch on the left edge, the right hand with the wedding band on the right edge.\nRatna, in a deep jade-green blouse with a small pointed collar and a cream skirt, has just set a brown suitcase down by the next door; she half-turns mid-motion and glances straight at the viewer for a moment with polite, guarded eyes, lips closed, already stepping back against the wall to let the viewer pass, one hand still on the suitcase handle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of jade green, cream and deep red with warm golden late-afternoon light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented house interior.\nAvoid a third hand, hands holding the box from underneath, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:20",
+      "narasi": "Kamu wartawan Sinar Harapan. Ratna, tetanggamu, sekretaris di kantor pelayaran. Istrimu dan suaminya sama-sama jarang di rumah.",
+      "prompt": "Same character as the Ratna reference image.\nMedium-wide shot from a slightly low angle into the front room of the rented house at dusk, seen through a half-open inner doorway so the dark door edge frames one side. A bare light bulb hangs from the ceiling; a small transistor radio sits on a wooden shelf.\nRatna, in a deep jade-green blouse with a small pointed collar and a cream skirt, smooths a deep red tablecloth on a small round table with both hands, her head turned toward the front door, eyes following the people leaving, brows slightly raised, lips pressed together.\nAt the open front door, two figures seen only from behind walk out carrying travel bags: a woman in a knee-length dark red dress with short permed hair, and a man in a beige short-sleeved shirt and grey trousers. Their faces are never visible. They are different people from Ratna, with plainer clothes and no jade green.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of jade green, cream and deep red with warm bulb light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented house interior.\nAvoid characters looking at the camera, visible faces of the couple at the door, background figures copying Ratna's face or outfit, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:20–0:30",
+      "narasi": "Setiap malam, kalian makan sendiri-sendiri. Kalian sering berpapasan di gang. Ia selalu membawa rantang untuk satu orang.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nMedium shot at eye level in a narrow Jakarta alley at night between whitewashed walls, the far end glowing from a noodle cart lit by a kerosene lamp, steam rising into the dark.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand carries a small paper-wrapped bundle of noodles tied with a rubber band; the left hand hangs loosely at the side.\nRatna, in a deep jade-green blouse with a small pointed collar and a cream skirt, walks toward the viewer mid-stride, holding a stacked enamel food carrier close to her body with both hands, passing so close on the viewer's left that their shoulders almost touch; her eyes are lowered to the ground, face half in shadow, a strand of hair loosened by the walk.\nAt the cart, the noodle seller, a thin older man in a white singlet and a checked sarong, stirs a wok without looking up. He is a different person from Wartawan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep red, dark green and amber with warm lamp light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, residential alley.\nAvoid characters looking at the camera, background figures copying Ratna's or Wartawan's face or outfit, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:39",
+      "narasi": "Istrimu tidak merokok. Tapi sebuah korek api jatuh dari tasnya pagi itu. Bergambar sebuah hotel di Puncak.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nClose medium shot looking down at the floor of a modest bedroom in the morning, slanting light through a wooden louvered window, a woman's brown handbag lying half-open on the edge of the bed.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand picks up a small cardboard matchbox from the patterned tile floor, the matchbox printed with a small drawing of a hillside hotel among pine trees and no readable text; the left hand still holds a glass of black coffee on a saucer, tilted slightly as the viewer bends.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep red, dark green and amber with warm morning light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, bedroom interior.\nAvoid people in the room, stiff symmetrical poses, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:50",
+      "narasi": "Dua hari kemudian, korek yang sama ada di meja suami Ratna. Akhir pekan itu, istrimu pamit ke Bandung. Suaminya, ke luar kota.",
+      "prompt": "Same character as the Ratna reference image.\nSame character as the Wartawan reference image.\nMedium shot at eye level of the front room, framed through the doorway: Wartawan stands in the foreground on the left, seen from behind, one shoulder and the back of his head darkly silhouetted against the room.\nRatna, in a deep jade-green blouse with a small pointed collar and a cream skirt, stands frozen beside a small round table with a deep red tablecloth, staring down at a small cardboard matchbox printed with a drawing of a hillside hotel; her fingers grip the hem of her blouse tightly, eyes wide and still, jaw set, shoulders drawn up. A wall clock and a framed print hang behind her.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep red, dark green and amber with warm bulb light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented house interior.\nAvoid characters looking at the camera, Wartawan's face visible, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:50–0:58",
+      "narasi": "Ratna menaruh korek yang sama di samping korekmu. Teh kalian dingin, tak tersentuh.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nMedium shot at eye level across a small table in a modest eating house at night, green-tiled walls, a slowly turning ceiling fan, a single warm light above the table.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand rests on the table holding a small cardboard matchbox printed with a drawing of a hillside hotel; the left hand lies flat beside an untouched glass of tea.\nRatna, in a deep jade-green blouse with a small pointed collar and a cream skirt, leans slightly forward and sets an identical matchbox down beside the viewer's, her fingers still on it; she looks straight at the viewer, eyes glistening but dry, lips pressed thin, brows drawn together. Her own glass of tea stands untouched.\nTwo other diners at a far table, an older man in a batik shirt and a young woman in a plain white blouse, eat without noticing. They are different people from Ratna and Wartawan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep red, dark green and amber with warm light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, small eating house.\nAvoid background figures copying Ratna's or Wartawan's face or outfit, identical faces, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:58–1:09",
+      "narasi": "Kalian ingin tahu, bagaimana mereka memulainya. Maka kalian memerankannya. Kamu menjadi suaminya. Ia menjadi istrimu. Lalu ia berhenti di tengah kalimat...",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nMedium shot at eye level in the viewer's small rented room at night, lit only by one desk lamp; a typewriter on the desk, a thread of cigarette smoke curling up from an ashtray, the rest of the room in deep shadow.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand reaches toward her, hesitating in mid-air; the left hand rests on the edge of the desk.\nRatna, in a deep wine-red blouse with tiny cream polka dots and a rounded collar and a black skirt, stands by a wooden louvered window, half-turned toward the viewer, one hand raised as if to touch the viewer's hand and stopped in mid-air; her eyes are on that outstretched hand, lips parted mid-word, brows lifting as she breaks off.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wine red, mustard and dark brown with a single warm lamp and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented room interior.\nAvoid characters looking at the camera, stiff symmetrical poses, cheongsam, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:09–1:21",
+      "narasi": "Ia memintamu berpura-pura menjadi suaminya, untuk berlatih bertanya. Kamu menjawab: ya, ada perempuan lain. Hanya latihan. Tapi ia menangis sungguhan.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nClose medium shot at eye level in the same room at night, one desk lamp casting warm light from the side, the wall behind her deep red in shadow.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand is raised toward her shoulder and stops just short of touching it; the left hand hangs at the side.\nRatna, in a deep wine-red blouse with tiny cream polka dots and a rounded collar and a black skirt, is caught mid-motion lifting both hands to cover her face, eyes brimming and squeezed half shut, mouth trembling, shoulders shaking and drawn in, head bowing forward.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wine red, mustard and dark brown with a single warm lamp and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented room interior.\nAvoid characters looking at the camera, physical embrace, stiff symmetrical poses, cheongsam, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:21–1:30",
+      "narasi": "Malam itu, di tangga, kalian berjanji. Apa pun yang terjadi... kalian tidak akan menjadi seperti mereka.",
+      "prompt": "Same character as the Ratna reference image.\nSame character as the Wartawan reference image.\nMedium-wide shot from a low angle at the foot of a narrow wooden staircase at night, framed through the vertical bars of the stair railing, a single bare bulb hanging above the landing.\nRatna, in a deep wine-red blouse with tiny cream polka dots and a rounded collar and a black skirt, has stopped on an upper step and turns back to look down at Wartawan, one hand on the railing; her face is soft and resolved, lips just parted as if she has finished speaking, eyes steady on him.\nWartawan stands at the bottom of the stairs, seen from behind and slightly to the side, one hand on the banister, head tilted up toward her.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wine red, mustard and dark brown with one warm bulb and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, old house staircase.\nAvoid characters looking at the camera, Wartawan's face fully visible, stiff symmetrical poses, cheongsam, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:30–1:39",
+      "narasi": "Kamu mulai menulis cerita bersambung untuk koranmu. Ratna pembaca pertamanya. Ia mencoret kalimat yang terlalu manis, dan kamu membiarkannya.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nSame character as the Ratna reference image.\nMedium shot at eye level from behind a desk in the viewer's rented room at night, lit by one desk lamp; a glass of tea and a stack of typed pages beside a manual typewriter.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. Both hands rest on the typewriter keys, fingers paused mid-word.\nRatna, in a mustard-yellow blouse with a thin self-tie bow at the collar and a brown skirt, sits sideways in a rattan chair beside the desk, legs crossed, reading a typed page held close to the lamp; her pencil strikes through one line, a small private smile at the corner of her mouth, eyes on the page.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of mustard, olive green and amber with a single warm lamp and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented room interior.\nAvoid characters looking at the camera, stiff symmetrical poses, cheongsam, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:39–1:48",
+      "narasi": "Kamu membawa payung, satu untuk berdua. Ia menolak berjalan di bawahnya. Orang-orang bisa melihat.",
+      "prompt": "Same character as the Ratna reference image.\nSame character as the Wartawan reference image.\nMedium-wide shot at eye level under the covered walkway of an old row of shops in central Jakarta during heavy late-afternoon rain, framed by a square column on one side; warm lamps glow inside the shop windows behind them, rain falling in grey sheets beyond the walkway edge.\nWartawan stands on the left, seen from the side and slightly behind, holding a closed black umbrella point-down, his head turned toward Ratna.\nRatna, in a mustard-yellow blouse with a thin self-tie bow at the collar and a brown skirt, stands two steps away on the right, hugging her brown handbag to her chest, looking out at the rain and away from him, lips pressed together, one foot turned as if ready to leave.\nTwo passers-by hurry past under umbrellas, a middle-aged man in a grey jacket and a schoolgirl in a white blouse and dark skirt, glancing at the pair. They are different people from Ratna and Wartawan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of mustard, olive green and rain grey with warm shop light, historically accurate mid-1980s Jakarta, Indonesia, shopping street.\nAvoid characters looking at the camera, background figures copying Ratna's or Wartawan's face or outfit, identical faces, stiff symmetrical poses, cheongsam, neon signs, Chinese-character signage, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:48–1:58",
+      "narasi": "Bu Hasnah mulai bertanya kenapa lampu kamarmu menyala sampai larut. Ratna memintamu berhenti menunggunya di gang. Kamu menurut.",
+      "prompt": "Same character as the Ratna reference image.\nMedium-wide shot from a slightly high angle of the front room at night, a bare bulb above a table and a standing fan turning in the corner.\nAt the table, three women play cards and turn their heads together toward the staircase with curious, judging looks: Bu Hasnah, a plump woman in her sixties with grey hair in a small bun and a loose floral house dress, holding her cards to her chest, eyebrows raised; a thin woman in her forties with short permed hair and a printed blouse, leaning to whisper; and a woman in her fifties with a light scarf draped loosely over her hair, lips pursed.\nRatna, in a mustard-yellow blouse with a thin self-tie bow at the collar and a brown skirt, climbs the stairs mid-step with her head down, holding her handbag close, shoulders tight.\nThe card players are different people from Ratna, with no mustard or jade colors.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of mustard, olive green and amber with warm bulb light and deep shadows, historically accurate mid-1980s Jakarta, Indonesia, rented house interior.\nAvoid characters looking at the camera, background figures copying Ratna's face or outfit, identical faces, stiff symmetrical poses, cheongsam, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:58–2:06",
+      "narasi": "Oktober 1986. Pemerintah mencabut izin terbit Sinar Harapan. Ruang redaksi mendadak sunyi, dan ceritamu kehilangan rumahnya.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nMedium shot at eye level in a newspaper newsroom at night, a high dark ceiling, rows of empty desks with typewriters under dust covers, stacks of bundled newspapers on the floor, one bare bulb still lit.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The left hand holds a folded newspaper with no readable text; the right hand slowly pulls the last sheet of paper out of a typewriter.\nIn the far background, an older colleague with grey hair and a brown short-sleeved shirt packs papers into a cardboard box, seen from behind, his back bent. He is a different person from Wartawan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dull brown and navy with one deep red accent and a single warm bulb in deep shadow, historically accurate mid-1980s Jakarta, Indonesia, newspaper office.\nAvoid characters looking at the camera, background figures copying Wartawan's face or outfit, computers, stiff symmetrical poses, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:06–2:16",
+      "narasi": "Kamu mendapat pekerjaan di Surabaya. Di bawah pintunya, kamu menyelipkan secarik kertas: jam keberangkatan keretamu. Karcis kedua ada di saku kemejamu.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nClose medium shot looking down at the bottom of a closed wooden door in the dark corridor at night, a thin line of warm lamplight shining from the gap under the door across the patterned cement tiles.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, pale blue cotton shirt sleeves rolled to mid-forearm. The right hand, fingertips flat, slides a small folded slip of paper into the gap under the door; the left hand holds two small cardboard train tickets against the knee.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dull brown and navy with a warm line of light in deep shadow, historically accurate mid-1980s Jakarta, Indonesia, rented house corridor.\nAvoid people in the scene, stiff symmetrical poses, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:16–2:27",
+      "narasi": "Kamu menunggu sampai peluit terakhir... Ia tidak datang. Atau datang, setelah kereta pergi. Kamu tak pernah tahu.",
+      "prompt": "Same character as the Wartawan reference image.\nMedium-wide shot at eye level on a railway station platform at night, yellow platform lamps glowing through diesel haze, a passenger train with a diesel locomotive waiting on the track, an old station clock with no readable numbers hanging from the roof.\nWartawan stands in the middle of the platform, seen from behind with his head turned over his shoulder toward the platform entrance, two small cardboard tickets in his right hand, a small suitcase at his feet, his posture tense and still.\nTravellers stream past with bags and boxes, a porter carrying luggage on his shoulder, a mother leading a child; none of them is the woman he waits for. They are different people from Wartawan.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dull brown and navy with warm yellow lamp light and deep shadows, historically accurate mid-1980s Indonesian railway station.\nAvoid characters looking at the camera, Wartawan's face fully visible, a young woman in jade, wine-red, mustard or navy clothes in the crowd, modern train livery, electric trains, background figures copying Wartawan's face or outfit, stiff symmetrical poses, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:27–2:38",
+      "narasi": "Kamu menuliskan kisah kalian sebagai cerita bersambung. Pembaca menunggu akhirnya. Tapi bab terakhir itu... tak pernah kamu kirim ke redaksi.",
+      "prompt": "The viewer is Wartawan: the hands and forearms in the foreground match the first-person panel of the Wartawan reference image.\nMedium shot at eye level over a desk in a small rented room in Surabaya at night, a high dark ceiling, a single desk lamp, a dark window behind.\nFirst-person point of view. warm light-brown male hands with slim fingers and short clean nails, a faint blue ink stain on the right middle finger, a thin gold wedding band on the right ring finger, a steel wristwatch with a brown leather strap on the left wrist, worn off-white cotton shirt sleeves rolled to mid-forearm. The right hand lays a folded typed page into an open desk drawer; the left hand holds the drawer, about to push it shut. Inside the drawer, beside the page, lies the same small cardboard matchbox printed with a drawing of a hillside hotel.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark brown and amber with a single warm lamp and deep shadows, historically accurate mid-1980s Indonesia, rented room interior.\nAvoid people in the scene, stiff symmetrical poses, neon signs, parang batik pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Saran voice: laki-laki, rendah, hangat, sedikit serak, tempo lambat. Voice yang terlalu \"penyiar\" akan merusak suasana; pilih yang terdengar seperti orang mengingat.\n\n- Babak 1: tenang, datar, sedikit getir di kalimat kedua.\n- Babak 2: pelan, makin tegang di adegan korek api, lalu pasrah di rumah makan.\n- Babak 3: intim dan lirih; menangis tertahan di adegan 8, berbisik di akhir janji.\n- Babak 4: hangat di awal, mengecil dan pasrah di gunjingan.\n- Babak 5: serius dan berat, lalu nyaris berbisik di peron.\n- Babak 6: tenang, berhenti sejenak sebelum \"tak pernah kamu kirim\".\n\nTag tidak bisa memaksa voice yang lembut untuk menangis atau berbisik dengan meyakinkan; uji adegan 8 dan 15 lebih dulu.",
+    "arahanBabak": {
+      "1": "tenang, datar, sedikit getir di kalimat kedua.",
+      "2": "pelan, makin tegang di adegan korek api, lalu pasrah di rumah makan.",
+      "3": "intim dan lirih; menangis tertahan di adegan 8, berbisik di akhir janji.",
+      "4": "hangat di awal, mengecil dan pasrah di gunjingan.",
+      "5": "serius dan berat, lalu nyaris berbisik di peron.",
+      "6": "tenang, berhenti sejenak sebelum \"tak pernah kamu kirim\"."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Kamu dan perempuan itu pindah ke rumah ini pada hari yang sama. [sad] Kalian juga akan ditinggalkan dengan cara yang sama...\n\n[calm] Kamu wartawan Sinar Harapan. [curious] Ratna, tetanggamu, sekretaris di kantor pelayaran. [resigned] Istrimu dan suaminya sama-sama jarang di rumah...",
+    "2": "[calm] Setiap malam, kalian makan sendiri-sendiri. [calm] Kalian sering berpapasan di gang. [sad] Ia selalu membawa rantang untuk satu orang...\n\n[calm] Istrimu tidak merokok. [tense] Tapi sebuah korek api jatuh dari tasnya pagi itu. [tense] Bergambar sebuah hotel di Puncak...\n\n[tense] Dua hari kemudian, korek yang sama ada di meja suami Ratna. [serious] Akhir pekan itu, istrimu pamit ke Bandung. [serious] Suaminya, ke luar kota...\n\n[sad] Ratna menaruh korek yang sama di samping korekmu. [resigned] Teh kalian dingin, tak tersentuh...",
+    "3": "[curious] Kalian ingin tahu, bagaimana mereka memulainya. [calm] Maka kalian memerankannya. [calm] Kamu menjadi suaminya. [calm] Ia menjadi istrimu. [sad] Lalu ia berhenti di tengah kalimat...\n\n[serious] Ia memintamu berpura-pura menjadi suaminya, untuk berlatih bertanya. [serious] Kamu menjawab: ya, ada perempuan lain. [sad] Hanya latihan. [crying] Tapi ia menangis sungguhan...\n\n[serious] Malam itu, di tangga, kalian berjanji. [serious] Apa pun yang terjadi... [whispers] kalian tidak akan menjadi seperti mereka...",
+    "4": "[calm] Kamu mulai menulis cerita bersambung untuk koranmu. [curious] Ratna pembaca pertamanya. [calm] Ia mencoret kalimat yang terlalu manis, dan kamu membiarkannya...\n\n[sad] Kamu membawa payung, satu untuk berdua. [sad] Ia menolak berjalan di bawahnya. [whispers] Orang-orang bisa melihat...\n\n[tense] Bu Hasnah mulai bertanya kenapa lampu kamarmu menyala sampai larut. [sad] Ratna memintamu berhenti menunggunya di gang. [resigned] Kamu menurut...",
+    "5": "[serious] Oktober 1986. [serious] Pemerintah mencabut izin terbit Sinar Harapan. [sad] Ruang redaksi mendadak sunyi, dan ceritamu kehilangan rumahnya...\n\n[calm] Kamu mendapat pekerjaan di Surabaya. [sad] Di bawah pintunya, kamu menyelipkan secarik kertas: jam keberangkatan keretamu. [whispers] Karcis kedua ada di saku kemejamu...\n\n[sad] Kamu menunggu sampai peluit terakhir... [whispers] Ia tidak datang. [resigned] Atau datang, setelah kereta pergi. [resigned] Kamu tak pernah tahu...",
+    "6": "[calm] Kamu menuliskan kisah kalian sebagai cerita bersambung. [sad] Pembaca menunggu akhirnya. [whispers] Tapi bab terakhir itu... tak pernah kamu kirim ke redaksi..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Yumeji's Theme (dipasang di aplikasi)",
+      "babakAwal": 1,
+      "babakAkhir": 5,
+      "durasiTarget": "2:30",
+      "suasana": "Waltz gesek yang lambat dan berulang; habis saat kereta pergi",
+      "style": "Tidak dibuat di Suno. Pasang Yumeji's Theme (Shigeru Umebayashi) dari pustaka suara TikTok atau YouTube Shorts saat unggah, mulai dari detik 0 video. Jangan membuat tiruan melodinya di Suno.",
+      "exclude": "-"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Langkah di lantai tegel, kardus bergeser",
+      "kataKunci": "footsteps tile floor, cardboard box",
+      "prompt": "Slow footsteps on old cement tiles in a quiet corridor, a cardboard box shifting in arms"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Radio transistor samar, pintu depan ditutup",
+      "kataKunci": "old radio distant, door close wooden",
+      "prompt": "Faint distant AM radio music in another room, then a wooden front door closing softly"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Denting mangkuk dan sutil tukang bakmi, langkah di gang",
+      "kataKunci": "street food cart wok, night alley footsteps",
+      "prompt": "Night alley ambience, a street vendor tapping a wok and clinking bowls, footsteps passing"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Kotak korek jatuh ke lantai, kicau burung pagi",
+      "kataKunci": "matchbox drop, morning birds",
+      "prompt": "A small cardboard matchbox dropping on a tile floor, morning birds outside a window"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Detak jam dinding",
+      "kataKunci": "wall clock ticking",
+      "prompt": "Slow ticking of an old wall clock in a silent room"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Kipas angin langit-langit, sendok beradu",
+      "kataKunci": "ceiling fan, cutlery restaurant",
+      "prompt": "Ceiling fan humming in a small eating house, distant spoons on plates"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Jangkrik dan kendaraan lewat di kejauhan",
+      "kataKunci": "crickets night, distant traffic",
+      "prompt": "Night crickets with occasional distant traffic through an open window"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Derit anak tangga kayu",
+      "kataKunci": "wooden stairs creak",
+      "prompt": "A single creak of an old wooden stair step at night"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Ketukan mesin tik dan bunyi pengait baris",
+      "kataKunci": "manual typewriter, carriage return bell",
+      "prompt": "Manual typewriter typing in short bursts with a carriage return bell"
+    },
+    {
+      "nomor": 10,
+      "adegan": 11,
+      "bunyi": "Hujan deras di atap seng dan kanopi",
+      "kataKunci": "heavy rain tin roof",
+      "prompt": "Heavy tropical rain on a tin roof and shop awning, steady and enveloping"
+    },
+    {
+      "nomor": 11,
+      "adegan": 12,
+      "bunyi": "Kartu dikocok, bisik-bisik",
+      "kataKunci": "card shuffle, whispering women",
+      "prompt": "Playing cards shuffled on a wooden table, low indistinct whispering"
+    },
+    {
+      "nomor": 12,
+      "adegan": 13,
+      "bunyi": "Kipas angin berputar pelan di ruang sepi",
+      "kataKunci": "empty office fan, room tone",
+      "prompt": "Empty office at night, one slow electric fan, near silence"
+    },
+    {
+      "nomor": 13,
+      "adegan": 14,
+      "bunyi": "Kertas digeser di lantai",
+      "kataKunci": "paper slide floor",
+      "prompt": "A folded paper sliding across a tile floor under a door"
+    },
+    {
+      "nomor": 14,
+      "adegan": 15,
+      "bunyi": "Peluit, mesin diesel, roda kereta mulai bergerak",
+      "kataKunci": "train whistle, diesel locomotive, train departing",
+      "prompt": "Station platform at night, a whistle, a diesel locomotive idling then a train slowly pulling away"
+    },
+    {
+      "nomor": 15,
+      "adegan": 16,
+      "bunyi": "Ketukan mesin tik terakhir, laci ditutup",
+      "kataKunci": "typewriter keystroke single, drawer close",
+      "prompt": "One last typewriter keystroke, then a wooden desk drawer sliding shut in a quiet room"
+    }
+  ],
+  "adeganHening": [
+    3,
+    6,
+    8,
+    11,
+    15
+  ],
+  "ulikan": {
+    "teks": "Sinar Harapan baru terbit lagi pada 2001, lima belas tahun setelah dibredel.",
+    "sumber": "Kisah rekaan; fakta latar: Wikipedia, Sinar Harapan dan Suara Pembaruan",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "Cinta yang Tak Terucap, 1986",
+      "catatan": "Alternatif judul: POV: Kamu Tetangga di Kamar Sebelah, Jakarta 1986 / POV: Kamu Wartawan yang Menunggu di Peron, 1986 / POV: Kamu dan Dia Ditinggalkan dengan Cara yang Sama",
+      "caption": "Kalian ditinggalkan dengan cara yang sama. Lalu kalian memilih untuk tidak membalasnya.\n\nJakarta, pertengahan 1980-an. Kamu wartawan Sinar Harapan, Ratna tetangga di kamar sebelah. Korannya nyata: izin terbitnya dicabut pemerintah pada Oktober 1986.\n\nKalau kamu Ratna, malam itu kamu datang ke stasiun?\n\nKisah rekaan berlatar sejarah. Tokoh dan alur karangan; latar berdasarkan catatan pembredelan Sinar Harapan 1986. Terinspirasi In the Mood for Love (Wong Kar-wai, 2000). Musik: Yumeji's Theme, Shigeru Umebayashi.\n\n#UlikSilam #fiksisejarah #jakarta1980an #inthemoodforlove #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "Cinta yang Tak Terucap, 1986",
+      "catatan": "",
+      "caption": "Kamu dan tetanggamu ditinggalkan dengan cara yang sama. Kalian memilih tidak membalasnya.\n\nJakarta, pertengahan 1980-an. Kamu wartawan Sinar Harapan, Ratna tetangga di kamar sebelah. Korannya nyata: izin terbitnya dicabut pemerintah pada Oktober 1986.\n\nKalau kamu Ratna, malam itu kamu datang ke stasiun?\n\nKisah rekaan berlatar sejarah. Tokoh dan alur karangan; latar berdasarkan catatan pembredelan Sinar Harapan 1986. Terinspirasi In the Mood for Love (Wong Kar-wai, 2000). Musik: Yumeji's Theme, Shigeru Umebayashi.\n\n#UlikSilam #fiksisejarah #jakarta1980an #inthemoodforlove #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 6,
+    "totalKata": 288,
+    "kataPerBabak": {
+      "1": 37,
+      "2": 69,
+      "3": 57,
+      "4": 51,
+      "5": 54,
+      "6": 20
+    },
+    "karakterPerBabak": {
+      "1": 292,
+      "2": 542,
+      "3": 522,
+      "4": 451,
+      "5": 490,
+      "6": 168
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 156.8,
+      "denganMerek": 161.8
+    },
+    "perkiraanDetik135": {
+      "narasi": 151.9,
+      "denganMerek": 156.9
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [
+      "Babak 6 tidak tercakup cue musik.",
+      "Lapisan Rekaan: caption wajib menyebut bahwa kisahnya rekaan."
+    ],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

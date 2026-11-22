@@ -1,0 +1,678 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-18T11:24:20.562Z",
+  "judulDokumen": "Jan O'Herne di Kamp Ambarawa",
+  "judul": "POV: Kamu Jan O'Herne di Kamp Ambarawa",
+  "slug": "pov-jan-oherne",
+  "versi": "v2 · 2026-10-18",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Ambarawa dan Semarang",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok + YouTube Shorts",
+  "posisiKamu": "Jan O'Herne (tokoh nyata, 1923–2019), interniran Belanda berusia 21 tahun pada Februari 1944, calon biarawati dan mahasiswi sekolah guru Katolik",
+  "ringkasan": {
+    "Judul": "POV: Kamu Jan O'Herne di Kamp Ambarawa",
+    "Slug": "pov-jan-oherne",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok + YouTube Shorts",
+    "Posisi \"kamu\"": "Jan O'Herne (tokoh nyata, 1923–2019), interniran Belanda berusia 21 tahun pada Februari 1944, calon biarawati dan mahasiswi sekolah guru Katolik",
+    "Jumlah ilustrasi": "20 (18 adegan + 2 lembar karakter: Jan O'Herne, Josephine O'Herne)",
+    "Lapisan": "Sejarah",
+    "Latar": "Ambarawa dan Semarang",
+    "Premis": "Seorang calon biarawati dipilih dari barisan kamp interniran, dipaksa menjadi \"wanita penghibur\", lalu dibungkam ancaman selama setengah abad.",
+    "Benang merah": "Bunga: Jan menolak bunga seumur hidup (hook), di rumah itu setiap perempuan diberi nama bunga, dan di akhir putrinya akhirnya mengerti.",
+    "Dipilih karena": "Rafi memilih Jan (tokoh nyata) daripada tokoh fiktif; arc-nya berakhir pada kesaksian, bukan pada penderitaan.",
+    "Asumsi": "Durasi 3:00, nada kelam-bermartabat, kekerasan seksual disebut lugas di narasi tanpa detail grafis, visual tetap simbolis, alur 5 babak dari Februari 1944 sampai Desember 1992.",
+    "Hindari": "Penggambaran visual kekerasan seksual, deskripsi grafis di narasi, ketelanjangan, pose atau pakaian sensual, perempuan yang tampak di bawah umur dalam konteks rumah itu, karikatur atau wajah jelas tentara Jepang, darah",
+    "Versi": "v2 · 2026-10-18"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kamp Ambarawa",
+      "suasana": "Lelah, gersang, masih ada harapan",
+      "palet": "Cokelat tanah, khaki pudar, hijau zaitun berdebu, aksen oker hangat",
+      "cahaya": "Matahari sore rendah keemasan, kabut debu; hook diterangi satu lampu meja"
+    },
+    {
+      "babak": 2,
+      "nama": "Barisan di halaman",
+      "suasana": "Tegang, sunyi",
+      "palet": "Khaki pudar, abu tanah, putih kusam, oker",
+      "cahaya": "Cahaya pagi pucat hangat, bayangan panjang"
+    },
+    {
+      "babak": 3,
+      "nama": "Rumah di Semarang",
+      "suasana": "Kelam, terkurung",
+      "palet": "Umber tua, merah anggur gelap, bayangan hampir hitam, amber redup",
+      "cahaya": "Satu lampu minyak temaram; cahaya bulan yang kusam (tidak biru jenuh) di adegan 13"
+    },
+    {
+      "babak": 4,
+      "nama": "Diam yang dipaksakan",
+      "suasana": "Letih, sunyi, lembut",
+      "palet": "Abu hangat, cokelat lembut, hijau tua",
+      "cahaya": "Lampu minyak kecil, senja; sore hangat di adegan 16"
+    },
+    {
+      "babak": 5,
+      "nama": "Memecah diam",
+      "suasana": "Tenang, teguh",
+      "palet": "Amber, cokelat kayu, krem",
+      "cahaya": "Lampu meja hangat; lampu podium hangat di tengah ruang gelap"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kamp Ambarawa",
+    "2": "Barisan di halaman",
+    "3": "Rumah di Semarang",
+    "4": "Diam yang dipaksakan",
+    "5": "Memecah diam"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kamp Ambarawa",
+      "waktu": "0:00–0:07",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Tangan perempuan paruh baya mendorong menjauh buket bunga segar di meja dapur rumah keluarga; satu lampu meja hangat, sisa ruangan gelap.",
+      "narasiSuara": "[calm] Bertahun-tahun, kamu menolak diberi bunga di hari ulang tahunmu. [whispers] Tak seorang pun tahu kenapa.",
+      "narasi": "Bertahun-tahun, kamu menolak diberi bunga di hari ulang tahunmu. Tak seorang pun tahu kenapa.",
+      "teksLayar": [],
+      "suara": "Detak jam dinding, kertas buket berkeresek",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kamp Ambarawa",
+      "waktu": "0:07–0:17",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Barak tentara tua berpagar kawat di Ambarawa; Jan duduk di tikar di depan barak bersama ibunya dan dua adik perempuannya; perempuan dan anak lain samar di latar.",
+      "narasiSuara": "[tired] Hampir dua tahun kamu terkurung di kamp Ambarawa. [tired] Bersama ibu dan dua adikmu... di antara ribuan perempuan dan anak Belanda.",
+      "narasi": "Hampir dua tahun kamu terkurung di kamp Ambarawa. Bersama ibu dan dua adikmu... di antara ribuan perempuan dan anak Belanda.",
+      "teksLayar": [
+        "Kamp Ambarawa, Februari 1944."
+      ],
+      "suara": "Suara kamp ramai samar, anak menangis di kejauhan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Kamp Ambarawa",
+      "waktu": "0:17–0:24",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Tangan memegang mangkuk kecil berisi bubur encer; rosario melilit pergelangan; halaman kamp yang gersang di latar.",
+      "narasiSuara": "[tired] Perutmu selalu lapar. [hopeful] Tapi kamu masih bermimpi menjadi biarawati, seperti suster-suster yang mengajarmu.",
+      "narasi": "Perutmu selalu lapar. Tapi kamu masih bermimpi menjadi biarawati, seperti suster-suster yang mengajarmu.",
+      "teksLayar": [],
+      "suara": "Sendok menyentuh mangkuk, angin kering",
+      "hening": false,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Barisan di halaman",
+      "waktu": "0:24–0:34",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Halaman kamp pagi hari: barisan perempuan muda berpakaian lusuh; sosok perwira Jepang dilihat dari belakang menghadap barisan.",
+      "narasiSuara": "[tense] Suatu pagi, tentara Jepang datang. [sad] Semua perempuan lajang, tujuh belas sampai dua puluh delapan tahun... disuruh berbaris.",
+      "narasi": "Suatu pagi, tentara Jepang datang. Semua perempuan lajang, tujuh belas sampai dua puluh delapan tahun... disuruh berbaris.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu bot di tanah, perintah singkat dalam bahasa Jepang",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Barisan di halaman",
+      "waktu": "0:34–0:41",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Dari dalam barisan: wajah ibu Josephine ketakutan di antara kerumunan di tepi halaman; di depan, hanya tangan bersarung perwira yang menunjuk.",
+      "narasiSuara": "[nervous] Ibumu menatapmu, ketakutan. [tense] Seleksi demi seleksi, sampai tersisa sepuluh orang. [whispers] Kamu salah satunya.",
+      "narasi": "Ibumu menatapmu, ketakutan. Seleksi demi seleksi, sampai tersisa sepuluh orang. Kamu salah satunya.",
+      "teksLayar": [],
+      "suara": "Hening tegang, satu napas tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Barisan di halaman",
+      "waktu": "0:41–0:49",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan memasukkan alkitab, buku misa, salib kecil, dan rosario ke tas kain di atas dipan barak.",
+      "narasiSuara": "[tense] Setengah jam untuk berkemas. [calm] Kamu memasukkan alkitab, buku misa, salib, dan rosario. [sad] Hanya itu yang terasa penting.",
+      "narasi": "Setengah jam untuk berkemas. Kamu memasukkan alkitab, buku misa, salib, dan rosario. Hanya itu yang terasa penting.",
+      "teksLayar": [],
+      "suara": "Kain tas, buku diletakkan, napas cepat",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Barisan di halaman",
+      "waktu": "0:49–0:58",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Gerbang kamp: Jan berjalan membawa tas; tangan-tangan perempuan terulur dari kerumunan, satu menyelipkan saputangan putih; seorang pastor tua mengangkat tangan memberkati.",
+      "narasiSuara": "[tense] Di gerbang, para perempuan menjerit, mencoba menghalangi. [sad] Seseorang menyelipkan saputangan putih ke tanganmu. [sad] Pastor kamp memberkatimu.",
+      "narasi": "Di gerbang, para perempuan menjerit, mencoba menghalangi. Seseorang menyelipkan saputangan putih ke tanganmu. Pastor kamp memberkatimu.",
+      "teksLayar": [],
+      "suara": "Jeritan perempuan diredam musik, gerbang kayu berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "0:58–1:07",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Truk terbuka berhenti di depan rumah kolonial besar berpagar kawat berduri; penjaga Jepang di gerbang dilihat dari belakang; senja.",
+      "narasiSuara": "[serious] Truk terbuka membawamu ke sebuah rumah besar di Semarang, berpagar kawat berduri. [tense] Penjaga bilang, kabur tak ada gunanya.",
+      "narasi": "Truk terbuka membawamu ke sebuah rumah besar di Semarang, berpagar kawat berduri. Penjaga bilang, kabur tak ada gunanya.",
+      "teksLayar": [
+        "Semarang."
+      ],
+      "suara": "Mesin truk berhenti, gerbang besi",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "1:07–1:15",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Papan di ruang depan berisi deretan foto perempuan dengan label kecil tak terbaca; vas bunga di meja di bawahnya.",
+      "narasiSuara": "[serious] Esok paginya, wajahmu dipotret. [serious] Fotomu dipajang di ruang depan, dengan nama baru di bawahnya. [sad] Nama bunga.",
+      "narasi": "Esok paginya, wajahmu dipotret. Fotomu dipajang di ruang depan, dengan nama baru di bawahnya. Nama bunga.",
+      "teksLayar": [],
+      "suara": "Bunyi rana kamera tua",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "1:15–1:25",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lorong remang, pintu kayu kamar tertutup; di meja kecil di sampingnya, vas bunga dan topi perwira Jepang tergeletak; satu lampu temaram. Tanpa orang.",
+      "narasiSuara": "[softly] Malam itu, seorang perwira membayar mahal untukmu. [tense] Kamu menendang, memukul... [crying] tapi ia tetap memerkosamu.",
+      "narasi": "Malam itu, seorang perwira membayar mahal untukmu. Kamu menendang, memukul... tapi ia tetap memerkosamu.",
+      "teksLayar": [],
+      "suara": "Pintu menutup, musik turun, lalu sunyi",
+      "hening": true,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 11,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "1:25–1:36",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Ruang periksa remang yang pintu dan jendelanya tanpa daun; meja periksa kosong, tas dokter dan stetoskop di meja; siluet buram tentara di ambang pintu, dilihat dari belakang.",
+      "narasiSuara": "[serious] Malam demi malam, berulang. [serious] Lalu seorang dokter datang memeriksa kalian. [sad] Kamu memohon pertolongannya. [whispers] Ia pun memerkosamu... dengan pintu dan jendela terbuka.",
+      "narasi": "Malam demi malam, berulang. Lalu seorang dokter datang memeriksa kalian. Kamu memohon pertolongannya. Ia pun memerkosamu... dengan pintu dan jendela terbuka.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu di lantai ubin, gumam tentara samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 12,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "1:36–1:44",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan memegang gunting; helaian rambut cokelat berjatuhan ke lantai kayu; cermin kusam memantulkan bayangan samar.",
+      "narasiSuara": "[serious] Kamu melawan, setiap kali. [determined] Kamu memotong habis rambutmu agar tak menarik. [bitter] Justru kamu jadi tontonan.",
+      "narasi": "Kamu melawan, setiap kali. Kamu memotong habis rambutmu agar tak menarik. Justru kamu jadi tontonan.",
+      "teksLayar": [],
+      "suara": "Gunting memotong rambut",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 13,
+      "babak": 3,
+      "namaBabak": "Rumah di Semarang",
+      "waktu": "1:44–1:53",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Jan berambut sangat pendek berlutut di sudut kamar, satu tangan menggenggam rosario, tangan lain di perutnya; cahaya bulan dari jendela berteralis.",
+      "narasiSuara": "[sad] Lalu kamu hamil. [sad] Penjaga memaksamu menelan pil sampai keguguran. [whispers] Mereka boleh merampas segalanya darimu... tapi tidak imanmu.",
+      "narasi": "Lalu kamu hamil. Penjaga memaksamu menelan pil sampai keguguran. Mereka boleh merampas segalanya darimu... tapi tidak imanmu.",
+      "teksLayar": [],
+      "suara": "Butir rosario, napas tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Diam yang dipaksakan",
+      "waktu": "1:53–2:01",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Perempuan-perempuan muda turun dari truk di kamp baru; penjaga Jepang dari samping, wajah dalam bayangan, menunjuk mengancam.",
+      "narasiSuara": "[tired] Lebih dari tiga bulan kemudian, kalian dipindah ke Bogor. [serious] Ancamannya jelas: bercerita berarti mati, bersama keluargamu.",
+      "narasi": "Lebih dari tiga bulan kemudian, kalian dipindah ke Bogor. Ancamannya jelas: bercerita berarti mati, bersama keluargamu.",
+      "teksLayar": [
+        "Bogor."
+      ],
+      "suara": "Truk, bentakan pendek",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 15,
+      "babak": 4,
+      "namaBabak": "Diam yang dipaksakan",
+      "waktu": "2:01–2:11",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Jan tertidur di pangkuan ibunya Josephine; tangan ibu mengusap kepalanya yang gundul; lampu minyak kecil.",
+      "narasiSuara": "[softly] Ibumu datang. [softly] Kamu tertidur di pelukannya, sementara ia mengusap kepalamu yang gundul. [sad] Esoknya kamu bercerita. [exhales] [whispers] Lalu kamu diam.",
+      "narasi": "Ibumu datang. Kamu tertidur di pelukannya, sementara ia mengusap kepalamu yang gundul. Esoknya kamu bercerita. Lalu kamu diam.",
+      "teksLayar": [],
+      "suara": "Jangkrik malam, napas pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 4,
+      "namaBabak": "Diam yang dipaksakan",
+      "waktu": "2:11–2:20",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Jan dewasa di beranda rumah di Australia, dua putri kecil bermain di halaman; foto pernikahan dengan prajurit Inggris di dinding dalam.",
+      "narasiSuara": "[calm] Perang usai. [calm] Kamu menikahi prajurit Inggris dan pindah ke Australia. [calm] Dua putri lahir. [sad] Mereka tak tahu apa-apa.",
+      "narasi": "Perang usai. Kamu menikahi prajurit Inggris dan pindah ke Australia. Dua putri lahir. Mereka tak tahu apa-apa.",
+      "teksLayar": [],
+      "suara": "Tawa anak di kejauhan, burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Memecah diam",
+      "waktu": "2:20–2:29",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan perempuan paruh baya menulis surat di meja malam hari; radio tua menyala di sampingnya; saputangan bersulam terlipat di dekat kertas.",
+      "narasiSuara": "[serious] Awal 1990-an, perempuan Korea mulai bersaksi. [serious] Radio mengabarkan perkosaan di Bosnia. [determined] Sudah waktunya. [determined] Kamu menulis surat untuk kedua putrimu.",
+      "narasi": "Awal 1990-an, perempuan Korea mulai bersaksi. Radio mengabarkan perkosaan di Bosnia. Sudah waktunya. Kamu menulis surat untuk kedua putrimu.",
+      "teksLayar": [
+        "Adelaide, 1992."
+      ],
+      "suara": "Suara radio samar, pena di kertas",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 18,
+      "babak": 5,
+      "namaBabak": "Memecah diam",
+      "waktu": "2:29–2:41",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Jan berusia 69, rambut kelabu dan kacamata, berdiri di podium ruang konferensi di Tokyo dengan mikrofon; lampu podium hangat, hadirin dalam gelap.",
+      "narasiSuara": "[softly] Putrimu memelukmu. [softly] Kini ia mengerti kenapa kamu tak pernah mau diberi bunga. [determined] Di Tokyo, setelah lima puluh tahun diam... [softly] kamu bersuara.",
+      "narasi": "Putrimu memelukmu. Kini ia mengerti kenapa kamu tak pernah mau diberi bunga. Di Tokyo, setelah lima puluh tahun diam... kamu bersuara.",
+      "teksLayar": [
+        "Tokyo, Desember 1992."
+      ],
+      "suara": "Ruangan hening, satu tarikan napas sebelum bicara",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Jan O'Herne",
+      "prompt": "Character reference sheet of Jan O'Herne, a 21-year-old Dutch woman interned in Java in 1944: slim and undernourished, oval face with hollow cheeks, dark expressive eyebrows, dark brown wavy shoulder-length hair pinned back, wearing a faded, mended light-blue short-sleeved cotton dress in 1940s cut, worn leather sandals, a small silver crucifix on a thin chain; modest, dignified, clearly adult. Show her full body from the front, from the side, and from the back, standing calmly with a neutral, quiet expression, on a plain warm off-white background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, muted earth browns, soft light blue. Historically accurate 1940s Dutch East Indies civilian clothing. Vertical 9:16 aspect ratio. Avoid nudity, sensual poses or clothing, blood, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Josephine O'Herne",
+      "prompt": "Character reference sheet of Josephine O'Herne, a thin Dutch mother in her late forties interned in Java in 1944: tired gentle eyes, greying brown hair in a low bun, faded floral cotton dress with a patched cardigan, worn flat shoes. Show her full body from the front, from the side, and from the back, standing with a worried but composed expression, on a plain warm off-white background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, muted earth browns, dusty rose. Historically accurate 1940s Dutch East Indies civilian clothing. Vertical 9:16 aspect ratio. Avoid blood, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:07",
+      "narasi": "Bertahun-tahun, kamu menolak diberi bunga di hari ulang tahunmu. Tak seorang pun tahu kenapa.",
+      "prompt": "First-person view looking down at a wooden kitchen table at night in a 1970s Australian family home. A middle-aged woman's hands with a simple wedding ring push a bouquet of fresh flowers in paper wrapping away across the table; the hands sit at the lower edge of the middle third, the bouquet in the middle third. A single warm table lamp lights the table; the rest of the room falls into soft darkness, a dim wall with a framed family photo in the top third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted earth browns, warm amber lamp glow, deep soft shadows. Historically accurate 1970s Australian domestic interior. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:07–0:17",
+      "narasi": "Hampir dua tahun kamu terkurung di kamp Ambarawa. Bersama ibu dan dua adikmu... di antara ribuan perempuan dan anak Belanda.",
+      "prompt": "Same character as the Jan O'Herne reference image. Same character as the Josephine O'Herne reference image. A disused colonial army barracks in Ambarawa, Central Java, in 1944, with peeling whitewashed walls, a rusted tin roof and a barbed-wire fence. Jan sits on a woven mat in front of the barracks beside her mother Josephine and her two younger sisters, two thin modestly dressed girls; all look tired and underfed. Faint figures of other Dutch women and children fill the background. Their faces are in the middle third; the roofline and hazy sky fill the top third; the dusty ground fills the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted earth browns, faded khaki, dusty olive, warm ochre accents, lit by low warm afternoon sun through dusty haze. Historically accurate Japanese civilian internment camp in Java, 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:24",
+      "narasi": "Perutmu selalu lapar. Tapi kamu masih bermimpi menjadi biarawati, seperti suster-suster yang mengajarmu.",
+      "prompt": "First-person view: thin young woman's hands hold a small chipped enamel bowl of watery rice porridge, a wooden rosary wrapped around one wrist; the hands sit at the lower edge of the middle third. Behind them, a dusty barren camp yard with long barracks and a barbed-wire fence; pale hazy sky in the top third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted earth browns, faded khaki, dusty olive, warm ochre accents, lit by low warm afternoon sun through dusty haze. Historically accurate Japanese civilian internment camp in Java, 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:24–0:34",
+      "narasi": "Suatu pagi, tentara Jepang datang. Semua perempuan lajang, tujuh belas sampai dua puluh delapan tahun... disuruh berbaris.",
+      "prompt": "A dusty internment camp courtyard in the morning: a long line of thin Dutch women in faded 1940s cotton dresses stands facing forward, all clearly adult women in their twenties, their faces tense, in the middle third. In the near foreground on the left, a Japanese army officer seen only from behind, khaki-green field uniform, peaked cloth field cap, ankle boots with puttees, sword at the hip; his face is never visible. Barracks roofs and open pale sky fill the top third; long shadows stretch across the ground in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, ash grey, dull white, warm ochre, lit by pale warm morning light with long shadows. Historically accurate Japanese civilian internment camp in Java, February 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:34–0:41",
+      "narasi": "Ibumu menatapmu, ketakutan. Seleksi demi seleksi, sampai tersisa sepuluh orang. Kamu salah satunya.",
+      "prompt": "Same character as the Josephine O'Herne reference image. First-person view from inside a line of women in a camp courtyard: across the yard, among a crowd of worried women at the edge, Josephine's frightened face looks straight at the viewer, placed in the middle third. In the near foreground on the left side, only the gloved hand and khaki-green sleeve of a Japanese officer, pointing; no face visible. Barracks wall and pale sky in the top third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, ash grey, dull white, warm ochre, lit by pale warm morning light with long shadows. Historically accurate Japanese civilian internment camp in Java, February 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:41–0:49",
+      "narasi": "Setengah jam untuk berkemas. Kamu memasukkan alkitab, buku misa, salib, dan rosario. Hanya itu yang terasa penting.",
+      "prompt": "First-person view inside a dim barracks: a young woman's hands place a worn Bible, a small missal, a little wooden crucifix and a wooden rosary into an open cloth bag on a narrow plank bunk; the hands and objects sit in the middle third. Warm light falls through an open doorway; dark wooden beams in the top third; the plank bunk edge in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, ash grey, dull white, warm ochre, lit by pale warm morning light through a doorway. Historically accurate Japanese civilian internment camp barracks in Java, February 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:49–0:58",
+      "narasi": "Di gerbang, para perempuan menjerit, mencoba menghalangi. Seseorang menyelipkan saputangan putih ke tanganmu. Pastor kamp memberkatimu.",
+      "prompt": "Same character as the Jan O'Herne reference image. At a wooden internment camp gate, Jan walks toward the viewer carrying a small cloth bag; on both sides a crowd of distressed women reach out their hands, one pressing a small white handkerchief into Jan's hand; an elderly Catholic priest in a worn white cassock raises his hand in blessing. Jan's face and the handkerchief are in the middle third; gate posts and open sky in the top third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: faded khaki, ash grey, dull white, warm ochre, lit by warm daylight through dust. Historically accurate Japanese civilian internment camp in Java, February 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "0:58–1:07",
+      "narasi": "Truk terbuka membawamu ke sebuah rumah besar di Semarang, berpagar kawat berduri. Penjaga bilang, kabur tak ada gunanya.",
+      "prompt": "An open military truck stops at dusk in front of a large white Dutch colonial villa in Semarang with a deep columned front veranda, surrounded by a barbed-wire fence; a Japanese guard stands at the gate, seen only from behind, rifle on his shoulder. The villa and the gate sit in the middle third; tall trees and a darkening sky fill the top third; the gravel driveway fills the bottom third. A few windows glow faintly amber. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by fading dusk and faint lamp glow. Historically accurate Japanese-occupied Semarang, Java, 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:07–1:15",
+      "narasi": "Esok paginya, wajahmu dipotret. Fotomu dipajang di ruang depan, dengan nama baru di bawahnya. Nama bunga.",
+      "prompt": "First-person view in the front hall of an old colonial villa: a wooden board on the wall is pinned with a row of small, indistinct black-and-white portrait photos of adult women, each with a small blank paper label; on a side table below stands a vase of fresh flowers. The board sits in the middle third; dark wall and ceiling in the top third; the side table base and tiled floor in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by morning light through closed shutters. Historically accurate 1940s Dutch colonial villa interior in Java. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:15–1:25",
+      "narasi": "Malam itu, seorang perwira membayar mahal untukmu. Kamu menendang, memukul... tapi ia tetap memerkosamu.",
+      "prompt": "A dim corridor inside an old colonial villa at night, with no people: a closed dark wooden bedroom door in the middle third; on a small side table beside it lie a vase of flowers and a Japanese army officer's peaked cloth field cap. A single dim oil lamp casts long shadows; darkness fills the top third; worn floor tiles fill the bottom third. Quiet, heavy, restrained mood. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by a single dim oil lamp. Historically accurate 1940s Dutch colonial villa interior in Java. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid people, nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:25–1:36",
+      "narasi": "Malam demi malam, berulang. Lalu seorang dokter datang memeriksa kalian. Kamu memohon pertolongannya. Ia pun memerkosamu... dengan pintu dan jendela terbuka.",
+      "prompt": "First-person view into a bare examination room in an old colonial villa whose door and window frames stand empty, with no doors or shutters; an empty examination table, a doctor's leather bag and a stethoscope on a small side table sit in the middle third. In the empty doorway, blurred silhouettes of soldiers seen only from behind, no faces. Pale light from the window cuts into the dim room; darkness in the top third; bare floor in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by pale window light. Historically accurate 1940s Dutch colonial villa interior in Java. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:36–1:44",
+      "narasi": "Kamu melawan, setiap kali. Kamu memotong habis rambutmu agar tak menarik. Justru kamu jadi tontonan.",
+      "prompt": "First-person view: a young woman's hands hold an old pair of scissors; long strands of dark brown wavy hair fall onto a wooden floor. A dull, spotted mirror on the wall in the middle third shows only a blurred reflection of a figure with uneven cropped hair. Dark wall above in the top third; fallen hair on the floor in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by a single dim oil lamp. Historically accurate 1940s Dutch colonial villa interior in Java. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:44–1:53",
+      "narasi": "Lalu kamu hamil. Penjaga memaksamu menelan pil sampai keguguran. Mereka boleh merampas segalanya darimu... tapi tidak imanmu.",
+      "prompt": "Same character as the Jan O'Herne reference image, now with her hair crudely cropped very short and uneven, fully dressed in her faded light-blue cotton dress. She kneels in the corner of a small bare room with her eyes closed in prayer, one hand holding a wooden rosary, the other resting on her belly; her face and hands are in the middle third. Muted moonlight, not saturated blue, falls through a barred window above her in the top third; a low oil lamp adds a faint amber glow; bare floor in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep umber, dark wine red, near-black shadows, dim amber, lit by muted moonlight and a low oil lamp. Historically accurate 1940s Dutch colonial villa interior in Java. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "1:53–2:01",
+      "narasi": "Lebih dari tiga bulan kemudian, kalian dipindah ke Bogor. Ancamannya jelas: bercerita berarti mati, bersama keluargamu.",
+      "prompt": "A group of thin adult Dutch women, several with cropped hair, climb down from an open military truck into a new internment camp near Bogor, with green hills and tall trees behind. A Japanese guard stands in profile at the side, his face in shadow, pointing at them threateningly. The women's tense faces are in the middle third; hills and a cloudy dusk sky in the top third; muddy ground in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: warm greys, soft browns, deep olive, lit by muted dusk light. Historically accurate Japanese civilian internment camp in West Java, 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:01–2:11",
+      "narasi": "Ibumu datang. Kamu tertidur di pelukannya, sementara ia mengusap kepalamu yang gundul. Esoknya kamu bercerita. Lalu kamu diam.",
+      "prompt": "Same character as the Jan O'Herne reference image, with her hair cropped very short. Same character as the Josephine O'Herne reference image. Night inside a crowded camp barracks: Jan sleeps curled up with her head in her mother's lap; Josephine sits against the wall and gently strokes her daughter's cropped head, eyes wet but calm. Their faces are in the middle third; dark wooden beams above in the top third; a straw mat and Josephine's skirt in the bottom third. A small oil lamp glows warm beside them. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: warm greys, soft browns, deep olive, lit by a small warm oil lamp. Historically accurate Japanese civilian internment camp barracks in West Java, 1944. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, women who look underage in the house scenes, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:11–2:20",
+      "narasi": "Perang usai. Kamu menikahi prajurit Inggris dan pindah ke Australia. Dua putri lahir. Mereka tak tahu apa-apa.",
+      "prompt": "Same character as the Jan O'Herne reference image, now in her late thirties, healthy, her dark brown hair grown back in a soft early-1960s wave, wearing a simple floral summer dress. She stands on the veranda of a modest suburban house in Adelaide, Australia, smiling faintly, watching two little girls play in the garden. Through the open window behind her hangs a framed wedding photo of a young couple, the man in a British army uniform. Jan's face is in the middle third; the veranda roof and blue-gold sky in the top third; the garden lawn in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: warm greys, soft browns, deep olive, warm gold, lit by warm late afternoon sun. Historically accurate early 1960s Australian suburban home. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:20–2:29",
+      "narasi": "Awal 1990-an, perempuan Korea mulai bersaksi. Radio mengabarkan perkosaan di Bosnia. Sudah waktunya. Kamu menulis surat untuk kedua putrimu.",
+      "prompt": "First-person view at night: an older woman's hands with a wedding ring write a letter with a fountain pen at a wooden desk; the hands and letter sit in the middle third. Beside the paper, an early-1990s portable radio glows faintly; a folded white handkerchief embroidered with small coloured signatures lies near the letter. A warm desk lamp lights the scene; a dark wall in the top third; the desk edge in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: amber, warm wood brown, cream, lit by a warm desk lamp. Historically accurate early 1990s Australian home interior. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "18": {
+      "waktu": "2:29–2:41",
+      "narasi": "Putrimu memelukmu. Kini ia mengerti kenapa kamu tak pernah mau diberi bunga. Di Tokyo, setelah lima puluh tahun diam... kamu bersuara.",
+      "prompt": "Jan Ruff-O'Herne at 69, the same dark expressive eyebrows as the Jan O'Herne reference image, short greying hair, glasses, wearing a smart dark jacket, stands at a wooden podium with a microphone in a conference hall in Tokyo, December 1992. Her calm, determined face is in the middle third, lit by warm podium light; a dark backdrop fills the top third; the audience below is lost in darkness in the bottom third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: amber, warm wood brown, cream, near-black background, lit by a single warm podium light. Historically accurate early 1990s international public hearing in Tokyo. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid nudity, sensual poses or clothing, any depiction of sexual violence, blood, gore, clearly visible or caricatured Japanese soldiers' faces, modern objects, readable text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice perempuan dewasa (40-an ke atas) yang hangat, bernada rendah, dan fasih Bahasa Indonesia. Pilihan voice paling menentukan hasil: tag tidak bisa memaksa voice yang ringan terdengar berat. Generate per babak.\n\n- **Babak 1:** tenang dan intim, sedikit lelah, tempo pelan; bisikan di akhir hook.\n- **Babak 2:** tegang tertahan, tempo sedang; jeda panjang sebelum \"Kamu salah satunya\".\n- **Babak 3:** rendah, berat, lambat. Adegan 10–11 dibacakan datar dan menahan emosi; tangis tertahan, bukan meraung. Kalimat iman di adegan 13 berbisik tapi teguh.\n- **Babak 4:** letih dan lembut; \"Lalu kamu diam\" nyaris berbisik.\n- **Babak 5:** perlahan menguat dan teguh; \"kamu bersuara\" lembut tapi mantap.\n- Setiap kalimat narasi diawali tag emosi Eleven v3; dengan Stability Robust tag kurang ditanggapi.",
+    "arahanBabak": {
+      "1": "tenang dan intim, sedikit lelah, tempo pelan; bisikan di akhir hook.",
+      "2": "tegang tertahan, tempo sedang; jeda panjang sebelum \"Kamu salah satunya\".",
+      "3": "rendah, berat, lambat. Adegan 10–11 dibacakan datar dan menahan emosi; tangis tertahan, bukan meraung. Kalimat iman di adegan 13 berbisik tapi teguh.",
+      "4": "letih dan lembut; \"Lalu kamu diam\" nyaris berbisik.",
+      "5": "perlahan menguat dan teguh; \"kamu bersuara\" lembut tapi mantap."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Bertahun-tahun, kamu menolak diberi bunga di hari ulang tahunmu. [whispers] Tak seorang pun tahu kenapa....\n\n[tired] Hampir dua tahun kamu terkurung di kamp Ambarawa. [tired] Bersama ibu dan dua adikmu... di antara ribuan perempuan dan anak Belanda....\n\n[tired] Perutmu selalu lapar. [hopeful] Tapi kamu masih bermimpi menjadi biarawati, seperti suster-suster yang mengajarmu....",
+    "2": "[tense] Suatu pagi, tentara Jepang datang. [sad] Semua perempuan lajang, tujuh belas sampai dua puluh delapan tahun... disuruh berbaris....\n\n[nervous] Ibumu menatapmu, ketakutan. [tense] Seleksi demi seleksi, sampai tersisa sepuluh orang. [whispers] Kamu salah satunya....\n\n[tense] Setengah jam untuk berkemas. [calm] Kamu memasukkan alkitab, buku misa, salib, dan rosario. [sad] Hanya itu yang terasa penting....\n\n[tense] Di gerbang, para perempuan menjerit, mencoba menghalangi. [sad] Seseorang menyelipkan saputangan putih ke tanganmu. [sad] Pastor kamp memberkatimu....",
+    "3": "[serious] Truk terbuka membawamu ke sebuah rumah besar di Semarang, berpagar kawat berduri. [tense] Penjaga bilang, kabur tak ada gunanya....\n\n[serious] Esok paginya, wajahmu dipotret. [serious] Fotomu dipajang di ruang depan, dengan nama baru di bawahnya. [sad] Nama bunga....\n\n[softly] Malam itu, seorang perwira membayar mahal untukmu. [tense] Kamu menendang, memukul... [crying] tapi ia tetap memerkosamu....\n\n[serious] Malam demi malam, berulang. [serious] Lalu seorang dokter datang memeriksa kalian. [sad] Kamu memohon pertolongannya. [whispers] Ia pun memerkosamu... dengan pintu dan jendela terbuka....\n\n[serious] Kamu melawan, setiap kali. [determined] Kamu memotong habis rambutmu agar tak menarik. [bitter] Justru kamu jadi tontonan....\n\n[sad] Lalu kamu hamil. [sad] Penjaga memaksamu menelan pil sampai keguguran. [whispers] Mereka boleh merampas segalanya darimu... tapi tidak imanmu....",
+    "4": "[tired] Lebih dari tiga bulan kemudian, kalian dipindah ke Bogor. [serious] Ancamannya jelas: bercerita berarti mati, bersama keluargamu....\n\n[softly] Ibumu datang. [softly] Kamu tertidur di pelukannya, sementara ia mengusap kepalamu yang gundul. [sad] Esoknya kamu bercerita. [exhales] [whispers] Lalu kamu diam....\n\n[calm] Perang usai. [calm] Kamu menikahi prajurit Inggris dan pindah ke Australia. [calm] Dua putri lahir. [sad] Mereka tak tahu apa-apa....",
+    "5": "[serious] Awal 1990-an, perempuan Korea mulai bersaksi. [serious] Radio mengabarkan perkosaan di Bosnia. [determined] Sudah waktunya. [determined] Kamu menulis surat untuk kedua putrimu....\n\n[softly] Putrimu memelukmu. [softly] Kini ia mengerti kenapa kamu tak pernah mau diberi bunga. [determined] Di Tokyo, setelah lima puluh tahun diam... [softly] kamu bersuara...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Kamp",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±60 dtk",
+      "suasana": "Muram, rapuh, ketegangan pelan naik",
+      "style": "Melancholic cinematic underscore, solo piano with a soft cello drone and a very faint distant gamelan shimmer, 1940s colonial Java mood, sparse and fragile, starts sparse with single piano notes, slowly adds low strings, tension rises gently toward the end, 66 BPM, no vocals",
+      "exclude": "drums, vocals, electronic, synth, guitar"
+    },
+    {
+      "nomor": 2,
+      "nama": "Rumah",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "±55 dtk",
+      "suasana": "Gelap, menekan, nyaris hening",
+      "style": "Dark ambient cinematic drone, low sustained strings, distant muffled heartbeat-like low drum, dissonant cello harmonics, oppressive and restrained, starts with a low hum, swells slightly, then fades almost to silence, 50 BPM, no vocals",
+      "exclude": "vocals, choir, electronic beats, percussion loops, bright piano"
+    },
+    {
+      "nomor": 3,
+      "nama": "Suara",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "±55 dtk",
+      "suasana": "Rapuh lalu teguh, harapan yang tertahan",
+      "style": "Fragile hopeful cinematic piano, warm strings slowly entering, restrained and dignified, starts with a lone piano theme, grows into gentle full strings, ends on a soft unresolved chord, 70 BPM, no vocals",
+      "exclude": "drums, vocals, choir, electronic, epic brass"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Detak jam dinding di dapur malam",
+      "kataKunci": "wall clock ticking quiet room",
+      "prompt": "Quiet kitchen at night, slow ticking wall clock, faint paper rustle of a flower bouquet"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Suasana kamp, anak menangis jauh",
+      "kataKunci": "crowd ambience distant children outdoor",
+      "prompt": "Distant murmur of a crowded internment camp, a child crying far away, dry wind"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Langkah sepatu bot dan perintah singkat",
+      "kataKunci": "military boots walking gravel",
+      "prompt": "Several military boots walking on dusty gravel, one short shouted command"
+    },
+    {
+      "nomor": 4,
+      "adegan": 7,
+      "bunyi": "Gerbang kayu berderit",
+      "kataKunci": "old wooden gate creak",
+      "prompt": "Old wooden gate creaking open, muffled women's voices behind it"
+    },
+    {
+      "nomor": 5,
+      "adegan": 8,
+      "bunyi": "Truk tua melambat dan berhenti",
+      "kataKunci": "vintage truck engine stop",
+      "prompt": "1940s military truck engine slowing and stopping, metal tailgate clank"
+    },
+    {
+      "nomor": 6,
+      "adegan": 9,
+      "bunyi": "Rana kamera tua",
+      "kataKunci": "vintage camera shutter",
+      "prompt": "Single mechanical shutter click of an old 1940s camera in a quiet room"
+    },
+    {
+      "nomor": 7,
+      "adegan": 10,
+      "bunyi": "Pintu kayu menutup, lalu sunyi",
+      "kataKunci": "heavy wooden door close",
+      "prompt": "Heavy wooden door closing slowly in an empty corridor, then silence"
+    },
+    {
+      "nomor": 8,
+      "adegan": 12,
+      "bunyi": "Gunting memotong rambut",
+      "kataKunci": "scissors cutting hair",
+      "prompt": "Close-up of scissors cutting through thick hair, slow repeated snips"
+    },
+    {
+      "nomor": 9,
+      "adegan": 13,
+      "bunyi": "Butir rosario",
+      "kataKunci": "rosary beads",
+      "prompt": "Wooden rosary beads clicking softly between fingers, quiet breathing"
+    },
+    {
+      "nomor": 10,
+      "adegan": 15,
+      "bunyi": "Jangkrik malam tropis",
+      "kataKunci": "night crickets tropical",
+      "prompt": "Tropical night crickets outside a wooden barracks, soft slow breathing"
+    },
+    {
+      "nomor": 11,
+      "adegan": 17,
+      "bunyi": "Radio samar dan pena di kertas",
+      "kataKunci": "old radio static, pen writing",
+      "prompt": "Faint radio static with unintelligible distant voice, fountain pen scratching on paper"
+    },
+    {
+      "nomor": 12,
+      "adegan": 18,
+      "bunyi": "Ruang konferensi hening",
+      "kataKunci": "conference room tone",
+      "prompt": "Quiet large conference hall room tone, one soft microphone tap"
+    }
+  ],
+  "adeganHening": [
+    10
+  ],
+  "ulikan": {
+    "teks": "Rumah untuk perempuan pribumi tetap beroperasi setelah rumah Jan ditutup.",
+    "sumber": "Yuki Tanaka, The Asia-Pacific Journal (2019); Asian Women's Fund",
+    "kata": 10,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Jan O'Herne di Kamp Ambarawa, 1944",
+      "catatan": "Alternatif judul: POV: Kamu Jan O'Herne, Dipilih dari Barisan Kamp / POV: Kamu Interniran Belanda yang Memecah Diam 50 Tahun",
+      "caption": "Setelah lima puluh tahun diam, ia memilih bersaksi di Tokyo.\nPeringatan isi: video ini membahas kekerasan seksual.\n\nFebruari 1944, Jan O'Herne dipilih dari barisan kamp interniran Ambarawa dan dibawa paksa ke sebuah rumah militer Jepang di Semarang. Saputangan yang ia terima di gerbang kamp kini disimpan Australian War Memorial.\n\nMenurutmu, apa yang membuat seseorang sanggup diam selama 50 tahun?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: kesaksian Jan Ruff-O'Herne dan Australian War Memorial.\n\n#UlikSilam #sejarahindonesia #jugunianfu #pendudukanjepang #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Jan O'Herne di Kamp Ambarawa",
+      "catatan": "",
+      "caption": "Puluhan tahun ia menolak diberi bunga. Alasannya baru terungkap 50 tahun kemudian.\nPeringatan isi: video ini membahas kekerasan seksual.\n\nFebruari 1944, Jan O'Herne dipilih dari barisan kamp interniran Ambarawa dan dibawa paksa ke sebuah rumah militer Jepang di Semarang. Kesaksiannya di Tokyo, Desember 1992, mendorong korban Belanda lain ikut bersuara.\n\nMenurutmu, apa yang membuat seseorang sanggup diam selama 50 tahun?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: kesaksian Jan Ruff-O'Herne dan Australian War Memorial.\n\n#UlikSilam #sejarah #jugunianfu #pendudukanjepang #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 18,
+    "jumlahBabak": 5,
+    "totalKata": 302,
+    "kataPerBabak": {
+      "1": 47,
+      "2": 63,
+      "3": 101,
+      "4": 51,
+      "5": 40
+    },
+    "karakterPerBabak": {
+      "1": 386,
+      "2": 573,
+      "3": 901,
+      "4": 458,
+      "5": 368
+    },
+    "jedaBunyi": 7,
+    "perkiraanDetik130": {
+      "narasi": 160.6,
+      "denganMerek": 165.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 155.4,
+      "denganMerek": 160.4
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

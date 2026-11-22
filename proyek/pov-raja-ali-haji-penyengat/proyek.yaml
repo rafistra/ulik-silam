@@ -1,0 +1,21 @@
+judul: "POV: Kamu Raja Ali Haji di Pulau Penyengat"
+slug: pov-raja-ali-haji-penyengat
+format: POV
+lapisan: ["Sejarah"]
+latar: "Pulau Penyengat, Riau-Lingga"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v7 · 2026-11-17"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Raja Ali Haji"]
+aset: {ilustrasi: 17, narasi: 24, musik: 3, sfx: 8}
+render: "out/pov-raja-ali-haji-penyengat.mp4"
+tanggal_render: 2026-11-17
+tautan: {"shorts": "https://youtube.com/shorts/4pHyRU4Z6zQ", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7709182547648957714"}
+arsip_lama: "pov/pov-raja-ali-haji-penyengat"
+catatan: ""
+metrik_shorts: {"views": 1132, "jam_tonton": 19.1, "rata_tonton_detik": 60.7, "durasi_detik": 174, "persen_ditonton": 34.9, "subscriber": 2, "impresi": 206, "ctr": 4.85, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-17", "tiktok": "2026-11-18"}
+metrik_tiktok: {"views": 1362, "suka": 50, "komentar": 0, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

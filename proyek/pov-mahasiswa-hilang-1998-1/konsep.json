@@ -1,0 +1,568 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-07T04:04:04.817Z",
+  "judulDokumen": "Mahasiswa yang Dihilangkan, 1998 (Part 1)",
+  "judul": "POV: Kamu Mahasiswa yang Dihilangkan, 1998 (Part 1)",
+  "slug": "pov-mahasiswa-hilang-1998-1",
+  "versi": "v2 · 2026-11-07",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Yogyakarta dan Jakarta",
+  "durasiMaksDetik": 150,
+  "durasiTargetDetik": 140,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Mahasiswa fiktif asal Klaten, kuliah di Yogyakarta, anggota gerakan prodemokrasi biasa (bukan pemimpin)",
+  "ringkasan": {
+    "Judul": "POV: Kamu Mahasiswa yang Dihilangkan, 1998 (Part 1)",
+    "Slug": "pov-mahasiswa-hilang-1998-1",
+    "Versi": "v2 · 2026-11-07",
+    "Seri": "Part 1",
+    "Durasi": "2:30 maksimum, target ±2:20 (perkiraan 2:16)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Mahasiswa fiktif asal Klaten, kuliah di Yogyakarta, anggota gerakan prodemokrasi biasa (bukan pemimpin)",
+    "Jumlah ilustrasi": "17 (14 adegan + 3 lembar karakter: Mahasiswa, Kawan Gondrong, Kawan Perempuan)",
+    "Lapisan": "Sejarah",
+    "Latar": "Yogyakarta dan Jakarta",
+    "Premis": "Seorang mahasiswa yang ikut menuntut demokrasi menjadi bagian dari gelombang penculikan aktivis Februari–Maret 1998; Part 1 berhenti tepat ketika ia dibawa pergi.",
+    "Benang merah": "Telepon terakhir kepada ibu, janji \"sebentar lagi\" pulang.",
+    "Asumsi": "\"Kamu\" dan keluarganya fiktif dan tidak meniru korban tertentu; organisasi tidak dinamai; tidak ada adegan penyiksaan; tidak ada pelaku yang disebut atau diisyaratkan; strategi distribusi membonceng film *Laut Bercerita* tanpa memakai nama tokoh, kutipan, atau visual film.",
+    "Dipilih karena": "Momentum *Laut Bercerita* (tayang 29 Oktober 2026); dua part (mahasiswa lalu ibunya) menahan penonton untuk part berikutnya."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kos di Yogyakarta",
+      "suasana": "Hangat tapi waspada",
+      "palet": "Kuning bohlam, cokelat kayu, hijau sawah (kilas balik)",
+      "cahaya": "Bohlam tungsten; pagi cerah di kilas balik"
+    },
+    {
+      "babak": 2,
+      "nama": "Menuju Jakarta",
+      "suasana": "Gelisah",
+      "palet": "Abu kebiruan, oranye lampu jalan, hijau kusam",
+      "cahaya": "Neon kereta dan warung, lampu jalan sodium"
+    },
+    {
+      "babak": 3,
+      "nama": "Bersembunyi",
+      "suasana": "Sesak",
+      "palet": "Biru tua malam, abu beton, sedikit kuning dari luar",
+      "cahaya": "Cahaya luar menembus koran di jendela"
+    },
+    {
+      "babak": 4,
+      "nama": "Malam terakhir",
+      "suasana": "Sunyi lalu gelap",
+      "palet": "Hijau pucat neon, merah angka argo, hitam; epilog kuning hangat rumah Klaten",
+      "cahaya": "Neon wartel, lampu lorong berkedip, lalu gelap"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kos di Yogyakarta",
+    "2": "Menuju Jakarta",
+    "3": "Bersembunyi",
+    "4": "Malam terakhir"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kos di Yogyakarta",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam, kamar kos sempit berdinding papan diterangi lampu bohlam kuning. Tangan \"kamu\" memasukkan tumpukan buku dan map ke tas ransel; di kasur tipis tergeletak pager yang layarnya kosong. Bayangan jendela berjeruji di dinding.",
+      "narasiSuara": "[tense] Malam ini kamu pindah kos lagi. [nervous] Sudah beberapa teman tak bisa dihubungi. [whispers] Dan kamu mulai bertanya... siapa berikutnya.",
+      "narasi": "Malam ini kamu pindah kos lagi. Sudah beberapa teman tak bisa dihubungi. Dan kamu mulai bertanya... siapa berikutnya.",
+      "teksLayar": [
+        "Yogyakarta, Februari 1998."
+      ],
+      "suara": "Jangkrik, kipas angin berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kos di Yogyakarta",
+      "waktu": "0:09–0:19",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Kilas balik hangat: \"kamu\" (±21 tahun) berdiri di pematang sawah di Klaten dengan kemeja kampus, mencium tangan ibu (berkebaya sederhana dan kerudung tipis) sebelum berangkat; ibu menyelipkan amplop ke tangannya. Pagi cerah.",
+      "narasiSuara": "[calm] Beberapa bulan lalu, hidupmu sederhana. [calm] Anak petani dari Klaten, kuliah di Yogyakarta... hidup dari kiriman ibumu tiap bulan.",
+      "narasi": "Beberapa bulan lalu, hidupmu sederhana. Anak petani dari Klaten, kuliah di Yogyakarta... hidup dari kiriman ibumu tiap bulan.",
+      "teksLayar": [],
+      "suara": "Burung pagi, angin sawah",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Kos di Yogyakarta",
+      "waktu": "0:19–0:28",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kamar kos penuh asap rokok kretek, lima mahasiswa duduk bersila di tikar mengelilingi buku-buku. Tangan \"kamu\" memegang novel bersampul koran; dua kawan menunduk membaca fotokopian.",
+      "narasiSuara": "[curious] Malam-malam kalian berdiskusi di kamar kos yang sempit. [serious] Novel Pramoedya kalian sampul koran... karena dilarang sejak 1981.",
+      "narasi": "Malam-malam kalian berdiskusi di kamar kos yang sempit. Novel Pramoedya kalian sampul koran... karena dilarang sejak 1981.",
+      "teksLayar": [],
+      "suara": "Bisik diskusi, kertas dibalik",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 1,
+      "namaBabak": "Kos di Yogyakarta",
+      "waktu": "0:28–0:37",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Demonstrasi mahasiswa di depan gerbang kampus, spanduk kain tulisan tangan (tanpa teks terbaca), \"kamu\" di barisan tengah mengangkat kepalan; di sudut, papan harga warung dengan angka dicoret-coret.",
+      "narasiSuara": "[tense] Lalu krisis moneter datang. [sad] Rupiah anjlok, harga-harga melambung, kiriman ibumu tak cukup lagi. [angry] Kamu ikut turun ke jalan.",
+      "narasi": "Lalu krisis moneter datang. Rupiah anjlok, harga-harga melambung, kiriman ibumu tak cukup lagi. Kamu ikut turun ke jalan.",
+      "teksLayar": [],
+      "suara": "Teriakan massa, megafon",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Menuju Jakarta",
+      "waktu": "0:37–0:46",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sekretariat sempit, malam. \"Kamu\" dan dua kawan membungkuk di atas koran yang memuat berita orang hilang (tanpa teks terbaca); satu kawan menelepon dengan cemas, satu lagi menatap jendela.",
+      "narasiSuara": "[nervous] Awal Februari, kabar buruk berdatangan. [tense] Aktivis prodemokrasi hilang satu per satu... tanpa surat, tanpa pengadilan.",
+      "narasi": "Awal Februari, kabar buruk berdatangan. Aktivis prodemokrasi hilang satu per satu... tanpa surat, tanpa pengadilan.",
+      "teksLayar": [],
+      "suara": "Telepon berdering tak diangkat",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Menuju Jakarta",
+      "waktu": "0:46–0:54",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Gerbong kereta ekonomi malam, lampu redup, penumpang berdesakan. \"Kamu\" duduk di dekat jendela memeluk ransel, menatap lampu-lampu desa yang lewat.",
+      "narasiSuara": "[serious] Kamu tetap berangkat ke Jakarta. [tense] Sidang Umum MPR sebentar lagi... dan kalian ingin suara kalian terdengar.",
+      "narasi": "Kamu tetap berangkat ke Jakarta. Sidang Umum MPR sebentar lagi... dan kalian ingin suara kalian terdengar.",
+      "teksLayar": [],
+      "suara": "Roda kereta berderak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Menuju Jakarta",
+      "waktu": "0:54–1:04",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Warung kopi pinggir jalan Jakarta. Tangan \"kamu\" menggenggam gelas kopi; di televisi tabung di pojok warung, siaran sidang berlangsung (gambar samar). Pengunjung lain menonton dengan wajah datar.",
+      "narasiSuara": "[sad] Sepuluh Maret, MPR memilih Soeharto lagi. [resigned] Untuk ketujuh kalinya. [serious] Kalian tidak berhenti. [tense] Di kampus-kampus, demonstrasi justru makin besar.",
+      "narasi": "Sepuluh Maret, MPR memilih Soeharto lagi. Untuk ketujuh kalinya. Kalian tidak berhenti. Di kampus-kampus, demonstrasi justru makin besar.",
+      "teksLayar": [
+        "Jakarta, 10 Maret 1998."
+      ],
+      "suara": "Suara TV samar, sendok beradu gelas",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Bersembunyi",
+      "waktu": "1:04–1:15",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Unit rumah susun sempit, malam. Tangan \"kamu\" menempelkan koran ke kaca jendela; dua kawan duduk di lantai dekat mesin ketik dan tumpukan selebaran, lampu dimatikan, hanya cahaya dari luar.",
+      "narasiSuara": "[nervous] Kalian berpindah ke sebuah rumah susun di pinggir Jakarta. [whispers] Lampu dimatikan... jendela ditutup koran. [tense] Setiap ketukan di pintu membuat napasmu tertahan.",
+      "narasi": "Kalian berpindah ke sebuah rumah susun di pinggir Jakarta. Lampu dimatikan... jendela ditutup koran. Setiap ketukan di pintu membuat napasmu tertahan.",
+      "teksLayar": [],
+      "suara": "Ketukan pintu jauh, napas tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Bersembunyi",
+      "waktu": "1:15–1:25",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" memegang pager yang menampilkan pesan singkat; di belakang, seorang kawan menutup mulut dengan tangan, kawan lain menatap pintu.",
+      "narasiSuara": "[tense] Lalu kabar itu datang. [nervous] Teman-teman di tempat lain diambil orang tak dikenal... [whispers] dan tak ada yang tahu dibawa ke mana.",
+      "narasi": "Lalu kabar itu datang. Teman-teman di tempat lain diambil orang tak dikenal... dan tak ada yang tahu dibawa ke mana.",
+      "teksLayar": [],
+      "suara": "Bunyi pager, jam berdetak",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Malam terakhir",
+      "waktu": "1:25–1:36",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Bilik wartel berkaca, malam, lampu neon pucat. Tangan kiri \"kamu\" memegang gagang telepon putih, tangan kanan menekan tombol; di dinding bilik, layar argo merah berangka menyala.",
+      "narasiSuara": "[calm] Malam itu kamu mampir ke wartel. [calm] Angka di layar argo berjalan cepat. [sad] Sisa uang sakumu... untuk menelepon ibu di Klaten.",
+      "narasi": "Malam itu kamu mampir ke wartel. Angka di layar argo berjalan cepat. Sisa uang sakumu... untuk menelepon ibu di Klaten.",
+      "teksLayar": [],
+      "suara": "Nada sambung telepon",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Malam terakhir",
+      "waktu": "1:36–1:46",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Bidikan dekat: tangan \"kamu\" menggenggam gagang telepon erat, jari kanan menyentuh kaca bilik yang berembun; pantulan samar wajah di kaca.",
+      "narasiSuara": "[sad] [whispers] Ibumu bertanya kapan kamu pulang. [sad] Katanya, padi di sawah sebentar lagi panen. [sad] Kamu bilang... sebentar lagi.",
+      "narasi": "Ibumu bertanya kapan kamu pulang. Katanya, padi di sawah sebentar lagi panen. Kamu bilang... sebentar lagi.",
+      "teksLayar": [],
+      "suara": "Suara ibu teredam di telepon, lalu hening",
+      "hening": true,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Malam terakhir",
+      "waktu": "1:46–1:55",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Lorong rumah susun gelap. Pintu unit terbuka setengah; di dalam, laci terbalik, kertas dan selebaran berserakan di lantai, mesin ketik terguling. Tangan \"kamu\" menahan daun pintu.",
+      "narasiSuara": "[nervous] Kamu kembali ke rumah susun. [tense] Pintunya sudah terbuka... kamar kalian porak-poranda. [nervous] Kertas-kertas berserakan di lantai.",
+      "narasi": "Kamu kembali ke rumah susun. Pintunya sudah terbuka... kamar kalian porak-poranda. Kertas-kertas berserakan di lantai.",
+      "teksLayar": [],
+      "suara": "Pintu berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Malam terakhir",
+      "waktu": "1:55–2:02",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Dari dalam unit, menatap pintu dan tangga: siluet beberapa lelaki berjaket gelap tanpa wajah jelas muncul di ujung tangga, diterangi lampu lorong yang berkedip.",
+      "narasiSuara": "[tense] Langkah-langkah berat menaiki tangga. [nervous] Tak ada jalan keluar lain. [whispers] Lalu seseorang memanggil namamu.",
+      "narasi": "Langkah-langkah berat menaiki tangga. Tak ada jalan keluar lain. Lalu seseorang memanggil namamu.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu berat, lampu berdengung",
+      "hening": false,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Malam terakhir",
+      "waktu": "2:02–2:11",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Layar hampir hitam; seberkas cahaya terakhir menyempit seperti kain menutup mata. Lalu potongan: di rumah Klaten, telepon rumah diam di atas meja berkain renda, sepiring nasi berpenutup tudung saji.",
+      "narasiSuara": "[sad] Semuanya menjadi gelap. [sad] Kamu tak pernah sampai ke panen itu. [serious] Dan ibumu masih menunggu... teleponmu yang berikutnya.",
+      "narasi": "Semuanya menjadi gelap. Kamu tak pernah sampai ke panen itu. Dan ibumu masih menunggu... teleponmu yang berikutnya.",
+      "teksLayar": [
+        "Bersambung ke Part 2."
+      ],
+      "suara": "Hening, satu nada piano/gender",
+      "hening": false,
+      "epilog": true,
+      "kata": 17
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Mahasiswa",
+      "prompt": "Character reference sheet of Mahasiswa.\nMahasiswa, a 21-year-old Javanese university student from a farming family in Klaten, studying in Yogyakarta, Indonesia, 1998. Slim, slightly underfed build; warm light-brown skin; oval face with soft cheekbones, thick black eyebrows, dark tired but alert eyes, a straight nose, full lips, a faint shadow of a thin moustache; thick black hair grown shaggy to the collar, parted loosely in the middle. Wears an unbuttoned faded blue-and-grey checked flannel shirt with the sleeves rolled to the forearm over a plain white crew-neck T-shirt, faded light-blue straight-cut jeans, and worn black rubber sandals. A cheap black digital wristwatch on the left wrist. Carries a black canvas backpack. No jewelry, no visible logos or text on clothing. Moves with nervous energy, often glancing over his shoulder, shoulders slightly hunched.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter close-up portrait of the face, one detail panel of the flannel check pattern and the digital wristwatch, and one first-person panel showing only his two hands and forearms raised at chest height holding a pager, seen from his own eyes, matching these hands: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1998 Indonesian student clothing.\nAvoid resemblance to any real actor or public figure, smartphones, modern sneakers, logos, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kawan Gondrong",
+      "prompt": "Character reference sheet of Kawan Gondrong.\nKawan Gondrong, a 23-year-old male Javanese student activist, Yogyakarta and Jakarta, 1998. Tall and lanky; medium-brown skin; long narrow face, round thin wire-framed glasses, sparse chin goatee; long wavy black hair tied in a low ponytail. Wears an olive-green army-surplus field jacket over a plain black T-shirt with no print, dark blue jeans, and scuffed canvas sneakers. Often holds a clove cigarette or a stack of photocopied papers. Calm, sardonic, sits with one knee up.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter close-up portrait of the face, and one detail panel of the glasses and field jacket.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1998 Indonesian student activist clothing.\nAvoid resemblance to any real actor or public figure, military insignia, patches, logos, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kawan Perempuan",
+      "prompt": "Character reference sheet of Kawan Perempuan.\nKawan Perempuan, a 22-year-old female Javanese student activist, Yogyakarta and Jakarta, 1998. Small and wiry; warm medium-brown skin; round face, sharp dark eyes, no makeup; straight black hair tied in a practical low ponytail with loose strands. Wears a plain off-white long-sleeved cotton shirt with sleeves pushed up, dark brown loose trousers, and simple brown sandals; carries a woven cloth tote bag full of leaflets. Determined and quick, often writing in a small notebook.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter close-up portrait of the face, and one detail panel of the woven tote bag and notebook.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1998 Indonesian student activist clothing.\nAvoid resemblance to any real actor or public figure, logos, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Malam ini kamu pindah kos lagi. Sudah beberapa teman tak bisa dihubungi. Dan kamu mulai bertanya... siapa berikutnya.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot looking slightly down, a cramped boarding-house room (kos) in Yogyakarta at night in 1998: plank walls with peeling paint, a single bare yellow bulb hanging from the ceiling, dark shadows filling the upper part of the frame, the barred window casting stripes on the wall.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. The right hand stuffs a stack of books and paper folders into an open black canvas backpack; the left hand holds the backpack open, fingers tense.\nOn the thin mattress beside the bag lies a small black pager with a blank grey screen; a dented aluminium kettle and a cassette player sit on the floor. The bulb sways slightly, shadows shifting.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm tungsten-yellow and wood-brown palette with deep shadows, historically accurate 1998 Indonesian student boarding room.\nAvoid other people, smartphones, laptops, readable text on books, logos, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:19",
+      "narasi": "Beberapa bulan lalu, hidupmu sederhana. Anak petani dari Klaten, kuliah di Yogyakarta... hidup dari kiriman ibumu tiap bulan.",
+      "prompt": "Same character as the Mahasiswa reference image.\nMedium shot at eye level, the edge of a green rice field in Klaten, Central Java, on a bright clear morning, Mount Merapi faint on the horizon, wide pale sky above.\nMahasiswa, clean-shaven and fresher than in later scenes, wears a neatly ironed light-blue button shirt tucked into dark trousers and carries his black backpack; he bends to kiss the back of his mother's hand in the Javanese salim greeting, eyes lowered respectfully, a shy smile.\nHis mother, about fifty, small and sturdy, warm brown skin weathered by sun, wearing a simple faded floral kebaya blouse, a batik sarong and a thin cream headscarf loosely draped, presses a white envelope into his other hand, looking at his face with proud, slightly worried eyes. She is a different person from Kawan Perempuan, older, with a headscarf and no tote bag.\nA light breeze ripples the rice, her headscarf edge lifts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright rice-green and warm morning-gold palette, historically accurate 1990s rural Central Javanese village.\nAvoid characters looking at the camera, stiff symmetrical poses, modern vehicles, smartphones, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:28",
+      "narasi": "Malam-malam kalian berdiskusi di kamar kos yang sempit. Novel Pramoedya kalian sampul koran... karena dilarang sejak 1981.",
+      "prompt": "Same character as the Kawan Gondrong reference image.\nSame character as the Kawan Perempuan reference image.\nThe viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot from a seated eye level, a smoky cramped kos room at night, five students sitting cross-legged on a woven plastic mat among stacks of photocopies and books, clove-cigarette smoke curling under a bare yellow bulb.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. Both hands hold open a thick paperback novel whose cover is wrapped in old newspaper.\nKawan Gondrong leans back against the wall, one knee up, cigarette between two fingers, speaking with a raised hand and a wry half-smile, looking at Kawan Perempuan. Kawan Perempuan leans forward writing quickly in her notebook, brows drawn together, glancing at him. Two other students, a stocky one in a faded maroon T-shirt and a thin one in a striped polo, bend over photocopies; they are different people from Mahasiswa and the two friends.\nSmoke drifts, a page flips in a draft from the window.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm tungsten-yellow and wood-brown palette with hazy smoke, historically accurate 1998 Indonesian student discussion room.\nAvoid characters looking at the camera, readable text on the newspaper or books, logos, background figures copying the main characters' faces or outfits, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:37",
+      "narasi": "Lalu krisis moneter datang. Rupiah anjlok, harga-harga melambung, kiriman ibumu tak cukup lagi. Kamu ikut turun ke jalan.",
+      "prompt": "Same character as the Mahasiswa reference image.\nMedium-wide shot from a low angle, a student demonstration at a campus gate in Yogyakarta in 1998 at hot midday, a hazy white sky above the crowd.\nMahasiswa stands in the middle row of the crowd, mid-shout, right fist raised, face flushed and determined, eyes on the gate ahead, sweat on his temple.\nAround him, dozens of students of varied height and build in faded T-shirts, checked shirts of other colors and plain cloth headbands raise fists and hold a long hand-painted cloth banner with no readable letters; a girl in front shouts through a megaphone. At the roadside, a small street stall has a hand-written price board covered in crossed-out numbers with no readable text. The other students are different people from Mahasiswa, with no blue-and-grey flannel shirt.\nThe banner ripples, dust rises from shuffling feet.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusty white, faded maroon, denim blue and hot ochre with harsh midday light, historically accurate 1998 Indonesian student protest.\nAvoid characters looking at the camera, readable text on banners or boards, logos of parties, campuses or organizations, police or soldiers, violence, background figures copying Mahasiswa's face or outfit, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:46",
+      "narasi": "Awal Februari, kabar buruk berdatangan. Aktivis prodemokrasi hilang satu per satu... tanpa surat, tanpa pengadilan.",
+      "prompt": "Same character as the Mahasiswa reference image.\nSame character as the Kawan Gondrong reference image.\nSame character as the Kawan Perempuan reference image.\nMedium shot at eye level, a cramped student secretariat room at night, a fluorescent tube light flickering on the ceiling, walls covered with pinned sheets of paper with no readable text.\nMahasiswa and Kawan Gondrong bend over a newspaper spread on a desk, Mahasiswa's finger pressing on a small article, his jaw tight and eyes wide; Kawan Gondrong has taken off his glasses and rubs the bridge of his nose. Kawan Perempuan stands by a beige rotary-dial office telephone, receiver to her ear, the cord stretched, staring at the dark window, lips pressed thin as the call goes unanswered.\nThe fluorescent light stutters, papers on the wall lift slightly in a draft.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bluish grey, dull green and pale fluorescent white, historically accurate 1998 Indonesian student organization office.\nAvoid characters looking at the camera, readable text on the newspaper or papers, logos, mobile phones, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:46–0:54",
+      "narasi": "Kamu tetap berangkat ke Jakarta. Sidang Umum MPR sebentar lagi... dan kalian ingin suara kalian terdengar.",
+      "prompt": "Same character as the Mahasiswa reference image.\nMedium shot at eye level, inside a crowded economy-class train carriage at night in Java in 1998: worn vinyl bench seats, dim yellow ceiling lights, passengers dozing, a vendor with a basket of boiled eggs in the aisle.\nMahasiswa sits by the open window hugging his black backpack on his lap, chin resting on it, staring out at passing village lights, face lit in flickering orange, eyes thoughtful and tired.\nAcross from him, an old man in a peci cap and a sarong sleeps with his mouth open, a mother cradles a sleeping toddler. They are different people from Mahasiswa, with no flannel shirt.\nWind from the window tousles his hair, lights streak past outside.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dim yellow, bluish grey and passing orange lights, historically accurate 1990s Indonesian economy train interior.\nAvoid characters looking at the camera, modern train interiors, smartphones, readable signs, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:54–1:04",
+      "narasi": "Sepuluh Maret, MPR memilih Soeharto lagi. Untuk ketujuh kalinya. Kalian tidak berhenti. Di kampus-kampus, demonstrasi justru makin besar.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at eye level, a small roadside coffee stall (warung) in Jakarta in the evening, a bulky CRT television on a high shelf in the corner, a dark street with orange sodium lights outside.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. Both hands are wrapped around a small glass of black coffee on a wooden table, knuckles tight.\nOn the television, a blurry broadcast of a large formal assembly hall with rows of seated delegates, no readable text and no identifiable faces. A stall owner in a singlet wipes a glass without looking up; two drivers on the bench glance at the screen with blank, weary faces. They are different people from Mahasiswa.\nSteam rises from the coffee, a moth circles the bulb.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dull green, orange sodium light and dim blue television glow, historically accurate 1998 Jakarta roadside warung.\nAvoid characters looking at the camera, identifiable real politicians, readable text on screen, logos, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:04–1:15",
+      "narasi": "Kalian berpindah ke sebuah rumah susun di pinggir Jakarta. Lampu dimatikan... jendela ditutup koran. Setiap ketukan di pintu membuat napasmu tertahan.",
+      "prompt": "Same character as the Kawan Gondrong reference image.\nSame character as the Kawan Perempuan reference image.\nThe viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at eye level, inside a small bare unit of an old concrete public housing block in East Jakarta at night in 1998, lights off, the only light a dull orange glow from street lamps leaking through gaps in newspaper taped over the window, deep darkness in the upper part of the frame.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. Both hands press a sheet of newspaper flat against the window glass, the right hand holding a strip of tape.\nOn the floor behind, Kawan Gondrong sits frozen beside a manual typewriter and a stack of leaflets, head turned sharply toward the front door, glasses catching the faint light; Kawan Perempuan crouches beside him with a finger raised to her lips, eyes wide on the door.\nDust motes float in the slivers of light; the door's shadow seems to lean.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep night blue and concrete grey with thin slivers of orange street light, historically accurate 1990s Jakarta public housing flat interior.\nAvoid characters looking at the camera, readable text on the newspaper or leaflets, logos, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:15–1:25",
+      "narasi": "Lalu kabar itu datang. Teman-teman di tempat lain diambil orang tak dikenal... dan tak ada yang tahu dibawa ke mana.",
+      "prompt": "Same character as the Kawan Gondrong reference image.\nSame character as the Kawan Perempuan reference image.\nThe viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at eye level, the same dark housing flat, a little later in the night, a cheap wall clock barely visible on the concrete wall above.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. Both hands hold a small black pager close, its tiny screen glowing green with a short message rendered as unreadable dots, the thumb trembling over the button.\nBehind the pager, Kawan Perempuan has pressed a hand over her mouth, eyes glistening, shoulders drawn up; Kawan Gondrong stands, already stuffing papers into a bag, jaw clenched, glancing at the door.\nThe pager's green glow lights the hands from below; the clock's second hand blurs.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep night blue and concrete grey with the small green pager glow, historically accurate 1998 Indonesian pager and housing flat.\nAvoid characters looking at the camera, readable text on the pager, smartphones, weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:25–1:36",
+      "narasi": "Malam itu kamu mampir ke wartel. Angka di layar argo berjalan cepat. Sisa uang sakumu... untuk menelepon ibu di Klaten.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium close shot at eye level, inside a narrow glass-walled phone booth of a small wartel (public telephone kiosk) in Jakarta at night in 1998, pale green fluorescent light, the booth glass reflecting the street.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. The left hand holds a cream-colored push-button desk telephone receiver to the ear (out of frame); the right index finger presses the last digit on the keypad, a few crumpled small banknotes held under the other fingers.\nOn the booth wall, a small black billing display glows with red segmented digits as unreadable shapes. Through the glass, a sleepy kiosk keeper sits behind a counter under a clock. He is a different person from Mahasiswa.\nThe fluorescent tube hums, a moth taps the glass.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of pale fluorescent green, glossy cream and small red digits against night, historically accurate 1990s Indonesian wartel phone booth.\nAvoid characters looking at the camera, mobile phones, readable numbers or text, logos, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:46",
+      "narasi": "Ibumu bertanya kapan kamu pulang. Katanya, padi di sawah sebentar lagi panen. Kamu bilang... sebentar lagi.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nClose shot at eye level, the same wartel booth, quiet and still.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. The left hand grips the cream telephone receiver tightly against the ear, knuckles pale; the right hand rests flat on the misted booth glass, fingertips leaving faint marks.\nIn the misted glass, a faint reflection of a young man's face, eyes wet, lips pressed into a brave small smile. Beyond the glass, the empty night street, a single becak parked under a street lamp.\nThe mist slowly spreads around the fingertips.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of pale fluorescent green fading into night blue with one warm street lamp, historically accurate 1990s Indonesian wartel booth.\nAvoid other people, mobile phones, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:46–1:55",
+      "narasi": "Kamu kembali ke rumah susun. Pintunya sudah terbuka... kamar kalian porak-poranda. Kertas-kertas berserakan di lantai.",
+      "prompt": "The viewer is Mahasiswa: the hands and forearms in the foreground match the first-person panel of the Mahasiswa reference image.\nMedium shot at eye level from a dark concrete corridor of the housing block, looking through a half-open door into the flat at night.\nFirst-person point of view. Hands in the foreground: young warm light-brown hands of a 21-year-old student, slim fingers with a pen callus on the right middle finger and short bitten nails, a cheap black digital wristwatch on the left wrist, the cuffs of a faded blue-and-grey checked flannel shirt rolled to the forearm. The right hand pushes the door slowly further open, fingers splayed on the peeling paint; the left hand clutches the strap of the backpack.\nInside: drawers pulled out and overturned, leaflets and papers scattered across the floor, the manual typewriter tipped on its side, the newspaper torn half off the window letting in a slash of orange street light. No people inside.\nA single sheet of paper drifts down in the draft.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of concrete grey and night blue with a cold slash of orange light, historically accurate 1990s Jakarta public housing flat.\nAvoid people, blood, weapons, readable text on papers, logos, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:55–2:02",
+      "narasi": "Langkah-langkah berat menaiki tangga. Tak ada jalan keluar lain. Lalu seseorang memanggil namamu.",
+      "prompt": "Medium shot at eye level from inside the dark flat looking out through the open doorway to the concrete stairwell, a flickering fluorescent tube in the corridor ceiling.\nAt the top of the stairs, three or four silhouettes of men in dark plain jackets climb into view, their faces in complete shadow, no uniforms, no insignia, no visible weapons; the front figure has stopped and turned his shadowed head toward the doorway.\nThe flickering light throws their long shadows across the corridor floor toward the viewer; papers on the floor of the flat in the foreground.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of near-black, cold grey and stuttering pale fluorescent light, historically accurate 1990s Jakarta public housing stairwell.\nAvoid visible faces, uniforms, insignia, logos, flags, weapons, violence, characters looking at the camera, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:02–2:11",
+      "narasi": "Semuanya menjadi gelap. Kamu tak pernah sampai ke panen itu. Dan ibumu masih menunggu... teleponmu yang berikutnya.",
+      "prompt": "Medium shot at eye level, the front room of a modest village house in Klaten at night: a beige rotary telephone sitting silent on a small table covered with a white crocheted cloth, beside it a plate of rice under a woven bamboo food cover (tudung saji), a single warm yellow bulb overhead, a framed black-and-white photo on the wall too small to show any face, dark doorway behind.\nNo people. The telephone cord coils still; the bulb glows steadily; outside the open window, a dark rice field under a faint moon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm yellow lamplight against deep blue night, historically accurate 1990s rural Central Javanese house interior.\nAvoid people, faces, mobile phones, readable text, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki muda (20-an sampai 30-an) yang hangat dan agak serak, bukan voice dokumenter yang berat; voice paling menentukan.\n\n- Babak 1: setengah berbisik di hook, lalu hangat dan nostalgis di kilas balik Klaten.\n- Babak 2: gelisah, sedikit lebih cepat; datar dan pahit di \"Untuk ketujuh kalinya.\"\n- Babak 3: pelan dan tertahan, banyak bisikan.\n- Babak 4: lembut dan rapuh di telepon (adegan 11 hampir berbisik); tegang di tangga; kalimat terakhir pelan dan jernih, tanpa melodrama.",
+    "arahanBabak": {
+      "1": "setengah berbisik di hook, lalu hangat dan nostalgis di kilas balik Klaten.",
+      "2": "gelisah, sedikit lebih cepat; datar dan pahit di \"Untuk ketujuh kalinya.\"",
+      "3": "pelan dan tertahan, banyak bisikan.",
+      "4": "lembut dan rapuh di telepon (adegan 11 hampir berbisik); tegang di tangga; kalimat terakhir pelan dan jernih, tanpa melodrama."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Malam ini kamu pindah kos lagi. [nervous] Sudah beberapa teman tak bisa dihubungi. [whispers] Dan kamu mulai bertanya... siapa berikutnya...\n\n[calm] Beberapa bulan lalu, hidupmu sederhana. [calm] Anak petani dari Klaten, kuliah di Yogyakarta... hidup dari kiriman ibumu tiap bulan...\n\n[curious] Malam-malam kalian berdiskusi di kamar kos yang sempit. [serious] Novel Pramoedya kalian sampul koran... karena dilarang sejak 1981...\n\n[tense] Lalu krisis moneter datang. [sad] Rupiah anjlok, harga-harga melambung, kiriman ibumu tak cukup lagi. [angry] Kamu ikut turun ke jalan...",
+    "2": "[nervous] Awal Februari, kabar buruk berdatangan. [tense] Aktivis prodemokrasi hilang satu per satu... tanpa surat, tanpa pengadilan...\n\n[serious] Kamu tetap berangkat ke Jakarta. [tense] Sidang Umum MPR sebentar lagi... dan kalian ingin suara kalian terdengar...\n\n[sad] Sepuluh Maret, MPR memilih Soeharto lagi. [resigned] Untuk ketujuh kalinya. [serious] Kalian tidak berhenti. [tense] Di kampus-kampus, demonstrasi justru makin besar...",
+    "3": "[nervous] Kalian berpindah ke sebuah rumah susun di pinggir Jakarta. [whispers] Lampu dimatikan... jendela ditutup koran. [tense] Setiap ketukan di pintu membuat napasmu tertahan...\n\n[tense] Lalu kabar itu datang. [nervous] Teman-teman di tempat lain diambil orang tak dikenal... [whispers] dan tak ada yang tahu dibawa ke mana...",
+    "4": "[calm] Malam itu kamu mampir ke wartel. [calm] Angka di layar argo berjalan cepat. [sad] Sisa uang sakumu... untuk menelepon ibu di Klaten...\n\n[sad] [whispers] Ibumu bertanya kapan kamu pulang. [sad] Katanya, padi di sawah sebentar lagi panen. [sad] Kamu bilang... sebentar lagi...\n\n[nervous] Kamu kembali ke rumah susun. [tense] Pintunya sudah terbuka... kamar kalian porak-poranda. [nervous] Kertas-kertas berserakan di lantai...\n\n[tense] Langkah-langkah berat menaiki tangga. [nervous] Tak ada jalan keluar lain. [whispers] Lalu seseorang memanggil namamu...\n\n[sad] Semuanya menjadi gelap. [sad] Kamu tak pernah sampai ke panen itu. [serious] Dan ibumu masih menunggu... teleponmu yang berikutnya..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Kos dan kiriman",
+      "babakAwal": 1,
+      "babakAkhir": 1,
+      "durasiTarget": "0:45",
+      "suasana": "Hangat, nostalgis, sedikit cemas",
+      "style": "Late-1990s Indonesian acoustic folk instrumental, fingerpicked nylon-string guitar with a soft warm melody and faint tape hiss, nostalgic and gentle with a subtle undercurrent of unease, starts quiet and settles into a slow steady pattern, fades out at the end, about 45 seconds long (0:45), with a clear ending, 72 BPM, instrumental, no vocals",
+      "exclude": "vocals, drums, EDM, orchestra, gamelan"
+    },
+    {
+      "nomor": 2,
+      "nama": "Kota yang mengintai",
+      "babakAwal": 2,
+      "babakAkhir": 3,
+      "durasiTarget": "0:55",
+      "suasana": "Gelisah, berdenyut, makin sesak",
+      "style": "Tense minimal cinematic instrumental, low muted piano ostinato and a ticking clock-like rimshot pulse, dark ambient pad underneath, distant city hum texture, anxious and claustrophobic, builds slowly then drops to near silence, about 55 seconds long (0:55), with a clear ending, 84 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, heroic orchestra, cheerful"
+    },
+    {
+      "nomor": 3,
+      "nama": "Telepon terakhir",
+      "babakAwal": 4,
+      "babakAkhir": 4,
+      "durasiTarget": "0:55",
+      "suasana": "Rapuh, lalu menggantung dan hilang",
+      "style": "Sparse heartbreaking instrumental, solo felt piano with a few soft nylon-guitar notes, slow and fragile, a long silence in the middle, then a low drone rising and cutting off abruptly, the last piano note left hanging, about 55 seconds long (0:55), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, drums, orchestra swell, EDM"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Kipas angin berderit dan jangkrik",
+      "kataKunci": "old ceiling fan creak, night crickets",
+      "prompt": "Old electric fan creaking slowly in a small room, tropical night crickets outside"
+    },
+    {
+      "nomor": 2,
+      "adegan": 3,
+      "bunyi": "Bisik diskusi dan halaman dibalik",
+      "kataKunci": "quiet voices murmur, page turn",
+      "prompt": "Quiet indistinct group murmuring in a small room, paper pages turning"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Teriakan demo dan megafon",
+      "kataKunci": "protest crowd chanting, megaphone",
+      "prompt": "Outdoor crowd chanting rhythmically with a distant megaphone, no clear words"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Telepon kantor berdering tak diangkat",
+      "kataKunci": "rotary phone ringing",
+      "prompt": "Old landline phone ringing repeatedly on the other end, no answer"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Roda kereta berderak",
+      "kataKunci": "train interior clatter",
+      "prompt": "Old train wheels clattering rhythmically on rails, interior ambience at night"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Ketukan pintu jauh",
+      "kataKunci": "distant door knock",
+      "prompt": "Three slow knocks on a distant door in a concrete building corridor"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Bunyi pager",
+      "kataKunci": "pager beep 90s",
+      "prompt": "A short 1990s pager beep, two tones"
+    },
+    {
+      "nomor": 8,
+      "adegan": 10,
+      "bunyi": "Nada sambung telepon",
+      "kataKunci": "phone dial tone ringing, Indonesia",
+      "prompt": "Telephone ringback tone heard through a handset, small booth room tone"
+    },
+    {
+      "nomor": 9,
+      "adegan": 12,
+      "bunyi": "Pintu besi berderit",
+      "kataKunci": "creaking door",
+      "prompt": "A metal-framed door slowly creaking open in an empty corridor"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Langkah sepatu berat di tangga beton",
+      "kataKunci": "footsteps stairs boots",
+      "prompt": "Several heavy footsteps climbing concrete stairs, a fluorescent light buzzing"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Dari 23 orang yang diculik, sembilan kembali, satu tewas, tiga belas masih hilang.",
+    "sumber": "Data KontraS (via Wikipedia); Indoleft 2025",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mahasiswa yang Dihilangkan, 1998 (Part 1)",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Mahasiswa yang Dihilangkan, 1998\nAlternatif judul: POV: Kamu Aktivis 98 yang Tak Pernah Pulang (Part 1) / POV: Kamu Aktivis 98 di Balik Kisah Laut Bercerita",
+      "caption": "Sudah nonton Laut Bercerita? Ini peristiwa nyata yang mengilhaminya.\n\nSepanjang 1997–1998, 23 aktivis prodemokrasi diculik. Sembilan kembali, satu ditemukan tewas, dan 13 orang sampai hari ini tidak diketahui nasibnya. Tokoh dalam video ini fiktif, tapi peristiwanya nyata.\n\nKalau kamu di posisinya, kamu tetap berangkat ke Jakarta?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: data KontraS dan kesaksian penyintas (CNN Indonesia, 2016). Bersambung ke Part 2.\n\n#UlikSilam #lautbercerita #reformasi1998 #sejarahindonesia #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Mahasiswa yang Dihilangkan, 1998 (Part 1)",
+      "catatan": "",
+      "caption": "Sudah nonton Laut Bercerita? Ini peristiwa nyata yang mengilhaminya.\n\nSepanjang 1997–1998, 23 aktivis prodemokrasi diculik. Sembilan kembali, satu ditemukan tewas, dan 13 orang sampai hari ini tidak diketahui nasibnya. Tokoh dalam video ini fiktif, tapi peristiwanya nyata.\n\nKalau kamu di posisinya, kamu tetap berangkat ke Jakarta?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: data KontraS dan kesaksian penyintas (CNN Indonesia, 2016). Bersambung ke Part 2.\n\n#UlikSilam #lautbercerita #reformasi1998 #sejarahindonesia #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 14,
+    "jumlahBabak": 4,
+    "totalKata": 242,
+    "kataPerBabak": {
+      "1": 71,
+      "2": 49,
+      "3": 41,
+      "4": 81
+    },
+    "karakterPerBabak": {
+      "1": 588,
+      "2": 442,
+      "3": 332,
+      "4": 707
+    },
+    "jedaBunyi": 11,
+    "perkiraanDetik130": {
+      "narasi": 131.3,
+      "denganMerek": 136.3
+    },
+    "perkiraanDetik135": {
+      "narasi": 127.2,
+      "denganMerek": 132.2
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-19T18:58:41.949Z",
+  "judulDokumen": "Puputan Badung",
+  "judul": "POV: Kamu Abdi Raja Badung di Hari Puputan 1906",
+  "slug": "pov-puputan-badung",
+  "versi": "v2 · 2026-10-18",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Puri Denpasar, Badung",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Parekan (abdi laki-laki) Puri Denpasar, rakyat biasa, usia ±20-an, tokoh fiktif tanpa nama",
+  "ringkasan": {
+    "Judul": "POV: Kamu Abdi Raja Badung di Hari Puputan 1906",
+    "Slug": "pov-puputan-badung",
+    "Versi": "v2 · 2026-10-18",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Parekan (abdi laki-laki) Puri Denpasar, rakyat biasa, usia ±20-an, tokoh fiktif tanpa nama",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Raja Badung, Wayan)",
+    "Lapisan": "Sejarah",
+    "Latar": "Puri Denpasar, Badung",
+    "Premis": "Semalam kamu diperciki air suci untuk orang mati; pagi ini kamu berjalan di belakang rajanya menuju senapan Belanda.",
+    "Benang merah": "Makna ganda kata *puput* (selesai): orang yang sudah menerima tirta pengentas dianggap \"selesai\", entah hidup atau mati.",
+    "Alur": "Satu malam, satu pagi: siang 19 September sampai siang 20 September 1906",
+    "Akhir": "\"Selesai, tapi tidak selesai\"; pertanyaan \"Kalau kamu di sana, kamu ikut?\" dipindah ke caption",
+    "Dipilih karena": "Hook paling mengejutkan, akhir dengan pukulan balik, tokoh berulang sedikit, visual bervariasi (api, pura, iring-iringan putih, koin emas)",
+    "Asumsi": "Usia dan ketiadaan nama \"kamu\"; satu sahabat abdi fiktif (Wayan) yang tidak kembali; durasi default 3:00"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kain putih",
+      "suasana": "Hening, menunggu",
+      "palet": "Biru nila prasubuh, putih gading, kuning pelita",
+      "cahaya": "Satu pelita minyak dalam gelap biru"
+    },
+    {
+      "babak": 2,
+      "nama": "Pilihan",
+      "suasana": "Berat, ragu",
+      "palet": "Bata merah terakota, hijau daun pudar, abu asap",
+      "cahaya": "Matahari siang tertutup asap tipis"
+    },
+    {
+      "babak": 3,
+      "nama": "Malam air suci",
+      "suasana": "Sakral, getir",
+      "palet": "Hitam kecokelatan, jingga api, emas, putih",
+      "cahaya": "Api kremasi dan obor"
+    },
+    {
+      "babak": 4,
+      "nama": "Senjata dan iring-iringan",
+      "suasana": "Khidmat, tegang",
+      "palet": "Emas fajar, putih gading, bata merah",
+      "cahaya": "Matahari rendah yang hangat"
+    },
+    {
+      "babak": 5,
+      "nama": "Selesai, tapi tidak selesai",
+      "suasana": "Kacau lalu sunyi",
+      "palet": "Putih pucat, debu cokelat keabuan, jingga redup di akhir",
+      "cahaya": "Siang terik berdebu yang perlahan menghangat"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kain putih",
+    "2": "Pilihan",
+    "3": "Malam air suci",
+    "4": "Senjata dan iring-iringan",
+    "5": "Selesai, tapi tidak selesai"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kain putih",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" (kulit sawo matang) merapikan kain putih di dada, ikat kepala putih di pangkuan; halaman puri masih gelap, satu pelita minyak menyala hangat di lantai batu",
+      "narasiSuara": "[whispers] Semalam seorang pedanda memercikkan air suci orang mati ke kepalamu. [whispers] Pagi ini... kamu masih bernapas.",
+      "narasi": "Semalam seorang pedanda memercikkan air suci orang mati ke kepalamu. Pagi ini... kamu masih bernapas.",
+      "teksLayar": [
+        "Puri Denpasar, Badung",
+        "20 September 1906"
+      ],
+      "suara": "Subuh hening, jangkrik, napas pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kain putih",
+      "waktu": "0:08–0:18",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Halaman dalam Puri Denpasar di fajar biru: puluhan orang berpakaian putih duduk bersila tanpa suara; di tengah, Wayan (abdi sebaya) mengikat kain putih di pinggangnya, wajah tenang",
+      "narasiSuara": "[calm] Di sekelilingmu, ratusan orang memakai putih yang sama. [calm] Sahabatmu, Wayan, mengikat kainnya tanpa bicara. [sad] Semalam, tak ada yang tidur.",
+      "narasi": "Di sekelilingmu, ratusan orang memakai putih yang sama. Sahabatmu, Wayan, mengikat kainnya tanpa bicara. Semalam, tak ada yang tidur.",
+      "teksLayar": [],
+      "suara": "Kain digulung, ayam berkokok jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "Pilihan",
+      "waktu": "0:18–0:29",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Raja berdiri di bale beratap ijuk, berbusana sederhana dengan ikat kepala merah; rakyat bersila di hadapannya; asap tipis di cakrawala",
+      "narasiSuara": "[serious] Kemarin, raja berbicara di depan kalian. [tense] Pasukan Belanda makin dekat. [serious] Ia tidak memaksa siapa pun. [serious] Kalian bebas memilih: ikut bertempur, atau tidak.",
+      "narasi": "Kemarin, raja berbicara di depan kalian. Pasukan Belanda makin dekat. Ia tidak memaksa siapa pun. Kalian bebas memilih: ikut bertempur, atau tidak.",
+      "teksLayar": [
+        "Sehari sebelumnya"
+      ],
+      "suara": "Angin, dentum meriam sangat jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Pilihan",
+      "waktu": "0:29–0:39",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Pandangan ke sudut belakang puri: tangga bambu masih bersandar di tembok bata merah, jalan keluar yang sepi; tangan \"kamu\" menggenggam ujung kain",
+      "narasiSuara": "[calm] Sebagian perempuan dan anak-anak puri sudah mengungsi beberapa hari lalu. [hesitant] Kamu memandangi jalan keluar itu lama... lalu kamu tetap tinggal.",
+      "narasi": "Sebagian perempuan dan anak-anak puri sudah mengungsi beberapa hari lalu. Kamu memandangi jalan keluar itu lama... lalu kamu tetap tinggal.",
+      "teksLayar": [],
+      "suara": "Daun berdesir, langkah kaki menjauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 3,
+      "namaBabak": "Malam air suci",
+      "waktu": "0:39–0:49",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Api kremasi kecil di halaman dalam puri, tanpa menara bade, berbahan ikatan ijuk; tangan-tangan melempar mahkota emas penari dan bilah gamelan ke api; raja berdiri diam di sisi api, wajahnya diterangi jingga",
+      "narasiSuara": "[serious] Malam itu raja membakar jenazah kakaknya, raja sebelumnya. [sad] Tanpa menara, tanpa arak-arakan. [serious] Gamelan dan mahkota-mahkota emas ikut dilempar ke api.",
+      "narasi": "Malam itu raja membakar jenazah kakaknya, raja sebelumnya. Tanpa menara, tanpa arak-arakan. Gamelan dan mahkota-mahkota emas ikut dilempar ke api.",
+      "teksLayar": [
+        "Malam, 19 September 1906"
+      ],
+      "suara": "Api berderak, logam berdenting jatuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Malam air suci",
+      "waktu": "0:49–0:59",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" terulur ke arah api; Wayan di samping, separuh wajahnya diterangi api, berbisik ke arah \"kamu\"",
+      "narasiSuara": "[calm] Udara dingin menusuk tulang. [calm] Kamu merapat ke api bersama yang lain. [whispers] Wayan berbisik: tak ada yang boleh tersisa untuk Belanda.",
+      "narasi": "Udara dingin menusuk tulang. Kamu merapat ke api bersama yang lain. Wayan berbisik: tak ada yang boleh tersisa untuk Belanda.",
+      "teksLayar": [],
+      "suara": "Api, bisikan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Malam air suci",
+      "waktu": "0:59–1:11",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Seorang pedanda tua berbusana putih memercikkan tirta dengan untaian bunga dari bokor perak ke telapak-telapak tangan yang terangkat; \"kamu\" di barisan",
+      "narasiSuara": "[serious] Lalu seorang pedanda memercikkan tirta pengentas ke tangan-tangan yang terangkat. [serious] Air itu biasanya hanya untuk orang mati. [softly] Malam ini, kalian sudah puput. [softly] Selesai.",
+      "narasi": "Lalu seorang pedanda memercikkan tirta pengentas ke tangan-tangan yang terangkat. Air itu biasanya hanya untuk orang mati. Malam ini, kalian sudah puput. Selesai.",
+      "teksLayar": [],
+      "suara": "Genta pedanda berdenting, percikan air",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Malam air suci",
+      "waktu": "1:11–1:23",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Pura Satria di malam hari, candi bentar bata merah diterangi obor; orang-orang berpakaian putih bersembahyang; ketupat anyaman janur dibagikan dari tangan ke tangan",
+      "narasiSuara": "[calm] Kalian bersembahyang di Pura Satria, lalu di Pura Tambangan Badung. [calm] Setiap orang menerima sebutir ketupat. [sad] Kamu memakannya pelan... seolah itu yang terakhir.",
+      "narasi": "Kalian bersembahyang di Pura Satria, lalu di Pura Tambangan Badung. Setiap orang menerima sebutir ketupat. Kamu memakannya pelan... seolah itu yang terakhir.",
+      "teksLayar": [],
+      "suara": "Genta, obor berdesis, bisik doa",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "Senjata dan iring-iringan",
+      "waktu": "1:23–1:32",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Fajar keemasan: bedug kayu besar di bale panjang depan puri baru saja dipukul; di bawahnya kurungan bambu, seekor ayam jantan berkokok",
+      "narasiSuara": "[calm] Subuh. [calm] Bedug di depan puri berbunyi sekali, tanda jam pertama. [calm] Ayam-ayam aduan raja tetap berkokok, seperti hari biasa.",
+      "narasi": "Subuh. Bedug di depan puri berbunyi sekali, tanda jam pertama. Ayam-ayam aduan raja tetap berkokok, seperti hari biasa.",
+      "teksLayar": [
+        "Subuh, 20 September 1906"
+      ],
+      "suara": "Satu pukulan bedug, ayam berkokok",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Senjata dan iring-iringan",
+      "waktu": "1:32–1:40",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menerima tombak bermata besi dengan gagang kayu segar berwarna pucat; keris terselip di pinggang kain putih",
+      "narasiSuara": "[serious] Keris dibagikan kepada setiap orang. [serious] Kamu menerima tombak yang gagangnya baru ditebang pagi ini. [tense] Kayunya masih basah.",
+      "narasi": "Keris dibagikan kepada setiap orang. Kamu menerima tombak yang gagangnya baru ditebang pagi ini. Kayunya masih basah.",
+      "teksLayar": [],
+      "suara": "Kayu berderit di genggaman, bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Senjata dan iring-iringan",
+      "waktu": "1:40–1:50",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Para perempuan berkain putih, rambut terurai, berbaris; seorang lelaki tua menuang koin emas dari kantong kain ke telapak tangan mereka",
+      "narasiSuara": "[serious] Para perempuan menerima koin emas, untuk dilemparkan ke serdadu Belanda. [hesitant] Kamu tidak tahu apakah itu kutukan... atau bayaran.",
+      "narasi": "Para perempuan menerima koin emas, untuk dilemparkan ke serdadu Belanda. Kamu tidak tahu apakah itu kutukan... atau bayaran.",
+      "teksLayar": [],
+      "suara": "Koin berdenting",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Senjata dan iring-iringan",
+      "waktu": "1:50–2:01",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Dari belakang: iring-iringan putih keluar dari gerbang bata merah ke jalan tanah; di depan, pemangku perempuan membawa pedupaan berasap; raja di atas tandu dipikul empat orang; asap mengepul dari dalam puri",
+      "narasiSuara": "[serious] Menjelang siang, iring-iringan keluar dari gerbang. [serious] Seorang pemangku berjalan di depan membawa pedupaan. [tense] Di belakangnya, rajamu. [tense] Di belakang raja... kamu.",
+      "narasi": "Menjelang siang, iring-iringan keluar dari gerbang. Seorang pemangku berjalan di depan membawa pedupaan. Di belakangnya, rajamu. Di belakang raja... kamu.",
+      "teksLayar": [],
+      "suara": "Langkah kaki serempak, kulkul bertalu dari dalam tembok puri",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Selesai, tapi tidak selesai",
+      "waktu": "2:01–2:12",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari tengah barisan: jalan tanah lurus, di ujungnya barisan kecil serdadu berseragam gelap tertutup kepulan asap putih; ujung tombak \"kamu\" di tepi sepertiga tengah; punggung-punggung berkain putih di depan; tanpa darah",
+      "narasiSuara": "[tense] Lalu bunyi itu pecah. [tense] Kamu tidak tahu dari mana suara pertama datang. [tense] Orang-orang di depanmu berjatuhan... dan Wayan tidak lagi di sampingmu.",
+      "narasi": "Lalu bunyi itu pecah. Kamu tidak tahu dari mana suara pertama datang. Orang-orang di depanmu berjatuhan... dan Wayan tidak lagi di sampingmu.",
+      "teksLayar": [],
+      "suara": "Salvo senapan, teriakan, gema",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Selesai, tapi tidak selesai",
+      "waktu": "2:12–2:21",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Pandangan terbaring ke langit siang yang pucat berdebu; tepi kain putih dan sebilah keris tergeletak di tepi bingkai; tanpa darah dan tanpa jenazah yang terlihat jelas",
+      "narasiSuara": "[tense] Kamu jatuh. [tense] Tubuh seseorang rebah menindihmu. [quietly] Bunyi senapan terus datang... lalu perlahan, satu per satu, berhenti.",
+      "narasi": "Kamu jatuh. Tubuh seseorang rebah menindihmu. Bunyi senapan terus datang... lalu perlahan, satu per satu, berhenti.",
+      "teksLayar": [],
+      "suara": "Dengung telinga, tembakan makin jarang",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Selesai, tapi tidak selesai",
+      "waktu": "2:21–2:30",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Dari posisi terbaring: siluet serdadu membungkuk, wajahnya dalam bayangan, menatap ke bawah ke arah \"kamu\"; langit putih di belakangnya",
+      "narasiSuara": "[whispers] Sunyi. [whispers] Serdadu berjalan di antara tubuh-tubuh, memeriksa mata satu per satu. [whispers] Kamu berkedip.",
+      "narasi": "Sunyi. Serdadu berjalan di antara tubuh-tubuh, memeriksa mata satu per satu. Kamu berkedip.",
+      "teksLayar": [],
+      "suara": "Hening, langkah sepatu di tanah, napas tertahan",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Selesai, tapi tidak selesai",
+      "waktu": "2:30–2:39",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" menggenggam tanah dan kain putih berdebu; di kejauhan asap dari puri naik ke langit yang mulai menghangat jingga",
+      "narasiSuara": "[sad] Semalam, air suci itu menyatakanmu sudah puput. [sad] Selesai. [softly] Tapi siang ini, di antara mereka semua... kamu tidak selesai.",
+      "narasi": "Semalam, air suci itu menyatakanmu sudah puput. Selesai. Tapi siang ini, di antara mereka semua... kamu tidak selesai.",
+      "teksLayar": [],
+      "suara": "Angin, musik tipis kembali",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Raja Badung",
+      "prompt": "Character reference sheet of a young Balinese king around 30 years old, slim and composed, long black hair tied in a knot under a red head cloth (udeng), calm dignified face, plain white kamben cloth wrapped at the waist with a white sash, gold armbands, an ornate kris worn at the back. Shown in three full-body views: front, side and back, standing on a plain light neutral background, identical proportions and clothing in every view. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate Bali 1906. Avoid text labels, watermarks, caricatured faces, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Wayan",
+      "prompt": "Character reference sheet of a young Balinese commoner man around 20 years old, lean, warm brown skin, long black hair tied in a knot under a plain white head cloth, bare-chested, white kamben cloth tied up at the waist for movement, quiet steady expression. Shown in three full-body views: front, side and back, standing on a plain light neutral background, identical proportions and clothing in every view. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate Bali 1906. Avoid text labels, watermarks, caricatured faces, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Semalam seorang pedanda memercikkan air suci orang mati ke kepalamu. Pagi ini... kamu masih bernapas.",
+      "prompt": "First-person point of view of a young Balinese man sitting on the stone floor of a palace courtyard before dawn; his own warm brown hands smooth a plain white cloth across his chest at the lower edge of the middle third, a folded white head cloth rests in his lap. A single small clay oil lamp glows amber on the floor beside him; behind, red brick walls and a thatched pavilion roof fade into deep indigo darkness. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of deep indigo, ivory white and warm lamp amber, one warm light source in the dark. Historically accurate Bali 1906, Balinese palace architecture of red brick and carved paras stone. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:18",
+      "narasi": "Di sekelilingmu, ratusan orang memakai putih yang sama. Sahabatmu, Wayan, mengikat kainnya tanpa bicara. Semalam, tak ada yang tidur.",
+      "prompt": "Same character as the Wayan reference image. Inner courtyard of a Balinese palace at blue dawn: dozens of men and women dressed entirely in white sit cross-legged in silence on the ground; in the middle third, Wayan ties a white cloth around his waist with a calm face. Red brick walls, a carved stone gate and thatched pavilions behind, pale sky above. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of dawn blue, ivory white and terracotta brick, soft first light. Historically accurate Bali 1906, Balinese palace architecture of red brick, paras stone and alang-alang thatch. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:29",
+      "narasi": "Kemarin, raja berbicara di depan kalian. Pasukan Belanda makin dekat. Ia tidak memaksa siapa pun. Kalian bebas memilih: ikut bertempur, atau tidak.",
+      "prompt": "Same character as the Raja Badung reference image. Midday at a Balinese palace: the Raja Badung stands on the raised floor of an open pavilion with a thick thatched roof, wearing a plain white kamben and a red head cloth, speaking calmly to his people, who sit cross-legged on the ground before him and are seen from behind at the lower part of the frame. A thin haze of smoke drifts across the sky above the palace walls. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of terracotta brick, faded leaf green and smoky grey, muted hazy sunlight. Historically accurate Bali 1906, open Balinese bale pavilion on a carved stone base. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:29–0:39",
+      "narasi": "Sebagian perempuan dan anak-anak puri sudah mengungsi beberapa hari lalu. Kamu memandangi jalan keluar itu lama... lalu kamu tetap tinggal.",
+      "prompt": "First-person point of view looking toward the back corner of a Balinese palace compound: a bamboo ladder still leans against a tall red brick wall, an empty dirt path beyond it, a few fallen leaves on the ground; the viewer's own warm brown hand grips the edge of a white cloth at the lower edge of the middle third. Quiet and deserted. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of terracotta brick, faded green and dusty grey, hazy afternoon light. Historically accurate Bali 1906, red brick palace wall with carved stone coping. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:39–0:49",
+      "narasi": "Malam itu raja membakar jenazah kakaknya, raja sebelumnya. Tanpa menara, tanpa arak-arakan. Gamelan dan mahkota-mahkota emas ikut dilempar ke api.",
+      "prompt": "Same character as the Raja Badung reference image. Night in the inner courtyard of a Balinese palace: a small, simple cremation fire of bundled thatch burns on the ground, with no cremation tower and no visible remains; hands throw golden dance crowns and bronze gamelan keys into the flames; the Raja Badung stands to one side watching in silence, his face lit orange, wearing a white kamben and a red head cloth. Sparks rise into a black sky. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of brown-black darkness, fire orange, gold and white, firelight as the only light. Historically accurate Bali 1906, gold gambuh dance crowns and bronze gamelan keys. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, a visible corpse, people in the fire, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:49–0:59",
+      "narasi": "Udara dingin menusuk tulang. Kamu merapat ke api bersama yang lain. Wayan berbisik: tak ada yang boleh tersisa untuk Belanda.",
+      "prompt": "Same character as the Wayan reference image. First-person point of view crouching close to a small night fire in a palace courtyard; the viewer's own warm brown hands reach toward the warmth at the lower edge of the middle third; Wayan crouches beside him, half his face lit by the fire, leaning in to whisper. Other white-clad figures sit around the fire in the dark background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of brown-black darkness, fire orange and white, cold blue night at the edges. Historically accurate Bali 1906, white head cloths and kamben. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:59–1:11",
+      "narasi": "Lalu seorang pedanda memercikkan tirta pengentas ke tangan-tangan yang terangkat. Air itu biasanya hanya untuk orang mati. Malam ini, kalian sudah puput. Selesai.",
+      "prompt": "Night in a Balinese palace courtyard: an elderly Balinese Hindu high priest (pedanda) dressed in white, his long white hair tied in a topknot, dips a small bundle of flowers into a silver bowl and sprinkles holy water over a row of raised open palms; the people in the row wear white and are seen from behind and from the side, their faces not shown in detail. Torchlight and the glow of a dying fire. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of brown-black darkness, warm torch orange, white and silver. Historically accurate Bali 1906, silver bokor offering bowl and frangipani flowers. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:23",
+      "narasi": "Kalian bersembahyang di Pura Satria, lalu di Pura Tambangan Badung. Setiap orang menerima sebutir ketupat. Kamu memakannya pelan... seolah itu yang terakhir.",
+      "prompt": "Night at a Balinese temple: a red brick split gate (candi bentar) lit by flaming torches; people dressed in white kneel and pray with palms pressed together; in the middle third, small woven coconut-leaf rice packets (ketupat) are passed from hand to hand. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of brown-black darkness, torch orange, terracotta brick and white. Historically accurate Bali 1906, carved red brick temple gate and woven janur ketupat. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:23–1:32",
+      "narasi": "Subuh. Bedug di depan puri berbunyi sekali, tanda jam pertama. Ayam-ayam aduan raja tetap berkokok, seperti hari biasa.",
+      "prompt": "First-person point of view at golden dawn in front of a Balinese palace: a large wooden bedug drum hangs in a long open pavilion, its drumstick just lowered; beneath it a bamboo cage holds a fighting rooster crowing with its head raised. Warm low sunlight, long shadows, morning mist. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of golden dawn, ivory white and terracotta brick, low warm sun. Historically accurate Bali 1906, long thatched pavilion and woven bamboo rooster cage. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:32–1:40",
+      "narasi": "Keris dibagikan kepada setiap orang. Kamu menerima tombak yang gagangnya baru ditebang pagi ini. Kayunya masih basah.",
+      "prompt": "First-person point of view: the viewer's own warm brown hands receive a spear with an iron blade and a pale, freshly cut wooden shaft with bark marks still visible, held diagonally across the middle third; a kris with a carved wooden hilt is tucked into the white cloth at his waist. Other white-clad men receiving kris stand softly blurred in the background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of golden morning light, ivory white and pale raw wood. Historically accurate Bali 1906, Balinese kris and a simple iron-bladed spear. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:40–1:50",
+      "narasi": "Para perempuan menerima koin emas, untuk dilemparkan ke serdadu Belanda. Kamu tidak tahu apakah itu kutukan... atau bayaran.",
+      "prompt": "Morning in a Balinese palace courtyard: a row of women dressed in white, hair loose down their backs, white cloth wrapped up to the chest with white sashes, hold out cupped hands; an elderly man in white pours gold coins from a cloth pouch into their palms, the coins glinting in the middle third. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of golden morning light, ivory white, gold and terracotta brick. Historically accurate Bali 1906, Balinese women's kamben and sash. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, nudity, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:50–2:01",
+      "narasi": "Menjelang siang, iring-iringan keluar dari gerbang. Seorang pemangku berjalan di depan membawa pedupaan. Di belakangnya, rajamu. Di belakang raja... kamu.",
+      "prompt": "Same character as the Raja Badung reference image. Seen from behind: a long procession dressed entirely in white leaves a red brick palace gate onto a dirt road under late-morning light; at the front a woman temple priest carries a smoking incense burner; behind her the Raja Badung, in white garments with gold jewelry, is carried on an open palanquin by four bearers; men holding spears and kris follow; thick smoke rises from inside the palace walls behind them. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of golden-white late morning, ivory white, terracotta brick and grey smoke. Historically accurate Bali 1906, Balinese palace gate and a simple open wooden palanquin. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:01–2:12",
+      "narasi": "Lalu bunyi itu pecah. Kamu tidak tahu dari mana suara pertama datang. Orang-orang di depanmu berjatuhan... dan Wayan tidak lagi di sampingmu.",
+      "prompt": "First-person point of view from the middle of a white-clad procession on a straight dirt road: the backs of white-dressed people ahead; far down the road a small line of colonial soldiers in dark uniforms is half hidden in drifting white gunsmoke; the iron tip of the viewer's spear rises at the edge of the middle third. Harsh midday light, dust in the air. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of pale white, dusty brown-grey and dark uniform blue. Historically accurate Bali 1906, Dutch colonial infantry of the expedition in the far distance. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, falling bodies in close-up, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:12–2:21",
+      "narasi": "Kamu jatuh. Tubuh seseorang rebah menindihmu. Bunyi senapan terus datang... lalu perlahan, satu per satu, berhenti.",
+      "prompt": "First-person point of view lying on the ground, looking up at a pale, dusty midday sky with drifting smoke; at the lower edge of the middle third only the hem of a white cloth and a kris lying on the dirt are visible. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of pale white sky, dusty brown-grey and faint smoke. Historically accurate Bali 1906. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, any visible bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:21–2:30",
+      "narasi": "Sunyi. Serdadu berjalan di antara tubuh-tubuh, memeriksa mata satu per satu. Kamu berkedip.",
+      "prompt": "First-person point of view lying on the ground: the silhouette of a colonial soldier in a dark uniform bends over and looks down toward the viewer, his face in shadow, framed against a bright white sky in the middle third; empty space above him. Still and silent. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of bright white, dark uniform blue and dusty brown. Historically accurate Bali 1906, Dutch colonial infantry uniform. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, a pointed weapon, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:30–2:39",
+      "narasi": "Semalam, air suci itu menyatakanmu sudah puput. Selesai. Tapi siang ini, di antara mereka semua... kamu tidak selesai.",
+      "prompt": "First-person point of view: the viewer's own warm brown hand grips dry earth and a dusty white cloth at the lower edge of the middle third; in the distance, smoke rises from a Balinese palace into a sky slowly warming to dim orange, a single warm glow low on the horizon. Quiet aftermath. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette of dusty grey-brown, white and dim warm orange, one warm light source. Historically accurate Bali 1906, the silhouette of palace roofs and gates in the distance. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid blood, gore, wounds, visible stabbing or self-harm, piles of bodies, any visible bodies, caricatured faces, text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki muda yang hangat dan agak serak, bukan voice berat ala trailer; pilihan voice paling menentukan, karena tag tidak bisa memaksa voice yang lembut untuk terdengar tegang.\n\n- Babak 1: pelan, nyaris berbisik, banyak napas; jeda panjang di elipsis.\n- Babak 2: tenang dan berat, tempo sedang; tekan kata \"bebas memilih\".\n- Babak 3: khidmat, sedikit lebih lambat; berbisik di kalimat Wayan, lembut di \"sudah puput\".\n- Babak 4: datar dan teratur seperti langkah iring-iringan, menegang di \"Di belakang raja... kamu.\"\n- Babak 5: tegang dan sedikit lebih cepat di adegan 13, lalu melambat, berbisik di adegan 15, dan lembut di kalimat terakhir.\n- Setiap kalimat narasi diawali tag emosi Eleven v3; dengan Stability Robust tag kurang ditanggapi.",
+    "arahanBabak": {
+      "1": "pelan, nyaris berbisik, banyak napas; jeda panjang di elipsis.",
+      "2": "tenang dan berat, tempo sedang; tekan kata \"bebas memilih\".",
+      "3": "khidmat, sedikit lebih lambat; berbisik di kalimat Wayan, lembut di \"sudah puput\".",
+      "4": "datar dan teratur seperti langkah iring-iringan, menegang di \"Di belakang raja... kamu.\"",
+      "5": "tegang dan sedikit lebih cepat di adegan 13, lalu melambat, berbisik di adegan 15, dan lembut di kalimat terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[whispers] Semalam seorang pedanda memercikkan air suci orang mati ke kepalamu. [whispers] Pagi ini... kamu masih bernapas....\n\n[calm] Di sekelilingmu, ratusan orang memakai putih yang sama. [calm] Sahabatmu, Wayan, mengikat kainnya tanpa bicara. [sad] Semalam, tak ada yang tidur....",
+    "2": "[serious] Kemarin, raja berbicara di depan kalian. [tense] Pasukan Belanda makin dekat. [serious] Ia tidak memaksa siapa pun. [serious] Kalian bebas memilih: ikut bertempur, atau tidak....\n\n[calm] Sebagian perempuan dan anak-anak puri sudah mengungsi beberapa hari lalu. [hesitant] Kamu memandangi jalan keluar itu lama... lalu kamu tetap tinggal....",
+    "3": "[serious] Malam itu raja membakar jenazah kakaknya, raja sebelumnya. [sad] Tanpa menara, tanpa arak-arakan. [serious] Gamelan dan mahkota-mahkota emas ikut dilempar ke api....\n\n[calm] Udara dingin menusuk tulang. [calm] Kamu merapat ke api bersama yang lain. [whispers] Wayan berbisik: tak ada yang boleh tersisa untuk Belanda....\n\n[serious] Lalu seorang pedanda memercikkan tirta pengentas ke tangan-tangan yang terangkat. [serious] Air itu biasanya hanya untuk orang mati. [softly] Malam ini, kalian sudah puput. [softly] Selesai....\n\n[calm] Kalian bersembahyang di Pura Satria, lalu di Pura Tambangan Badung. [calm] Setiap orang menerima sebutir ketupat. [sad] Kamu memakannya pelan... seolah itu yang terakhir....",
+    "4": "[calm] Subuh. [calm] Bedug di depan puri berbunyi sekali, tanda jam pertama. [calm] Ayam-ayam aduan raja tetap berkokok, seperti hari biasa....\n\n[serious] Keris dibagikan kepada setiap orang. [serious] Kamu menerima tombak yang gagangnya baru ditebang pagi ini. [tense] Kayunya masih basah....\n\n[serious] Para perempuan menerima koin emas, untuk dilemparkan ke serdadu Belanda. [hesitant] Kamu tidak tahu apakah itu kutukan... atau bayaran....\n\n[serious] Menjelang siang, iring-iringan keluar dari gerbang. [serious] Seorang pemangku berjalan di depan membawa pedupaan. [tense] Di belakangnya, rajamu. [tense] Di belakang raja... kamu....",
+    "5": "[tense] Lalu bunyi itu pecah. [tense] Kamu tidak tahu dari mana suara pertama datang. [tense] Orang-orang di depanmu berjatuhan... dan Wayan tidak lagi di sampingmu....\n\n[tense] Kamu jatuh. [tense] Tubuh seseorang rebah menindihmu. [quietly] Bunyi senapan terus datang... lalu perlahan, satu per satu, berhenti....\n\n[whispers] Sunyi. [whispers] Serdadu berjalan di antara tubuh-tubuh, memeriksa mata satu per satu. [whispers] Kamu berkedip....\n\n[sad] Semalam, air suci itu menyatakanmu sudah puput. [sad] Selesai. [softly] Tapi siang ini, di antara mereka semua... kamu tidak selesai...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Subuh dan pilihan",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±40 dtk",
+      "suasana": "Hening, khidmat, ragu",
+      "style": "Sparse Balinese gender wayang metallophone and soft suling bamboo flute, slow and solemn, distant gong, low ambient drone, starts almost silent, gentle swells, fades out softly, 60 BPM, cinematic, no vocals",
+      "exclude": "drums, electric guitar, synth lead, vocals, choir"
+    },
+    {
+      "nomor": 2,
+      "nama": "Malam air suci",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "±45 dtk",
+      "suasana": "Sakral, getir, hangat api",
+      "style": "Sacred Balinese gamelan textures, soft interlocking gender metallophone patterns over low gong pulses, small temple bells, mournful and warm, slow build in intensity, fades at the end, 70 BPM, cinematic, no vocals",
+      "exclude": "EDM, trap beat, vocals, choir, electric guitar"
+    },
+    {
+      "nomor": 3,
+      "nama": "Iring-iringan",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "±80 dtk",
+      "suasana": "Langkah teratur, menegang ke puncak, lalu sunyi dan satu frasa rapuh",
+      "style": "Tense cinematic score with Balinese kendang hand drums and a wooden kulkul slit drum pulse, low strings and deep gong, steady procession rhythm rising to a peak, then sudden silence, ending with one fragile suling bamboo flute phrase, 84 BPM, no vocals",
+      "exclude": "EDM, rock drums, synth bass, vocals, choir"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Jangkrik subuh dan napas pelan",
+      "kataKunci": "crickets night ambience, soft breathing",
+      "prompt": "Quiet tropical pre-dawn with distant crickets and one person's slow breathing close to the mic"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Kain digulung, ayam berkokok jauh",
+      "kataKunci": "cloth rustle, distant rooster",
+      "prompt": "Soft cotton cloth being folded and tied, a rooster crowing far away at dawn"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Dentum meriam sangat jauh",
+      "kataKunci": "distant cannon, far artillery rumble",
+      "prompt": "Very distant muffled cannon booms rolling over a quiet village at midday"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Api berderak, logam berdenting jatuh",
+      "kataKunci": "bonfire crackle, metal clatter",
+      "prompt": "Crackling bonfire at night with small metal ornaments clinking as they drop into the fire"
+    },
+    {
+      "nomor": 5,
+      "adegan": 7,
+      "bunyi": "Genta pendeta dan percikan air",
+      "kataKunci": "hand bell ringing, water sprinkle",
+      "prompt": "A small brass hand bell ringing steadily while droplets of water are flicked from flowers"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Obor berdesis, bisik doa",
+      "kataKunci": "torch flame hiss, crowd murmur",
+      "prompt": "Burning torches hissing in a temple courtyard at night with a soft murmur of a praying crowd"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Satu pukulan bedug, ayam berkokok",
+      "kataKunci": "big drum single hit, rooster crow",
+      "prompt": "One deep hit on a large wooden drum, then a rooster crowing loudly nearby at dawn"
+    },
+    {
+      "nomor": 8,
+      "adegan": 10,
+      "bunyi": "Kayu berderit di genggaman",
+      "kataKunci": "wood creak, grip",
+      "prompt": "A fresh wooden spear shaft creaking as hands grip it tightly"
+    },
+    {
+      "nomor": 9,
+      "adegan": 11,
+      "bunyi": "Koin berdenting",
+      "kataKunci": "coins clinking, coins pouring",
+      "prompt": "Gold coins poured from a cloth pouch into cupped hands, clinking softly"
+    },
+    {
+      "nomor": 10,
+      "adegan": 12,
+      "bunyi": "Langkah kaki serempak dan kulkul bertalu",
+      "kataKunci": "crowd footsteps dirt road, wooden slit drum",
+      "prompt": "Many bare feet walking slowly in rhythm on a dirt road while a wooden slit drum beats fast behind walls"
+    },
+    {
+      "nomor": 11,
+      "adegan": 13,
+      "bunyi": "Salvo senapan dan teriakan",
+      "kataKunci": "rifle volley, distant shouting",
+      "prompt": "A volley of old rifles fired together, echoing, with distant shouting, no screams close to the mic"
+    },
+    {
+      "nomor": 12,
+      "adegan": 14,
+      "bunyi": "Dengung telinga, tembakan makin jarang",
+      "kataKunci": "ear ringing tinnitus, sporadic gunshots",
+      "prompt": "High ear-ringing tone over muffled sporadic rifle shots that slowly stop"
+    },
+    {
+      "nomor": 13,
+      "adegan": 15,
+      "bunyi": "Langkah sepatu di tanah, napas tertahan",
+      "kataKunci": "boots footsteps dirt, held breath",
+      "prompt": "Slow heavy boot steps on dry earth approaching, a held breath, total silence around"
+    },
+    {
+      "nomor": 14,
+      "adegan": 16,
+      "bunyi": "Angin siang",
+      "kataKunci": "gentle wind ambience",
+      "prompt": "Gentle warm afternoon wind over an empty open field"
+    }
+  ],
+  "adeganHening": [
+    15
+  ],
+  "ulikan": {
+    "teks": "Angka resmi: 400 korban. Penerjemah Bali di pasukan Belanda menghitung sekitar 1.100.",
+    "sumber": "Buku harian I Gusti Putu Djlantik (1906), dikutip Helen Creese (2006)",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Abdi Raja Badung di Hari Puputan 1906",
+      "catatan": "Alternatif judul: POV: Kamu Abdi Puri Denpasar, 20 September 1906 / POV: Kamu Diperciki Air Suci Orang Mati, Bali 1906",
+      "caption": "Semalam kamu diperciki air suci untuk orang mati. Pagi ini, kamu berjalan di belakang rajamu.\n\n20 September 1906, Puri Denpasar. Raja Badung dan ratusan pengikutnya keluar berpakaian putih menghadapi pasukan Belanda. Catatan Belanda dan tuturan keluarga puri berbeda soal siapa yang memulai kekerasan. Raja yang gugur hari itu juga dikenal sebagai sastrawan, penulis sejumlah geguritan.\n\nKalau raja membebaskanmu memilih, kamu ikut berjalan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Helen Creese (2006), H.M. van Weede (1908).\n\n#UlikSilam #puputanbadung #sejarahindonesia #bali"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Abdi Raja Badung di Hari Puputan 1906",
+      "catatan": "",
+      "caption": "Semalam kamu diperciki air suci untuk orang mati. Pagi ini, kamu berjalan di belakang rajamu.\n\n20 September 1906, Puri Denpasar. Raja Badung dan ratusan pengikutnya keluar berpakaian putih menghadapi pasukan Belanda. Peristiwa ini dikenal sebagai Puputan Badung. Raja yang gugur hari itu juga dikenal sebagai sastrawan, penulis sejumlah geguritan.\n\nKalau raja membebaskanmu memilih, kamu ikut berjalan?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Helen Creese (2006), H.M. van Weede (1908).\n\n#UlikSilam #sejarahindonesia #puputanbadung #bali #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 303,
+    "kataPerBabak": {
+      "1": 34,
+      "2": 42,
+      "3": 85,
+      "4": 73,
+      "5": 69
+    },
+    "karakterPerBabak": {
+      "1": 284,
+      "2": 350,
+      "3": 717,
+      "4": 638,
+      "5": 587
+    },
+    "jedaBunyi": 8,
+    "perkiraanDetik130": {
+      "narasi": 159.7,
+      "denganMerek": 164.7
+    },
+    "perkiraanDetik135": {
+      "narasi": 154.6,
+      "denganMerek": 159.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-24T10:28:16.951Z",
+  "judulDokumen": "Jamaah Abah Guru Sekumpul",
+  "judul": "POV: Kamu Jamaah Abah Guru Sekumpul, dari Teras Rumah sampai Lautan Manusia",
+  "slug": "pov-jamaah-sekumpul",
+  "versi": "v8 · 2026-10-24",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Martapura, Kalimantan Selatan",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Pedagang kecil Martapura (fiktif, laki-laki, lahir sekitar 1950); muda di Babak 1, beruban di Babak 3, tua dituntun cucu di epilog; tampil lewat tangan (bidikan A)",
+  "ringkasan": {
+    "Judul": "POV: Kamu Jamaah Abah Guru Sekumpul, dari Teras Rumah sampai Lautan Manusia",
+    "Slug": "pov-jamaah-sekumpul",
+    "Versi": "v8 · 2026-10-24",
+    "Durasi": "3:00 maksimum, target ±2:50 (perkiraan naskah 2:49)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Pedagang kecil Martapura (fiktif, laki-laki, lahir sekitar 1950); muda di Babak 1, beruban di Babak 3, tua dituntun cucu di epilog; tampil lewat tangan (bidikan A)",
+    "Lapisan": "Sejarah",
+    "Latar": "Martapura, Kalimantan Selatan",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Abah Guru Sekumpul, Jamaah)",
+    "Tokoh pendukung": "KH Muhammad Zaini bin Abdul Ghani al-Banjari (Abah Guru Sekumpul, nyata; digambarkan dari foto terdokumentasi, tanpa dramatisasi batin); cucu \"kamu\" (fiktif, epilog); jamaah figuran beragam usia dan status",
+    "Nada": "Hangat dan sederhana di awal, khidmat di tengah, duka tertahan di Babak 5, haru dan harapan di epilog; tidak menggurui, tidak mengkultuskan",
+    "Akhir": "Epilog haul ke-15 (2020); kalimat terakhir \"kini kamu tak bisa lagi menghitungnya\"; pertanyaan ke penonton di caption",
+    "Hindari": "Dramatisasi batin atau ucapan Abah Guru yang tidak terdokumentasi; karamah disajikan sebagai fakta; anggota keluarga beliau yang masih hidup dalam adegan rekaan; tokoh politik atau artis di haul; wajah karikatur; kesedihan berlebihan",
+    "Generator": "Gemini (ilustrasi), Suno (musik), ElevenLabs v3 (narator), Remotion (perakit)",
+    "Asumsi": "\"Kamu\" pedagang pasar laki-laki dan tahun lahirnya; jumlah jamaah awal (\"belasan\") dan anak \"kamu\" di Babak 2 rekaan; pengeras suara langgar menyebut nama di adegan 12 adalah dramatisasi; cucu di epilog rekaan",
+    "Benang merah": "Satu orang biasa di tepi tikar yang sama selama tiga dekade: teras rumah, Musholla Darul Aman, ar-Raudhah, lalu lautan manusia",
+    "Dipilih karena": "Hook jelas (belasan orang vs dua juta), visual beragam lintas dekade, hanya dua tokoh berulang, fakta tersedia, posisi orang biasa menjaga rasa hormat kepada tokoh yang masih sangat dicintai"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Teras rumah di Keraton",
+      "suasana": "Hangat, sederhana, akrab",
+      "palet": "Cokelat kayu, krem, hijau lumut, jingga senja",
+      "cahaya": "Matahari rendah keemasan, lalu lampu minyak di adegan 3"
+    },
+    {
+      "babak": 2,
+      "nama": "Musholla Darul Aman",
+      "suasana": "Ramai, bersahaja",
+      "palet": "Cokelat tua, putih kapur, kuning petromaks, biru malam",
+      "cahaya": "Petromaks dan neon kuning, langit malam"
+    },
+    {
+      "babak": 3,
+      "nama": "Ar-Raudhah, Sekumpul",
+      "suasana": "Khidmat, megah tetapi hangat",
+      "palet": "Putih bangunan, hijau umbul-umbul, emas lampu, biru malam",
+      "cahaya": "Pagi cerah lembut di adegan 7, lampu kuning malam di 8–9"
+    },
+    {
+      "babak": 4,
+      "nama": "Guru yang sakit",
+      "suasana": "Sunyi, berat",
+      "palet": "Cokelat pudar, abu-abu hangat, putih kusam",
+      "cahaya": "Pagi pucat di pasar, lampu serambi temaram"
+    },
+    {
+      "babak": 5,
+      "nama": "Subuh 10 Agustus 2005",
+      "suasana": "Duka tertahan",
+      "palet": "Biru subuh gelap, abu-abu, satu titik lampu kuning",
+      "cahaya": "Subuh biru, pagi pucat berkabut"
+    },
+    {
+      "babak": 6,
+      "nama": "Haul (epilog)",
+      "suasana": "Haru, hangat, penuh harapan",
+      "palet": "Emas lampu, putih kopiah dan koko, ungu senja, biru malam",
+      "cahaya": "Senja ungu-jingga, lalu ribuan lampu kuning"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Teras rumah di Keraton",
+    "2": "Musholla Darul Aman",
+    "3": "Ar-Raudhah, Sekumpul",
+    "4": "Guru yang sakit",
+    "5": "Subuh 10 Agustus 2005",
+    "6": "Haul (epilog)"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Teras rumah di Keraton",
+      "waktu": "0:01–0:13",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Sore keemasan di jalan kampung Keraton, Martapura, sekitar 1970. Tangan muda \"kamu\" menjinjing keranjang rotan kosong (tangan kanan), tangan kiri menyibak pagar bambu rendah. Di teras rumah panggung kayu sederhana, belasan laki-laki berkopiah dan sarung duduk rapat di atas tikar purun, menghadap ke dalam; wajah mereka tenang, sebagian menunduk menyimak. Lampu minyak belum dinyalakan, cahaya datang dari matahari rendah.",
+      "narasiSuara": "[calm] Kamu pedagang muda di Martapura, sekitar 1970. [curious] Di sebuah teras, belasan orang duduk di tikar. [serious] Kelak, jutaan orang datang karena guru di teras itu.",
+      "narasi": "Kamu pedagang muda di Martapura, sekitar 1970. Di sebuah teras, belasan orang duduk di tikar. Kelak, jutaan orang datang karena guru di teras itu.",
+      "teksLayar": [
+        "Keraton, Martapura, sekitar 1970."
+      ],
+      "suara": "Suasana kampung sore: ayam, langkah di tanah, suara pengajian samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Teras rumah di Keraton",
+      "waktu": "0:13–0:23",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Medium shot dari ketinggian duduk, Abah Guru Sekumpul muda (sekitar 28 tahun) duduk bersila di teras dengan kitab terbuka di hadapannya, kopiah putih rajut dan baju putih polos tanpa kerah, tanpa kacamata; tangan kanan menandai baris kitab, kepala sedikit miring, tersenyum lembut ke arah jamaah di sisi kiri bingkai (bukan ke kamera). Jamaah terlihat dari belakang di latar depan, bahu dan kopiah.",
+      "narasiSuara": "[calm] Yang mengajar seorang guru muda, usianya belum tiga puluh. [calm] Suaranya pelan, dan senyumnya tidak pernah lepas. [curious] Orang-orang memanggilnya Guru Ijai.",
+      "narasi": "Yang mengajar seorang guru muda, usianya belum tiga puluh. Suaranya pelan, dan senyumnya tidak pernah lepas. Orang-orang memanggilnya Guru Ijai.",
+      "teksLayar": [],
+      "suara": "Suara mengaji pelan, lembar kitab dibalik",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Teras rumah di Keraton",
+      "waktu": "0:23–0:30",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Dari posisi duduk di tepi tikar: tangan \"kamu\" melipat ujung sarung di lutut (kedua tangan), keranjang di samping. Pandangan ke deretan punggung jamaah dan sosok Guru kecil di ujung teras. Lampu minyak kini menyala, langit jingga menjadi biru tua.",
+      "narasiSuara": "[calm] Kamu ikut duduk di tepi tikar. [calm] Pekan depan kamu datang lagi. [calm] Begitu seterusnya, bertahun-tahun.",
+      "narasi": "Kamu ikut duduk di tepi tikar. Pekan depan kamu datang lagi. Begitu seterusnya, bertahun-tahun.",
+      "teksLayar": [],
+      "suara": "Jangkrik, lampu minyak, suara mengaji",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Musholla Darul Aman",
+      "waktu": "0:30–0:41",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Wide shot malam, musholla kayu sederhana bertingkap, Musholla Darul Aman di Jalan Sasaran, Keraton; ratusan jamaah meluber sampai halaman dan jalan tanah, duduk di tikar yang digelar bersambung, sebagian berdiri di tepi. Lampu neon dan lampu petromaks. Sosok Guru kecil di serambi, menghadap jamaah.",
+      "narasiSuara": "[curious] Suatu malam, kamu tak kebagian tempat di tikar. [calm] Pengajian pindah ke Musholla Darul Aman, masih di Keraton. [calm] Jamaahnya kini ratusan.",
+      "narasi": "Suatu malam, kamu tak kebagian tempat di tikar. Pengajian pindah ke Musholla Darul Aman, masih di Keraton. Jamaahnya kini ratusan.",
+      "teksLayar": [
+        "Musholla Darul Aman, Keraton, tahun 1980-an."
+      ],
+      "suara": "Gumam jamaah, pengeras suara kecil berdengung",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Musholla Darul Aman",
+      "waktu": "0:41–0:48",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Dari posisi duduk di halaman musholla: tangan kiri \"kamu\" (lebih berisi dari Babak 1) menopang kepala anak laki-laki kecil berkopiah yang tertidur di pangkuan, tangan kanan memegang buku kecil. Di depan, punggung-punggung jamaah dan cahaya lampu musholla.",
+      "narasiSuara": "[calm] Kamu datang membawa anakmu yang masih kecil. [calm] Ia tertidur di pangkuanmu sebelum pengajian selesai.",
+      "narasi": "Kamu datang membawa anakmu yang masih kecil. Ia tertidur di pangkuanmu sebelum pengajian selesai.",
+      "teksLayar": [],
+      "suara": "Napas anak tidur, suara pengajian di pengeras suara",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Musholla Darul Aman",
+      "waktu": "0:48–1:01",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Siang di pasar Martapura: dua pedagang laki-laki paruh baya berbincang di balik tumpukan dagangan, satu menunjuk ke arah luar kota; di latar belakang, lewat celah atap pasar, terlihat hamparan tanah lapang bersemak dan pohon karamunting berbunga ungu di tepi kota. Ekspresi ragu, alis terangkat. Keduanya bukan \"kamu\".",
+      "narasiSuara": "[curious] Lalu kabar dari mulut ke mulut: Guru akan pindah ke Sekumpul. [curious] Tanah sepi di pinggir kota, penuh semak dan karamunting. [curious] Siapa yang mau datang ke sana?",
+      "narasi": "Lalu kabar dari mulut ke mulut: Guru akan pindah ke Sekumpul. Tanah sepi di pinggir kota, penuh semak dan karamunting. Siapa yang mau datang ke sana?",
+      "teksLayar": [],
+      "suara": "Riuh pasar siang, tawar-menawar",
+      "hening": false,
+      "epilog": false,
+      "kata": 26
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Ar-Raudhah, Sekumpul",
+      "waktu": "1:01–1:11",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Wide shot dari sudut rendah, Musholla Ar-Raudhah yang baru di Sekumpul pagi hari, bangunan besar beratap tinggi, bendera dan umbul-umbul; jamaah berdatangan dari segala arah berjalan kaki, membawa tikar dan anak. Abah Guru (sekitar 48 tahun, sorban putih) berdiri di serambi menyambut, tangan terangkat memberi salam, tersenyum ke arah kerumunan.",
+      "narasiSuara": "[calm] Ternyata semua orang. [serious] Dua belas Januari 1990, Musholla Ar-Raudhah diresmikan. [calm] Namanya diambil dari taman di dekat makam Nabi, di Madinah.",
+      "narasi": "Ternyata semua orang. Dua belas Januari 1990, Musholla Ar-Raudhah diresmikan. Namanya diambil dari taman di dekat makam Nabi, di Madinah.",
+      "teksLayar": [
+        "Sekumpul, 12 Januari 1990."
+      ],
+      "suara": "Salawat dari pengeras suara, langkah ribuan orang",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Ar-Raudhah, Sekumpul",
+      "waktu": "1:11–1:22",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Medium-wide dari atas halaman ar-Raudhah malam hari: ribuan jamaah memenuhi halaman berlantai, cahaya lampu kuning; di tepi, beberapa truk dan mobil dengan pelat luar daerah, keluarga menurunkan bungkusan dan kasur gulung, seorang ibu menggendong anak menatap bangunan musholla.",
+      "narasiSuara": "[calm] Ribuan orang memenuhi halaman. [calm] Ada yang datang dari Kalimantan Timur dan Tengah. [calm] Sebagian pindah rumah ke Sekumpul, agar lebih dekat dengan Guru.",
+      "narasi": "Ribuan orang memenuhi halaman. Ada yang datang dari Kalimantan Timur dan Tengah. Sebagian pindah rumah ke Sekumpul, agar lebih dekat dengan Guru.",
+      "teksLayar": [],
+      "suara": "Mesin truk mematikan, barang diturunkan, salawat",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Ar-Raudhah, Sekumpul",
+      "waktu": "1:22–1:33",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari posisi duduk di halaman ar-Raudhah: tangan \"kamu\" kini berkeriput tipis dengan uban di lengan, tangan kanan memegang tasbih, tangan kiri di lutut. Di samping, anak laki-laki remaja (belasan tahun) duduk sendiri menyimak, tidak lagi bersandar. Jauh di serambi, sosok Guru duduk mengajar, kecil tetapi terang oleh lampu.",
+      "narasiSuara": "[calm] Rambutmu mulai memutih. [calm] Anakmu kini duduk sendiri, tak lagi di pangkuanmu. [calm] Dan Guru masih di tempat yang sama, dengan senyum yang sama.",
+      "narasi": "Rambutmu mulai memutih. Anakmu kini duduk sendiri, tak lagi di pangkuanmu. Dan Guru masih di tempat yang sama, dengan senyum yang sama.",
+      "teksLayar": [],
+      "suara": "Suara pengajian lewat pengeras suara, tasbih bergesek",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Guru yang sakit",
+      "waktu": "1:33–1:43",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Pagi di lapak pasar: tangan \"kamu\" (tua, kulit kendur, cincin perak) berhenti menata dagangan; tangan kanan memegang timbangan, tangan kiri terdiam. Seorang pedagang perempuan tua di lapak sebelah membungkuk mendekat, menatap \"kamu\" (menatap penonton) dengan alis bertaut dan mulut setengah terbuka, menyampaikan kabar.",
+      "narasiSuara": "[serious] Kamu mendengar sesuatu yang tak ingin kamu percaya. [sad] Guru sakit, bertahun-tahun. [sad] Ginjalnya bermasalah; kabarnya, setiap pekan beliau harus cuci darah.",
+      "narasi": "Kamu mendengar sesuatu yang tak ingin kamu percaya. Guru sakit, bertahun-tahun. Ginjalnya bermasalah; kabarnya, setiap pekan beliau harus cuci darah.",
+      "teksLayar": [
+        "Bertahun-tahun kemudian."
+      ],
+      "suara": "Pasar pagi yang menjadi senyap, bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Guru yang sakit",
+      "waktu": "1:43–1:54",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Medium shot dari sisi jamaah, serambi ar-Raudhah malam: Abah Guru (usia 60-an, wajah lebih kurus, sorban putih) duduk setengah berbaring bersandar bantal, selimut di kaki, kitab dipegang murid di sampingnya; wajahnya letih tetapi tersenyum, pandangan ke arah jamaah. Dua murid dewasa di sisinya menunduk, salah satu memegang segelas air. Jamaah di latar depan terdiam.",
+      "narasiSuara": "[serious] Tapi setiap pengajian, beliau tetap ada. [serious] Kadang duduk, kadang sambil berbaring. [tense] Kamu menatapnya dari jauh, dan tak berani berpikir sampai kapan.",
+      "narasi": "Tapi setiap pengajian, beliau tetap ada. Kadang duduk, kadang sambil berbaring. Kamu menatapnya dari jauh, dan tak berani berpikir sampai kapan.",
+      "teksLayar": [],
+      "suara": "Suara mengaji yang lebih pelan, ribuan orang hening",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 12,
+      "babak": 5,
+      "namaBabak": "Subuh 10 Agustus 2005",
+      "waktu": "1:54–2:02",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Subuh biru gelap di depan rumah kayu \"kamu\": tangan \"kamu\" memegang gagang pintu yang setengah terbuka (kanan), tangan kiri memegang sajadah terlipat. Di seberang jalan, menara pengeras suara langgar kecil dengan lampu menyala; dua tetangga berhenti di jalan, kepala mendongak ke arah pengeras suara, bahu kaku.",
+      "narasiSuara": "[tense] Subuh itu, pengeras suara langgar di kampungmu menyebut sebuah nama. [sad] Kamu sudah tahu sebelum kalimatnya selesai.",
+      "narasi": "Subuh itu, pengeras suara langgar di kampungmu menyebut sebuah nama. Kamu sudah tahu sebelum kalimatnya selesai.",
+      "teksLayar": [
+        "Rabu, 10 Agustus 2005."
+      ],
+      "suara": "Pengeras suara berdengung, suara pengumuman samar tanpa kata jelas, ayam subuh",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Subuh 10 Agustus 2005",
+      "waktu": "2:02–2:10",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Pagi, jalan utama Martapura: rolling door toko diturunkan oleh pemilik, seorang guru sekolah mengunci gerbang sekolah yang kosong, pedagang pasar menutup lapak dengan terpal; semua bergerak ke arah yang sama, ke kanan bingkai, wajah murung, tanpa saling bicara. Tidak ada \"kamu\" di bingkai.",
+      "narasiSuara": "[sad] Kamu keluar rumah. [sad] Tetanggamu juga. [serious] Kantor tutup, sekolah libur, pedagang menutup lapak, tanpa ada yang memerintah.",
+      "narasi": "Kamu keluar rumah. Tetanggamu juga. Kantor tutup, sekolah libur, pedagang menutup lapak, tanpa ada yang memerintah.",
+      "teksLayar": [],
+      "suara": "Rolling door, gembok, langkah banyak orang, tanpa musik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Subuh 10 Agustus 2005",
+      "waktu": "2:10–2:23",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Dari belakang \"kamu\" (tua, wajah tak terlihat), yang berdiri diam di tengah jalan menuju Sekumpul dengan bahu sedikit membungkuk dan tasbih di tangan kanan. Lautan orang mengalir melewatinya di kiri dan kanan, berjalan menjauh sampai cakrawala, semua membelakangi penonton, kendaraan terhenti di antara orang, kubah ar-Raudhah samar di kejauhan. Cahaya pagi pucat.",
+      "narasiSuara": "[sad] [whispers] Tanpa dikomando, semua berjalan ke Sekumpul. [sad] Jalan-jalan macet oleh lautan manusia. [sad] Kamu berdiri di antara mereka... dan tak mengatakan apa-apa.",
+      "narasi": "Tanpa dikomando, semua berjalan ke Sekumpul. Jalan-jalan macet oleh lautan manusia. Kamu berdiri di antara mereka... dan tak mengatakan apa-apa.",
+      "teksLayar": [],
+      "suara": "Hampir sunyi: langkah kaki, salawat sangat jauh, musik diturunkan",
+      "hening": true,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Haul (epilog)",
+      "waktu": "2:23–2:34",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Senja menjelang magrib di Sekumpul, 2020: tangan \"kamu\" (sangat tua, bertongkat di tangan kanan) dipegang erat oleh tangan muda cucu laki-laki (kiri) yang berjalan setengah langkah di depan, menoleh ke \"kamu\" (menatap penonton) dengan senyum menenangkan. Di belakangnya, jalan ke ar-Raudhah dipenuhi manusia sejauh mata memandang, tenda-tenda relawan, lampu mulai menyala.",
+      "narasiSuara": "[calm] Lima belas tahun kemudian, cucumu menuntunmu kembali ke Sekumpul. [curious] Kamu hampir tak mengenali jalan itu. [calm] Lebih dari dua juta orang datang hari ini.",
+      "narasi": "Lima belas tahun kemudian, cucumu menuntunmu kembali ke Sekumpul. Kamu hampir tak mengenali jalan itu. Lebih dari dua juta orang datang hari ini.",
+      "teksLayar": [
+        "Haul ke-15, Sekumpul, 2020."
+      ],
+      "suara": "Salawat dari ribuan pengeras suara, keramaian lembut",
+      "hening": false,
+      "epilog": true,
+      "kata": 23
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Haul (epilog)",
+      "waktu": "2:34–2:45",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Duduk di tepi tikar di antara lautan jamaah malam hari, lampu-lampu kuning; tangan \"kamu\" (tua) terbuka di pangkuan seperti menghitung, tangan kiri memegang tongkat. Cucu di samping menoleh ke \"kamu\" (menatap penonton) dengan alis terangkat, bertanya. Di kejauhan, kubah ar-Raudhah bercahaya di atas kerumunan yang tak berujung.",
+      "narasiSuara": "[calm] Cucumu bertanya, dulu berapa yang mengaji di teras itu. [calm] Kamu menjawab, belasan... [resigned] lalu sadar, kini kamu tak bisa lagi menghitungnya.",
+      "narasi": "Cucumu bertanya, dulu berapa yang mengaji di teras itu. Kamu menjawab, belasan... lalu sadar, kini kamu tak bisa lagi menghitungnya.",
+      "teksLayar": [],
+      "suara": "Salawat bersama ribuan orang, memudar ke kartu Ulikan",
+      "hening": false,
+      "epilog": true,
+      "kata": 20
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Abah Guru Sekumpul",
+      "prompt": "Character reference sheet of Abah Guru Sekumpul.\nAbah Guru Sekumpul (KH Muhammad Zaini bin Abdul Ghani), a Banjar Islamic scholar from Martapura, South Kalimantan; his age changes by scene (28 in 1970, 48 in 1990, 63 in 2005). Medium height with a slim, slender build and narrow shoulders, fair light-tan skin, a slightly oval, gently elongated face with smooth cheeks, completely clean-shaven with no beard and no moustache, gentle narrow dark eyes, straight dark brows, a small rounded nose and a soft closed-lip smile; short dark hair visible only at the temples. He has two looks. Young look (1970s, age about 28): no eyeglasses; a round white knitted kopiah (prayer cap) instead of a turban; a plain collarless long-sleeved white shirt; a smoother, youthful face. Mature look (from about 1990, ages 48 to 63): thin gold metal-rimmed aviator-style eyeglasses with a double bridge; a large rounded white turban wrapped smoothly in many layers, with no hanging tail; a long plain white jubah (ankle-length robe) with a high stand-up collar and long wide sleeves; a dark green shawl draped over his right shoulder and hanging straight down the front. Simple sandals in both looks. He carries a small kitab (Arabic prayer book) and a string of dark wooden prayer beads. Calm, unhurried bearing: shoulders relaxed, head slightly tilted when listening, hands resting quietly folded in front.\nFull-body front, side and back views of the mature look at age 48 in a relaxed natural standing pose, one full-body front view of the young look at age 28, one three-quarter face portrait at age 48 and two small face studies at 28 (young look) and 63 (mature look), one detail panel of the gold aviator eyeglasses, rounded turban, green shawl, prayer beads and kitab, plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Banjar Martapura, South Kalimantan, late-20th-century large rounded white turban, high-collared white jubah and dark green shawl. Use the two uploaded photographs of Abah Guru Sekumpul (one young, one mature) as the main references for his slightly oval clean-shaven face, slim build and gentle expression, the white kopiah of the young look, and the gold aviator eyeglasses, rounded turban and green shawl of the mature look, redrawn in this illustration style; do not copy the pose, background or photographic look.\nAvoid a beard or moustache, a heavy or plump build, a round chubby face, leaving out the eyeglasses in the mature look, eyeglasses or a turban in the young look, a turban tail, caricature, exaggerated features, gold embroidery, a crown or ornate headdress, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Jamaah",
+      "prompt": "Character reference sheet of Jamaah.\nJamaah, a fictional Banjar market trader from Martapura; shown at three ages (early twenties in 1970, forties in the 1980s and 1990, seventies from 2000 on). Medium-brown skin, a lean wiry build, a long face with deep-set dark eyes, thick brows, a broad nose and a thin moustache; short black hair that turns grey in the 1990s and white by 2005, under a black velvet peci (songkok). Wears a plain cream or white long-sleeved cotton shirt (a white koko shirt from the 1980s on), a checked sarong in dark green and brown, and rubber sandals; carries a woven rattan market basket in youth and a wooden walking stick in old age. A thin woven-rattan bracelet on the left wrist in every age, a plain silver ring on the right ring finger from the 1980s on. Patient, watchful, hands often resting on his knees.\nFull-body front, side and back views in a relaxed natural standing pose at age 22, two small face studies at 45 and 72, one detail panel of the checked sarong, rattan bracelet and silver ring, and one first-person panel showing only his hands and forearms from the viewer's own eyes at the three ages: The viewer's hands are those of a young Banjar man in his early twenties: medium-brown skin, lean fingers with short clean nails and light calluses on the palms from carrying market goods, bare forearms below the rolled sleeves of a plain cream cotton shirt, a thin woven-rattan bracelet on the left wrist, no rings. The viewer's hands are those of a Banjar man in his forties: medium-brown skin, slightly thicker fingers with faint creases on the knuckles and short nails, forearms in the long sleeves of a plain white koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The viewer's hands are those of an elderly Banjar man in his seventies: medium-brown skin with loose wrinkled skin, prominent veins and a few age spots, thin fingers with slightly ridged nails, long white sleeves of a koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Banjar Martapura, South Kalimantan, 1970s to 2000s Banjar everyday dress: black velvet peci, cotton shirt or koko, checked sarong.\nAvoid a turban or long white robe, caricature, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:01–0:13",
+      "narasi": "Kamu pedagang muda di Martapura, sekitar 1970. Di sebuah teras, belasan orang duduk di tikar. Kelak, jutaan orang datang karena guru di teras itu.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at eye level, a dirt lane in Kampung Keraton, Martapura, late golden afternoon around 1970. First-person point of view. The viewer's hands are those of a young Banjar man in his early twenties: medium-brown skin, lean fingers with short clean nails and light calluses on the palms from carrying market goods, bare forearms below the rolled sleeves of a plain cream cotton shirt, a thin woven-rattan bracelet on the left wrist, no rings. The right hand carries an empty woven-rattan basket by its handle; the left hand pushes aside a low bamboo fence. Beyond it, a simple wooden stilt house with a wide front veranda where about fifteen Banjar men in black peci, plain shirts and checked sarongs sit close together on a woven purun mat, facing inward, calm faces, some bowed and listening, one man cupping his ear. No oil lamps lit yet; the low sun throws long warm shadows and open sky over the roof. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of wood brown, cream, moss green and sunset orange with deep shadows, historically accurate Banjar Martapura, South Kalimantan, 1970s kampung with wooden stilt houses, purun mats and bamboo fences.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:13–0:23",
+      "narasi": "Yang mengajar seorang guru muda, usianya belum tiga puluh. Suaranya pelan, dan senyumnya tidak pernah lepas. Orang-orang memanggilnya Guru Ijai.",
+      "prompt": "Same character as the Abah Guru Sekumpul reference image.\nMedium shot from a seated height, the veranda of a simple wooden house in Keraton, Martapura, 1970, warm late light. Abah Guru Sekumpul at 28 in his young look: slim build, youthful slightly oval face, clean-shaven with no beard or moustache, no eyeglasses, a round white knitted kopiah instead of a turban, a plain collarless white shirt, sits cross-legged with an open kitab before him; his right hand marks a line of the page, head tilted slightly, soft closed-mouth smile, eyes on the listeners at the left of the frame, not the camera. In the foreground the shoulders and black peci of three listeners seen from behind, leaning in. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of wood brown, cream, moss green and sunset orange with deep shadows, historically accurate Banjar Martapura, South Kalimantan, 1970s wooden veranda, purun mat, oil lamp on a post.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:23–0:30",
+      "narasi": "Kamu ikut duduk di tepi tikar. Pekan depan kamu datang lagi. Begitu seterusnya, bertahun-tahun.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at seated eye level, the edge of a woven mat on a wooden veranda in Keraton, dusk turning to night, 1970. First-person point of view. The viewer's hands are those of a young Banjar man in his early twenties: medium-brown skin, lean fingers with short clean nails and light calluses on the palms from carrying market goods, bare forearms below the rolled sleeves of a plain cream cotton shirt, a thin woven-rattan bracelet on the left wrist, no rings. Both hands fold the hem of a dark green and brown checked sarong over the knees; the rattan basket rests beside the left knee. Ahead, a row of backs in peci and shirts, and far at the end of the veranda the small figure of Abah Guru Sekumpul in his young look (white kopiah, plain white shirt, no eyeglasses) lit by a newly lit oil lamp, orange sky fading to deep blue above the roof edge. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of wood brown, cream, moss green and sunset orange with deep shadows, historically accurate Banjar Martapura, South Kalimantan, 1970s wooden veranda, kerosene oil lamp.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:41",
+      "narasi": "Suatu malam, kamu tak kebagian tempat di tikar. Pengajian pindah ke Musholla Darul Aman, masih di Keraton. Jamaahnya kini ratusan.",
+      "prompt": "Wide shot at eye level, night in the 1980s, Musholla Darul Aman on Jalan Sasaran, Keraton, Martapura: a modest wooden prayer house with shuttered windows and a tin roof, lit by a petromax lantern and a yellow neon tube. Hundreds of worshippers overflow from inside across the yard and onto the dirt road, seated on mats laid end to end, some standing at the edge under a tree; children asleep on laps, an old man fanning himself. Dark night sky above the roof. On the front porch the small white-clad figure of Abah Guru Sekumpul faces the crowd. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark brown, whitewash, lantern yellow and night blue with deep shadows, historically accurate Banjar Martapura, South Kalimantan, 1980s small-town wooden musholla, petromax lanterns, overflow mats.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:41–0:48",
+      "narasi": "Kamu datang membawa anakmu yang masih kecil. Ia tertidur di pangkuanmu sebelum pengajian selesai.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium close shot from seated height, the yard of a wooden musholla at night, 1980s. First-person point of view. The viewer's hands are those of a Banjar man in his forties: medium-brown skin, slightly thicker fingers with faint creases on the knuckles and short nails, forearms in the long sleeves of a plain white koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The left hand cradles the head of a sleeping boy of about four in a small black peci and striped shirt, curled on the viewer's lap; the right hand holds a small paperback prayer booklet. Beyond the boy, rows of backs and shoulders of seated worshippers and the warm glow of a petromax lantern on the musholla porch. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark brown, whitewash, lantern yellow and night blue with deep shadows, historically accurate Banjar Martapura, South Kalimantan, 1980s musholla yard, purun mats.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:48–1:01",
+      "narasi": "Lalu kabar dari mulut ke mulut: Guru akan pindah ke Sekumpul. Tanah sepi di pinggir kota, penuh semak dan karamunting. Siapa yang mau datang ke sana?",
+      "prompt": "Medium-wide shot at eye level, midday inside the busy Martapura market, 1988. Two middle-aged Banjar traders talk behind stacked sacks and baskets of vegetables: one, heavy-set with a grey stubble and a faded blue shirt, points out past the market roof with his thumb, brows raised; the other, thin with a white peci and a towel on his shoulder, frowns and scratches his chin, eyes following the gesture. Through a gap in the market roof, a sunlit empty field at the town edge with shrubs and purple-flowered karamunting bushes. Shoppers pass behind them. The two traders are different people from Jamaah and from Abah Guru Sekumpul, with no turban or white robe. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark brown, whitewash, lantern yellow and night blue with deep shadows brightened by midday sun, historically accurate Banjar Martapura, South Kalimantan, late-1980s traditional market with sacks, baskets and tin roofs.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:01–1:11",
+      "narasi": "Ternyata semua orang. Dua belas Januari 1990, Musholla Ar-Raudhah diresmikan. Namanya diambil dari taman di dekat makam Nabi, di Madinah.",
+      "prompt": "Same character as the Abah Guru Sekumpul reference image.\nWide shot from a low angle, bright soft morning, Sekumpul, Martapura, 12 January 1990: the newly opened Musholla Ar-Raudhah, a large white prayer hall with a tall tiered roof, green banners and umbul-umbul flags on bamboo poles, open sky above. Worshippers stream in from every direction on foot carrying rolled mats and small children. On the front porch Abah Guru Sekumpul at 48, slim build, slightly oval face, clean-shaven with no beard or moustache, wearing his gold aviator eyeglasses and green shawl, stands with his right hand raised in greeting, soft smile, eyes on the arriving crowd. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of white walls, green banners, lamp gold and night blue, historically accurate Banjar Martapura, South Kalimantan, 1990 large musholla with tiered roof, umbul-umbul flags.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:11–1:22",
+      "narasi": "Ribuan orang memenuhi halaman. Ada yang datang dari Kalimantan Timur dan Tengah. Sebagian pindah rumah ke Sekumpul, agar lebih dekat dengan Guru.",
+      "prompt": "Medium-wide shot from above the yard, night, the paved yard of Musholla Ar-Raudhah in Sekumpul, early 1990s, thousands of seated worshippers under yellow lamps. At the edge of the yard a truck and a van with out-of-town plates: a family unloads bundles, a rolled mattress and cooking pots; a mother carrying a toddler stands still, looking up at the musholla, lips parted; a teenage boy drags a sack. The dark sky fills the upper frame. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of white walls, green banners, lamp gold and night blue, historically accurate Banjar Martapura, South Kalimantan, early-1990s Kalimantan trucks and vans, sarongs and koko shirts.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:22–1:33",
+      "narasi": "Rambutmu mulai memutih. Anakmu kini duduk sendiri, tak lagi di pangkuanmu. Dan Guru masih di tempat yang sama, dengan senyum yang sama.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at seated eye level, the yard of Musholla Ar-Raudhah at night, around 1990. First-person point of view. The viewer's hands are those of a Banjar man in his forties: medium-brown skin, slightly thicker fingers with faint creases on the knuckles and short nails, forearms in the long sleeves of a plain white koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The right hand turns a string of dark wooden prayer beads; the left hand rests on the knee over a checked sarong. Beside the viewer a lanky teenage boy in a white peci and cream koko shirt sits upright on his own, chin lifted, listening toward the porch, not touching the viewer. Far ahead on the lit porch, the small seated white figure of Abah Guru Sekumpul teaching, bright under a lamp, among rows of worshippers. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of white walls, green banners, lamp gold and night blue, historically accurate Banjar Martapura, South Kalimantan, 1990 musholla yard, prayer beads, koko shirts.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:33–1:43",
+      "narasi": "Kamu mendengar sesuatu yang tak ingin kamu percaya. Guru sakit, bertahun-tahun. Ginjalnya bermasalah; kabarnya, setiap pekan beliau harus cuci darah.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at eye level, early morning at a market stall in Martapura, early 2000s, pale light. First-person point of view. The viewer's hands are those of an elderly Banjar man in his seventies: medium-brown skin with loose wrinkled skin, prominent veins and a few age spots, thin fingers with slightly ridged nails, long white sleeves of a koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The right hand holds a brass hanging scale, frozen mid-weigh; the left hand lies still on a pile of chillies. From the neighbouring stall an elderly Banjar woman in a faded floral headscarf and batik tapih leans across her baskets toward the viewer, looking straight at the viewer, brows drawn together, mouth half open, one hand pressed to her chest as she delivers news. Pale sky and the market roof edge above her. She is a different person from Jamaah and Abah Guru Sekumpul, with no turban or white robe. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of faded brown, warm grey and dull white with deep shadows, historically accurate Banjar Martapura, South Kalimantan, early-2000s traditional market stall with brass scales and baskets.\nAvoid background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:43–1:54",
+      "narasi": "Tapi setiap pengajian, beliau tetap ada. Kadang duduk, kadang sambil berbaring. Kamu menatapnya dari jauh, dan tak berani berpikir sampai kapan.",
+      "prompt": "Same character as the Abah Guru Sekumpul reference image.\nMedium shot at eye level from among the worshippers, the porch of Musholla Ar-Raudhah at night, early 2000s. Abah Guru Sekumpul at about 62, his slim frame and slightly oval face even thinner and paler from illness, clean-shaven with no beard or moustache, wearing his gold aviator eyeglasses, reclines half-lying against a bolster on the carpeted porch, a plain blanket over his legs, tired eyes yet a soft smile, gaze toward the congregation at the right of frame. Beside him two adult students in white peci and koko shirts: one holds the open kitab up for him with lowered eyes, the other offers a glass of water with both hands, lips pressed thin. In the foreground, the still shoulders of seated worshippers. The students are different people from Jamaah, with no turban. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted palette of faded brown, warm grey and dull white with deep shadows with a single warm porch lamp, historically accurate Banjar Martapura, South Kalimantan, early-2000s musholla porch with carpet, bolster and microphone stand.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:54–2:02",
+      "narasi": "Subuh itu, pengeras suara langgar di kampungmu menyebut sebuah nama. Kamu sudah tahu sebelum kalimatnya selesai.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at eye level, dark blue dawn in front of a wooden house in a Martapura kampung, 10 August 2005. First-person point of view. The viewer's hands are those of an elderly Banjar man in his seventies: medium-brown skin with loose wrinkled skin, prominent veins and a few age spots, thin fingers with slightly ridged nails, long white sleeves of a koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The right hand grips the handle of a half-open wooden door; the left hand holds a folded prayer rug. Across the dirt lane a small langgar (neighbourhood prayer house) with a loudspeaker horn on a pole, its single bulb glowing; two neighbours, a stocky man in a sarong and an old woman in a white mukena, have stopped in the lane, heads tilted up toward the loudspeaker, shoulders stiff. Dark sky fills the upper frame. The neighbours are different people from Jamaah and Abah Guru Sekumpul. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark dawn blue and grey with a single point of warm yellow light, historically accurate Banjar Martapura, South Kalimantan, 2005 kampung lane with wooden houses and a langgar loudspeaker.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:02–2:10",
+      "narasi": "Kamu keluar rumah. Tetanggamu juga. Kantor tutup, sekolah libur, pedagang menutup lapak, tanpa ada yang memerintah.",
+      "prompt": "Medium-wide shot at eye level, early morning on the main street of Martapura, 10 August 2005, pale overcast light. A shopkeeper pulls down a rolling steel shutter with both hands; a schoolteacher in a batik uniform locks the gate of an empty school; a market woman drapes a tarpaulin over her stall. All three are already turning to walk toward the right of the frame, faces drawn, no one speaking; more people in the distance walk the same way. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark dawn blue and grey with a single point of warm yellow light lifted to pale grey morning, historically accurate Banjar Martapura, South Kalimantan, 2005 small-town shophouses with steel shutters, batik school uniform.\nAvoid characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:10–2:23",
+      "narasi": "Tanpa dikomando, semua berjalan ke Sekumpul. Jalan-jalan macet oleh lautan manusia. Kamu berdiri di antara mereka... dan tak mengatakan apa-apa.",
+      "prompt": "Same character as the Jamaah reference image, aged to his seventies as in the age-72 face study: white hair under a black velvet peci, a white koko shirt, a dark green and brown checked sarong, rubber sandals, a thin woven-rattan bracelet on the left wrist.\nMedium-wide shot at standing eye level from just behind and slightly to the left of Jamaah, inside a dense crowd on the road to Sekumpul, pale foggy morning, 10 August 2005. Jamaah stands completely still in the middle of the road, seen from behind with his face hidden: slightly stooped shoulders, head bowed a little, both arms hanging at his sides, the right hand loosely holding a string of dark wooden prayer beads. Around him hundreds of people walk past on both sides and away from the viewer toward the horizon, every one of them facing away, their movement flowing around his stillness: the backs of heads in black and white peci and plain headscarves, slumped shoulders, a man with his arm around an older man's shoulders, a woman in profile pressing a cloth to her face, cars and motorbikes stalled among the walkers with their doors left open. Far ahead, the small dome of the Ar-Raudhah tomb chamber is faint in the haze beside one warm streetlamp. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dark dawn blue and grey with a single point of warm yellow light in pale morning fog, historically accurate Banjar Martapura, South Kalimantan, 2005 Kalimantan road, cars and motorbikes stalled in a crowd.\nAvoid showing Jamaah's face, first-person hands in the foreground, faces turned toward the viewer, people walking toward the camera, a crowd facing forward, characters looking at the camera, background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:23–2:34",
+      "narasi": "Lima belas tahun kemudian, cucumu menuntunmu kembali ke Sekumpul. Kamu hampir tak mengenali jalan itu. Lebih dari dua juta orang datang hari ini.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at eye level, dusk before maghrib in Sekumpul, Martapura, 2020, violet-orange sky. First-person point of view. The viewer's hands are those of an elderly Banjar man in his seventies: medium-brown skin with loose wrinkled skin, prominent veins and a few age spots, thin fingers with slightly ridged nails, long white sleeves of a koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The right hand leans on a wooden walking stick; the left hand is held firmly by the hand of a young man walking half a step ahead. The young man, the viewer's grandson, is tall and thin, early twenties, short black hair under a white peci, cream koko shirt and long trousers; he turns back to look straight at the viewer with a reassuring smile, eyebrows soft. Behind him the road to Ar-Raudhah is packed with people as far as the eye can see, volunteer tents and strings of lamps beginning to glow. The grandson is a different person from Jamaah and from Abah Guru Sekumpul. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of lamp gold, white koko shirts and peci, violet dusk and night blue, historically accurate Banjar Martapura, South Kalimantan, 2020 haul crowd with volunteer tents, white koko shirts and peci.\nAvoid background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:34–2:45",
+      "narasi": "Cucumu bertanya, dulu berapa yang mengaji di teras itu. Kamu menjawab, belasan... lalu sadar, kini kamu tak bisa lagi menghitungnya.",
+      "prompt": "The viewer is Jamaah: the hands and forearms in the foreground match the first-person panel of the Jamaah reference image.\nMedium shot at seated eye level, night, seated on the edge of a mat among an endless crowd of worshippers in Sekumpul, 2020, thousands of warm yellow lamps. First-person point of view. The viewer's hands are those of an elderly Banjar man in his seventies: medium-brown skin with loose wrinkled skin, prominent veins and a few age spots, thin fingers with slightly ridged nails, long white sleeves of a koko shirt with a narrow cuff, a thin woven-rattan bracelet on the left wrist, a plain silver ring on the right ring finger. The right hand lies open in the lap, fingers slightly spread as if counting; the left hand rests on a wooden walking stick. The grandson, tall and thin in a white peci and cream koko shirt, sits beside the viewer and turns to look straight at the viewer, eyebrows raised, lips parted in a question. Far away above the crowd, the lit dome of the Ar-Raudhah tomb chamber beside the tall roof of the musholla. The grandson is a different person from Jamaah and from Abah Guru Sekumpul. The crowd are different people from Abah Guru Sekumpul and from Jamaah: varied ages, faces and builds, in plain shirts, koko shirts, checked sarongs and black or white peci, none wearing a turban or a long white robe.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of lamp gold, white koko shirts and peci, violet dusk and night blue, historically accurate Banjar Martapura, South Kalimantan, 2020 haul night with lamp strings and mats.\nAvoid background figures copying Abah Guru Sekumpul's or Jamaah's face or outfit, identical faces, stiff symmetrical poses, characters standing straight and facing forward, caricature, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki dewasa yang hangat dan lembut, tidak teatrikal; tag tidak bisa memaksa voice yang datar menjadi sedih atau voice yang keras menjadi berbisik, jadi pilihan voice paling menentukan. Arahan per babak:\n\n- Babak 1: hangat, tempo santai, seperti bercerita pada teman; [curious] ringan, bukan heran berlebihan.\n- Babak 2: tetap hangat, sedikit lebih hidup; kalimat tentang anak tertidur dibaca lembut.\n- Babak 3: khidmat, tempo tenang; tanggal 12 Januari 1990 dibaca jelas tanpa dipercepat.\n- Babak 4: melambat, berat; [sad] ditahan, tidak terisak; kalimat terakhir [tense] lirih.\n- Babak 5: tempo paling lambat, nyaris datar; [whispers] di adegan 14 benar-benar berbisik, jeda elipsis dibiarkan panjang.\n- Babak 6: kembali hangat tetapi pelan; [resigned] di kalimat terakhir dibaca lirih dengan senyum, bukan getir; jeda sebelum \"lalu sadar\" ditahan.",
+    "arahanBabak": {
+      "1": "hangat, tempo santai, seperti bercerita pada teman; [curious] ringan, bukan heran berlebihan.",
+      "2": "tetap hangat, sedikit lebih hidup; kalimat tentang anak tertidur dibaca lembut.",
+      "3": "khidmat, tempo tenang; tanggal 12 Januari 1990 dibaca jelas tanpa dipercepat.",
+      "4": "melambat, berat; [sad] ditahan, tidak terisak; kalimat terakhir [tense] lirih.",
+      "5": "tempo paling lambat, nyaris datar; [whispers] di adegan 14 benar-benar berbisik, jeda elipsis dibiarkan panjang.",
+      "6": "kembali hangat tetapi pelan; [resigned] di kalimat terakhir dibaca lirih dengan senyum, bukan getir; jeda sebelum \"lalu sadar\" ditahan."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Kamu pedagang muda di Martapura, sekitar 1970. [curious] Di sebuah teras, belasan orang duduk di tikar. [serious] Kelak, jutaan orang datang karena guru di teras itu....\n\n[calm] Yang mengajar seorang guru muda, usianya belum tiga puluh. [calm] Suaranya pelan, dan senyumnya tidak pernah lepas. [curious] Orang-orang memanggilnya Guru Ijai....\n\n[calm] Kamu ikut duduk di tepi tikar. [calm] Pekan depan kamu datang lagi. [calm] Begitu seterusnya, bertahun-tahun....",
+    "2": "[curious] Suatu malam, kamu tak kebagian tempat di tikar. [calm] Pengajian pindah ke Musholla Darul Aman, masih di Keraton. [calm] Jamaahnya kini ratusan....\n\n[calm] Kamu datang membawa anakmu yang masih kecil. [calm] Ia tertidur di pangkuanmu sebelum pengajian selesai....\n\n[curious] Lalu kabar dari mulut ke mulut: Guru akan pindah ke Sekumpul. [curious] Tanah sepi di pinggir kota, penuh semak dan karamunting. [curious] Siapa yang mau datang ke sana?...",
+    "3": "[calm] Ternyata semua orang. [serious] Dua belas Januari 1990, Musholla Ar-Raudhah diresmikan. [calm] Namanya diambil dari taman di dekat makam Nabi, di Madinah....\n\n[calm] Ribuan orang memenuhi halaman. [calm] Ada yang datang dari Kalimantan Timur dan Tengah. [calm] Sebagian pindah rumah ke Sekumpul, agar lebih dekat dengan Guru....\n\n[calm] Rambutmu mulai memutih. [calm] Anakmu kini duduk sendiri, tak lagi di pangkuanmu. [calm] Dan Guru masih di tempat yang sama, dengan senyum yang sama....",
+    "4": "[serious] Kamu mendengar sesuatu yang tak ingin kamu percaya. [sad] Guru sakit, bertahun-tahun. [sad] Ginjalnya bermasalah; kabarnya, setiap pekan beliau harus cuci darah....\n\n[serious] Tapi setiap pengajian, beliau tetap ada. [serious] Kadang duduk, kadang sambil berbaring. [tense] Kamu menatapnya dari jauh, dan tak berani berpikir sampai kapan....",
+    "5": "[tense] Subuh itu, pengeras suara langgar di kampungmu menyebut sebuah nama. [sad] Kamu sudah tahu sebelum kalimatnya selesai....\n\n[sad] Kamu keluar rumah. [sad] Tetanggamu juga. [serious] Kantor tutup, sekolah libur, pedagang menutup lapak, tanpa ada yang memerintah....\n\n[sad] [whispers] Tanpa dikomando, semua berjalan ke Sekumpul. [sad] Jalan-jalan macet oleh lautan manusia. [sad] Kamu berdiri di antara mereka... dan tak mengatakan apa-apa....",
+    "6": "[calm] Lima belas tahun kemudian, cucumu menuntunmu kembali ke Sekumpul. [curious] Kamu hampir tak mengenali jalan itu. [calm] Lebih dari dua juta orang datang hari ini....\n\n[calm] Cucumu bertanya, dulu berapa yang mengaji di teras itu. [calm] Kamu menjawab, belasan... [resigned] lalu sadar, kini kamu tak bisa lagi menghitungnya...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Teras dan musholla",
+      "babakAwal": 1,
+      "babakAkhir": 3,
+      "durasiTarget": "1:40",
+      "suasana": "Hangat, sederhana, tumbuh perlahan dari satu alat ke beberapa; salawat tersirat tanpa vokal",
+      "style": "Banjar Islamic devotional ambient, soft gambus (lute) and bamboo flute over a slow terbang frame-drum pulse, warm and humble like a village evening gathering, starts with a single gambus and gently adds flute and drum, fades out at the end, about 100 seconds long (1:40), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, synth leads, trap drums, orchestra"
+    },
+    {
+      "nomor": 2,
+      "nama": "Sakit dan subuh",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "0:55",
+      "suasana": "Sunyi, berat, nyaris hening; nada panjang dan jeda",
+      "style": "Sparse mournful ambient, a lone bamboo flute and long sustained gambus drone with wide silences, grief held back rather than expressed, very slow and still, thins to near silence in the middle then one soft flute phrase, fades out at the end, about 55 seconds long (0:55), with a clear ending, 52 BPM, instrumental, no vocals",
+      "exclude": "vocals, drums, percussion, piano, strings, cinematic swells"
+    },
+    {
+      "nomor": 3,
+      "nama": "Haul",
+      "babakAwal": 6,
+      "babakAkhir": 6,
+      "durasiTarget": "0:30",
+      "suasana": "Haru dan hangat, mengambang, berakhir tenang",
+      "style": "Warm hopeful devotional ambient, gambus and bamboo flute with a soft terbang frame-drum heartbeat and a gentle hummed-like pad, like thousands of lamps at dusk, starts quietly and opens up, settles and ends on one sustained warm chord, about 30 seconds long (0:30), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, synth leads, orchestra"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Suasana kampung sore, ayam, langkah di tanah",
+      "kataKunci": "village afternoon ambience chickens footsteps dirt",
+      "prompt": "Quiet Indonesian village afternoon, distant chickens, soft footsteps on dirt, light breeze"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Lembar kitab dibalik, gumam mengaji pelan",
+      "kataKunci": "page turn book quiet murmur",
+      "prompt": "A thin paper page turning slowly, soft indistinct murmur of a small group"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Jangkrik malam, lampu minyak mendesis",
+      "kataKunci": "crickets night oil lamp hiss",
+      "prompt": "Night crickets in a kampung with a faint kerosene lamp hiss"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Gumam ratusan orang, pengeras suara kecil berdengung",
+      "kataKunci": "crowd murmur outdoor small speaker hum",
+      "prompt": "Murmur of a few hundred people seated outdoors at night, faint loudspeaker hum"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Napas anak tidur",
+      "kataKunci": "child sleeping breathing soft",
+      "prompt": "Soft slow breathing of a sleeping child, close and quiet"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Riuh pasar siang, tawar-menawar",
+      "kataKunci": "traditional market crowd daytime",
+      "prompt": "Busy Southeast Asian traditional market at midday, voices, baskets, no clear words"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Langkah ribuan orang, umbul-umbul berkibar",
+      "kataKunci": "large crowd walking flags fluttering",
+      "prompt": "Thousands of people walking on pavement with cloth banners fluttering in wind"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Mesin truk mati, barang diturunkan",
+      "kataKunci": "truck engine off unloading cargo",
+      "prompt": "A truck engine switching off, bundles and pots set down on pavement"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Tasbih bergesek",
+      "kataKunci": "prayer beads rattle soft",
+      "prompt": "Wooden prayer beads sliding and clicking softly"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Pasar pagi senyap, bisik",
+      "kataKunci": "quiet market morning whisper",
+      "prompt": "A market at dawn going quiet, a low whisper between two people, no clear words"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Ribuan orang hening, gesek kain",
+      "kataKunci": "large crowd silence cloth rustle",
+      "prompt": "Thousands of seated people holding still, faint cloth rustle"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Pengeras suara langgar berdengung, pengumuman samar, ayam subuh",
+      "kataKunci": "mosque loudspeaker hum distant announcement rooster dawn",
+      "prompt": "Dawn in a kampung, a loudspeaker hum with a distant unclear announcement, a rooster far away (sulit; cadangan: drone cue 2)"
+    },
+    {
+      "nomor": 13,
+      "adegan": 13,
+      "bunyi": "Rolling door, gembok, langkah banyak orang",
+      "kataKunci": "steel shutter rolling down padlock footsteps crowd",
+      "prompt": "A steel shop shutter rolling down and a padlock clicking, many footsteps walking away"
+    },
+    {
+      "nomor": 14,
+      "adegan": 14,
+      "bunyi": "Langkah kaki, salawat sangat jauh",
+      "kataKunci": "crowd footsteps distant chanting far",
+      "prompt": "Slow footsteps of a huge crowd on a road, very distant group chanting in fog (sulit; cadangan: sisa cue 2)"
+    },
+    {
+      "nomor": 15,
+      "adegan": 15,
+      "bunyi": "Salawat dari banyak pengeras suara, keramaian lembut",
+      "kataKunci": "festival crowd evening distant loudspeakers",
+      "prompt": "A warm evening festival crowd with distant overlapping loudspeakers (sulit; cadangan: cue 3)"
+    },
+    {
+      "nomor": 16,
+      "adegan": 16,
+      "bunyi": "Salawat bersama ribuan orang, memudar",
+      "kataKunci": "large crowd singing together fade",
+      "prompt": "Thousands of people chanting softly together, fading out (sulit; cadangan: cue 3)"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Abah Guru dimakamkan di kubah di depan kiri Musholla Ar-Raudhah, tempat beliau dulu mengajar.",
+    "sumber": "NU Online (12 Agustus 2005); Risalah Bughyatul Muhibbin via IDR UIN Antasari",
+    "kata": 14,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Jamaah Abah Guru Sekumpul Selama Tiga Puluh Tahun",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Jamaah Abah Guru Sekumpul\nAlternatif judul: POV: Kamu Jamaah Guru Sekumpul, dari Teras Rumah sampai Haul / POV: Kamu Duduk di Tikar Guru Sekumpul Sejak 1970",
+      "caption": "Dulu belasan orang di teras rumah. Sekarang lebih dari dua juta orang datang tiap tahun.\n\nKH Muhammad Zaini bin Abdul Ghani, Abah Guru Sekumpul (1942–2005), memulai pengajian di rumahnya di Keraton, Martapura, sekitar 1970; Musholla Ar-Raudhah di Sekumpul diresmikan 12 Januari 1990. Saat beliau wafat pada subuh 10 Agustus 2005, kantor dan sekolah di Martapura libur tanpa diperintah, dan jalan-jalan penuh lautan manusia.\n\nSiapa guru yang membuatmu rela berjalan sejauh itu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Athaillah (UIN Sunan Gunung Djati, 2024); Antara.\n\n#UlikSilam #sejarahindonesia #gurusekumpul #martapura #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Jamaah Abah Guru Sekumpul, dari Teras Rumah sampai Lautan Manusia",
+      "catatan": "",
+      "caption": "Dulu belasan orang di teras rumah. Sekarang lebih dari dua juta orang datang tiap tahun.\n\nAbah Guru Sekumpul (1942–2005) memulai pengajian di rumahnya di Keraton, Martapura, sekitar 1970. Pindah ke Musholla Darul Aman pada 1980-an, lalu ke Sekumpul; Ar-Raudhah diresmikan 12 Januari 1990. Saat beliau wafat subuh 10 Agustus 2005, Martapura libur tanpa diperintah.\n\nSiapa guru yang membuatmu rela berjalan sejauh itu?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Athaillah (UIN SGD, 2024); Antara.\n\n#UlikSilam #sejarahindonesia #gurusekumpul #martapura #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 6,
+    "totalKata": 318,
+    "kataPerBabak": {
+      "1": 58,
+      "2": 60,
+      "3": 64,
+      "4": 41,
+      "5": 52,
+      "6": 43
+    },
+    "karakterPerBabak": {
+      "1": 470,
+      "2": 457,
+      "3": 496,
+      "4": 351,
+      "5": 449,
+      "6": 334
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 163.7,
+      "denganMerek": 168.7
+    },
+    "perkiraanDetik135": {
+      "narasi": 158.2,
+      "denganMerek": 163.2
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

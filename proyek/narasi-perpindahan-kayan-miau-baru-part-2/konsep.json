@@ -1,0 +1,854 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-21T10:23:07.142Z",
+  "judulDokumen": "Perpindahan Kayan Uma' Lekan dari Apau Kayan ke Miau Baru (Part 2)",
+  "judul": "Miau Baru (Part 2)",
+  "slug": "narasi-perpindahan-kayan-miau-baru-part-2",
+  "versi": "v2 · 2026-11-21",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Sungai Wahau, Kalimantan Timur",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok dan YouTube Shorts",
+  "posisiKamu": "Tidak ada (format narasi, narator pencerita)",
+  "ringkasan": {
+    "Judul": "Miau Baru (Part 2)",
+    "Slug": "narasi-perpindahan-kayan-miau-baru-part-2",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok dan YouTube Shorts",
+    "Posisi \"kamu\"": "Tidak ada (format narasi, narator pencerita)",
+    "Jumlah ilustrasi": "16 ilustrasi Gemini + 1 adegan peta animasi (adegan 10, dengan prompt cadangan) + 1 lembar karakter dipakai ulang dari Part 1 (Amai Laway Ngau)",
+    "Versi": "v2 · 2026-11-21",
+    "Lapisan": "Sejarah",
+    "Latar": "Sungai Wahau, Kalimantan Timur",
+    "Format": "Narasi · pencerita · Part 2 dari 2",
+    "Kadar dramatis": "Terjaga",
+    "Premis": "Tiga tahun terakhir perjalanan Kayan Uma' Lekan dari Sungai Kelai ke Sungai Wahau, sampai kampung mereka dinamai menurut sungai yang tidak jadi mereka huni.",
+    "Asumsi": "Durasi dinaikkan ke 3:00 karena 10 momen wajib; gelombang kedua hanya disebut sebagai \"awal 1980-an\" karena buku tidak konsisten (1980–1982 dan 1982–1984)."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Sungai yang tak dihuni",
+      "suasana": "Tenang dan misterius, lalu getir",
+      "palet": "Emas pagi, biru kabut, cokelat tanah",
+      "cahaya": "Pagi keemasan dari kiri; kelabu mendung di Kelai"
+    },
+    {
+      "babak": 2,
+      "nama": "Gereja di Long Bui",
+      "suasana": "Tekun, syukur, lalu duka",
+      "palet": "Hijau hutan tua, cokelat kayu lapuk, emas sore",
+      "cahaya": "Sinar menembus kanopi; sore hangat; senja redup"
+    },
+    {
+      "babak": 3,
+      "nama": "Wabah dan kemarau",
+      "suasana": "Cemas, hening, lalu gerah",
+      "palet": "Biru malam, amber pelita, abu pucat; lalu kuning jerami",
+      "cahaya": "Satu pelita di malam biru; pagi pucat; terik dari atas"
+    },
+    {
+      "babak": 4,
+      "nama": "Sungai yang surut",
+      "suasana": "Lelah tetapi bergerak",
+      "palet": "Kuning jerami pucat, abu batu, hijau sungai dangkal",
+      "cahaya": "Terik dari atas; pagi berkabut"
+    },
+    {
+      "babak": 5,
+      "nama": "Long Kejiak",
+      "suasana": "Lega dan bangkit",
+      "palet": "Emas pagi, kayu baru yang terang, hijau sungai, kilau seng",
+      "cahaya": "Pagi keemasan dari kiri; siang hangat"
+    },
+    {
+      "babak": 6,
+      "nama": "Miau Baru",
+      "suasana": "Haru, hangat, reflektif",
+      "palet": "Jingga senja, amber pelita, cokelat tua",
+      "cahaya": "Senja rendah, satu arah"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Sungai yang tak dihuni",
+    "2": "Gereja di Long Bui",
+    "3": "Wabah dan kemarau",
+    "4": "Sungai yang surut",
+    "5": "Long Kejiak",
+    "6": "Miau Baru"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Sungai yang tak dihuni",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sangat lebar, dari ketinggian; Desa Miau Baru di tepi Sungai Wahau, masa kini, pagi berkabut; deretan rumah kayu dan bangunan desa di tikungan sungai; tenang dan hangat; beberapa warga kecil berjalan di jalan desa, perahu tertambat di tepian; rumah kayu dan tembok beratap logam, lumbung padi dan lamin berukir; latar depan pucuk pohon dan kabut, tengah desa di tikungan sungai, belakang bukit rendah berhutan, cahaya pagi keemasan dari kiri, kabut tipis bergerak di permukaan sungai.",
+      "narasiSuara": "[serious] Di tepi Sungai Wahau ada desa bernama Miau Baru. [curious] Namanya diambil dari sungai yang tidak pernah mereka huni.",
+      "narasi": "Di tepi Sungai Wahau ada desa bernama Miau Baru. Namanya diambil dari sungai yang tidak pernah mereka huni.",
+      "teksLayar": [
+        "Part 2 · Miau Baru"
+      ],
+      "suara": "Narator tenang, sedikit misterius di kalimat kedua.",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Sungai yang tak dihuni",
+      "waktu": "0:10–0:19",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Lebar, sejajar mata; ladang padi di tepi Sungai Kelai, awal 1966, pagi mendung; warga memanen padi ladang yang akhirnya menguning; lega yang tertahan, wajah letih; belasan figuran beragam usia memanen, seorang lelaki tua berhenti dan menoleh ke tepi ladang; pisau panen kecil, keranjang rotan di pinggang, dan salib kayu sederhana di tepi ladang; latar depan bulir padi, tengah para pemanen, belakang beberapa tanda kubur kayu dan hutan, cahaya kelabu lembut, angin menggoyang padi.",
+      "narasiSuara": "[calm] Kisah kita lanjutkan di Sungai Kelai. [sad] Tiga puluh orang meninggal di sana, sebelum panen akhirnya tiba.",
+      "narasi": "Kisah kita lanjutkan di Sungai Kelai. Tiga puluh orang meninggal di sana, sebelum panen akhirnya tiba.",
+      "teksLayar": [
+        "Sungai Kelai · 1966"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 16
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "Gereja di Long Bui",
+      "waktu": "0:19–0:30",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, dari samping; hutan dekat pemondokan Long Bui, 1966, siang lembap; seorang lelaki memikul ikatan rotan panjang keluar dari hutan; tekun dan letih; dua perempuan membersihkan ladang baru, seorang anak membawa air; ikatan rotan, parang, tabung air bambu; latar depan pakis dan batang tumbang, tengah lelaki pemikul rotan, belakang ladang yang baru dibuka dan pondok-pondok, sinar matahari menembus kanopi, asap pembakaran ladang naik pelan.",
+      "narasiSuara": "[calm] Menurut catatan penelitian, April 1966 mereka pindah ke Long La'ai dan Long Bui. [serious] Lagi-lagi membuka ladang, mencari gaharu dan rotan.",
+      "narasi": "Menurut catatan penelitian, April 1966 mereka pindah ke Long La'ai dan Long Bui. Lagi-lagi membuka ladang, mencari gaharu dan rotan.",
+      "teksLayar": [
+        "Long Bui · 1966"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 20
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Gereja di Long Bui",
+      "waktu": "0:30–0:40",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, sedikit dari bawah; pemondokan Long Bui, 1966–1967, sore cerah; sebuah gereja kayu yang cukup besar berdiri di antara pondok-pondok; khidmat dan bersyukur; puluhan warga beragam usia berkumpul di depannya membawa ikatan padi pertama dan keranjang; gereja papan beratap sirap dengan salib di puncak atap, tanpa menara; ikatan padi pertama; latar depan ikatan padi di tangan warga, tengah kerumunan, belakang gereja dan hutan, cahaya sore hangat dari kanan, debu tipis dan asap dapur bergerak.",
+      "narasiSuara": "[calm] Di Long Bui, mereka mendirikan gereja yang cukup besar. [serious] Di sana digelar Adat Pakan, syukur di awal panen.",
+      "narasi": "Di Long Bui, mereka mendirikan gereja yang cukup besar. Di sana digelar Adat Pakan, syukur di awal panen.",
+      "teksLayar": [],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 18
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Gereja di Long Bui",
+      "waktu": "0:40–0:48",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; serambi pondok di Long Bui, 1967, senja; seorang perempuan tua duduk memeluk lutut di samping tikar tergulung yang kosong; duka yang diam, mata menatap kosong ke halaman; dua anak duduk diam di dekatnya, seorang lelaki berdiri di tangga pondok dengan kepala tertunduk; tikar tergulung, pondok tiang beratap daun, kain katun pudar; latar depan tikar tergulung, tengah perempuan tua, belakang deretan pondok dan gereja kecil di kejauhan, cahaya senja redup dari kiri, asap tipis.",
+      "narasiSuara": "[sad] Tapi di Long Bui, dua puluh empat orang meninggal karena sakit. [sad] Di Long La'ai, sekitar empat.",
+      "narasi": "Tapi di Long Bui, dua puluh empat orang meninggal karena sakit. Di Long La'ai, sekitar empat.",
+      "teksLayar": [],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Wabah dan kemarau",
+      "waktu": "0:48–0:56",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Lebar, dari ketinggian rendah; tepi Sungai Melantiba, April 1967, siang mendung; warga mendirikan rangka pondok baru, sementara seorang ibu menyelimuti anak yang lemas di dekat api; sibuk tetapi cemas; belasan figuran beragam usia mengangkat tiang dan atap daun; rangka pondok tiang dan atap daun, kain katun usang; latar depan api kecil dan ibu dengan anak, tengah rangka pondok, belakang sungai dan hutan rapat, cahaya kelabu merata, asap api melayang rendah.",
+      "narasiSuara": "[serious] April 1967, mereka membangun pemondokan kesepuluh di Sungai Melantiba. [tense] Di sana, penyakit datang lagi.",
+      "narasi": "April 1967, mereka membangun pemondokan kesepuluh di Sungai Melantiba. Di sana, penyakit datang lagi.",
+      "teksLayar": [
+        "Sungai Melantiba · 1967"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 14
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Wabah dan kemarau",
+      "waktu": "0:56–1:06",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "lebar, sejajar mata; pemondokan Sungai Melantiba, 1967, malam; deretan pondok gelap, hanya satu pelita menyala di serambi; duka yang diam; beberapa warga berjaga duduk di luar pondok dengan kepala tertunduk, tanpa tubuh yang terlihat; pelita tanah liat dan pondok tiang; latar depan tanah basah dan sandal yang ditinggalkan, tengah serambi berpelita, belakang hutan gelap, satu cahaya pelita hangat di tengah biru malam, nyala api bergoyang pelan.",
+      "narasiSuara": "[sad] Ada yang meninggal hanya dalam tiga hari. [sad] [whispers] Tercatat sekitar dua puluh orang meninggal di Melantiba.",
+      "narasi": "Ada yang meninggal hanya dalam tiga hari. Tercatat sekitar dua puluh orang meninggal di Melantiba.",
+      "teksLayar": [],
+      "suara": "Musik turun, hanya suara malam.",
+      "hening": true,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 15
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Wabah dan kemarau",
+      "waktu": "1:06–1:16",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang, dari belakang bahu para utusan; tepi Sungai Melantiba, 1967, pagi; Amai Laway Ngau berdiri di tepian memberi pesan kepada tiga utusan yang bersiap berangkat; tegas tetapi cemas, alis berkerut, satu tangan di bahu utusan terdekat; utusan beragam usia membawa bekal, warga menonton dari tepian; perahu lesung, keranjang bekal rotan, kemeja katun pudar; latar depan bahu utusan, tengah Laway Ngau, belakang sungai dan hutan berkabut, cahaya pagi pucat dari kanan, kabut di permukaan air.",
+      "narasiSuara": "[serious] Amai Laway Ngau mengutus orang untuk meminta obat. [calm] Ke Bupati Kutai di Tenggarong, dan ke Gubernur di Samarinda.",
+      "narasi": "Amai Laway Ngau mengutus orang untuk meminta obat. Ke Bupati Kutai di Tenggarong, dan ke Gubernur di Samarinda.",
+      "teksLayar": [],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 18
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Wabah dan kemarau",
+      "waktu": "1:16–1:25",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Lebar, rendah; tepi Sungai Halang, Agustus 1968, siang terik; lelaki memahat batang kayu menjadi perahu di tepi sungai yang mulai surut; tekun tetapi gelisah, seorang lelaki menyeka keringat sambil menatap langit tanpa awan; beberapa lelaki beragam usia bekerja, seorang perempuan menatap ladang yang mengering; beliung dan kapak, perahu lesung setengah jadi; latar depan serpihan kayu, tengah perahu setengah jadi, belakang ladang kering dan sungai dangkal berbatu, cahaya terik dari atas, debu dan serbuk kayu beterbangan.",
+      "narasiSuara": "[calm] Maret 1968, mereka merintis jalan ke Sungai Halang dan membuat perahu. [tense] Agustus, kemarau panjang datang.",
+      "narasi": "Maret 1968, mereka merintis jalan ke Sungai Halang dan membuat perahu. Agustus, kemarau panjang datang.",
+      "teksLayar": [
+        "Sungai Halang · 1968"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 15
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Sungai yang surut",
+      "waktu": "1:25–1:33",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "peta bergaya Pelita & Bayang (label tempat dari komponen peta; prompt cadangan tanpa tulisan); rute merambat seperti cahaya pelita dari Sungai Kelai ke Long Bui, Sungai Melantiba, Sungai Halang, lalu Sungai Wahau; tenang dan menegangkan; tanpa tokoh; titik cahaya di Long Bui, Melantiba, dan Halang (posisi perkiraan); latar dasar peta gelap, tengah garis rute menyala, belakang bayangan perbukitan, cahaya pelita di kepala rute, rute bergerak perlahan; warna diambil dari ilustrasi adegan 9 dan 11, sungai biru, pohon hijau, rute amber; datanya di bagian Peta animasi; cadangan: ilustrasi dari prompt adegan 10.",
+      "narasiSuara": "[serious] Ladang di Halang terancam gagal. [calm] Amai Laway Ngau memutuskan untuk segera menuju Sungai Wahau.",
+      "narasi": "Ladang di Halang terancam gagal. Amai Laway Ngau memutuskan untuk segera menuju Sungai Wahau.",
+      "teksLayar": [],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": true,
+      "kata": 14
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Sungai yang surut",
+      "waktu": "1:33–1:42",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Lebar, dari samping; Sungai Wahau, Juni 1969, siang panas; rombongan menarik perahu bermuatan di sungai dangkal berbatu; lelah tetapi pantang berhenti, otot tegang, kaki terendam; puluhan warga beragam usia, sebagian mendorong dari belakang, anak-anak berjalan di tepian; perahu lesung bermuatan keranjang dan tikar, ditarik dengan tali; latar depan batu sungai yang kering, tengah perahu dan para penarik, belakang tepian berhutan dan langit pucat, cahaya terik dari atas, percikan air kecil.",
+      "narasiSuara": "[tense] Juni 1969, mereka mulai tiba di Sungai Wahau... [calm] berangsur-angsur, karena air sungai surut akibat kemarau panjang.",
+      "narasi": "Juni 1969, mereka mulai tiba di Sungai Wahau... berangsur-angsur, karena air sungai surut akibat kemarau panjang.",
+      "teksLayar": [
+        "Sungai Wahau · Juni 1969"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 16
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Sungai yang surut",
+      "waktu": "1:42–1:52",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, sedikit dari atas; tepi Sungai Wahau dekat Long Kejiak, 1969, pagi; beberapa lelaki Kayan bekerja di tumpukan kayu gelondongan sebuah perusahaan kayu; letih dan diam; buruh lain beragam usia menggulingkan kayu ke sungai, pondok-pondok warga terlihat di tepian; rel kayu, tuas, dan tali tanpa mesin; kemeja dan celana pendek pudar; latar depan ujung kayu gelondongan, tengah para buruh, belakang sungai dan pondok, cahaya pagi pucat dari kiri, kabut tipis di atas air.",
+      "narasiSuara": "[calm] Pemondokan mereka terpencar: hilir dan hulu Long Pesap, juga Long Kejiak. [serious] Selain berladang, mereka menjadi buruh perusahaan kayu.",
+      "narasi": "Pemondokan mereka terpencar: hilir dan hulu Long Pesap, juga Long Kejiak. Selain berladang, mereka menjadi buruh perusahaan kayu.",
+      "teksLayar": [
+        "Long Pesap · Long Kejiak"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Long Kejiak",
+      "waktu": "1:52–2:02",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, sedikit dari bawah; Long Kejiak di tepi Sungai Wahau, April 1970, pagi cerah; puluhan lelaki bersama-sama mengangkat dan mendirikan tiang rumah kayu; semangat dan lega, beberapa tersenyum sambil menahan beban; perempuan dan anak-anak menonton sambil membawa minum; tiang dan papan kayu, tali; latar depan tumpukan papan, tengah tiang yang ditegakkan, belakang rangka rumah lain dan sungai, cahaya pagi keemasan dari kiri, serbuk kayu dan debu beterbangan.",
+      "narasiSuara": "[calm] April 1970, selepas panen, para lelaki bergotong royong di Long Kejiak. [serious] Kali ini bukan pemondokan, melainkan kampung untuk menetap.",
+      "narasi": "April 1970, selepas panen, para lelaki bergotong royong di Long Kejiak. Kali ini bukan pemondokan, melainkan kampung untuk menetap.",
+      "teksLayar": [
+        "Long Kejiak · 1970"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 19
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Long Kejiak",
+      "waktu": "2:02–2:15",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Sedang, sejajar mata; jalan induk Long Kejiak, 1971–1972, siang; Amai Kadjan Laing berdiri di jalan tanah yang baru dibuka, menunjuk arah gang kepada beberapa warga; tenang dan berwibawa, mata menyipit karena silau; warga beragam usia mendengarkan, anak-anak berlari ke sekolah kecil; rumah papan beratap sirap dan sekolah kayu dua kelas; latar depan patok kayu jalan, tengah Kadjan Laing, belakang deretan rumah dan sekolah, cahaya siang hangat, debu jalan beterbangan.",
+      "narasiSuara": "[calm] Tahun 1971, Amai Kadjan Laing, kepala perpindahan gelombang pertama, menjadi kepala kampung. [calm] Jalan ditata, rumah papan beratap sirap berdiri, juga sekolah dua kelas.",
+      "narasi": "Tahun 1971, Amai Kadjan Laing, kepala perpindahan gelombang pertama, menjadi kepala kampung. Jalan ditata, rumah papan beratap sirap berdiri, juga sekolah dua kelas.",
+      "teksLayar": [
+        "1971"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 23
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Long Kejiak",
+      "waktu": "2:15–2:25",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lebar, dari samping; tepian Long Kejiak, pertengahan 1970-an, pagi; warga menurunkan papan, lembaran seng, dan karung beras dari perahu; sibuk dan bersemangat; beberapa lelaki memikul seng, seorang anak menuntun kerbau, perempuan membawa keranjang; perahu kayu panjang, papan, seng, karung beras, kerbau, dan ayam; latar depan tumpukan seng berkilau, tengah warga di tepian, belakang kampung dengan atap campuran sirap dan seng, cahaya pagi dari kiri, air sungai beriak.",
+      "narasiSuara": "[calm] Tahun 1974 sampai 1978, kampung ini masuk Proyek Respen pemerintah. [calm] Datang bantuan papan, seng, ternak, obat, dan beras.",
+      "narasi": "Tahun 1974 sampai 1978, kampung ini masuk Proyek Respen pemerintah. Datang bantuan papan, seng, ternak, obat, dan beras.",
+      "teksLayar": [
+        "1974–1978"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Miau Baru",
+      "waktu": "2:25–2:37",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Sedang-lebar, dari belakang seorang tetua; tepi Long Kejiak, 1978, senja; seorang tetua berdiri menatap perbukitan di kejauhan; tenang dan haru, bahu sedikit turun; beberapa warga berdiri di belakangnya ikut memandang; kemeja dan sarung pudar, kampung beratap campuran sirap dan seng; latar depan pagar kayu, tengah sang tetua dari belakang, belakang Sungai Wahau dan perbukitan berlapis kabut, cahaya senja jingga rendah, burung terbang pulang.",
+      "narasiSuara": "[serious] Saat program itu berakhir pada 1978, Long Kejiak berganti nama: Desa Persiapan Miau Baru. [curious] Mengapa Miau? [calm] Untuk mengenang cita-cita awal mereka: Sungai Miau.",
+      "narasi": "Saat program itu berakhir pada 1978, Long Kejiak berganti nama: Desa Persiapan Miau Baru. Mengapa Miau? Untuk mengenang cita-cita awal mereka: Sungai Miau.",
+      "teksLayar": [
+        "1978"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "petaAnimasi": false,
+      "kata": 23
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Miau Baru",
+      "waktu": "2:37–2:52",
+      "durasiCadangan": 15,
+      "bidikan": "B",
+      "visual": "lebar, sedikit dari bawah; Desa Miau Baru, masa kini, senja; anak-anak berlari di tepi Sungai Wahau, sementara seorang nenek duduk di serambi rumah kayu memandang sungai; hangat dan reflektif; warga lain beragam usia pulang dari kebun; rumah kayu, lumbung padi dan lamin berukir, pakaian sehari-hari masa kini; latar depan rumput tepi sungai, tengah anak-anak dan sungai, belakang rumah-rumah desa, cahaya senja keemasan dari kanan, riak air berkilau.",
+      "narasiSuara": "[calm] Pada 30 April 1997, Miau Baru resmi menjadi desa. [calm] Hari ini, desa di Kecamatan Kongbeng itu membawa nama sungai yang tidak jadi mereka huni... [sad] tetapi tidak mereka lupakan.",
+      "narasi": "Pada 30 April 1997, Miau Baru resmi menjadi desa. Hari ini, desa di Kecamatan Kongbeng itu membawa nama sungai yang tidak jadi mereka huni... tetapi tidak mereka lupakan.",
+      "teksLayar": [
+        "Miau Baru · 1997"
+      ],
+      "suara": "Musik menghangat menuju kartu Ulikan.",
+      "hening": false,
+      "epilog": true,
+      "petaAnimasi": false,
+      "kata": 28
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Amai Laway Ngau",
+      "prompt": "Character reference sheet of Amai Laway Ngau.\nAmai Laway Ngau, a Kayan Uma' Lekan elder and spokesman from the Apau Kayan highlands of Borneo in the early 1960s, a man in his late forties. Lean, sinewy build of an upriver farmer and boatman; warm medium-brown skin; long face with high cheekbones; narrow deep-set dark eyes; straight thick brows; broad flat nose; thin firm lips; faint lines at the eye corners; straight black hair cut short with a few grey strands; no tattoos; earlobes slightly stretched with no earrings. He wears a faded ivory-white long-sleeved cotton shirt with the sleeves rolled to the elbow, plain dark brown knee-length cotton shorts, and goes barefoot. A parang machete in a plain wooden sheath bound with split rattan hangs on a cord at his left hip. He leans slightly forward when he speaks, open palms raised, and listens with his head tilted.\nFull-body front, side and back views in a relaxed standing pose, one three-quarter portrait of the face, and one detail panel showing the rolled shirt sleeve, the rattan-bound wooden parang sheath and the stretched empty earlobe. Plain light warm-grey background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading.\nHistorically accurate Kayan Dayak villager of the Apau Kayan highlands in the early 1960s, after missionary influence: plain traded cotton clothing, no tattoos on younger men, no feathered war costume.\nAvoid hornbill feather headdresses, beaded festival vests, leopard-skin capes, heavy brass earrings on him, tattoos, modern logos or synthetic fabrics, sandals or shoes, parang batik motif, extra or malformed hands and fingers, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Di tepi Sungai Wahau ada desa bernama Miau Baru. Namanya diambil dari sungai yang tidak pernah mereka huni.",
+      "prompt": "Very wide high-angle shot over Miau Baru village on a bend of the Wahau River, East Kalimantan, present day, a misty morning. Foreground: treetops and drifting mist; middle ground: the village along the river bend, rows of wooden and plain modern houses with metal roofs, a long carved wooden Kayan longhouse (lamin) near the centre, a carved wooden rice granary on posts, a few small boats moored at the bank; background: low forested hills and farmland fading into haze. A few tiny villagers walk along the village road and one paddles a small boat; varied ages, everyday modern clothes. Morning gold light from the left; thin mist moves slowly over the water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of morning gold, misty blue and earth brown with deep shadows.\nAccurate present-day Dayak Kayan village of East Kalimantan with traditional carved wood motifs.\nAvoid readable signs, text, letters, logos, skyscrapers, characters looking at the camera, extra or malformed hands and fingers, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:19",
+      "narasi": "Kisah kita lanjutkan di Sungai Kelai. Tiga puluh orang meninggal di sana, sebelum panen akhirnya tiba.",
+      "prompt": "Wide shot at eye level of a hill-rice field beside the Kelai River, East Kalimantan, early 1966, an overcast morning. Foreground: heavy golden rice panicles; middle ground: Kayan villagers harvesting by hand, cutting the panicles with small finger knives and dropping them into rattan baskets at their hips, faces tired, relief held back; one old man pauses and turns his head toward the edge of the field, brows drawn, mouth closed; background: at the field's edge a few simple wooden grave markers shaped as plain crosses, then dark forest. Many different villagers of varied ages in faded cotton shirts, blouses and sarongs, wide palm-leaf sun hats, barefoot. Soft grey light; wind bends the rice gently.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of morning gold, misty blue and earth brown, muted under cloud, with deep shadows.\nHistorically accurate 1966 Kayan swidden harvest in interior Borneo.\nAvoid sickles, machines, modern clothes, plastic, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:30",
+      "narasi": "Menurut catatan penelitian, April 1966 mereka pindah ke Long La'ai dan Long Bui. Lagi-lagi membuka ladang, mencari gaharu dan rotan.",
+      "prompt": "Medium-wide side shot at the forest edge near the Long Bui camp, interior East Kalimantan, 1966, a humid midday. Foreground: ferns and a fallen trunk; middle ground: a wiry Kayan man stepping out of the forest carrying a long coiled bundle of rattan canes on his shoulder, jaw set, eyes on the path, sweat on his brow; beside the path two women clear a newly burned swidden field with parang and a boy carries water in a bamboo tube; background: the cleared field with blackened stumps and a row of pole huts with leaf-thatch roofs. Different villagers of varied ages in faded cotton clothes, barefoot. Sunlight shafts break through the canopy; thin smoke from the burned field rises slowly.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep forest green, weathered wood brown and late gold with deep shadows.\nHistorically accurate 1966 Kayan forest camp, swidden farming and rattan collecting.\nAvoid chainsaws, trucks, plastic, modern backpacks, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:40",
+      "narasi": "Di Long Bui, mereka mendirikan gereja yang cukup besar. Di sana digelar Adat Pakan, syukur di awal panen.",
+      "prompt": "Wide shot from a slightly low angle at the Long Bui camp, interior East Kalimantan, 1966 to 1967, a clear late afternoon. Foreground: hands holding bundles of freshly cut rice panicles; middle ground: a crowd of Kayan villagers of all ages gathered in front of a fairly large plain wooden church made of planks, with a steep gabled roof of wooden shingles, open front doors and a simple wooden cross on the gable; background: smaller pole huts and the forest. The villagers stand together, solemn and thankful, some heads bowed, an elder at the front holding up the first rice bundle, others carrying rattan baskets. Different people with varied faces, faded cotton shirts, blouses and sarongs, barefoot. Warm afternoon light from the right; thin dust and cooking smoke drift between the huts.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep forest green, weathered wood brown and late gold with deep shadows.\nHistorically accurate 1960s Protestant Kayan congregation in a forest camp of interior Borneo.\nAvoid stone or brick church, stained glass, bell tower, steeple, metal roof, Catholic statues, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:40–0:48",
+      "narasi": "Tapi di Long Bui, dua puluh empat orang meninggal karena sakit. Di Long La'ai, sekitar empat.",
+      "prompt": "Medium shot at eye level on the veranda of a pole hut at the Long Bui camp, 1967, dusk; quiet grief. Foreground: an empty rolled-up sleeping mat; middle ground: an old Kayan woman sitting with her arms around her knees, eyes looking emptily into the yard, mouth pressed shut; two children sit silently near her; a man stands on the hut's notched-log steps with his head bowed; background: a row of huts and, in the distance, the plank church. No bodies are shown. Different people in faded cotton clothes; the old woman has long stretched earlobes with brass rings. Dim dusk light from the left; thin smoke drifts across the yard.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep forest green, weathered wood brown and dim gold with deep shadows.\nHistorically accurate 1967 Kayan forest camp.\nAvoid bodies, coffins, sickbeds, tears streaming, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:48–0:56",
+      "narasi": "April 1967, mereka membangun pemondokan kesepuluh di Sungai Melantiba. Di sana, penyakit datang lagi.",
+      "prompt": "Wide shot from a low height on the bank of the Melantiba River, interior East Kalimantan, April 1967, an overcast midday. Foreground: a small fire on stones where a mother wraps a worn cotton cloth around a limp, feverish child, brows knitted, eyes on the child's face; middle ground: villagers raising the pole frame of a new hut, lifting posts and laying leaf thatch, busy but uneasy; background: the river and dense forest. A dozen different villagers of varied ages in faded cotton clothes, barefoot. Flat grey light; smoke from the fire drifts low over the ground.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of night blue, lamp amber and pale grey with deep shadows.\nHistorically accurate 1967 Kayan temporary forest camp.\nAvoid tents, tarpaulins, medical equipment, plastic, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:56–1:06",
+      "narasi": "Ada yang meninggal hanya dalam tiga hari. Tercatat sekitar dua puluh orang meninggal di Melantiba.",
+      "prompt": "Wide shot at eye level of the Melantiba camp at night, interior East Kalimantan, 1967; a silent, mournful moment. Foreground: wet ground and a pair of small worn sandals left by the steps; middle ground: a row of dark pole huts, only one small clay oil lamp burning on a veranda; a few villagers sit outside the huts keeping vigil, heads bowed, hands clasped, very still; background: the black forest. No bodies are visible. Different people of varied ages in faded cotton clothes. A single warm lamp flame in the deep blue night; the flame sways slightly.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of night blue, lamp amber and pale grey with deep shadows.\nHistorically accurate 1967 Kayan forest camp at night.\nAvoid bodies, coffins, blood, electric lights, characters looking at the camera, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:06–1:16",
+      "narasi": "Amai Laway Ngau mengutus orang untuk meminta obat. Ke Bupati Kutai di Tenggarong, dan ke Gubernur di Samarinda.",
+      "prompt": "Same character as the Amai Laway Ngau reference image, now about six years older with more grey in his hair.\nMedium shot over the shoulders of the envoys on the bank of the Melantiba River, interior East Kalimantan, 1967, a pale morning. Foreground: the backs and shoulders of three envoys ready to leave, each with a small rattan back basket of provisions; middle ground: Amai Laway Ngau standing at the water's edge giving instructions, one hand on the shoulder of the nearest envoy, brows drawn together, eyes steady and worried, mouth mid-sentence; background: a narrow dugout canoe at the bank, the river and misty forest. The envoys are different men from Amai Laway Ngau, younger and older, in faded cotton shirts and shorts; villagers watch from the bank. Pale morning light from the right; mist hangs on the water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of night blue, lamp amber and pale grey, lifting to pale morning, with deep shadows.\nHistorically accurate 1967 Kayan leader and envoys in interior Borneo.\nAvoid outboard motors, uniforms, firearms, characters looking at the camera, background figures copying Amai Laway Ngau's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:16–1:25",
+      "narasi": "Maret 1968, mereka merintis jalan ke Sungai Halang dan membuat perahu. Agustus, kemarau panjang datang.",
+      "prompt": "Wide low shot on the bank of the Halang River, interior East Kalimantan, August 1968, a harsh midday. Foreground: wood chips and an adze on the ground; middle ground: Kayan men carving a log into a dugout canoe with adzes and axes beside a shrinking river; one man wipes sweat from his brow and squints at the cloudless sky, mouth tight; background: a dried-out hill-rice field with wilting plants and the shallow, stony riverbed, where a woman stands looking at the field. Different men of varied ages, bare-chested or in faded shirts, dark shorts, barefoot. Harsh overhead sun; wood dust and fine soil drift in the hot air.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bleached straw yellow, dry stone grey and dull earth brown with deep shadows.\nHistorically accurate 1968 Kayan dugout canoe building in interior Borneo.\nAvoid chainsaws, power tools, outboard motors, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:25–1:33",
+      "narasi": "Ladang di Halang terancam gagal. Amai Laway Ngau memutuskan untuk segera menuju Sungai Wahau.",
+      "prompt": "Backup illustration (the video uses the animated map for this scene). Wide aerial view over interior East Kalimantan, 1968 to 1969, hazy dry-season afternoon. Foreground: a forested ridge; middle ground: a long line of small figures carrying rattan back baskets along a newly cut path, descending from the hills toward a broad river valley; background: the Wahau River winding through lower forest toward the horizon. Tiny villagers of varied ages, faded clothes. Hazy warm light from the right; dust rises from the dry path.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bleached straw yellow, dry stone grey and dull earth brown with deep shadows.\nHistorically accurate 1960s Kayan travellers crossing interior Borneo.\nAvoid maps, text, labels, letters, roads, vehicles, characters looking at the camera, extra or malformed hands and fingers, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:33–1:42",
+      "narasi": "Juni 1969, mereka mulai tiba di Sungai Wahau... berangsur-angsur, karena air sungai surut akibat kemarau panjang.",
+      "prompt": "Wide side shot on the Wahau River, East Kalimantan, June 1969, a hot midday. Foreground: dry exposed river stones; middle ground: villagers wading knee-deep, hauling a loaded dugout canoe by ropes through the shallow, stony water while others push from behind, muscles strained, faces tired but determined, eyes on the water ahead; children walk along the bank carrying small bundles; background: forested banks and a pale sky. Dozens of different villagers of all ages in faded cotton clothes, barefoot. Harsh overhead light; small splashes of water around their legs.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bleached straw yellow, dry stone grey and shallow river green with deep shadows.\nHistorically accurate 1969 Kayan river journey in the dry season.\nAvoid outboard motors, life jackets, plastic, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:42–1:52",
+      "narasi": "Pemondokan mereka terpencar: hilir dan hulu Long Pesap, juga Long Kejiak. Selain berladang, mereka menjadi buruh perusahaan kayu.",
+      "prompt": "Medium-wide shot from slightly above on the bank of the Wahau River near Long Kejiak, East Kalimantan, 1969, a pale morning. Foreground: the cut ends of large felled logs; middle ground: several Kayan men working as timber labourers, levering heavy logs along wooden skid rails toward the river with poles and ropes, tired and silent, eyes down on the work; other labourers of varied ages roll a log into the water; background: the river with floating logs and, on the far bank, the small pole huts of the Kayan camp. Faded cotton shirts and shorts, barefoot or in simple rubber sandals. Pale morning light from the left; thin mist over the water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bleached straw yellow, dry stone grey and shallow river green, softened by morning, with deep shadows.\nHistorically accurate late-1960s manual logging in East Kalimantan.\nAvoid chainsaws, bulldozers, logging trucks, hard hats, high-visibility vests, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:52–2:02",
+      "narasi": "April 1970, selepas panen, para lelaki bergotong royong di Long Kejiak. Kali ini bukan pemondokan, melainkan kampung untuk menetap.",
+      "prompt": "Wide shot from a slightly low angle at Long Kejiak on the Wahau River, East Kalimantan, April 1970, a clear morning. Foreground: a stack of fresh wooden planks; middle ground: dozens of Kayan men together raising a tall wooden house post with ropes and poles, some smiling while straining under the weight, others steadying the base; background: other house frames going up and the river beyond. Women and children watch nearby, carrying water in bamboo tubes. Different people of all ages, faded cotton clothes, barefoot. Golden morning light from the left; sawdust and dust float in the air.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm morning gold, fresh pale timber and river green with deep shadows.\nHistorically accurate 1970 Kayan village building with timber and wooden shingles.\nAvoid metal roofs, concrete, power tools, vehicles, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:02–2:15",
+      "narasi": "Tahun 1971, Amai Kadjan Laing, kepala perpindahan gelombang pertama, menjadi kepala kampung. Jalan ditata, rumah papan beratap sirap berdiri, juga sekolah dua kelas.",
+      "prompt": "Amai Kadjan Laing, a Kayan Uma' Lekan leader who headed the first migration wave and became village head of Long Kejiak in 1971, a man of about fifty. Compact, sturdy build; brown skin; square face with a broad forehead; calm narrow dark eyes; short black hair greying at the temples; clean-shaven; no tattoos. He wears a light khaki short-sleeved cotton shirt tucked into dark long trousers with a plain belt, and simple rubber sandals.\nMedium shot at eye level on the newly opened main dirt road of Long Kejiak, East Kalimantan, 1971 to 1972, midday. Foreground: wooden survey stakes marking the road edge; middle ground: Amai Kadjan Laing pointing along a new side lane while explaining to several villagers, calm and authoritative, eyes narrowed against the glare; background: a row of simple plank houses with wooden-shingle roofs and a small two-classroom wooden school, children running toward it. The villagers are different people of varied ages in faded cotton clothes. Warm midday light; dust lifts from the road.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm morning gold, fresh pale timber and river green with deep shadows.\nHistorically accurate early-1970s planned Kayan village in East Kalimantan.\nAvoid metal roofs, vehicles, flags with text, signboards, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:15–2:25",
+      "narasi": "Tahun 1974 sampai 1978, kampung ini masuk Proyek Respen pemerintah. Datang bantuan papan, seng, ternak, obat, dan beras.",
+      "prompt": "Wide side shot on the riverbank of Long Kejiak, East Kalimantan, mid-1970s, a bright morning. Foreground: a stack of corrugated zinc roofing sheets catching the light; middle ground: villagers unloading planks, zinc sheets and rice sacks from long wooden boats, men carrying zinc sheets on their shoulders, a boy leading a water buffalo, women carrying baskets of chickens, busy and cheerful; background: the village with a mix of wooden-shingle and new zinc roofs. Different people of all ages in faded cotton clothes. Morning light from the left; the river ripples.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of warm morning gold, fresh pale timber, river green and a glint of zinc grey with deep shadows.\nHistorically accurate 1970s government resettlement aid to a Kayan village.\nAvoid printed sack labels, logos, trucks, characters looking at the camera, identical faces, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:25–2:37",
+      "narasi": "Saat program itu berakhir pada 1978, Long Kejiak berganti nama: Desa Persiapan Miau Baru. Mengapa Miau? Untuk mengenang cita-cita awal mereka: Sungai Miau.",
+      "prompt": "Medium-wide shot from behind an elderly Kayan man at the edge of Long Kejiak, East Kalimantan, 1978, dusk. Foreground: a wooden fence; middle ground: the elder standing still, seen from behind, shoulders slightly lowered, gazing at the distant hills; a few villagers stand behind him, also looking; background: the Wahau River and layers of misty hills, birds flying home. Calm and moved. Faded cotton shirts and sarongs; the village behind has mixed shingle and zinc roofs. Low orange dusk light; mist drifts between the hills.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusk orange, lamp amber and deep brown shadows.\nHistorically accurate 1978 Kayan village on the Wahau River.\nAvoid signboards, text, characters looking at the camera, extra or malformed hands and fingers, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:37–2:52",
+      "narasi": "Pada 30 April 1997, Miau Baru resmi menjadi desa. Hari ini, desa di Kecamatan Kongbeng itu membawa nama sungai yang tidak jadi mereka huni... tetapi tidak mereka lupakan.",
+      "prompt": "Wide shot from a slightly low angle in Miau Baru village on the Wahau River, East Kalimantan, present day, dusk; warm and reflective. Foreground: grass on the riverbank; middle ground: children running along the river's edge while an old Kayan woman sits on the veranda of a wooden house, gazing at the water; behind them villagers of varied ages walk home from the fields; background: village houses, a carved wooden rice granary on posts and the roofline of a carved Kayan longhouse. Everyday modern clothes. Golden dusk light from the right; ripples glitter on the river.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of dusk orange, lamp amber and deep brown shadows.\nAccurate present-day Dayak Kayan village of East Kalimantan with traditional carved wood motifs.\nAvoid readable signs, text, letters, logos, characters looking at the camera, extra or malformed hands and fingers, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "- (sama dengan Part 1)",
+    "stability": "Natural",
+    "arahan": "- Babak 1 (pembuka): tenang, sedikit misterius di \"tidak pernah mereka huni\"; turun dan sedih di rekap.\n- Babak 2 (Long Bui): tenang dan jernih; hangat di Adat Pakan; pelan di angka korban.\n- Babak 3 (wabah dan kemarau): adegan 7 paling pelan, berbisik di kalimat kedua; adegan 9 menegang di \"kemarau panjang datang\".\n- Babak 4 (tiba): tegang lalu lega; jeda di elipsis \"tiba di Sungai Wahau...\".\n- Babak 5 (Long Kejiak): hangat, tempo sedikit lebih ringan.\n- Babak 6 (Miau Baru): melambat; jeda sebelum \"Mengapa Miau?\" dan sebelum \"tetapi tidak mereka lupakan\".",
+    "arahanBabak": {
+      "1": "tenang, sedikit misterius di \"tidak pernah mereka huni\"; turun dan sedih di rekap.",
+      "2": "tenang dan jernih; hangat di Adat Pakan; pelan di angka korban.",
+      "3": "adegan 7 paling pelan, berbisik di kalimat kedua; adegan 9 menegang di \"kemarau panjang datang\".",
+      "4": "tegang lalu lega; jeda di elipsis \"tiba di Sungai Wahau...\".",
+      "5": "hangat, tempo sedikit lebih ringan.",
+      "6": "melambat; jeda sebelum \"Mengapa Miau?\" dan sebelum \"tetapi tidak mereka lupakan\"."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[serious] Di tepi Sungai Wahau ada desa bernama Miau Baru. [curious] Namanya diambil dari sungai yang tidak pernah mereka huni...\n\n[calm] Kisah kita lanjutkan di Sungai Kelai. [sad] Tiga puluh orang meninggal di sana, sebelum panen akhirnya tiba...",
+    "2": "[calm] Menurut catatan penelitian, April 1966 mereka pindah ke Long La'ai dan Long Bui. [serious] Lagi-lagi membuka ladang, mencari gaharu dan rotan...\n\n[calm] Di Long Bui, mereka mendirikan gereja yang cukup besar. [serious] Di sana digelar Adat Pakan, syukur di awal panen...\n\n[sad] Tapi di Long Bui, dua puluh empat orang meninggal karena sakit. [sad] Di Long La'ai, sekitar empat...",
+    "3": "[serious] April 1967, mereka membangun pemondokan kesepuluh di Sungai Melantiba. [tense] Di sana, penyakit datang lagi...\n\n[sad] Ada yang meninggal hanya dalam tiga hari. [sad] [whispers] Tercatat sekitar dua puluh orang meninggal di Melantiba...\n\n[serious] Amai Laway Ngau mengutus orang untuk meminta obat. [calm] Ke Bupati Kutai di Tenggarong, dan ke Gubernur di Samarinda...\n\n[calm] Maret 1968, mereka merintis jalan ke Sungai Halang dan membuat perahu. [tense] Agustus, kemarau panjang datang...",
+    "4": "[serious] Ladang di Halang terancam gagal. [calm] Amai Laway Ngau memutuskan untuk segera menuju Sungai Wahau...\n\n[tense] Juni 1969, mereka mulai tiba di Sungai Wahau... [calm] berangsur-angsur, karena air sungai surut akibat kemarau panjang...\n\n[calm] Pemondokan mereka terpencar: hilir dan hulu Long Pesap, juga Long Kejiak. [serious] Selain berladang, mereka menjadi buruh perusahaan kayu...",
+    "5": "[calm] April 1970, selepas panen, para lelaki bergotong royong di Long Kejiak. [serious] Kali ini bukan pemondokan, melainkan kampung untuk menetap...\n\n[calm] Tahun 1971, Amai Kadjan Laing, kepala perpindahan gelombang pertama, menjadi kepala kampung. [calm] Jalan ditata, rumah papan beratap sirap berdiri, juga sekolah dua kelas...\n\n[calm] Tahun 1974 sampai 1978, kampung ini masuk Proyek Respen pemerintah. [calm] Datang bantuan papan, seng, ternak, obat, dan beras...",
+    "6": "[serious] Saat program itu berakhir pada 1978, Long Kejiak berganti nama: Desa Persiapan Miau Baru. [curious] Mengapa Miau? [calm] Untuk mengenang cita-cita awal mereka: Sungai Miau...\n\n[calm] Pada 30 April 1997, Miau Baru resmi menjadi desa. [calm] Hari ini, desa di Kecamatan Kongbeng itu membawa nama sungai yang tidak jadi mereka huni... [sad] tetapi tidak mereka lupakan..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Sungai yang tak dihuni",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "0:55",
+      "suasana": "Sape' tunggal yang menggantung, lalu getir dan tekun",
+      "style": "Instrumental Borneo Dayak folk ambient, solo sape' lute with a slow pentatonic melody that hangs unresolved over a soft low drone, then turns quietly sorrowful and steady, sparse and intimate, about 55 seconds (0:55), 68 BPM, no vocals",
+      "exclude": "vocals, gamelan, epic trailer drums, orchestral hits, EDM, pop beat"
+    },
+    {
+      "nomor": 2,
+      "nama": "Wabah dan kemarau",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:45",
+      "suasana": "Gong rendah dan dengung, hampir sunyi di momen hening, lalu gerah",
+      "style": "Instrumental solemn Borneo ambient, deep bossed gong strokes spaced wide apart over a low dark drone, drops to near silence with only a faint drone for a quiet passage, then a dry restless pulse of soft hand drum and sparse sape' as heat and drought set in, about 45 seconds (0:45), 60 BPM, no vocals",
+      "exclude": "vocals, gamelan, war drums, horror stingers, EDM, pop beat"
+    },
+    {
+      "nomor": 3,
+      "nama": "Miau Baru",
+      "babakAwal": 4,
+      "babakAkhir": 6,
+      "durasiTarget": "1:40",
+      "suasana": "Dari lelah ke lega, lalu hangat dan reflektif sampai kartu Ulikan",
+      "style": "Instrumental Borneo Dayak folk, sape' melody that starts weary over a soft drone, gradually opens into a warm hopeful theme with gentle strings and a light hand-drum pulse, then settles into a tender reflective ending with long sape' notes that slowly fade, about 100 seconds (1:40), 72 BPM, no vocals",
+      "exclude": "vocals, gamelan, epic trailer drums, orchestral hits, horror stingers, EDM"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Pagi di desa tepi sungai, ayam jauh, air",
+      "kataKunci": "river village morning",
+      "prompt": "Quiet riverside village morning, distant rooster, soft water, faint voices"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Angin di ladang padi, potongan padi",
+      "kataKunci": "rice field wind harvest",
+      "prompt": "Wind through a rice field with soft rustle of rice being cut by hand"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Hutan siang, langkah, ikatan rotan bergesek",
+      "kataKunci": "jungle footsteps rattan",
+      "prompt": "Rainforest midday ambience, footsteps on leaves, a bundle of rattan canes rubbing"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Kerumunan tenang di luar gereja kayu",
+      "kataKunci": "quiet crowd outdoor",
+      "prompt": "Quiet outdoor gathering murmuring, birds in the late afternoon"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Senja sunyi, serangga",
+      "kataKunci": "dusk insects quiet",
+      "prompt": "Quiet dusk with crickets and distant birds, no voices"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Api kecil, gumam, pukulan pelan memasang tiang",
+      "kataKunci": "small fire camp murmur",
+      "prompt": "Small fire crackling with low murmurs and soft wooden thuds of hut building far away"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Malam hutan, nyala pelita saja",
+      "kataKunci": "night jungle quiet",
+      "prompt": "Very quiet forest night with soft insects and a faint flame flicker"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Sungai pagi, langkah di tepian",
+      "kataKunci": "river morning shore",
+      "prompt": "Calm river at dawn, footsteps on a muddy bank, a wooden canoe nudging the shore"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Pahat kayu, serangga siang panas",
+      "kataKunci": "wood carving adze",
+      "prompt": "Steady wood carving with an adze under hot midday insects"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Angin kering dan dengung pelan",
+      "kataKunci": "dry wind ambience",
+      "prompt": "Dry wind over hills, a low warm ambience"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Air dangkal berbatu, perahu ditarik",
+      "kataKunci": "shallow river wading",
+      "prompt": "Several people wading in a shallow stony river, a wooden canoe scraping over pebbles"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Kayu digulingkan ke air, sungai",
+      "kataKunci": "logs rolling water",
+      "prompt": "Heavy logs rolling slowly along wooden rails and sliding into a river, distant voices"
+    },
+    {
+      "nomor": 13,
+      "adegan": 13,
+      "bunyi": "Gotong royong, tali, aba-aba jauh",
+      "kataKunci": "community building rope",
+      "prompt": "Group of men lifting a wooden post with ropes, soft rhythmic effort, distant children"
+    },
+    {
+      "nomor": 14,
+      "adegan": 14,
+      "bunyi": "Kampung siang, anak-anak jauh",
+      "kataKunci": "village midday children",
+      "prompt": "Village midday ambience with distant children playing"
+    },
+    {
+      "nomor": 15,
+      "adegan": 15,
+      "bunyi": "Seng diturunkan pelan, kerbau, sungai",
+      "kataKunci": "unloading tin sheets river",
+      "prompt": "Corrugated metal sheets set down gently on a riverbank, a water buffalo lowing, river"
+    },
+    {
+      "nomor": 16,
+      "adegan": 16,
+      "bunyi": "Senja, burung pulang",
+      "kataKunci": "dusk birds river",
+      "prompt": "Calm river at dusk with birds flying home"
+    },
+    {
+      "nomor": 17,
+      "adegan": 17,
+      "bunyi": "Anak-anak di tepi sungai senja",
+      "kataKunci": "children river evening",
+      "prompt": "Children laughing far away by a river at dusk, gentle water"
+    }
+  ],
+  "adeganHening": [
+    7
+  ],
+  "ulikan": {
+    "teks": "Awal 1980-an, gelombang kedua 380 orang berangkat dari Long Pura menyusul mereka.",
+    "sumber": "Purba dkk. 2012 (S1), hlm. 56–58",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "Miau Baru: Desa yang Dinamai Sungai yang Tak Pernah Dihuni (Part 2)",
+      "catatan": "Alternatif judul: Lima Tahun Berjalan, Lalu Sungai Pun Surut (Part 2) / Mengapa Desa Ini Bernama Miau Baru? (Part 2)",
+      "caption": "Desa ini dinamai sungai yang tidak pernah mereka huni.\nPart 2 kisah Kayan Uma' Lekan: dari kelaparan di Sungai Kelai, gereja di Long Bui, wabah di Melantiba, sampai tiba di Sungai Wahau pada 1969 dan membangun Long Kejiak, yang kelak bernama Miau Baru.\nKampungmu punya kisah asal nama? Ceritakan di komentar.\nDituturkan ulang dari sumber sejarah; ilustrasi adalah rekonstruksi. Sumber utama: Purba dkk., BPNB Pontianak (2012). Part 2 dari 2.\n#UlikSilam #sejarahindonesia #dayakkayan #kalimantantimur"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "Miau Baru (Part 2)",
+      "catatan": "",
+      "caption": "Kenapa desa di tepi Sungai Wahau ini bernama Miau Baru?\nLima tahun berjalan dari Apau Kayan, orang Kayan Uma' Lekan akhirnya menetap di Long Kejiak. Ini Part 2: wabah, kemarau, dan sebuah nama untuk mengenang.\nKalau kamu menamai kampungmu, apa yang ingin kamu kenang?\nDituturkan ulang dari sumber sejarah; ilustrasi adalah rekonstruksi. Sumber utama: Purba dkk., BPNB Pontianak (2012). Part 2 dari 2.\n#UlikSilam #sejarahindonesia #dayakkayan #ceritasejarah"
+    }
+  ],
+  "pemetaan": null,
+  "peta": {
+    "10": {
+      "bingkai": {
+        "barat": 114.25,
+        "timur": 118.15,
+        "selatan": -1.9,
+        "utara": 5
+      },
+      "sungaiDanGaris": [
+        "Sungai Kelai",
+        "Sungai Wahau",
+        "Sungai Mahakam",
+        "garis pantai Selat Makassar"
+      ],
+      "batas": [
+        {
+          "nama": "Batas Kalimantan–Sarawak",
+          "tahun": "1891, disempurnakan 1928",
+          "sumber": "Konvensi Batas Inggris–Belanda 20 Juni 1891 dan Konvensi Den Haag 1928",
+          "gaya": "garis",
+          "status": "terverifikasi",
+          "pusat": null,
+          "pemicu": null
+        }
+      ],
+      "geojson": [
+        "sungai-kelai.geojson",
+        "sungai-wahau.geojson"
+      ],
+      "jejakSebelumnya": [
+        {
+          "nama": "Apau Kayan",
+          "bujur": 114.95,
+          "lintang": 1.74
+        },
+        {
+          "nama": "titik belok",
+          "bujur": 115.3,
+          "lintang": 1.9
+        },
+        {
+          "nama": "titik belok",
+          "bujur": 115.75,
+          "lintang": 1.98
+        },
+        {
+          "nama": "titik belok",
+          "bujur": 116.2,
+          "lintang": 1.86
+        },
+        {
+          "nama": "Sungai Kelai",
+          "bujur": 116.55,
+          "lintang": 1.72
+        }
+      ],
+      "titik": [
+        {
+          "nomor": 1,
+          "nama": "Sungai Kelai",
+          "bujur": 116.55,
+          "lintang": 1.72,
+          "ikon": "umum:pondok",
+          "pemicu": "awal",
+          "status": "perkiraan"
+        },
+        {
+          "nomor": 2,
+          "nama": "Long Bui",
+          "bujur": 116.85,
+          "lintang": 1.82,
+          "ikon": "umum:gereja",
+          "pemicu": "-",
+          "status": "perkiraan"
+        },
+        {
+          "nomor": 3,
+          "nama": "Melantiba",
+          "bujur": 117.08,
+          "lintang": 1.6,
+          "ikon": "umum:pondok",
+          "pemicu": "-",
+          "status": "perkiraan"
+        },
+        {
+          "nomor": 4,
+          "nama": "Halang",
+          "bujur": 117.02,
+          "lintang": 1.34,
+          "ikon": "umum:pondok",
+          "pemicu": "Halang",
+          "status": "perkiraan"
+        },
+        {
+          "nomor": 5,
+          "nama": "Sungai Wahau",
+          "bujur": 116.94,
+          "lintang": 1.19,
+          "ikon": "umum:pondok",
+          "pemicu": "Sungai Wahau",
+          "status": "perkiraan"
+        }
+      ],
+      "ikonKhusus": [],
+      "catatan": [
+        "Long Bui dan Melantiba tidak disebut di narasi adegan 10, jadi pemicunya `-`: labelnya muncul saat rute lewat, waktunya dibagi rata antara awal dan Halang.",
+        "Long Bui memakai ikon gereja karena di sanalah mereka mendirikan gereja (adegan 4, S1).",
+        "Semua titik berstatus perkiraan karena S1 tidak memberi koordinat pemondokan; peta menampilkan catatan \"rute perkiraan\". Melantiba dan Halang kemungkinan tidak ada di OpenStreetMap, jadi tampil sebagai label saja.",
+        "Titik 5 ditempatkan di ruas Sungai Wahau yang menjadi batas Desa Miau Baru: titik batas TK 29 dan TK 30 di Sungai Wahau (UTM 50N) setara ± 116,93–116,96 BT, 1,18–1,23 LU (S17). Letak persis permukiman Long Kejiak tidak tercatat, jadi statusnya tetap perkiraan; cek di peta sebelum produksi bila ingin lebih tepat.",
+        "Batas Kalimantan–Sarawak sudah berlaku pada 1966–1969 (Konvensi 1891, berlaku 11 Agustus 1892; sektor kecil di Sarawak disempurnakan 1928). Sumber: S19 (A) dan S20 (D).",
+        "Tidak ada ikon khusus."
+      ]
+    }
+  },
+  "kebutuhanGeojson": [
+    {
+      "adegan": 10,
+      "berkas": "sungai-kelai.geojson"
+    },
+    {
+      "adegan": 10,
+      "berkas": "sungai-wahau.geojson"
+    }
+  ],
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 309,
+    "kataPerBabak": {
+      "1": 34,
+      "2": 54,
+      "3": 62,
+      "4": 48,
+      "5": 60,
+      "6": 51
+    },
+    "karakterPerBabak": {
+      "1": 250,
+      "2": 389,
+      "3": 504,
+      "4": 397,
+      "5": 474,
+      "6": 380
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 160.4,
+      "denganMerek": 163.9
+    },
+    "perkiraanDetik135": {
+      "narasi": 155.1,
+      "denganMerek": 158.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

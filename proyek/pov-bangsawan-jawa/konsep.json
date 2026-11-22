@@ -1,0 +1,704 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-17T00:28:28.055Z",
+  "judulDokumen": "Bangsawan Jawa Abad ke-19",
+  "judul": "POV: Kamu Bangsawan Jawa di Abad ke-19",
+  "slug": "pov-bangsawan-jawa",
+  "versi": "v3 · 2026-10-17",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok dan YouTube Shorts (satu file untuk keduanya)",
+  "posisiKamu": "Seorang Raden Mas, putra Bupati, usia sekitar 20 tahun; tanpa nama di narasi karena penonton adalah \"kamu\"",
+  "ringkasan": {
+    "Judul": "POV: Kamu Bangsawan Jawa di Abad ke-19",
+    "Slug": "pov-bangsawan-jawa",
+    "Versi": "v3 · 2026-10-17",
+    "Lapisan": "Sejarah",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Resolusi": "1080 × 1920 px",
+    "Platform": "TikTok dan YouTube Shorts (satu file untuk keduanya)",
+    "Posisi \"kamu\"": "Seorang Raden Mas, putra Bupati, usia sekitar 20 tahun; tanpa nama di narasi karena penonton adalah \"kamu\"",
+    "Latar": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+    "Tempat dan masa cerita": "Kabupaten fiktif di Jawa Tengah, sekitar 1850-an, masa Tanam Paksa",
+    "Sudut pandang narasi": "Orang kedua (\"kamu\")",
+    "Jumlah ilustrasi": "18 (17 adegan + 1 lembar karakter: Raden Mas)",
+    "Nada": "Megah dan hangat di awal, lalu reflektif di akhir"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Hook",
+      "suasana": "Megah, tenang",
+      "palet": "Cokelat soga, indigo, emas kusam, putih gading",
+      "cahaya": "Fajar kebiruan dari belakang"
+    },
+    {
+      "babak": 2,
+      "nama": "Pagi",
+      "suasana": "Hangat, tertata",
+      "palet": "Cokelat soga, indigo, putih gading",
+      "cahaya": "Pagi kebiruan lembut"
+    },
+    {
+      "babak": 3,
+      "nama": "Siang",
+      "suasana": "Resmi, lalu tegang",
+      "palet": "Cokelat soga, emas kusam, indigo",
+      "cahaya": "Siang terang keemasan"
+    },
+    {
+      "babak": 4,
+      "nama": "Sore",
+      "suasana": "Reflektif",
+      "palet": "Cokelat soga, hijau sawah, emas kusam",
+      "cahaya": "Sore jingga"
+    },
+    {
+      "babak": 5,
+      "nama": "Malam",
+      "suasana": "Ramai, lalu sunyi",
+      "palet": "Jingga lampu minyak, cokelat soga, indigo pekat",
+      "cahaya": "Malam remang, satu sumber cahaya (blencong atau lampu minyak)"
+    },
+    {
+      "babak": 6,
+      "nama": "Penutup",
+      "suasana": "Reflektif",
+      "palet": "Cokelat soga, indigo, merah muda dan emas fajar",
+      "cahaya": "Fajar berkabut tipis"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Hook",
+    "2": "Pagi",
+    "3": "Siang",
+    "4": "Sore",
+    "5": "Malam",
+    "6": "Penutup"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Hook",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Tokoh berdiri di tengah pendopo remang, cahaya fajar dari belakang, abdi dalem bersimpuh di kiri dan kanan.",
+      "narasiSuara": "[serious] Kamu lahir sebagai putra seorang Bupati di tanah Jawa. [calm] Semua orang menunduk saat kamu lewat. [whispers] Tapi tak semuanya menunduk karena hormat.",
+      "narasi": "Kamu lahir sebagai putra seorang Bupati di tanah Jawa. Semua orang menunduk saat kamu lewat. Tapi tak semuanya menunduk karena hormat.",
+      "teksLayar": [
+        "POV: Kamu bangsawan Jawa, tahun 1850-an"
+      ],
+      "suara": "gong pelan, gamelan lirih masuk.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 2,
+      "babak": 2,
+      "namaBabak": "Pagi",
+      "waktu": "0:10–0:20",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Kamar dalem, kelambu putih tersibak. Di ambang pintu, abdi dalem berjalan jongkok membawa baskom tembaga sambil menunduk.",
+      "narasiSuara": "[calm] Sebelum matahari terbit, abdi dalem datang berjalan jongkok, karena berdiri tegak di hadapanmu adalah hal yang tak pantas.",
+      "narasi": "Sebelum matahari terbit, abdi dalem datang berjalan jongkok, karena berdiri tegak di hadapanmu adalah hal yang tak pantas.",
+      "teksLayar": [
+        "Laku dodok"
+      ],
+      "suara": "kokok ayam, air dituang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 2,
+      "namaBabak": "Pagi",
+      "waktu": "0:20–0:29",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tanganmu merapikan jarik batik sogan; abdi dalem menyerahkan blangkon dengan kedua tangan.",
+      "narasiSuara": "[calm] Beberapa motif batik hanya pantas dikenakan kaum bangsawan. [serious] Dari kain yang melilit pinggangmu, orang langsung tahu siapa dirimu.",
+      "narasi": "Beberapa motif batik hanya pantas dikenakan kaum bangsawan. Dari kain yang melilit pinggangmu, orang langsung tahu siapa dirimu.",
+      "teksLayar": [
+        "Batik = penanda status"
+      ],
+      "suara": "gemerisik kain.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Pagi",
+      "waktu": "0:29–0:36",
+      "durasiCadangan": 7,
+      "bidikan": "B",
+      "visual": "Close-up punggung tokoh; keris dengan warangka kayu diselipkan di pinggang belakang.",
+      "narasiSuara": "[calm] Terakhir, keris diselipkan di pinggang belakang. [serious] Bukan untuk berkelahi. [serious] Ia pusaka, lambang kehormatan keluargamu.",
+      "narasi": "Terakhir, keris diselipkan di pinggang belakang. Bukan untuk berkelahi. Ia pusaka, lambang kehormatan keluargamu.",
+      "teksLayar": [],
+      "suara": "denting logam halus.",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Pagi",
+      "waktu": "0:36–0:46",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Tokoh bersimpuh dan menyembah ayahnya; di belakangnya abdi dalem bersimpuh lebih rendah.",
+      "narasiSuara": "[calm] Bahasamu pun berlapis. [calm] Kepada ayahmu, krama inggil yang paling halus. [calm] Kepada abdi dalem, cukup ngoko. [serious] Salah memilih kata bisa menjadi aib.",
+      "narasi": "Bahasamu pun berlapis. Kepada ayahmu, krama inggil yang paling halus. Kepada abdi dalem, cukup ngoko. Salah memilih kata bisa menjadi aib.",
+      "teksLayar": [
+        "Krama inggil ↔ ngoko"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Siang",
+      "waktu": "0:46–0:57",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tokoh berjalan ke pendopo kabupaten di bawah payung kebesaran (songsong) yang dipegang abdi dalem. Para wedana dan mantri duduk bersila.",
+      "narasiSuara": "[calm] Menjelang siang, kamu berjalan ke pendopo di bawah payung kebesaran. [calm] Warnanya menandai pangkat keluargamu. [serious] Di sana, ayahmu, Kanjeng Bupati, menerima bawahannya.",
+      "narasi": "Menjelang siang, kamu berjalan ke pendopo di bawah payung kebesaran. Warnanya menandai pangkat keluargamu. Di sana, ayahmu, Kanjeng Bupati, menerima bawahannya.",
+      "teksLayar": [],
+      "suara": "langkah di lantai batu, bisik-bisik.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Siang",
+      "waktu": "0:57–1:09",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Kontrolir Belanda duduk di kursi berhadapan dengan Bupati; tokoh duduk di sisi ayahnya.",
+      "narasiSuara": "[tense] Lalu tamu terpenting datang: kontrolir Belanda. [calm] Ayahmu menyambutnya dengan senyum. [tense] Di balik senyum itu ada hitungan: berapa pikul kopi dan tebu yang harus disetor desa-desa.",
+      "narasi": "Lalu tamu terpenting datang: kontrolir Belanda. Ayahmu menyambutnya dengan senyum. Di balik senyum itu ada hitungan: berapa pikul kopi dan tebu yang harus disetor desa-desa.",
+      "teksLayar": [],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "kata": 25
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Siang",
+      "waktu": "1:09–1:21",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Meja berisi daftar setoran, karung kopi di sudut, jari kontrolir menunjuk angka.",
+      "narasiSuara": "[serious] Inilah Tanam Paksa. [serious] Sejak 1830, desa wajib menyerahkan tanah dan tenaga untuk tanaman ekspor. [tense] Para bupati mendapat persenan dari hasil setoran itu. [resigned] Termasuk ayahmu.",
+      "narasi": "Inilah Tanam Paksa. Sejak 1830, desa wajib menyerahkan tanah dan tenaga untuk tanaman ekspor. Para bupati mendapat persenan dari hasil setoran itu. Termasuk ayahmu.",
+      "teksLayar": [
+        "Tanam Paksa, sejak 1830"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Siang",
+      "waktu": "1:21–1:30",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dari pendopo, tokoh menoleh ke alun-alun: petani berjongkok di bawah terik, dua beringin di kejauhan.",
+      "narasiSuara": "[sad] Kamu menoleh ke luar. [sad] Para petani berjongkok di alun-alun, menunggu keputusan yang dibuat tanpa mereka.",
+      "narasi": "Kamu menoleh ke luar. Para petani berjongkok di alun-alun, menunggu keputusan yang dibuat tanpa mereka.",
+      "teksLayar": [],
+      "suara": "angin; gamelan berhenti sejenak.",
+      "hening": true,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Sore",
+      "waktu": "1:30–1:38",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Tokoh bersila di depan guru tua; naskah beraksara Jawa terbuka di meja rendah.",
+      "narasiSuara": "[calm] Sore hari, gurumu membuka serat, naskah beraksara Jawa. [calm] Kamu melagukan tembang macapat berisi nasihat budi pekerti.",
+      "narasi": "Sore hari, gurumu membuka serat, naskah beraksara Jawa. Kamu melagukan tembang macapat berisi nasihat budi pekerti.",
+      "teksLayar": [],
+      "suara": "halaman dibalik, tembang lirih.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Sore",
+      "waktu": "1:38–1:45",
+      "durasiCadangan": 7,
+      "bidikan": "B",
+      "visual": "Jemparingan: tokoh memanah sambil duduk bersila di halaman berpasir.",
+      "narasiSuara": "[calm] Lalu jemparingan: memanah sambil duduk bersila. [calm] Yang dilatih bukan hanya bidikan, tapi ketenangan hati.",
+      "narasi": "Lalu jemparingan: memanah sambil duduk bersila. Yang dilatih bukan hanya bidikan, tapi ketenangan hati.",
+      "teksLayar": [],
+      "suara": "tali busur, panah menancap.",
+      "hening": false,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Sore",
+      "waktu": "1:45–1:56",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tokoh berkuda di pematang sawah; para petani berhenti bekerja dan menunduk.",
+      "narasiSuara": "[calm] Kamu berkuda melewati sawah. [calm] Setiap orang berhenti bekerja dan menunduk. [serious] Kamu bisa memilih untuk tidak melihat mereka. [resigned] Kebanyakan bangsawan memilih begitu.",
+      "narasi": "Kamu berkuda melewati sawah. Setiap orang berhenti bekerja dan menunduk. Kamu bisa memilih untuk tidak melihat mereka. Kebanyakan bangsawan memilih begitu.",
+      "teksLayar": [],
+      "suara": "derap kuda, gemericik air sawah.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Sore",
+      "waktu": "1:56–2:07",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Seorang anak petani berdiri di pematang, menatap lurus ke kamera.",
+      "narasiSuara": "[tense] Tapi sore itu, seorang anak tidak menunduk. [whispers] Ia menatapmu lurus. [sad] Dan entah kenapa, kamulah yang lebih dulu membuang muka.",
+      "narasi": "Tapi sore itu, seorang anak tidak menunduk. Ia menatapmu lurus. Dan entah kenapa, kamulah yang lebih dulu membuang muka.",
+      "teksLayar": [],
+      "suara": "semua senyap, hanya angin.",
+      "hening": true,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Malam",
+      "waktu": "2:07–2:16",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pendopo malam; kelir putih diterangi blencong, dalang dan pengrawit di depan. Tokoh duduk di barisan depan bersama ayahnya.",
+      "narasiSuara": "[calm] Malam tiba. [curious] Pendopo diterangi blencong, lampu minyak di atas kelir. [excited] Gamelan ditabuh, dan dalang memulai pertunjukan semalam suntuk.",
+      "narasi": "Malam tiba. Pendopo diterangi blencong, lampu minyak di atas kelir. Gamelan ditabuh, dan dalang memulai pertunjukan semalam suntuk.",
+      "teksLayar": [],
+      "suara": "gamelan menguat, keprak dalang.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Malam",
+      "waktu": "2:16–2:26",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Bayangan wayang Kumbakarna di kelir; sebagian wajah ayah yang tertawa di tepi frame.",
+      "narasiSuara": "[serious] Lakonnya Kumbakarna Gugur: ksatria yang tahu rajanya salah, tapi tetap maju membela negerinya. [calm] Ayahmu tertawa di adegan lucu. [sad] Kamu tidak.",
+      "narasi": "Lakonnya Kumbakarna Gugur: ksatria yang tahu rajanya salah, tapi tetap maju membela negerinya. Ayahmu tertawa di adegan lucu. Kamu tidak.",
+      "teksLayar": [
+        "Lakon: Kumbakarna Gugur"
+      ],
+      "suara": "-",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Malam",
+      "waktu": "2:26–2:37",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tokoh duduk sendiri di tepi pendopo menjelang subuh, keris di punggung, desa gelap di kejauhan.",
+      "narasiSuara": "[sad] Menjelang subuh, kamu duduk sendiri. [calm] Kain, keris, gelar, semuanya warisan. [serious] Pertanyaannya bukan apa yang kamu warisi, melainkan apa yang akan kamu lakukan dengannya.",
+      "narasi": "Menjelang subuh, kamu duduk sendiri. Kain, keris, gelar, semuanya warisan. Pertanyaannya bukan apa yang kamu warisi, melainkan apa yang akan kamu lakukan dengannya.",
+      "teksLayar": [],
+      "suara": "jangkrik; gamelan memudar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Penutup",
+      "waktu": "2:37–2:47",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pendopo saat fajar dari jauh, tokoh kecil di tengah berbalik menatap kamera; pudar ke hitam.",
+      "narasiSuara": "[serious] Dihormati, dilayani, dan terjepit di antara rakyatmu dan penguasa asing. [curious] Jika kamu di posisinya, apa yang akan kamu pilih?",
+      "narasi": "Dihormati, dilayani, dan terjepit di antara rakyatmu dan penguasa asing. Jika kamu di posisinya, apa yang akan kamu pilih?",
+      "teksLayar": [
+        "Kamu pilih apa? Tulis di komentar."
+      ],
+      "suara": "satu pukulan gong.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Raden Mas",
+      "prompt": "Character reference sheet of a young Javanese nobleman from Central Java in the 1850s, shown three times on a plain cream background: front view, side view, and back view, full body. He is about 20 years old, warm brown skin, slim face, thick eyebrows, calm serious expression, clean-shaven. He wears a brown sogan batik blangkon headcloth, a fitted ivory-white high-collar beskap jacket, a long brown sogan batik jarik wrap cloth with parang motif, and a keris dagger in a carved wooden sheath tucked at the back of his waist, clearly visible in the back view. Barefoot. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, intricate batik pattern details, warm earthy palette of sogan brown, indigo, muted gold and ivory. Vertical 9:16 aspect ratio. Avoid text, labels, modern objects, peci cap, and Balinese or Thai costume.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Kamu lahir sebagai putra seorang Bupati di tanah Jawa. Semua orang menunduk saat kamu lewat. Tapi tak semuanya menunduk karena hormat.",
+      "prompt": "Same character as the Raden Mas reference image. Wide shot inside a grand Javanese pendopo pavilion at dawn, carved teak pillars and a tiered joglo roof, soft blue dawn light glowing behind. The young nobleman stands in the center facing the viewer from a slightly low angle, dignified and calm. Several male servants in plain dark jackets and batik jarik kneel on the floor on both sides with heads bowed. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, intricate batik details, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid text, watermark, modern objects, electric light, peci cap, and Balinese or Thai costume.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:20",
+      "narasi": "Sebelum matahari terbit, abdi dalem datang berjalan jongkok, karena berdiri tegak di hadapanmu adalah hal yang tak pantas.",
+      "prompt": "First-person point of view of the young nobleman sitting on his bed in a Javanese noble bedroom in early morning. White mosquito net pulled open at the edges of the frame, the viewer's knees covered by a brown sogan parang batik cloth in the lower foreground. At the carved wooden doorway, a male servant in a plain dark jacket and batik jarik approaches in a low crouching walk with head bowed, holding a copper water basin with both hands. Pale blue morning light through wooden shutters. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, modern objects, and electric light.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:20–0:29",
+      "narasi": "Beberapa motif batik hanya pantas dikenakan kaum bangsawan. Dari kain yang melilit pinggangmu, orang langsung tahu siapa dirimu.",
+      "prompt": "Same character as the Raden Mas reference image. First-person point of view looking down: the young nobleman's own warm brown hands adjust the folds of a long brown sogan batik jarik with an intricate parang motif at his waist, ivory-white beskap sleeves visible. In front of him, a kneeling servant raises a folded brown batik blangkon headcloth with both hands in a respectful offering. Wooden interior, soft morning light. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, highly detailed batik pattern, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, extra fingers, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:29–0:36",
+      "narasi": "Terakhir, keris diselipkan di pinggang belakang. Bukan untuk berkelahi. Ia pusaka, lambang kehormatan keluargamu.",
+      "prompt": "Same character as the Raden Mas reference image. Close-up from behind and slightly to the side of the young nobleman: his hand tucks a keris in a carved wooden sheath into the back of his batik waist sash. The ivory-white beskap jacket and the brown sogan parang batik jarik are shown in fine detail. Soft morning light, simple blurred wooden interior behind. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, subject in the middle third, empty space in the top third. Avoid text, watermark, an unsheathed blade, and the keris worn at the front.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:36–0:46",
+      "narasi": "Bahasamu pun berlapis. Kepada ayahmu, krama inggil yang paling halus. Kepada abdi dalem, cukup ngoko. Salah memilih kata bisa menjadi aib.",
+      "prompt": "Same character as the Raden Mas reference image. Interior of a Javanese noble house in the morning. The young nobleman kneels on a woven mat and performs a respectful sembah gesture, palms pressed together and raised to his nose, toward his father seated on a carved wooden chair. The father is a dignified Javanese regent about 55 years old with a thin grey mustache, wearing a dark indigo beskap jacket, brown batik jarik, batik blangkon and a keris at his back. Behind the young nobleman, a servant kneels lower on the floor with head bowed. Warm morning light. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:46–0:57",
+      "narasi": "Menjelang siang, kamu berjalan ke pendopo di bawah payung kebesaran. Warnanya menandai pangkat keluargamu. Di sana, ayahmu, Kanjeng Bupati, menerima bawahannya.",
+      "prompt": "Same character as the Raden Mas reference image. Bright midday in front of the large open pendopo of a Javanese regency residence. The young nobleman walks toward the pendopo, shaded by a large gilded ceremonial parasol held by a servant walking behind him. Inside the pendopo, lower-ranking Javanese officials in dark jackets and blangkon sit cross-legged on the floor in neat rows. Warm golden light, carved teak pillars. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:57–1:09",
+      "narasi": "Lalu tamu terpenting datang: kontrolir Belanda. Ayahmu menyambutnya dengan senyum. Di balik senyum itu ada hitungan: berapa pikul kopi dan tebu yang harus disetor desa-desa.",
+      "prompt": "Same character as the Raden Mas reference image. Inside a Javanese pendopo at midday. A Javanese regent about 55 years old with a thin grey mustache, in a dark indigo beskap and batik blangkon, sits on a carved wooden chair facing a Dutch colonial civil official seated on another chair, a small table with tea cups between them. The Dutch official is a mid-19th-century European man with sideburns, wearing a dark long frock coat, white high-collar shirt and cravat. Both smile politely, but the mood is tense. The young nobleman sits cross-legged on the floor beside his father's chair, watching quietly. Javanese officials kneel in the background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, pith helmet, and early 20th-century safari uniform.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:09–1:21",
+      "narasi": "Inilah Tanam Paksa. Sejak 1830, desa wajib menyerahkan tanah dan tenaga untuk tanaman ekspor. Para bupati mendapat persenan dari hasil setoran itu. Termasuk ayahmu.",
+      "prompt": "First-person point of view of a young Javanese nobleman seated at a wooden table at midday, the edge of his ivory-white sleeve visible at the bottom of the frame. In the foreground lies an open handwritten ledger with columns of numbers in old-fashioned handwriting, and a European hand in a dark coat sleeve points at one figure. Burlap sacks of coffee beans and bundles of sugarcane are stacked in the corner of the room. Dramatic side light. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid readable text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:21–1:30",
+      "narasi": "Kamu menoleh ke luar. Para petani berjongkok di alun-alun, menunggu keputusan yang dibuat tanpa mereka.",
+      "prompt": "Same character as the Raden Mas reference image. Over-the-shoulder view from behind the young nobleman standing at the edge of a Javanese pendopo, looking out at the town square under harsh midday sun. Rows of barefoot farmers in simple dark clothes and woven bamboo hats squat on the dusty ground, waiting. Two large banyan trees with fenced trunks stand in the distance. Hot, hazy atmosphere. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:30–1:38",
+      "narasi": "Sore hari, gurumu membuka serat, naskah beraksara Jawa. Kamu melagukan tembang macapat berisi nasihat budi pekerti.",
+      "prompt": "Same character as the Raden Mas reference image. Afternoon in a quiet wooden study room. The young nobleman sits cross-legged on a woven mat facing an elderly Javanese teacher with white hair, in a plain dark jacket and blangkon. Between them, on a low carved wooden lectern, lies an open handwritten manuscript in Javanese script on aged paper. Warm orange afternoon light through carved wooden lattice windows. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid Latin text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:38–1:45",
+      "narasi": "Lalu jemparingan: memanah sambil duduk bersila. Yang dilatih bukan hanya bidikan, tapi ketenangan hati.",
+      "prompt": "Same character as the Raden Mas reference image. Late afternoon in a sandy courtyard. The young nobleman practices jemparingan, traditional Javanese archery: he sits cross-legged on the ground, draws a slender wooden bow tilted nearly horizontal across his body, and aims at a small cylindrical target hanging from a wooden frame in the distance. Calm, focused expression. Long orange shadows. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid text, watermark, a standing archer, and a modern bow.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:56",
+      "narasi": "Kamu berkuda melewati sawah. Setiap orang berhenti bekerja dan menunduk. Kamu bisa memilih untuk tidak melihat mereka. Kebanyakan bangsawan memilih begitu.",
+      "prompt": "Same character as the Raden Mas reference image. Golden hour over rice fields in Central Java. The young nobleman rides a brown horse along a narrow dirt embankment between flooded green rice paddies. Farmers in woven bamboo hats stop working and bow deeply as he passes. The silhouette of a volcano rises on the horizon under a warm orange sky. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold, ivory and rice-field green, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:56–2:07",
+      "narasi": "Tapi sore itu, seorang anak tidak menunduk. Ia menatapmu lurus. Dan entah kenapa, kamulah yang lebih dulu membuang muka.",
+      "prompt": "First-person point of view of a young Javanese nobleman on horseback at sunset, his warm brown hands holding leather reins at the bottom of the frame, ivory-white sleeves visible. On the rice field embankment ahead stands a thin barefoot village boy about 9 years old in simple faded clothes. He stands straight and looks directly into the viewer's eyes with a steady, unafraid gaze, while the adults behind him bow low. Golden-orange sunset light, quiet emotional mood. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, the boy in the middle third, empty space in the top third. Avoid text, watermark, and modern clothing.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:07–2:16",
+      "narasi": "Malam tiba. Pendopo diterangi blencong, lampu minyak di atas kelir. Gamelan ditabuh, dan dalang memulai pertunjukan semalam suntuk.",
+      "prompt": "Same character as the Raden Mas reference image. Night inside a large Javanese pendopo during a wayang kulit shadow puppet performance. A white cloth screen glows under a hanging oil lamp; a puppeteer sits cross-legged in front of it holding carved leather puppets, with gamelan musicians and bronze instruments behind him. In the front row, the young nobleman and his father, an older man with a thin grey mustache in a dark indigo beskap, sit on mats watching. Warm flickering orange lamplight and deep shadows. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of lamplight orange, sogan brown and deep indigo, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, empty space in the top third. Avoid text, watermark, and electric light.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:16–2:26",
+      "narasi": "Lakonnya Kumbakarna Gugur: ksatria yang tahu rajanya salah, tapi tetap maju membela negerinya. Ayahmu tertawa di adegan lucu. Kamu tidak.",
+      "prompt": "First-person point of view of a young Javanese nobleman watching a wayang kulit performance at night. In the center, an intricately carved leather puppet of the giant warrior Kumbakarna is held up against the glowing white screen, casting a huge dramatic shadow. At the edge of the frame, the profile of an older Javanese man with a thin grey mustache and batik blangkon, laughing. Flickering oil lamplight, deep indigo darkness around. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm palette of lamplight orange, sogan brown and deep indigo, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, the puppet in the middle third, empty space in the top third. Avoid text, watermark, and electric light.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:26–2:37",
+      "narasi": "Menjelang subuh, kamu duduk sendiri. Kain, keris, gelar, semuanya warisan. Pertanyaannya bukan apa yang kamu warisi, melainkan apa yang akan kamu lakukan dengannya.",
+      "prompt": "Same character as the Raden Mas reference image. Before dawn, the young nobleman sits alone on the edge steps of an empty Javanese pendopo, seen from the side, looking out pensively, the keris visible at his back. A single oil lamp still burns beside him. Beyond, a dark village silhouette and rice fields under a deep blue sky with fading stars. Quiet, melancholic mood. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep indigo, sogan brown and a small warm lamplight glow, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid text, watermark, and electric light.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:37–2:47",
+      "narasi": "Dihormati, dilayani, dan terjepit di antara rakyatmu dan penguasa asing. Jika kamu di posisinya, apa yang akan kamu pilih?",
+      "prompt": "Same character as the Raden Mas reference image. Wide establishing shot at sunrise of a large Javanese regency pendopo facing a town square with two banyan trees, light morning mist. The young nobleman is a small figure standing in the center of the pendopo, turning to look back over his shoulder toward the viewer. Soft pink and gold sunrise sky. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of sogan brown, indigo, muted gold and ivory, historically accurate 1850s Central Java. Vertical 9:16 aspect ratio, large empty sky in the top third for text. Avoid text, watermark, and modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "- Karakter suara: rendah, hangat, tenang, seperti pendongeng, bukan pembaca berita.\n- Jeda: setengah detik setelah setiap kalimat pendek yang menohok (\"Kamu tidak.\", \"Termasuk ayahmu.\").\n- Istilah Jawa diucapkan dengan benar: laku dodok, krama inggil, blencong, jemparingan, Kumbakarna.\n- Pilihan produksi: rekam sendiri dengan mikrofon dasar di ruangan berperedam (kasur atau lemari baju), atau TTS bahasa Indonesia dengan suara pria dalam lalu sesuaikan kecepatannya.\n- Ukur dulu: baca naskah keras-keras dengan stopwatch sebelum membuat ilustrasi, lalu sesuaikan durasi tiap adegan dengan hasil rekaman.\n- Arahan per babak:\n  - Babak 1 (Hook): tenang dan berwibawa, berbisik pelan di kalimat terakhir.\n  - Babak 2 (Pagi): hangat dan tertata, tempo santai.\n  - Babak 3 (Siang): resmi, makin tegang menjelang Tanam Paksa, sendu dan pelan di adegan 9.\n  - Babak 4 (Sore): reflektif, tempo lambat; berbisik di adegan 13 lalu sendu.\n  - Babak 5 (Malam): sedikit lebih hidup saat wayang dimulai, lalu meredup dan sendu menjelang subuh.\n  - Babak 6 (Penutup): serius, kalimat terakhir sebagai pertanyaan yang menggantung.\n- Tag emosi di awal setiap kalimat hanya bekerja di Eleven v3; dengan Stability Robust tag kurang ditanggapi. Pilihan voice tetap paling menentukan: tag tidak bisa memaksa voice yang lembut untuk berteriak.",
+    "arahanBabak": {
+      "1": "tenang dan berwibawa, berbisik pelan di kalimat terakhir.",
+      "2": "hangat dan tertata, tempo santai.",
+      "3": "resmi, makin tegang menjelang Tanam Paksa, sendu dan pelan di adegan 9.",
+      "4": "reflektif, tempo lambat; berbisik di adegan 13 lalu sendu.",
+      "5": "sedikit lebih hidup saat wayang dimulai, lalu meredup dan sendu menjelang subuh.",
+      "6": "serius, kalimat terakhir sebagai pertanyaan yang menggantung."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[serious] Kamu lahir sebagai putra seorang Bupati di tanah Jawa. [calm] Semua orang menunduk saat kamu lewat. [whispers] Tapi tak semuanya menunduk karena hormat....",
+    "2": "[calm] Sebelum matahari terbit, abdi dalem datang berjalan jongkok, karena berdiri tegak di hadapanmu adalah hal yang tak pantas....\n\n[calm] Beberapa motif batik hanya pantas dikenakan kaum bangsawan. [serious] Dari kain yang melilit pinggangmu, orang langsung tahu siapa dirimu....\n\n[calm] Terakhir, keris diselipkan di pinggang belakang. [serious] Bukan untuk berkelahi. [serious] Ia pusaka, lambang kehormatan keluargamu....\n\n[calm] Bahasamu pun berlapis. [calm] Kepada ayahmu, krama inggil yang paling halus. [calm] Kepada abdi dalem, cukup ngoko. [serious] Salah memilih kata bisa menjadi aib....",
+    "3": "[calm] Menjelang siang, kamu berjalan ke pendopo di bawah payung kebesaran. [calm] Warnanya menandai pangkat keluargamu. [serious] Di sana, ayahmu, Kanjeng Bupati, menerima bawahannya....\n\n[tense] Lalu tamu terpenting datang: kontrolir Belanda. [calm] Ayahmu menyambutnya dengan senyum. [tense] Di balik senyum itu ada hitungan: berapa pikul kopi dan tebu yang harus disetor desa-desa....\n\n[serious] Inilah Tanam Paksa. [serious] Sejak 1830, desa wajib menyerahkan tanah dan tenaga untuk tanaman ekspor. [tense] Para bupati mendapat persenan dari hasil setoran itu. [resigned] Termasuk ayahmu....\n\n[sad] Kamu menoleh ke luar. [sad] Para petani berjongkok di alun-alun, menunggu keputusan yang dibuat tanpa mereka....",
+    "4": "[calm] Sore hari, gurumu membuka serat, naskah beraksara Jawa. [calm] Kamu melagukan tembang macapat berisi nasihat budi pekerti....\n\n[calm] Lalu jemparingan: memanah sambil duduk bersila. [calm] Yang dilatih bukan hanya bidikan, tapi ketenangan hati....\n\n[calm] Kamu berkuda melewati sawah. [calm] Setiap orang berhenti bekerja dan menunduk. [serious] Kamu bisa memilih untuk tidak melihat mereka. [resigned] Kebanyakan bangsawan memilih begitu....\n\n[tense] Tapi sore itu, seorang anak tidak menunduk. [whispers] Ia menatapmu lurus. [sad] Dan entah kenapa, kamulah yang lebih dulu membuang muka....",
+    "5": "[calm] Malam tiba. [curious] Pendopo diterangi blencong, lampu minyak di atas kelir. [excited] Gamelan ditabuh, dan dalang memulai pertunjukan semalam suntuk....\n\n[serious] Lakonnya Kumbakarna Gugur: ksatria yang tahu rajanya salah, tapi tetap maju membela negerinya. [calm] Ayahmu tertawa di adegan lucu. [sad] Kamu tidak....\n\n[sad] Menjelang subuh, kamu duduk sendiri. [calm] Kain, keris, gelar, semuanya warisan. [serious] Pertanyaannya bukan apa yang kamu warisi, melainkan apa yang akan kamu lakukan dengannya....",
+    "6": "[serious] Dihormati, dilayani, dan terjepit di antara rakyatmu dan penguasa asing. [curious] Jika kamu di posisinya, apa yang akan kamu pilih?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pendopo Fajar",
+      "babakAwal": 1,
+      "babakAkhir": 3,
+      "durasiTarget": "±1:30",
+      "suasana": "Megah, tenang, sedikit tegang di akhir",
+      "style": "Instrumental Javanese court gamelan, slow and stately, soft saron and bonang melody, warm deep gong, gentle kendang, pelog scale, royal palace ambience, calm and dignified, starts sparse with a single gong then the ensemble enters softly, becomes slightly tense and lower toward the end, cinematic, 70 BPM, no vocals",
+      "exclude": "vocals, choir, drum kit, synth, EDM, piano, electric guitar"
+    },
+    {
+      "nomor": 2,
+      "nama": "Sore di Pematang",
+      "babakAwal": 4,
+      "babakAkhir": 4,
+      "durasiTarget": "±0:45",
+      "suasana": "Sendu, reflektif, jarang",
+      "style": "Instrumental Javanese gamelan, melancholic and reflective, slow gender metallophone and bamboo suling flute, soft rebab, sparse quiet gong, pelog scale, intimate golden-hour mood, lots of space and silence between phrases, no build-up, 60 BPM, no vocals",
+      "exclude": "vocals, choir, drum kit, synth, EDM, piano, electric guitar"
+    },
+    {
+      "nomor": 3,
+      "nama": "Blencong",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "±1:00",
+      "suasana": "Ramai khas wayang, lalu meredup ke satu gong",
+      "style": "Instrumental Javanese wayang kulit gamelan, lively night performance, kendang drums, bonang, saron, kempul and gong, slendro scale, energetic and festive at first, then gradually slows and fades into a quiet meditative ending with one final deep gong, 90 BPM, no vocals",
+      "exclude": "vocals, choir, drum kit, synth, EDM, piano, electric guitar"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Gong pelan",
+      "kataKunci": "javanese gong, gong hit reverb",
+      "prompt": "A single deep Javanese bronze gong struck softly, long warm resonant decay, inside a large open wooden pavilion"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Kokok ayam",
+      "kataKunci": "rooster crow morning village",
+      "prompt": "A rooster crowing twice at dawn in a quiet tropical village, faint distant birds, no traffic"
+    },
+    {
+      "nomor": 3,
+      "adegan": 2,
+      "bunyi": "Air dituang",
+      "kataKunci": "water pouring basin",
+      "prompt": "Clean water slowly poured from a jug into a copper basin, close and quiet, small indoor room"
+    },
+    {
+      "nomor": 4,
+      "adegan": 3,
+      "bunyi": "Gemerisik kain",
+      "kataKunci": "cloth rustle, fabric folding",
+      "prompt": "Soft rustling of thick cotton cloth being folded and wrapped around the waist, close-up"
+    },
+    {
+      "nomor": 5,
+      "adegan": 4,
+      "bunyi": "Keris masuk sarung",
+      "kataKunci": "dagger sheath wood, knife slide sheath",
+      "prompt": "A small dagger sliding into a carved wooden sheath, soft wooden click at the end, faint metal ring"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Langkah kaki",
+      "kataKunci": "barefoot steps stone floor",
+      "prompt": "Slow calm bare footsteps on a cool stone floor in a large open hall, light echo"
+    },
+    {
+      "nomor": 7,
+      "adegan": 6,
+      "bunyi": "Bisik-bisik",
+      "kataKunci": "crowd murmur indoor quiet",
+      "prompt": "Low indistinct murmuring of a small group of men in a large open pavilion, no clear words"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Angin",
+      "kataKunci": "wind ambience, light wind open field",
+      "prompt": "Gentle warm wind blowing across an open dusty square, leaves rustling faintly, no birds"
+    },
+    {
+      "nomor": 9,
+      "adegan": 13,
+      "bunyi": "Angin",
+      "kataKunci": "wind ambience, light wind open field",
+      "prompt": "Gentle warm wind blowing across an open dusty square, leaves rustling faintly, no birds"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Halaman dibalik",
+      "kataKunci": "old paper page turn",
+      "prompt": "Turning one page of an old thick handmade paper manuscript, crisp and soft, quiet room"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Tali busur dan panah",
+      "kataKunci": "bow release arrow hit target",
+      "prompt": "A traditional wooden bow string released, an arrow whooshing briefly and hitting a small wooden target with a thud"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Derap kuda",
+      "kataKunci": "horse walking dirt path",
+      "prompt": "A single horse walking slowly on a soft dirt path, steady hoof steps, light harness jingling"
+    },
+    {
+      "nomor": 13,
+      "adegan": 12,
+      "bunyi": "Gemericik air sawah",
+      "kataKunci": "water trickle irrigation, rice field ambience",
+      "prompt": "Gentle trickling water flowing through irrigation channels in a rice field, frogs faintly in the distance"
+    },
+    {
+      "nomor": 14,
+      "adegan": 14,
+      "bunyi": "Keprak dalang",
+      "kataKunci": "wayang keprak, wooden knock rhythm",
+      "prompt": "Rhythmic sharp knocking of a wooden mallet against a wooden box and small hanging metal plates, as in a Javanese wayang puppet show"
+    },
+    {
+      "nomor": 15,
+      "adegan": 15,
+      "bunyi": "Tawa pria (opsional)",
+      "kataKunci": "man laughing warm",
+      "prompt": "A middle-aged man laughing warmly and briefly in a quiet open hall at night"
+    },
+    {
+      "nomor": 16,
+      "adegan": 16,
+      "bunyi": "Jangkrik",
+      "kataKunci": "crickets night ambience",
+      "prompt": "Crickets chirping at night in a rural tropical village, calm and steady, very faint distant wind"
+    },
+    {
+      "nomor": 17,
+      "adegan": 17,
+      "bunyi": "Gong penutup",
+      "kataKunci": "javanese gong, big gong hit",
+      "prompt": "A single very deep bronze gong struck firmly, long fading resonance until complete silence"
+    }
+  ],
+  "adeganHening": [
+    9,
+    13
+  ],
+  "ulikan": {
+    "teks": "Bupati: pelindung rakyat atau perpanjangan tangan Belanda?",
+    "sumber": "-",
+    "kata": 7,
+    "pertanyaan": true
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Bangsawan Jawa di Abad ke-19",
+      "catatan": "Alternatif judul: POV: Kamu Putra Bupati di Masa Tanam Paksa / POV: Kamu Bangsawan Jawa Tahun 1850-an",
+      "caption": "Semua orang menunduk padamu. Tapi tak semuanya karena hormat.\n\nSatu hari sebagai putra Bupati di Jawa tahun 1850-an, masa Tanam Paksa: dari laku dodok sampai wayang semalam suntuk. Sistem ini berlaku sejak 1830 dan baru dihapus sekitar 1870.\n\nJika kamu di posisinya, apa yang akan kamu pilih?\n\nDramatisasi berdasarkan catatan sejarah; tokoh dan kabupaten fiktif. Sumber utama: Britannica (Culture System), Wikipedia (Cultivation System).\n\n#UlikSilam #sejarahindonesia #tanampaksa #priyayi #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Bangsawan Jawa di Abad ke-19",
+      "catatan": "Teks sampul: POV: Kamu bangsawan Jawa tahun 1850-an. Alternatif untuk diuji: \"Semua orang menunduk padamu… tapi bukan karena hormat\" atau \"Hidup mewah bangsawan Jawa, ada harganya\".",
+      "caption": "Dilayani, disembah, dihormati. Tapi apa harganya?\n\nSatu hari sebagai putra Bupati di Jawa tahun 1850-an, masa Tanam Paksa: dari laku dodok sampai wayang semalam suntuk. Sistem ini berlaku sejak 1830 dan baru dihapus sekitar 1870.\n\nJika kamu di posisinya, apa yang akan kamu pilih?\n\nDramatisasi berdasarkan catatan sejarah; tokoh dan kabupaten fiktif. Sumber utama: Britannica (Culture System), Wikipedia (Cultivation System).\n\n#UlikSilam #sejarahindonesia #tanampaksa #budayajawa #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 327,
+    "kataPerBabak": {
+      "1": 21,
+      "2": 71,
+      "3": 85,
+      "4": 70,
+      "5": 61,
+      "6": 19
+    },
+    "karakterPerBabak": {
+      "1": 165,
+      "2": 601,
+      "3": 716,
+      "4": 599,
+      "5": 518,
+      "6": 145
+    },
+    "jedaBunyi": 0,
+    "perkiraanDetik130": {
+      "narasi": 169.2,
+      "denganMerek": 174.2
+    },
+    "perkiraanDetik135": {
+      "narasi": 163.6,
+      "denganMerek": 168.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+judul: "POV: Kamu Kelasi Kapal Loudon, Krakatau 1883"
+slug: pov-kelasi-loudon-krakatau
+format: POV
+lapisan: ["Sejarah"]
+latar: "Selat Sunda"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-11-05"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Kelasi Loudon", "Nakhoda Lindeman"]
+aset: {ilustrasi: 17, narasi: 24, musik: 3, sfx: 13}
+render: "out/pov-kelasi-loudon-krakatau.mp4"
+tanggal_render: 2026-11-04
+tautan: {"shorts": "https://youtube.com/shorts/0zPfS5-6ifQ", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7704820984255221000"}
+arsip_lama: "pov/pov-kelasi-loudon-krakatau"
+catatan: ""
+metrik_shorts: {"views": 2617, "jam_tonton": 48.4, "rata_tonton_detik": 66.6, "durasi_detik": 162, "persen_ditonton": 41.1, "subscriber": 8, "impresi": 2551, "ctr": 4.55, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-05", "tiktok": "2026-11-06"}
+metrik_tiktok: {"views": 5090, "suka": 89, "komentar": 1, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

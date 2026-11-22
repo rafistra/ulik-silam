@@ -1,0 +1,683 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-06T10:20:54.178Z",
+  "judulDokumen": "Romusha di Pulau Numfor (1943–1944)",
+  "judul": "POV: Kamu Romusha Perempuan di Pulau Numfor, 1944",
+  "slug": "pov-romusha-numfor",
+  "versi": "v6 · 2026-11-06",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Pulau Numfor, Papua",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Perempuan muda Surabaya (fiktif), ±20 tahun, dikirim ke Numfor bersama adik laki-lakinya; menjelang akhir menyaksikan dua pekerja Jawa dipotret tentara Amerika",
+  "ringkasan": {
+    "Judul": "POV: Kamu Romusha Perempuan di Pulau Numfor, 1944",
+    "Slug": "pov-romusha-numfor",
+    "Versi": "v6 · 2026-11-06",
+    "Lapisan": "Sejarah",
+    "Latar": "Pulau Numfor, Papua",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Perempuan muda Surabaya (fiktif), ±20 tahun, dikirim ke Numfor bersama adik laki-lakinya; menjelang akhir menyaksikan dua pekerja Jawa dipotret tentara Amerika",
+    "Jumlah ilustrasi": "18 Gemini (16 adegan + 2 lembar karakter: Romusha Surabaya, Adik) + 1 foto asli Signal Corps untuk adegan 16",
+    "Premis": "Lebih dari tiga ribu orang Jawa dikirim membangun landasan Jepang di Numfor; \"kamu\" menghitung siapa yang tersisa sampai Sekutu datang.",
+    "Benang merah": "Hitungan: dari menghitung kepala di barisan, sampai angka 403 di akhir, dan satu nama yang tak tercatat.",
+    "Dipilih karena": "Gabungan pilihan POV 1 dan 2 dari brainstorming, alur A (rentang Surabaya 1943 sampai Agustus 1944), kekerasan ditampilkan lugas tanpa gore (keputusan Rafi).",
+    "Asumsi": "Waktu berangkat ditulis \"akhir 1943\" sesuai sumber; adik wafat karena sakit sebelum pendaratan; pengawas digambarkan prajurit Jepang; cara perekrutan (kabar kerja dan upah) adalah dramatisasi."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Janji",
+      "suasana": "Harap yang cemas, sesak",
+      "palet": "Amber senja, indigo pudar",
+      "cahaya": "Senja di dermaga; seberkas cahaya pucat di palka"
+    },
+    {
+      "babak": 2,
+      "nama": "Landasan",
+      "suasana": "Terik, kerja paksa",
+      "palet": "Putih karang, oker pudar, hijau hutan pekat",
+      "cahaya": "Matahari keras, silau, hawa panas bergetar"
+    },
+    {
+      "babak": 3,
+      "nama": "Lapar",
+      "suasana": "Teror dan duka",
+      "palet": "Abu-abu, khaki kusam",
+      "cahaya": "Mendung datar, bayangan dalam"
+    },
+    {
+      "babak": 4,
+      "nama": "Adik",
+      "suasana": "Sunyi, kehilangan",
+      "palet": "Biru bulan dingin, satu titik obor hangat",
+      "cahaya": "Malam, cahaya bulan"
+    },
+    {
+      "babak": 5,
+      "nama": "Langit",
+      "suasana": "Kacau, tak pasti",
+      "palet": "Jingga api, kelabu asap",
+      "cahaya": "Fajar dan kilat tembakan; pagi silau"
+    },
+    {
+      "babak": 6,
+      "nama": "Yang tersisa",
+      "suasana": "Getir, reflektif",
+      "palet": "Oker pudar, biru laut, amber senja",
+      "cahaya": "Sore rendah, ditutup senja hangat"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Janji",
+    "2": "Landasan",
+    "3": "Lapar",
+    "4": "Adik",
+    "5": "Langit",
+    "6": "Yang tersisa"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Janji",
+      "waktu": "0:00–0:11",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Fajar redup di landasan karang Kamiri. Barisan pekerja kurus berdiri berjajar menghadap seorang pengawas Jepang. Tangan kiri \"kamu\" terangkat setinggi dada, jari-jari diam-diam menghitung kepala di barisan; tangan kanan menggenggam keranjang anyaman kosong. Seorang perempuan tua di barisan depan menatap lurus ke depan.",
+      "narasiSuara": "[serious] Mereka bilang kamu dikirim bekerja ke pulau seberang. [tense] Dari ribuan orang yang turun di Numfor... kamu menghitung siapa yang tersisa.",
+      "narasi": "Mereka bilang kamu dikirim bekerja ke pulau seberang. Dari ribuan orang yang turun di Numfor... kamu menghitung siapa yang tersisa.",
+      "teksLayar": [
+        "Pulau Numfor, Papua. 1944."
+      ],
+      "suara": "Angin laut, langkah sepatu bot di karang",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Janji",
+      "waktu": "0:11–0:21",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Senja di dermaga pelabuhan Surabaya, kerumunan orang membawa buntelan. \"Kamu\" (perempuan ±20 tahun, kebaya lusuh dan kain) menggandeng adik laki-lakinya (13 tahun), keduanya menatap lambung kapal besar dengan cemas bercampur harap.",
+      "narasiSuara": "[calm] Surabaya, akhir 1943. [calm] Ada kabar kerja di pulau seberang. [curious] Kata mereka, ada upah. [sad] Kamu ikut bersama adikmu, baru tiga belas tahun.",
+      "narasi": "Surabaya, akhir 1943. Ada kabar kerja di pulau seberang. Kata mereka, ada upah. Kamu ikut bersama adikmu, baru tiga belas tahun.",
+      "teksLayar": [
+        "Surabaya, akhir 1943."
+      ],
+      "suara": "Riuh pelabuhan, peluit kapal",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Janji",
+      "waktu": "0:21–0:30",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Palka kapal yang gelap dan sesak, seberkas cahaya dari celah di atas. Tangan kanan \"kamu\" bertumpu di papan palka, tangan kiri menahan buntelan kain; adik duduk terjaga di samping \"kamu\", menatap cahaya. Para perempuan dewasa berdesakan; seorang perempuan menunduk dengan mata letih.",
+      "narasiSuara": "[nervous] Kapal itu penuh sesak. [nervous] Perempuan, anak-anak, remaja seusia adikmu. [whispers] Tak seorang pun tahu di mana pulau itu.",
+      "narasi": "Kapal itu penuh sesak. Perempuan, anak-anak, remaja seusia adikmu. Tak seorang pun tahu di mana pulau itu.",
+      "teksLayar": [],
+      "suara": "Derit kayu kapal, ombak, batuk",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Landasan",
+      "waktu": "0:30–0:40",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pantai karang Numfor yang tajam, hutan lebat di belakang. Rombongan tanpa alas kaki menuruni karang; \"kamu\" menuntun adik melangkah hati-hati, matanya menyapu pantai yang tak berbangunan.",
+      "narasiSuara": "[serious] Tak ada barak yang menunggumu di Numfor. [sad] Hampir tak ada pakaian, sepatu, atau atap. [resigned] Kalian tidur di atas karang tajam.",
+      "narasi": "Tak ada barak yang menunggumu di Numfor. Hampir tak ada pakaian, sepatu, atau atap. Kalian tidur di atas karang tajam.",
+      "teksLayar": [
+        "Pulau Numfor, Papua."
+      ],
+      "suara": "Ombak, serangga hutan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Landasan",
+      "waktu": "0:40–0:50",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Landasan Kamiri setengah jadi di bawah terik. Kedua tangan \"kamu\" mengangkat keranjang berisi pecahan karang. Di depan, laki-laki tua dan anak laki-laki memecah karang dengan cangkul dan tangan kosong; seorang prajurit Jepang mengawasi dengan senapan.",
+      "narasiSuara": "[serious] Tugasmu membangun jalan dan landasan pesawat untuk Jepang, nyaris hanya dengan tangan. [tense] Tua, muda, laki-laki, perempuan... semua dipaksa bekerja.",
+      "narasi": "Tugasmu membangun jalan dan landasan pesawat untuk Jepang, nyaris hanya dengan tangan. Tua, muda, laki-laki, perempuan... semua dipaksa bekerja.",
+      "teksLayar": [],
+      "suara": "Pukulan cangkul ke karang, teriakan perintah",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Landasan",
+      "waktu": "0:50–0:59",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pembagian makan di tepi landasan. Buruh Formosa yang kurus mengantre di samping pekerja Jawa. \"Kamu\" menatap segenggam nasi di atas daun di tangannya, lalu melirik adiknya.",
+      "narasiSuara": "[sad] Di sampingmu, buruh dari Formosa. [sad] Jatah nasi mereka separuh jatah tentara Jepang. [resigned] Jatahmu sendiri tak pernah cukup.",
+      "narasi": "Di sampingmu, buruh dari Formosa. Jatah nasi mereka separuh jatah tentara Jepang. Jatahmu sendiri tak pernah cukup.",
+      "teksLayar": [],
+      "suara": "Sendok kayu, gumam pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Lapar",
+      "waktu": "0:59–1:10",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Lapangan terbuka di depan barak darurat. Seorang laki-laki kurus digantung terbalik pada palang kayu oleh prajurit Jepang; para pekerja dipaksa berdiri menonton. Di kerumunan, \"kamu\" menarik kepala adik ke dadanya dan menutup matanya. Tanpa gore.",
+      "narasiSuara": "[tense] Di pulau ini, sesuap nasi curian bisa membunuhmu. [tense] Seorang laki-laki ketahuan mencuri ransum Jepang. [angry] Mereka menggantungnya terbalik... [sad] sampai ia mati.",
+      "narasi": "Di pulau ini, sesuap nasi curian bisa membunuhmu. Seorang laki-laki ketahuan mencuri ransum Jepang. Mereka menggantungnya terbalik... sampai ia mati.",
+      "teksLayar": [],
+      "suara": "Tali berderit, hening kerumunan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Lapar",
+      "waktu": "1:10–1:18",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Bidikan dari belakang kerumunan yang berlutut: seorang prajurit Jepang mengangkat pedang di atas pekerja yang berlutut, tepat sebelum ayunan. \"Kamu\" di barisan depan menunduk, rahang mengatup. Tanpa darah, ayunan tidak diperlihatkan.",
+      "narasiSuara": "[tense] Yang berikutnya dipenggal, juga karena mencuri makanan. [whispers] Kamu menunduk, menahan lapar, dan bersumpah tak akan mencuri.",
+      "narasi": "Yang berikutnya dipenggal, juga karena mencuri makanan. Kamu menunduk, menahan lapar, dan bersumpah tak akan mencuri.",
+      "teksLayar": [],
+      "suara": "Desing logam, lalu sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Lapar",
+      "waktu": "1:18–1:26",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tepi hutan, lubang kuburan massal. Tangan \"kamu\" menabur tanah karang ke atas jenazah berbungkus kain lusuh; pekerja lain menggali lubang baru di sebelahnya.",
+      "narasiSuara": "[sad] Kelaparan dan penyakit datang setiap hari. [serious] Jepang tak memberi obat apa pun. [resigned] Kuburan massal terus bertambah.",
+      "narasi": "Kelaparan dan penyakit datang setiap hari. Jepang tak memberi obat apa pun. Kuburan massal terus bertambah.",
+      "teksLayar": [],
+      "suara": "Sekop di tanah karang, lalat",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Adik",
+      "waktu": "1:26–1:36",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Malam, celah di antara tumpukan karang. Tangan kiri \"kamu\" menyentuh dahi adik yang basah keringat dan menggigil; tangan kanan menempel di bibirnya agar ia diam. Di kejauhan obor pengawas bergerak.",
+      "narasiSuara": "[whispers] Orang sakit di Numfor tak pernah kembali dari tepi hutan. [nervous] Malam ini, adikmu demam. [tense] Kamu menyembunyikannya di balik karang.",
+      "narasi": "Orang sakit di Numfor tak pernah kembali dari tepi hutan. Malam ini, adikmu demam. Kamu menyembunyikannya di balik karang.",
+      "teksLayar": [],
+      "suara": "Napas tersengal, langkah jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Adik",
+      "waktu": "1:36–1:45",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi kelabu. Orang-orang sakit diangkut ke lubang besar oleh pekerja lain di bawah todongan senapan; satu tangan di atas tandu masih bergerak. \"Kamu\" mengintip dari balik karang, wajah pucat.",
+      "narasiSuara": "[serious] Menurut para penyintas, banyak orang sakit dikubur... [crying] selagi masih hidup. [tense] Di lubang yang sama dengan yang lain.",
+      "narasi": "Menurut para penyintas, banyak orang sakit dikubur... selagi masih hidup. Di lubang yang sama dengan yang lain.",
+      "teksLayar": [
+        "Menurut kesaksian penyintas."
+      ],
+      "suara": "Tanah dicurahkan, rintihan tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Adik",
+      "waktu": "1:45–1:50",
+      "durasiCadangan": 5,
+      "bidikan": "B",
+      "visual": "Malam, cahaya bulan. \"Kamu\" duduk memangku adik yang tak bergerak lagi, kepala tertunduk menyentuh rambutnya.",
+      "narasiSuara": "[sad] [whispers] Malam itu, adikmu berhenti menggigil.",
+      "narasi": "Malam itu, adikmu berhenti menggigil.",
+      "teksLayar": [],
+      "suara": "Hening; ombak sangat pelan",
+      "hening": true,
+      "epilog": false,
+      "kata": 5
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Langit",
+      "waktu": "1:50–2:02",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Fajar. Langit di atas pantai menyala oleh tembakan meriam kapal; asap dan pasir karang terlempar. Pekerja dan prajurit Jepang berlarian; \"kamu\" berlari menunduk di tepi landasan.",
+      "narasiSuara": "[tense] Pagi itu, kamu tak tahu yang datang penyelamat... atau maut berikutnya. [shouting] Meriam kapal menghujani pantai! [tense] Pukul delapan, tentara Amerika mendarat di ujung landasanmu.",
+      "narasi": "Pagi itu, kamu tak tahu yang datang penyelamat... atau maut berikutnya. Meriam kapal menghujani pantai! Pukul delapan, tentara Amerika mendarat di ujung landasanmu.",
+      "teksLayar": [
+        "2 Juli 1944."
+      ],
+      "suara": "Ledakan meriam, teriakan",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Langit",
+      "waktu": "2:02–2:12",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Langit di atas landasan Kamiri penuh payung terjun. Tangan kanan \"kamu\" terangkat melindungi mata dari silau; di dekat kaki, tubuh seorang pekerja tergeletak di samping lubang peluru. Tanpa gore.",
+      "narasiSuara": "[curious] Esoknya, ratusan payung turun di atas landasan yang kamu bangun. [sad] Peluru tak memilih... [sad] beberapa pekerja Jawa tewas oleh tembakan Sekutu.",
+      "narasi": "Esoknya, ratusan payung turun di atas landasan yang kamu bangun. Peluru tak memilih... beberapa pekerja Jawa tewas oleh tembakan Sekutu.",
+      "teksLayar": [],
+      "suara": "Deru pesawat angkut, tembakan sporadis",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Yang tersisa",
+      "waktu": "2:12–2:23",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Dua pekerja Jawa sangat kurus bertelanjang kaki duduk di bak kendaraan tentara Amerika; seorang tentara mengangkat kamera ke arah mereka. \"Kamu\" menatap dari balik semak, ragu.",
+      "narasiSuara": "[resigned] Kamu selamat dari Jepang. [sad] Tapi tak seorang pun menanyakan namamu. [calm] Tiga hari setelah pendaratan, dua pekerja Jawa dipotret tentara Amerika.",
+      "narasi": "Kamu selamat dari Jepang. Tapi tak seorang pun menanyakan namamu. Tiga hari setelah pendaratan, dua pekerja Jawa dipotret tentara Amerika.",
+      "teksLayar": [
+        "5 Juli 1944."
+      ],
+      "suara": "Langkah di kerikil, rana kamera",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Yang tersisa",
+      "waktu": "2:23–2:32",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Foto asli SC191963 (Pvt. Mack Gould, U.S. Army Signal Corps, 5 Juli 1944, domain publik) ditampilkan utuh dengan gerak Ken Burns pelan; bukan ilustrasi Gemini.",
+      "narasiSuara": "[calm] Foto itu masih ada sampai hari ini. [sad] Nama mereka tidak. [sad] Seperti nama ribuan orang lain yang dibawa ke Numfor.",
+      "narasi": "Foto itu masih ada sampai hari ini. Nama mereka tidak. Seperti nama ribuan orang lain yang dibawa ke Numfor.",
+      "teksLayar": [
+        "Foto asli: Mack Gould, 5 Juli 1944",
+        "U.S. Army Signal Corps"
+      ],
+      "suara": "Musik saja",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Yang tersisa",
+      "waktu": "2:32–2:45",
+      "durasiCadangan": 13,
+      "bidikan": "B",
+      "visual": "Senja. \"Kamu\" berlutut di depan gundukan kubur kecil bertanda sebongkah batu karang, menghadap laut.",
+      "narasiSuara": "[serious] Dari tiga ribu lebih yang dibawa... hanya empat ratus tiga ditemukan hidup. [sad] [whispers] Kalau tak ada yang mencatat namanya... siapa yang akan mengingat adikmu?",
+      "narasi": "Dari tiga ribu lebih yang dibawa... hanya empat ratus tiga ditemukan hidup. Kalau tak ada yang mencatat namanya... siapa yang akan mengingat adikmu?",
+      "teksLayar": [
+        "403 dari 3.000 lebih ditemukan hidup",
+        "31 Agustus 1944"
+      ],
+      "suara": "Ombak, musik mereda",
+      "hening": false,
+      "epilog": true,
+      "kata": 23
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Romusha Surabaya",
+      "prompt": "Character reference sheet of Romusha Surabaya.\nRomusha Surabaya: a Javanese woman of about 20 from Surabaya, a commoner forced laborer on Noemfoor Island in 1944. Slight, undernourished build with visible collarbones; warm medium-brown skin; oval face with high cheekbones, dark almond-shaped eyes, thick straight brows, a broad soft nose and full lips cracked from thirst. Long black hair twisted into a loose low bun at the nape, with strands falling free. She wears a plain hip-length off-white cotton kebaya blouse, now torn and stained grey-brown, its sleeves ripped ragged just below the elbow, held closed with two plain safety pins; around her hips, a faded brown cotton kain wrap with a small stamped motif of scattered dots and tiny flowers almost washed out, its hem frayed and torn to mid-calf; a thin strip of burlap sacking tied around her waist as a belt. Barefoot, her feet cut by coral. No jewelry. She moves with guarded, watchful alertness, shoulders slightly hunched, always half-turned toward the younger brother she protects.\nFull-body front view, side view and back view in a relaxed, natural standing pose; one three-quarter portrait of the face; one detail panel of the kain motif, the safety pins and the burlap belt; one first-person panel showing her hands and forearms from her own point of view, raised in front of the chest: Her hands are slim and bony with warm medium-brown skin, cracked dry knuckles scratched by coral and short broken nails with dirt beneath them; the sleeves of a torn, grey-brown-stained off-white cotton kebaya end in ragged edges just below the elbow, showing thin forearms; no rings, no bracelets.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Javanese commoner woman of 1943–1944 in worn cotton kebaya and kain.\nAvoid brocade or lace kebaya, parang batik pattern, gold jewelry, hijab, modern clothing, sandals, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Adik",
+      "prompt": "Character reference sheet of Adik.\nAdik: a Javanese boy of 13 from Surabaya, the younger brother of Romusha Surabaya, a forced laborer on Noemfoor Island in 1944. Small, very thin frame with ribs and elbows showing; warm medium-brown skin a shade lighter than his sister's; a round face with large dark eyes, short straight brows, a small nose and chapped lips. Short black hair roughly cropped close to the scalp, uneven. Bare-chested, with a faded white cotton shirt far too big for him knotted around his waist; knee-length dark grey cotton shorts, torn at one leg and held up with a twisted cloth cord. Barefoot, with coral scratches on his shins. No jewelry, no headwear. He stays close to his sister, often clutching the edge of her sleeve, his curious eyes darting around even when he is afraid.\nFull-body front view, side view and back view in a relaxed, natural standing pose; one three-quarter portrait of the face; one detail panel of the knotted shirt and cloth cord.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate Javanese commoner boy of 1943–1944.\nAvoid school uniform, modern clothing, peci, sandals, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:11",
+      "narasi": "Mereka bilang kamu dikirim bekerja ke pulau seberang. Dari ribuan orang yang turun di Numfor... kamu menghitung siapa yang tersisa.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nMedium shot at eye level, a pale coral work site at grey dawn on a tropical island, a row of laborers in simple historical cotton clothing standing at a distance, facing a supervisor.\nFirst-person point of view. Her hands are slim with warm medium-brown skin; the sleeves of a simple off-white cotton kebaya end just below the elbow; no rings, no bracelets. The left hand is raised in front of the chest, fingers quietly counting the heads in the line; the right hand grips an empty woven bamboo basket.\nAn old woman in the front row, with grey hair and a dark kain, stares ahead with tired eyes. A guard in plain green work clothes stands in front of the row. They are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm amber dusk light and muted indigo shadows, historically accurate Noemfoor Island, 1944: flat raised coral ground and dense tropical jungle.\nAvoid stiff symmetrical poses, identical faces, modern clothing, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:21",
+      "narasi": "Surabaya, akhir 1943. Ada kabar kerja di pulau seberang. Kata mereka, ada upah. Kamu ikut bersama adikmu, baru tiga belas tahun.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nMedium-wide shot from a slightly low angle, a crowded wooden wharf in Surabaya at dusk, the dark hull of a large steel cargo ship towering behind.\nRomusha Surabaya, here still in a clean intact off-white kebaya and an unfaded brown kain, with a small cloth bundle on her hip, steps forward mid-stride while holding Adik's hand; brows slightly raised, lips parted, a mix of hope and worry, eyes on the ship's gangway. Adik, here wearing his white shirt properly buttoned, leans back half a step, gripping her hand with both of his, staring up at the ship with wide eyes.\nAround them, Javanese men, women and children of varied ages carry bundles and woven baskets toward the gangway; a Javanese clerk in a white shirt and black peci writes names in a ledger at a small table, not looking up. They are different people from Romusha Surabaya and Adik, with plainer or different-colored clothes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm amber dusk light and muted indigo shadows, with a single shaft of pale light in dark interiors, historically accurate Surabaya, Java, late 1943 under Japanese occupation: wooden wharf, 1940s steel cargo ship, Javanese commoners in plain cotton kebaya, kain wraps and simple shirts.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:21–0:30",
+      "narasi": "Kapal itu penuh sesak. Perempuan, anak-anak, remaja seusia adikmu. Tak seorang pun tahu di mana pulau itu.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nClose-medium shot at low eye level, the dim interior of a 1940s cargo ship at sea, a single shaft of pale light falling from a hatch above.\nFirst-person point of view. Her hands are slim with warm medium-brown skin and short clean nails; the long sleeves of a plain, clean off-white cotton kebaya reach her wrists; no rings, no bracelets. The right hand rests on a wooden plank; the left hand holds a knotted cloth bundle on the lap.\nAdik, still in his buttoned white shirt, sits beside the viewer with his knees drawn up, looking up at the shaft of light. A few women in simple historical cotton clothing sit nearby in the dim light. They are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm amber dusk light and muted indigo shadows, with a single shaft of pale light in dark interiors, historically accurate 1940s ship interior with riveted iron walls and wooden planks.\nAvoid stiff symmetrical poses, identical faces, modern clothing, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:40",
+      "narasi": "Tak ada barak yang menunggumu di Numfor. Hampir tak ada pakaian, sepatu, atau atap. Kalian tidur di atas karang tajam.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nWide shot at eye level, a sharp grey coral shoreline on Noemfoor Island under a hard white sky, dense jungle rising behind, no buildings anywhere.\nRomusha Surabaya steps carefully down onto the jagged coral, barefoot, one arm out for balance and the other hand pulling Adik behind her; her eyes sweep the empty shore, brows knitted, mouth tight. Adik winces mid-step as the coral cuts his feet, clutching the edge of her sleeve.\nBehind them a long line of barefoot laborers, men, women and children of varied ages, climbs down from small boats onto the coral, some carrying bundles on their heads. A Japanese soldier at the waterline waves them forward impatiently with his rifle. Japanese soldiers in faded green tropical cotton uniforms, cloth field caps with neck flaps or netted steel helmets, wrapped puttees and leather ankle boots. The laborers and soldiers are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, harsh white coral glare, bleached ochre and dusty grey against deep jungle green, heat haze, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:40–0:50",
+      "narasi": "Tugasmu membangun jalan dan landasan pesawat untuk Jepang, nyaris hanya dengan tangan. Tua, muda, laki-laki, perempuan... semua dipaksa bekerja.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nMedium shot at eye level, a half-built crushed-coral airstrip under harsh midday sun, heat shimmering over the white surface, jungle at the far edge.\nFirst-person point of view. Her hands are slim and bony with warm medium-brown skin, cracked dry knuckles scratched by coral and short broken nails with dirt beneath them; the sleeves of a torn, grey-brown-stained off-white cotton kebaya end in ragged edges just below the elbow, showing thin forearms; no rings, no bracelets. Both hands strain to lift a woven bamboo basket heavy with broken coral, the knuckles pale with effort.\nAhead, a grey-bearded old man and two thin teenage boys hack at the coral with hoes and bare hands, sweat running down their backs; one boy glances up anxiously toward the guard. A Japanese soldier stands on a coral mound with his rifle, barking an order, mouth wide open. Japanese soldiers in faded green tropical cotton uniforms, cloth field caps with neck flaps or netted steel helmets, wrapped puttees and leather ankle boots. They are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, harsh white coral glare, bleached ochre and dusty grey against deep jungle green, heat haze, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:50–0:59",
+      "narasi": "Di sampingmu, buruh dari Formosa. Jatah nasi mereka separuh jatah tentara Jepang. Jatahmu sendiri tak pernah cukup.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nMedium shot from a slightly high angle, a food line at the edge of the airstrip in the late afternoon.\nRomusha Surabaya stands holding a small banana leaf with a single handful of rice, staring down at it with a hollow look, then her eyes slide sideways toward Adik; her free hand already moves to tear the portion in half. Adik watches her hands, swallowing, his own leaf empty.\nBeside them, Formosan laborers, East Asian men of varied ages, gaunt and hollow-cheeked in worn grey work shirts and shorts, some in battered straw hats, shuffle forward in the same line holding out tin cans. A Japanese soldier ladles rice from a pot without looking at anyone. They are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, harsh white coral glare, bleached ochre and dusty grey against deep jungle green, heat haze, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:59–1:10",
+      "narasi": "Di pulau ini, sesuap nasi curian bisa membunuhmu. Seorang laki-laki ketahuan mencuri ransum Jepang. Mereka menggantungnya terbalik... sampai ia mati.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nMedium-wide shot at eye level, a bare coral clearing beside rough palm-thatch lean-tos under an overcast sky.\nA thin Javanese man in a ragged loincloth hangs upside down by his bound ankles from a wooden crossbar, arms dangling, while two Japanese soldiers stand beside it with rifles, one tightening the rope. Japanese soldiers in faded green tropical cotton uniforms, cloth field caps with neck flaps or netted steel helmets, wrapped puttees and leather ankle boots.\nRows of laborers are forced to stand and watch, faces rigid with fear, some looking away. In the crowd, Romusha Surabaya pulls Adik's head against her chest with one hand and covers his eyes with the other, her own eyes fixed on the crossbar, jaw clenched, tears welling. The hanging man and the crowd are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, flat overcast grey light, ash and muted khaki tones with deep shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, visible injuries, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:10–1:18",
+      "narasi": "Yang berikutnya dipenggal, juga karena mencuri makanan. Kamu menunduk, menahan lapar, dan bersumpah tak akan mencuri.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nMedium shot from behind and slightly above a crowd of kneeling laborers, overcast light.\nIn the foreground, the backs of kneeling laborers with bowed heads. Beyond them, a Japanese officer in a faded green uniform raises a curved army sword (shin gunto) high above a blindfolded Javanese man kneeling on the coral, the moment just before the stroke; two soldiers hold the man's shoulders.\nRomusha Surabaya kneels in the front row, head bowed low, eyes squeezed shut, jaw clenched, both hands knotted in the fabric of her kain. The other laborers flinch and turn their faces away. The kneeling man and the crowd are different people from Romusha Surabaya.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, flat overcast grey light, ash and muted khaki tones with deep shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, the sword striking, severed body parts, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:18–1:26",
+      "narasi": "Kelaparan dan penyakit datang setiap hari. Jepang tak memberi obat apa pun. Kuburan massal terus bertambah.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nMedium shot at a slightly high angle, the edge of the jungle on an overcast day, a long open pit dug into the coral.\nFirst-person point of view. Her hands are slim and bony with warm medium-brown skin, cracked dry knuckles scratched by coral and short broken nails with dirt beneath them; the sleeves of a torn, grey-brown-stained off-white cotton kebaya end in ragged edges just below the elbow, showing thin forearms; no rings, no bracelets. Both hands scatter a fistful of pale coral soil over bodies wrapped in faded, ragged cloth at the bottom of the pit.\nTwo gaunt laborers of different ages dig a new pit beside it with short hoes, eyes down, moving mechanically; flies hover in the heavy air. A Japanese soldier smoking at the treeline looks away, bored. They are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, flat overcast grey light, ash and muted khaki tones with deep shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, visible faces of the dead, decomposition, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:26–1:36",
+      "narasi": "Orang sakit di Numfor tak pernah kembali dari tepi hutan. Malam ini, adikmu demam. Kamu menyembunyikannya di balik karang.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nClose shot at low eye level, a narrow gap between heaps of broken coral at night.\nFirst-person point of view. Her hands are slim and bony with warm medium-brown skin, cracked dry knuckles scratched by coral and short broken nails with dirt beneath them; the sleeves of a torn, grey-brown-stained off-white cotton kebaya end in ragged edges just below the elbow, showing thin forearms; no rings, no bracelets. The left hand rests on Adik's sweat-soaked forehead; the right hand presses gently against his lips to keep him silent.\nAdik lies curled on the coral, shivering with fever, eyes half open and glassy, brows pinched, clutching the knotted shirt at his waist. Far behind, through the gap, the small flame of a Japanese guard's torch moves along the airstrip.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold blue moonlight with one small warm ember of distant torchlight, deep black shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:45",
+      "narasi": "Menurut para penyintas, banyak orang sakit dikubur... selagi masih hidup. Di lubang yang sama dengan yang lain.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nWide shot at eye level, a grey misty morning at the edge of the jungle, a large open pit in the coral.\nUnder the rifles of two Japanese soldiers, gaunt laborers carry sick men and women on crude stretchers of sticks and sacking toward the pit; on one stretcher a thin hand is still lifted weakly in the air. Japanese soldiers in faded green tropical cotton uniforms, cloth field caps with neck flaps or netted steel helmets, wrapped puttees and leather ankle boots.\nIn the foreground, Romusha Surabaya peers out from behind a coral heap, half hidden, one hand gripping the rock, face drained of color, eyes wide with horror, lips trembling. The laborers and the sick are different people from Romusha Surabaya and Adik.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold blue moonlight with one small warm ember of distant torchlight, deep black shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, visible injuries, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:50",
+      "narasi": "Malam itu, adikmu berhenti menggigil.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nSame character as the Adik reference image.\nMedium shot at eye level, night on the coral, cold moonlight, a vast dark sky.\nRomusha Surabaya sits on the ground with Adik's still body across her lap, her head bowed so low that her cheek touches his cropped hair; her shoulders shake slightly, one hand cradling the back of his head, the other holding his limp hand. Adik lies motionless, eyes closed, face peaceful, his knotted shirt loosened.\nNo one else is near; far away, the faint glow of a single torch.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold blue moonlight with one small warm ember of distant torchlight, deep black shadows, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:50–2:02",
+      "narasi": "Pagi itu, kamu tak tahu yang datang penyelamat... atau maut berikutnya. Meriam kapal menghujani pantai! Pukul delapan, tentara Amerika mendarat di ujung landasanmu.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nWide shot from a low angle at the edge of the airstrip at dawn, the sky over the sea ablaze with flashes of naval gunfire.\nRomusha Surabaya runs bent low across the coral, mid-stride, one arm raised over her head, mouth open in a shout, eyes darting toward the exploding beach.\nAround her, laborers scatter in every direction and Japanese soldiers sprint for the jungle and the cave mouths, one losing his cap; columns of coral dust and grey smoke burst up from the shoreline, and the silhouettes of distant warships line the horizon. Japanese soldiers in faded green tropical cotton uniforms, cloth field caps with neck flaps or netted steel helmets, wrapped puttees and leather ankle boots. They are different people from Romusha Surabaya.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, fiery orange dawn and gunfire flashes against heavy grey smoke, historically accurate Noemfoor Island, Dutch New Guinea, 1944: flat raised coral ground, a crushed-coral airstrip cut through dense tropical jungle, 1940s Japanese army equipment.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:02–2:12",
+      "narasi": "Esoknya, ratusan payung turun di atas landasan yang kamu bangun. Peluru tak memilih... beberapa pekerja Jawa tewas oleh tembakan Sekutu.",
+      "prompt": "The viewer is Romusha Surabaya: the hands and forearms in the foreground match the first-person panel of the Romusha Surabaya reference image.\nMedium-wide shot from a low angle looking up, the Kamiri airstrip on a bright morning, the sky filled with hundreds of descending parachutes from low-flying twin-engine transport planes.\nFirst-person point of view. Her hands are slim and bony with warm medium-brown skin, cracked dry knuckles scratched by coral and short broken nails with dirt beneath them; the sleeves of a torn, grey-brown-stained off-white cotton kebaya end in ragged edges just below the elbow, showing thin forearms; no rings, no bracelets. The right hand is raised to shade the eyes against the glare; the left hand clutches the torn kebaya at the chest.\nIn the foreground, the body of a Javanese laborer lies face down beside a fresh bullet-pocked crater in the coral, shown without wounds. Several other laborers crouch behind a coral mound, staring upward with open mouths. They are different people from Romusha Surabaya.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, fiery orange dawn and gunfire flashes against heavy grey smoke, historically accurate Noemfoor Island, Dutch New Guinea, July 1944: crushed-coral Kamiri airstrip, 1940s US Army paratroopers under round parachute canopies, twin-engine 1940s transport planes.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:12–2:23",
+      "narasi": "Kamu selamat dari Jepang. Tapi tak seorang pun menanyakan namamu. Tiga hari setelah pendaratan, dua pekerja Jawa dipotret tentara Amerika.",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nMedium-wide shot at eye level, a clearing near the airstrip on a bright July day, an Allied truck parked beside canvas tents.\nTwo very thin barefoot Javanese men in simple cloth sit in the open back of the truck, shoulders drawn in, looking warily at the soldiers around them. An Allied soldier in a khaki shirt and a peaked field cap raises a box camera toward them, squinting, while another soldier with a notebook watches.\nIn the foreground, Romusha Surabaya watches from behind low bushes, half crouched, hands pressed to the leaves, brows drawn together in doubt. The two men and the soldiers are different people from Romusha Surabaya.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft low late-afternoon light, faded ochre and sea blue, warm sunset amber at the end, historically accurate Noemfoor Island, Dutch New Guinea, July 1944: Allied military camp with canvas tents beside a crushed-coral airstrip, 1940s Allied uniforms.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:23–2:32",
+      "narasi": "Foto itu masih ada sampai hari ini. Nama mereka tidak. Seperti nama ribuan orang lain yang dibawa ke Numfor.",
+      "prompt": "Medium shot at eye level, in front of an Allied canvas tent on a bright July day, two gaunt barefoot Javanese men in ragged cloth stand side by side, shoulders drawn in, faces tired and guarded, eyes turned toward an unseen officer on the left.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft low late-afternoon light, faded ochre and sea blue, warm sunset amber at the end, historically accurate Noemfoor Island, Dutch New Guinea, July 1944, 1940s Allied camp.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:32–2:45",
+      "narasi": "Dari tiga ribu lebih yang dibawa... hanya empat ratus tiga ditemukan hidup.  Kalau tak ada yang mencatat namanya... siapa yang akan mengingat adikmu?",
+      "prompt": "Same character as the Romusha Surabaya reference image.\nWide shot at eye level, a coral shore at sunset, a small mound of coral soil marked with a single lump of white coral, the sea glowing behind.\nRomusha Surabaya kneels beside the mound, back slightly turned, one hand resting flat on the soil and the other loosely holding the faded white shirt Adik used to wear; her head is lowered, eyes downcast, lips pressed together.\nNo one else is near; small waves roll in quietly.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft low late-afternoon light, faded ochre and sea blue, warm sunset amber at the end, historically accurate Noemfoor Island, Dutch New Guinea, 1944, raised coral shoreline and tropical sea.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Romusha Surabaya's or Adik's face or outfit, identical faces, gore, open wounds, blood splatter, modern clothing, brocade or lace kebaya, parang batik pattern, gold jewelry, samurai armor, rising-sun headbands, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Voice perempuan muda Indonesia, hangat tetapi lelah, berbicara dekat (intim), bukan gaya pembawa acara. Pilihan voice paling menentukan; tag tidak bisa memaksa voice yang lembut untuk berteriak (adegan 13).\n\n- Babak 1: tenang, sedikit berharap, lalu cemas; tempo sedang.\n- Babak 2: datar dan berat, tempo sedang.\n- Babak 3: tegang, kalimat pendek, jeda panjang di \"sampai ia mati\".\n- Babak 4: berbisik, pelan; hampir hening di adegan 12.\n- Babak 5: tegang dan lebih cepat, satu teriakan di adegan 13.\n- Babak 6: pasrah lalu sangat pelan, berbisik di pertanyaan penutup.",
+    "arahanBabak": {
+      "1": "tenang, sedikit berharap, lalu cemas; tempo sedang.",
+      "2": "datar dan berat, tempo sedang.",
+      "3": "tegang, kalimat pendek, jeda panjang di \"sampai ia mati\".",
+      "4": "berbisik, pelan; hampir hening di adegan 12.",
+      "5": "tegang dan lebih cepat, satu teriakan di adegan 13.",
+      "6": "pasrah lalu sangat pelan, berbisik di pertanyaan penutup."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[serious] Mereka bilang kamu dikirim bekerja ke pulau seberang. [tense] Dari ribuan orang yang turun di Numfor... kamu menghitung siapa yang tersisa....\n\n[calm] Surabaya, akhir 1943. [calm] Ada kabar kerja di pulau seberang. [curious] Kata mereka, ada upah. [sad] Kamu ikut bersama adikmu, baru tiga belas tahun....\n\n[nervous] Kapal itu penuh sesak. [nervous] Perempuan, anak-anak, remaja seusia adikmu. [whispers] Tak seorang pun tahu di mana pulau itu....",
+    "2": "[serious] Tak ada barak yang menunggumu di Numfor. [sad] Hampir tak ada pakaian, sepatu, atau atap. [resigned] Kalian tidur di atas karang tajam....\n\n[serious] Tugasmu membangun jalan dan landasan pesawat untuk Jepang, nyaris hanya dengan tangan. [tense] Tua, muda, laki-laki, perempuan... semua dipaksa bekerja....\n\n[sad] Di sampingmu, buruh dari Formosa. [sad] Jatah nasi mereka separuh jatah tentara Jepang. [resigned] Jatahmu sendiri tak pernah cukup....",
+    "3": "[tense] Di pulau ini, sesuap nasi curian bisa membunuhmu. [tense] Seorang laki-laki ketahuan mencuri ransum Jepang. [angry] Mereka menggantungnya terbalik... [sad] sampai ia mati....\n\n[tense] Yang berikutnya dipenggal, juga karena mencuri makanan. [whispers] Kamu menunduk, menahan lapar, dan bersumpah tak akan mencuri....\n\n[sad] Kelaparan dan penyakit datang setiap hari. [serious] Jepang tak memberi obat apa pun. [resigned] Kuburan massal terus bertambah....",
+    "4": "[whispers] Orang sakit di Numfor tak pernah kembali dari tepi hutan. [nervous] Malam ini, adikmu demam. [tense] Kamu menyembunyikannya di balik karang....\n\n[serious] Menurut para penyintas, banyak orang sakit dikubur... [crying] selagi masih hidup. [tense] Di lubang yang sama dengan yang lain....\n\n[sad] [whispers] Malam itu, adikmu berhenti menggigil....",
+    "5": "[tense] Pagi itu, kamu tak tahu yang datang penyelamat... atau maut berikutnya. [shouting] Meriam kapal menghujani pantai! [tense] Pukul delapan, tentara Amerika mendarat di ujung landasanmu....\n\n[curious] Esoknya, ratusan payung turun di atas landasan yang kamu bangun. [sad] Peluru tak memilih... [sad] beberapa pekerja Jawa tewas oleh tembakan Sekutu....",
+    "6": "[resigned] Kamu selamat dari Jepang. [sad] Tapi tak seorang pun menanyakan namamu. [calm] Tiga hari setelah pendaratan, dua pekerja Jawa dipotret tentara Amerika....\n\n[calm] Foto itu masih ada sampai hari ini. [sad] Nama mereka tidak. [sad] Seperti nama ribuan orang lain yang dibawa ke Numfor....\n\n[serious] Dari tiga ribu lebih yang dibawa... hanya empat ratus tiga ditemukan hidup. [sad] [whispers] Kalau tak ada yang mencatat namanya... siapa yang akan mengingat adikmu?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pulau seberang",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Harap yang cemas, lalu terik dan berat",
+      "style": "Melancholic Javanese-inspired ambient, solo bamboo suling and soft siter plucks over a low cello drone, distant creaking ship timbers texture, hopeful at first then heavy and weary, starts sparse and grows denser, fades out at the end, about 65 seconds long (1:05), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, pop drums, EDM, epic trailer"
+    },
+    {
+      "nomor": 2,
+      "nama": "Lubang di tepi hutan",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Teror, duka, sunyi",
+      "style": "Dark minimal ambient score, low sustained strings and sub drones, sparse muted hand drum like a slow heartbeat, single high suling note that cracks, oppressive and grieving, builds tension then drops to near silence, fades out at the end, about 60 seconds long (1:00), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, melodic piano, orchestral hits, EDM"
+    },
+    {
+      "nomor": 3,
+      "nama": "Payung dan nama",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "1:00",
+      "suasana": "Kacau, lalu elegi pelan",
+      "style": "War-torn cinematic underscore, deep orchestral percussion and low brass swells with distant rumbling, chaotic and uncertain, then breaking into a quiet elegy for solo bamboo suling and soft strings, ends in stillness, about 60 seconds long (1:00), with a clear ending, 80 BPM falling to 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, taiko, heroic fanfare, EDM"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Angin laut dan langkah sepatu bot di karang",
+      "kataKunci": "wind coral boots footsteps",
+      "prompt": "Slow heavy boot footsteps on crushed coral, steady sea wind"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Riuh pelabuhan dan peluit kapal",
+      "kataKunci": "harbor crowd ship horn",
+      "prompt": "Crowded 1940s harbor at dusk, murmuring crowd, deep ship horn"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Derit kayu dan ombak di lambung kapal",
+      "kataKunci": "ship hold creak waves",
+      "prompt": "Creaking ship hold, waves against steel hull, muffled coughing"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Ombak dan serangga hutan",
+      "kataKunci": "tropical jungle insects surf",
+      "prompt": "Surf on coral shore with dense tropical insects"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Cangkul memukul karang",
+      "kataKunci": "pickaxe hitting rock",
+      "prompt": "Many hoes striking coral rock, shouted orders in the distance"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Tali kayu berderit, kerumunan hening",
+      "kataKunci": "rope creak wood",
+      "prompt": "Rope creaking on a wooden beam in silence"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Desing logam lalu sunyi",
+      "kataKunci": "sword draw metal",
+      "prompt": "Single sword being drawn, then sudden silence"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Sekop di tanah karang, lalat",
+      "kataKunci": "shovel gravel flies",
+      "prompt": "Shovel scraping gravelly soil, buzzing flies"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Napas tersengal, langkah jauh",
+      "kataKunci": "heavy breathing night",
+      "prompt": "Feverish shallow breathing at night, distant footsteps"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Ledakan meriam kapal",
+      "kataKunci": "naval bombardment explosions",
+      "prompt": "Distant naval gunfire, explosions on a beach, people shouting"
+    },
+    {
+      "nomor": 11,
+      "adegan": 14,
+      "bunyi": "Deru pesawat angkut",
+      "kataKunci": "propeller plane flyover",
+      "prompt": "Low-flying twin-engine propeller planes, sporadic gunfire"
+    },
+    {
+      "nomor": 12,
+      "adegan": 15,
+      "bunyi": "Rana kamera tua",
+      "kataKunci": "old camera shutter",
+      "prompt": "1940s mechanical camera shutter click"
+    },
+    {
+      "nomor": 13,
+      "adegan": 17,
+      "bunyi": "Ombak pelan",
+      "kataKunci": "gentle waves shore",
+      "prompt": "Gentle evening waves on a quiet shore"
+    }
+  ],
+  "adeganHening": [
+    12
+  ],
+  "ulikan": {
+    "teks": "Landasan Kamiri yang dibangun para romusha kemudian diperpanjang dan dipakai Sekutu.",
+    "sumber": "Pacific Wrecks, Kamiri Airfield",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Romusha Perempuan di Pulau Numfor, 1944",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Romusha Perempuan, 1944\nAlternatif judul: POV: Kamu Dikirim Jepang ke Ujung Papua, 1944 / POV: Kamu Romusha Surabaya di Pulau Numfor",
+      "caption": "Dari 3.000 lebih orang yang dibawa dari Jawa ke Numfor, hanya 403 ditemukan hidup.\n\nAkhir 1943, Jepang mengirim laki-laki, perempuan, anak, dan remaja dari Surabaya untuk membangun lapangan terbang di Pulau Numfor, Papua. Foto di akhir video asli, diambil 5 Juli 1944, tiga hari setelah pasukan Sekutu mendarat di pulau itu.\n\nAdakah keluargamu yang dulu dikirim menjadi romusha?\n\nVideo ini memuat penggambaran kekerasan. Dramatisasi berdasarkan catatan sejarah. Sumber utama: sejarah resmi Angkatan Darat AS (Smith, 1953) dan arsip foto U.S. Army Signal Corps.\n\n#UlikSilam #sejarahindonesia #romusha #pendudukanjepang #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Romusha Perempuan di Pulau Numfor, 1944",
+      "catatan": "",
+      "caption": "Dari 3.000 lebih orang yang dibawa dari Jawa ke Numfor, hanya 403 ditemukan hidup.\n\nAkhir 1943, Jepang mengirim laki-laki, perempuan, anak, dan remaja dari Surabaya untuk membangun lapangan terbang di Pulau Numfor, Papua. Foto di akhir video asli, diambil 5 Juli 1944, tiga hari setelah pasukan Sekutu mendarat di pulau itu.\n\nAdakah keluargamu yang dulu dikirim menjadi romusha?\n\nVideo ini memuat penggambaran kekerasan. Dramatisasi berdasarkan catatan sejarah. Sumber utama: sejarah resmi Angkatan Darat AS (Smith, 1953) dan arsip foto U.S. Army Signal Corps.\n\n#UlikSilam #sejarahindonesia #romusha #pendudukanjepang #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 312,
+    "kataPerBabak": {
+      "1": 58,
+      "2": 56,
+      "3": 52,
+      "4": 41,
+      "5": 43,
+      "6": 62
+    },
+    "karakterPerBabak": {
+      "1": 457,
+      "2": 458,
+      "3": 462,
+      "4": 356,
+      "5": 357,
+      "6": 477
+    },
+    "jedaBunyi": 8,
+    "perkiraanDetik130": {
+      "narasi": 164.8,
+      "denganMerek": 169.8
+    },
+    "perkiraanDetik135": {
+      "narasi": 159.5,
+      "denganMerek": 164.5
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

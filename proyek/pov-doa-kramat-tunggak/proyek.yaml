@@ -1,0 +1,21 @@
+judul: "POV: Kamu di Malam Terakhir Kramat Tunggak"
+slug: pov-doa-kramat-tunggak
+format: POV
+lapisan: ["Rekaan", "Sejarah"]
+latar: "Kramat Tunggak, Jakarta Utara"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v4 · 2026-11-20"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Sumiati", "Pak Harun"]
+aset: {ilustrasi: 17, narasi: 23, musik: 3, sfx: 12}
+render: "out/pov-doa-kramat-tunggak.mp4"
+tanggal_render: 2026-11-20
+tautan: {"shorts": "https://youtube.com/shorts/IrMCInJ1c4o", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7710271219114806546"}
+arsip_lama: "pov/pov-doa-kramat-tunggak"
+catatan: ""
+metrik_shorts: {"views": 1240, "jam_tonton": 17.4, "rata_tonton_detik": 50.5, "durasi_detik": 168, "persen_ditonton": 30.1, "subscriber": 5, "impresi": 138, "ctr": 4.35, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-20", "tiktok": "2026-11-22"}
+metrik_tiktok: {"views": 5550, "suka": 268, "komentar": 2, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

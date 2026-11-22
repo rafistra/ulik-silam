@@ -1,0 +1,21 @@
+judul: "POV: Kamu Pemuda Bertato di Masa Petrus"
+slug: pov-pemuda-bertato-petrus
+format: POV
+lapisan: ["Sejarah"]
+latar: "Sebuah kampung dekat pasar di Yogyakarta"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-10-31"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Montir Bertato", "Ibu Montir", "Sahabat Montir"]
+aset: {ilustrasi: 17, narasi: 22, musik: 3, sfx: 14}
+render: "out/pov-pemuda-bertato-petrus.mp4"
+tanggal_render: 2026-10-31
+tautan: {"shorts": "https://youtube.com/shorts/2KjrmHF0naE", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7702825389441223957"}
+arsip_lama: "pov/pov-pemuda-bertato-petrus"
+catatan: ""
+metrik_shorts: {"views": 341010, "jam_tonton": 6114.1, "rata_tonton_detik": 64.5, "durasi_detik": 157, "persen_ditonton": 41.1, "subscriber": 481, "impresi": 6814, "ctr": 3.98, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 478678, "suka": 31388, "komentar": 92, "bagikan": 1543, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-31", "tiktok": "2026-11-01"}

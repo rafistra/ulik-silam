@@ -1,0 +1,21 @@
+judul: "POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943"
+slug: pov-mandor-romusha
+format: POV
+lapisan: ["Sejarah"]
+latar: "Jalur Saketi–Bayah, masa pendudukan Jepang"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v6 · 2026-10-18"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Mandor", "Slamet", "Pengawas Jepang"]
+aset: {ilustrasi: 17, narasi: 23, musik: 3, sfx: 0}
+render: "out/pov-mandor-romusha.mp4"
+tanggal_render: 2026-10-18
+tautan: {"shorts": "https://youtube.com/shorts/75wDIhd2eFQ", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7697965693530017032"}
+arsip_lama: "pov/pov-mandor-romusha"
+catatan: ""
+metrik_shorts: {"views": 445, "jam_tonton": 7.6, "rata_tonton_detik": 61.3, "durasi_detik": 179, "persen_ditonton": 34.2, "subscriber": 1, "impresi": 1446, "ctr": 3.87, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-19", "tiktok": "2026-10-19"}
+metrik_tiktok: {"views": 961, "suka": 16, "komentar": 3, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

@@ -1,0 +1,21 @@
+judul: "POV: Kamu Opas yang Memburu Si Pitung"
+slug: pov-opas-si-pitung
+format: POV
+lapisan: ["Sejarah", "Legenda"]
+latar: "Batavia, masa Hindia Belanda"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-11-14"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Opas", "Schout Hinne", "Si Pitung"]
+aset: {ilustrasi: 16, narasi: 22, musik: 3, sfx: 7}
+render: "out/pov-opas-si-pitung.mp4"
+tanggal_render: 2026-11-14
+tautan: {"shorts": "https://youtube.com/shorts/7xDmktia5zY", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7707849859440708916"}
+arsip_lama: "pov/pov-opas-si-pitung"
+catatan: ""
+metrik_shorts: {"views": 30624, "jam_tonton": 609.1, "rata_tonton_detik": 71.6, "durasi_detik": 160, "persen_ditonton": 44.7, "subscriber": 62, "impresi": 2950, "ctr": 5.97, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-14", "tiktok": "2026-11-14"}
+metrik_tiktok: {"views": 5042, "suka": 186, "komentar": 2, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

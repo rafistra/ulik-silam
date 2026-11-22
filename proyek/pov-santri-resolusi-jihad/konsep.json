@@ -1,0 +1,626 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-22T07:46:49.026Z",
+  "judulDokumen": "Santri Utusan Resolusi Jihad 1945",
+  "judul": "POV: Kamu Santri Utusan Resolusi Jihad 1945",
+  "slug": "pov-santri-resolusi-jihad",
+  "versi": "v1 · 2026-10-21",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Surabaya",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Santri muda (fiktif) dari pesantren di Jawa Timur, pendamping kiai utusan konsul NU; bukan peserta rapat",
+  "ringkasan": {
+    "Judul": "POV: Kamu Santri Utusan Resolusi Jihad 1945",
+    "Slug": "pov-santri-resolusi-jihad",
+    "Versi": "v1 · 2026-10-21",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah saat ini ±2:45 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Lapisan": "Sejarah",
+    "Latar": "Surabaya",
+    "Posisi \"kamu\"": "Santri muda (fiktif) dari pesantren di Jawa Timur, pendamping kiai utusan konsul NU; bukan peserta rapat",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Santri, Kiai Utusan)",
+    "Premis": "Tugasmu cuma menjaga sandal kiaimu, tapi kamu pulang membawa kabar yang mewajibkan kampungmu berperang.",
+    "Benang merah": "Tas yang dibawa pergi dan pulang; angka 94 km dibuka di hook dan ditutup di pertanyaan akhir.",
+    "Hook": "Pilihan nomor 1, disesuaikan: kata \"dosa\" diganti \"melanggar kewajiban agama\" karena teks resolusi tidak memakainya.",
+    "Asumsi": "Santri, kiai pembimbing, dan santri sebaya rekaan; daerah asal tidak disebut. Radius 94 km disampaikan sebagai penjelasan lisan, bukan bunyi teks resolusi (lihat Verifikasi fakta).",
+    "Dipilih karena": "Sudut orang pinggiran di peristiwa besar; momentum Hari Santri (22 Oktober) dan pendaratan Sekutu (25 Oktober)."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Undangan",
+      "suasana": "Tenang, khidmat; hook redup",
+      "palet": "Oker lembut, krem, cokelat jati",
+      "cahaya": "Pelita di hook; pagi berkabut di pesantren"
+    },
+    {
+      "babak": 2,
+      "nama": "Kota yang panas",
+      "suasana": "Gelisah, ramai",
+      "palet": "Amber berdebu, merah bata, khaki pudar",
+      "cahaya": "Matahari rendah yang keras"
+    },
+    {
+      "babak": 3,
+      "nama": "Serambi Bubutan",
+      "suasana": "Menunggu, berbisik",
+      "palet": "Cokelat tua, jati, emas pelita",
+      "cahaya": "Pelita dan lampu minyak, bayangan dalam"
+    },
+    {
+      "babak": 4,
+      "nama": "Garis 94 kilometer",
+      "suasana": "Berat, hening",
+      "palet": "Umber gelap, satu sumber emas, tepi biru malam",
+      "cahaya": "Satu lampu minyak"
+    },
+    {
+      "babak": 5,
+      "nama": "Kabar yang dibawa pulang",
+      "suasana": "Getir, menatap ke depan",
+      "palet": "Abu-biru fajar ke emas hangat, hijau sawah",
+      "cahaya": "Sore di jalan desa; pelita di surau; fajar di epilog"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Undangan",
+    "2": "Kota yang panas",
+    "3": "Serambi Bubutan",
+    "4": "Garis 94 kilometer",
+    "5": "Kabar yang dibawa pulang"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Undangan",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Bersimpuh di serambi kantor, menatap pintu kayu yang tertutup; deretan sandal para kiai di depan pintu, cahaya pelita merembes dari celah. Tangan kanan \"kamu\" memeluk tas kain kiai di pangkuan.",
+      "narasiSuara": "[tense] Para kiai menarik garis sejauh sembilan puluh empat kilometer. [serious] Di dalam garis itu, menolak berperang berarti melanggar kewajiban agama.",
+      "narasi": "Para kiai menarik garis sejauh sembilan puluh empat kilometer. Di dalam garis itu, menolak berperang berarti melanggar kewajiban agama.",
+      "teksLayar": [
+        "Surabaya, Oktober 1945"
+      ],
+      "suara": "Suara rapat samar di balik pintu",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Undangan",
+      "waktu": "0:10–0:18",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Halaman pesantren pagi hari; Kiai Utusan membaca surat undangan di beranda, santri-santri menoleh penasaran; \"kamu\" berdiri di dekat tiang.",
+      "narasiSuara": "[calm] Pagi itu, sepucuk undangan tiba di pesantrenmu. [curious] Rapat besar para konsul NU se-Jawa dan Madura, di Surabaya.",
+      "narasi": "Pagi itu, sepucuk undangan tiba di pesantrenmu. Rapat besar para konsul NU se-Jawa dan Madura, di Surabaya.",
+      "teksLayar": [
+        "Sebuah pesantren di Jawa Timur"
+      ],
+      "suara": "Ayam, angin, lantunan ngaji jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Undangan",
+      "waktu": "0:18–0:27",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" mengikat tas kain dan kitab, lalu mengangkat sepasang sandal kiai; Kiai Utusan di ambang pintu menatap \"kamu\" dan mengangguk.",
+      "narasiSuara": "[calm] Kiaimu berangkat sebagai utusan konsul. [calm] Dan kamu ikut di belakangnya. [calm] Tugasmu sederhana: membawakan tasnya dan menjaga sandalnya.",
+      "narasi": "Kiaimu berangkat sebagai utusan konsul. Dan kamu ikut di belakangnya. Tugasmu sederhana: membawakan tasnya dan menjaga sandalnya.",
+      "teksLayar": [],
+      "suara": "Langkah kaki di lantai kayu",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Kota yang panas",
+      "waktu": "0:27–0:38",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Jalan kota Surabaya, \"kamu\" berjalan di belakang Kiai Utusan; di kejauhan menara Hotel Yamato dengan bendera merah putih di tiangnya.",
+      "narasiSuara": "[tense] Tak sampai seminggu lagi, kota ini akan menjadi medan perang. [serious] Sebulan lalu, pemudanya merobek warna biru bendera Belanda di Hotel Yamato.",
+      "narasi": "Tak sampai seminggu lagi, kota ini akan menjadi medan perang. Sebulan lalu, pemudanya merobek warna biru bendera Belanda di Hotel Yamato.",
+      "teksLayar": [
+        "Surabaya"
+      ],
+      "suara": "Keramaian kota, sepeda, dokar",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Kota yang panas",
+      "waktu": "0:38–0:48",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari tepi jalan, \"kamu\" melihat sekelompok pemuda menenteng senapan Jepang; salah satu pemuda menoleh ke arah \"kamu\". Tangan kiri \"kamu\" mengeratkan tali tas.",
+      "narasiSuara": "[tense] Di jalan, kamu melihat pemuda menenteng senapan rampasan dari tentara Jepang. [nervous] Belum ada yang tahu, kapan senapan itu akan dipakai.",
+      "narasi": "Di jalan, kamu melihat pemuda menenteng senapan rampasan dari tentara Jepang. Belum ada yang tahu, kapan senapan itu akan dipakai.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu, obrolan tegang",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Kota yang panas",
+      "waktu": "0:48–0:56",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Warung di tepi jalan; beberapa lelaki berbisik sambil melirik ke arah laut; \"kamu\" dan Kiai Utusan lewat di latar.",
+      "narasiSuara": "[nervous] Orang-orang berbisik di warung, di pasar, di serambi masjid. [tense] Belanda akan kembali... membonceng tentara Sekutu.",
+      "narasi": "Orang-orang berbisik di warung, di pasar, di serambi masjid. Belanda akan kembali... membonceng tentara Sekutu.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik, gelas kopi",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Serambi Bubutan",
+      "waktu": "0:56–1:08",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Jalan Bubutan; para kiai berpeci dan bersarung turun dari dokar dan berjalan masuk ke sebuah kantor; \"kamu\" menunggu di dekat pintu.",
+      "narasiSuara": "[tense] Di balik satu pintu di Jalan Bubutan, nasib kampungmu akan diputuskan, tanpa kamu. [serious] Utusan datang dari Jawa dan Madura; pulau-pulau lain sudah diduduki Sekutu.",
+      "narasi": "Di balik satu pintu di Jalan Bubutan, nasib kampungmu akan diputuskan, tanpa kamu. Utusan datang dari Jawa dan Madura; pulau-pulau lain sudah diduduki Sekutu.",
+      "teksLayar": [
+        "Kantor PB ANO, Jalan Bubutan"
+      ],
+      "suara": "Roda dokar, salam bersahutan",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Serambi Bubutan",
+      "waktu": "1:08–1:18",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Serambi penuh santri pendamping yang duduk bersila; santri sebaya di sebelah \"kamu\" mencondongkan badan dan berbisik ke arah \"kamu\". Tangan \"kamu\" memegang tas di pangkuan.",
+      "narasiSuara": "[calm] Kamu menunggu di serambi bersama santri pendamping lain. [curious] Santri dari daerah lain di sebelahmu berbisik: kali ini bukan rapat biasa.",
+      "narasi": "Kamu menunggu di serambi bersama santri pendamping lain. Santri dari daerah lain di sebelahmu berbisik: kali ini bukan rapat biasa.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik, kipas tangan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Serambi Bubutan",
+      "waktu": "1:18–1:27",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dari celah pintu: ruangan penuh kiai duduk menghadap satu sosok sepuh berserban yang terlihat dari belakang dan dari jauh; cahaya pelita.",
+      "narasiSuara": "[whispers] Lalu ruangan hening. [serious] Hadratussyaikh Hasyim Asy'ari menyampaikan amanatnya. [calm] Dari balik pintu, kamu hanya menangkap potongan suaranya.",
+      "narasi": "Lalu ruangan hening. Hadratussyaikh Hasyim Asy'ari menyampaikan amanatnya. Dari balik pintu, kamu hanya menangkap potongan suaranya.",
+      "teksLayar": [],
+      "suara": "Hening, suara amanat samar",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Serambi Bubutan",
+      "waktu": "1:27–1:36",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kiai Wahab Chasbullah (dari samping, sedang) memimpin rapat di depan para kiai; sebagian kiai saling pandang, kertas di meja rendah.",
+      "narasiSuara": "[serious] Kiai Wahab Chasbullah memimpin rapat. [tense] Pemerintah belum juga memberi perintah yang tegas. [serious] Para kiai tidak mau menunggu lebih lama.",
+      "narasi": "Kiai Wahab Chasbullah memimpin rapat. Pemerintah belum juga memberi perintah yang tegas. Para kiai tidak mau menunggu lebih lama.",
+      "teksLayar": [],
+      "suara": "Suara rapat, kertas dibalik",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Garis 94 kilometer",
+      "waktu": "1:36–1:48",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Lembar keputusan di atas meja diterangi pelita, tangan seorang kiai meletakkan pena; para kiai berdiri.",
+      "narasiSuara": "[serious] Dua puluh dua Oktober. [tense] Keputusannya hanya beberapa baris, tapi penjelasannya akan mengubah hidupmu. [serious] Mempertahankan negara adalah kewajiban tiap-tiap orang Islam, dalam perjuangan sabilillah.",
+      "narasi": "Dua puluh dua Oktober. Keputusannya hanya beberapa baris, tapi penjelasannya akan mengubah hidupmu. Mempertahankan negara adalah kewajiban tiap-tiap orang Islam, dalam perjuangan sabilillah.",
+      "teksLayar": [
+        "22 Oktober 1945"
+      ],
+      "suara": "Pena, kursi bergeser",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Garis 94 kilometer",
+      "waktu": "1:48–1:59",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kiai Utusan duduk di serambi menghadap \"kamu\", menatap \"kamu\" dengan serius sambil mengangkat satu jari; tangan \"kamu\" menggenggam ujung sarung.",
+      "narasiSuara": "[serious] Kepadamu, kiaimu menjelaskan maksudnya. [tense] Siapa pun dalam jarak sembilan puluh empat kilometer: fardu ain, wajib turun sendiri. [serious] Yang di luar itu, wajib membantu.",
+      "narasi": "Kepadamu, kiaimu menjelaskan maksudnya. Siapa pun dalam jarak sembilan puluh empat kilometer: fardu ain, wajib turun sendiri. Yang di luar itu, wajib membantu.",
+      "teksLayar": [],
+      "suara": "Suara kiai pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Garis 94 kilometer",
+      "waktu": "1:59–2:07",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tangan \"kamu\" membuka telapak dan menghitung dengan jari; latar kota malam yang kabur.",
+      "narasiSuara": "[sad] [whispers] Kamu menghitung jarak ke kampungmu... [sad] Kurang dari sembilan puluh empat.",
+      "narasi": "Kamu menghitung jarak ke kampungmu... Kurang dari sembilan puluh empat.",
+      "teksLayar": [],
+      "suara": "Musik turun, napas",
+      "hening": true,
+      "epilog": false,
+      "kata": 10
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Kabar yang dibawa pulang",
+      "waktu": "2:07–2:17",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Perjalanan pulang di jalan desa; \"kamu\" berjalan cepat membawa tas yang sama, Kiai Utusan di dokar; masjid kecil di kejauhan.",
+      "narasiSuara": "[calm] Kamu pulang membawa tas yang sama. [nervous] Kini kamulah yang harus menyampaikan kabar itu, kepada orang-orang yang kamu kenal sejak kecil.",
+      "narasi": "Kamu pulang membawa tas yang sama. Kini kamulah yang harus menyampaikan kabar itu, kepada orang-orang yang kamu kenal sejak kecil.",
+      "teksLayar": [
+        "Kampung halaman"
+      ],
+      "suara": "Langkah, bedug jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Kabar yang dibawa pulang",
+      "waktu": "2:17–2:28",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Di dalam surau malam hari, para pemuda kampung duduk melingkar menatap \"kamu\"; pelita di tengah. Tangan \"kamu\" meletakkan tas di lantai.",
+      "narasiSuara": "[tense] Di surau kampungmu, para pemuda mendengarkan tanpa bersuara. [serious] Dari masjid ke masjid, seruan itu menyebar. [serious] Pesantren dan kantor NU menjadi markas laskar Hizbullah.",
+      "narasi": "Di surau kampungmu, para pemuda mendengarkan tanpa bersuara. Dari masjid ke masjid, seruan itu menyebar. Pesantren dan kantor NU menjadi markas laskar Hizbullah.",
+      "teksLayar": [],
+      "suara": "Jangkrik, hening",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Kabar yang dibawa pulang",
+      "waktu": "2:28–2:40",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Pemuda kampung berangkat di jalan tanah saat fajar, siluet dari belakang; jalan menjauh ke arah kota.",
+      "narasiSuara": "[serious] Tiga hari kemudian, Sekutu mendarat di Surabaya. [tense] Pertempuran pecah, dan membesar sampai sepuluh November. [whispers] Kampungmu ada di dalam garis itu... [serious] Kamu berangkat?",
+      "narasi": "Tiga hari kemudian, Sekutu mendarat di Surabaya. Pertempuran pecah, dan membesar sampai sepuluh November. Kampungmu ada di dalam garis itu... Kamu berangkat?",
+      "teksLayar": [
+        "25 Oktober 1945"
+      ],
+      "suara": "Langkah banyak orang, angin",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Santri",
+      "prompt": "Character reference sheet of Santri.\nSantri, an 18-year-old Javanese pesantren student from rural East Java in October 1945, the quiet assistant of his kiai. Slim, wiry build, warm medium-brown skin, oval face, dark almond-shaped eyes, thick straight brows, small flat-bridged nose, full lips, a faint first moustache; short black hair mostly hidden under his cap. A plain black velvet peci, elliptical and slightly worn at the rim; a plain off-white long-sleeved collarless cotton shirt with a short front placket of three cloth-covered buttons, sleeves rolled once at the wrists; an ankle-length hand-woven cotton sarung in faded indigo and brown checks, folded and rolled at the waist; bare feet. A coarse undyed cotton shoulder bag (his kiai's bag) slung across his chest, a small string of wooden prayer beads tucked into the waist roll of the sarung. He carries himself slightly hunched and attentive, with restless hands that keep checking the bag strap.\nFull-body front, side and back views in a relaxed natural standing pose; one three-quarter face portrait; one detail panel of the checked sarung weave, the peci and the shoulder bag; one first-person panel showing his hands and forearms as he would see them, lifted in front of the chest: Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate East Javanese pesantren student clothing of the 1940s.\nAvoid modern embroidered baju koko, glossy polyester or printed modern sarongs, rubber flip-flops, sunglasses, wristwatches, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kiai Utusan",
+      "prompt": "Character reference sheet of Kiai Utusan.\nKiai Utusan, a Javanese kiai of about 50 from rural East Java in October 1945, the delegate of his regional NU consul. Medium height, sturdy build with a slight belly, warm brown skin, broad calm face, deep-set dark eyes with smile lines, heavy greying brows, broad nose, a neatly trimmed grey-flecked chin beard and no moustache. A white cotton turban wound around a white skullcap; a long charcoal-grey collarless jacket buttoned to the neck over a white shirt; an ankle-length hand-woven cotton sarung in brown and black checks; simple brown leather sandals. A worn string of dark wooden prayer beads in his right hand, a folded paper letter tucked in his jacket. He moves slowly and deliberately, often resting one hand on his chest while he listens.\nFull-body front, side and back views in a relaxed natural standing pose; one three-quarter face portrait; one detail panel of the turban, the collarless jacket buttons, the checked sarung and the prayer beads.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate East Javanese kiai clothing of the 1940s.\nAvoid modern embroidered baju koko, glossy polyester or printed modern sarongs, rubber flip-flops, sunglasses, wristwatches, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Para kiai menarik garis sejauh sembilan puluh empat kilometer. Di dalam garis itu, menolak berperang berarti melanggar kewajiban agama.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nMedium shot at eye level, kneeling on a wooden veranda floor at night in front of a closed teak double door of a modest colonial-era office in Surabaya.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. Both hands come up from the bottom of the frame: the right hand hugs a coarse undyed cotton shoulder bag on the lap, the left hand rests flat on the floor, fingers tense.\nA neat row of worn leather sandals and wooden clogs lines the threshold. Warm lamplight leaks through the gap under the door and between the panels, the rest is deep shadow; nobody is visible.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of soft ochre, cream and teak brown with deep shadows, historically accurate rural East Java and Surabaya in October 1945 office veranda.\nAvoid people, characters looking at the camera, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:18",
+      "narasi": "Pagi itu, sepucuk undangan tiba di pesantrenmu. Rapat besar para konsul NU se-Jawa dan Madura, di Surabaya.",
+      "prompt": "Same character as the Kiai Utusan reference image.\nSame character as the Santri reference image.\nMedium-wide shot from a slightly low angle, the front veranda of a rural East Javanese pesantren in early morning: a bamboo-walled building with a clay-tile roof, a wooden prayer drum hanging at the corner.\nKiai Utusan sits on a low wooden bench reading an unfolded letter, brows lifted, lips slightly parted, one hand resting on his chest. Santri stands half-hidden beside a wooden pillar, leaning forward, eyes fixed on the letter, fingers gripping the pillar.\nThree younger students in the yard, boys of different heights with plain grey and brown shirts and bare heads, turn their heads mid-sweep with palm-rib brooms, curious. They are different people from Santri, with no peci and no shoulder bag.\nMorning mist, a rooster on the fence, dust in slanting light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of soft ochre, cream and teak brown with deep shadows, historically accurate rural East Java and Surabaya in October 1945 pesantren.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Santri's or Kiai Utusan's face or outfit, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:27",
+      "narasi": "Kiaimu berangkat sebagai utusan konsul. Dan kamu ikut di belakangnya. Tugasmu sederhana: membawakan tasnya dan menjaga sandalnya.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nSame character as the Kiai Utusan reference image.\nMedium shot, slightly high angle, inside a simple wooden room of a pesantren in morning light through a bamboo window.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. The left hand pulls tight the knot of a coarse undyed cotton shoulder bag with a worn kitab book inside; the right hand lifts a pair of brown leather sandals by the straps.\nKiai Utusan stands in the doorway mid-step, turning back toward the viewer, looking straight at the viewer with a small approving nod, eyes calm, one hand on the door frame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of soft ochre, cream and teak brown with deep shadows, historically accurate rural East Java and Surabaya in October 1945 pesantren interior.\nAvoid stiff symmetrical poses, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, mismatched sleeves, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:27–0:38",
+      "narasi": "Tak sampai seminggu lagi, kota ini akan menjadi medan perang. Sebulan lalu, pemudanya merobek warna biru bendera Belanda di Hotel Yamato.",
+      "prompt": "Same character as the Kiai Utusan reference image.\nSame character as the Santri reference image.\nWide shot at eye level, a busy Surabaya street in October 1945: two-storey Dutch colonial shophouses, bicycles, a horse-drawn dokar cart, people in sarongs and shorts.\nKiai Utusan walks mid-stride in front, calm, eyes on the road ahead; Santri follows a step behind, clutching the bag strap, head turned up toward a distant white colonial hotel with a corner tower and a red-and-white flag on its flagpole, eyes wide.\nPassers-by are different people from Santri and Kiai Utusan: a woman with a basket on her hip, an old man on a bicycle, two boys running, all glancing at the hotel.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty palette of amber, brick red, faded khaki and pale sky with hard low sunlight, historically accurate rural East Java and Surabaya in October 1945 street, colonial architecture.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Santri's or Kiai Utusan's face or outfit, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:38–0:48",
+      "narasi": "Di jalan, kamu melihat pemuda menenteng senapan rampasan dari tentara Jepang. Belum ada yang tahu, kapan senapan itu akan dipakai.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nMedium shot at eye level from the edge of a dusty street lined with colonial shophouses, afternoon.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. The left hand tightens the strap of a coarse undyed cotton shoulder bag across the chest; the right hand hangs half-raised, frozen.\nA group of four young Indonesian men of different builds in short-sleeved shirts, shorts and bare heads or black caps walk past carrying old bolt-action rifles taken from Japanese soldiers, slung over shoulders or held low. The nearest one, lean with a sharp jaw, turns his head mid-stride and looks straight at the viewer with narrowed, wary eyes; the others look ahead, talking tensely.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty palette of amber, brick red, faded khaki and pale sky with hard low sunlight, historically accurate rural East Java and Surabaya in October 1945 street, 1940s rifles.\nAvoid stiff symmetrical poses, modern firearms, uniforms of later decades, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:48–0:56",
+      "narasi": "Orang-orang berbisik di warung, di pasar, di serambi masjid. Belanda akan kembali... membonceng tentara Sekutu.",
+      "prompt": "Same character as the Kiai Utusan reference image.\nSame character as the Santri reference image.\nMedium-wide shot from a low angle inside a small roadside warung with a bamboo bench, glass jars and clay cups, afternoon.\nIn the foreground, three men of different ages lean toward each other over coffee: an old man with a grey moustache and a faded brown headcloth whispering behind his hand, a plump middle-aged man frowning, a thin young man glancing sideways toward the sea beyond the street. They are different people from Santri and Kiai Utusan, with plainer clothes.\nIn the background, Kiai Utusan and Santri walk past outside, Santri slowing down, head turned toward the whisperers.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty palette of amber, brick red, faded khaki and pale sky with hard low sunlight, historically accurate rural East Java and Surabaya in October 1945 warung.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Santri's or Kiai Utusan's face or outfit, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:56–1:08",
+      "narasi": "Di balik satu pintu di Jalan Bubutan, nasib kampungmu akan diputuskan, tanpa kamu. Utusan datang dari Jawa dan Madura; pulau-pulau lain sudah diduduki Sekutu.",
+      "prompt": "Same character as the Santri reference image.\nWide shot from a slightly high angle, a street in Surabaya in front of a modest single-storey colonial-era office with a tiled roof and a wooden veranda.\nSeveral kiai of different ages and builds step down from horse-drawn dokar carts and walk toward the door, greeting one another with handshakes: some wear black velvet peci, some cream or light grey turbans, collarless jackets and checked sarungs. They are different people from Santri, older, with no shoulder bags.\nSantri stands by the veranda pillar in the foreground, seen from behind and to the side, head turned toward the arriving men.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep brown, teak and lamp gold with deep shadows, historically accurate rural East Java and Surabaya in October 1945 street and office.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Santri's face or outfit, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:08–1:18",
+      "narasi": "Kamu menunggu di serambi bersama santri pendamping lain. Santri dari daerah lain di sebelahmu berbisik: kali ini bukan rapat biasa.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nMedium shot at eye level on a crowded wooden veranda, students sitting cross-legged in rows by lamplight.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. Both hands rest on a coarse undyed cotton shoulder bag on the lap, fingers curled over its flap.\nThe student beside the viewer, a round-faced boy with a thin face scar, a brown peci and a plain grey shirt, leans in mid-whisper, looking straight at the viewer with wide serious eyes, one hand cupped by his mouth. Behind him other students of different ages fan themselves with woven bamboo fans and glance at the closed door. They are different people from Santri.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep brown, teak and lamp gold with deep shadows, historically accurate rural East Java and Surabaya in October 1945 veranda.\nAvoid stiff symmetrical poses, background figures copying Santri's face or outfit, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, mismatched sleeves, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:18–1:27",
+      "narasi": "Lalu ruangan hening. Hadratussyaikh Hasyim Asy'ari menyampaikan amanatnya. Dari balik pintu, kamu hanya menangkap potongan suaranya.",
+      "prompt": "Medium-wide shot through the narrow gap of a half-open teak door, looking into a lamp-lit meeting room.\nRows of kiai of different ages sit cross-legged on woven mats, all facing away from the viewer toward one elderly ulama at the far end. The elderly ulama is seen only from behind and at a distance, a small slim figure with a white turban and a long pale robe, one hand slightly raised as he speaks; his face is not visible. The listening kiai lean forward, heads bowed, some with eyes closed.\nThe dark door edge frames the scene; lamp smoke drifts in the warm air.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep brown, teak and lamp gold with deep shadows, historically accurate rural East Java and Surabaya in October 1945 meeting room.\nAvoid showing the elderly ulama's face, characters looking at the camera, stiff symmetrical poses, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:27–1:36",
+      "narasi": "Kiai Wahab Chasbullah memimpin rapat. Pemerintah belum juga memberi perintah yang tegas. Para kiai tidak mau menunggu lebih lama.",
+      "prompt": "Medium shot from the side, inside a lamp-lit meeting room with woven mats and low wooden tables holding papers.\nAn older kiai with a black velvet peci and a dark collarless jacket leads the meeting, turning sharply to his left while gesturing with an open hand toward the papers, his face turned away and in partial shadow. Around him, kiai of different ages lean in: one taps a page, two exchange a tense glance, another strokes his beard, eyes on the leader.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of deep brown, teak and lamp gold with deep shadows, historically accurate rural East Java and Surabaya in October 1945 meeting room.\nAvoid characters looking at the camera, stiff symmetrical poses, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:48",
+      "narasi": "Dua puluh dua Oktober. Keputusannya hanya beberapa baris, tapi penjelasannya akan mengubah hidupmu. Mempertahankan negara adalah kewajiban tiap-tiap orang Islam, dalam perjuangan sabilillah.",
+      "prompt": "Close-up from a slightly high angle of a low wooden table lit by a single oil lamp at night.\nA sheet of paper covered in handwritten lines lies on the table; an older man's hand in a dark sleeve lays down a dip pen beside an inkpot. Behind, out of focus, several kiai rise from the mats at once, robes and sarungs swinging, faces turned toward the paper.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dark palette of umber and black with a single warm lamp-gold light and a cool blue night edge, historically accurate rural East Java and Surabaya in October 1945 meeting room, 1940s paper, dip pen and inkpot.\nAvoid readable writing, characters looking at the camera, stiff symmetrical poses, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:48–1:59",
+      "narasi": "Kepadamu, kiaimu menjelaskan maksudnya. Siapa pun dalam jarak sembilan puluh empat kilometer: fardu ain, wajib turun sendiri. Yang di luar itu, wajib membantu.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nSame character as the Kiai Utusan reference image.\nMedium close shot at eye level on the dark veranda after the meeting, one oil lamp between them.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. Both hands grip the edge of the faded indigo checked sarung on the knees, knuckles tight.\nKiai Utusan sits cross-legged facing the viewer, leaning forward, looking straight at the viewer with steady, heavy eyes, brows lowered, lips firm, raising one index finger as he explains; the prayer beads hang still from his other hand.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dark palette of umber and black with a single warm lamp-gold light and a cool blue night edge, historically accurate rural East Java and Surabaya in October 1945 veranda.\nAvoid stiff symmetrical poses, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, mismatched sleeves, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:59–2:07",
+      "narasi": "Kamu menghitung jarak ke kampungmu... Kurang dari sembilan puluh empat.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nClose shot, slightly high angle, at night on the veranda, the street of Surabaya blurred in darkness beyond the railing.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. The right hand is held open, palm up, and the left index finger touches the right fingertips one by one as if counting; the hands tremble slightly. A single oil-lamp glow lights the hands from the side.\nNo other people in sharp focus; distant lamps blur in the night.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dark palette of umber and black with a single warm lamp-gold light and a cool blue night edge, historically accurate rural East Java and Surabaya in October 1945 night.\nAvoid people, characters looking at the camera, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, mismatched sleeves, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:07–2:17",
+      "narasi": "Kamu pulang membawa tas yang sama. Kini kamulah yang harus menyampaikan kabar itu, kepada orang-orang yang kamu kenal sejak kecil.",
+      "prompt": "Same character as the Santri reference image.\nSame character as the Kiai Utusan reference image.\nWide shot from a low angle on a dirt road between rice fields in rural East Java, late afternoon.\nSantri walks fast mid-stride ahead, leaning forward, the shoulder bag bouncing, jaw set, eyes on a small wooden mosque with a tiered roof in the distance. Kiai Utusan sits in a horse-drawn dokar behind him, looking at Santri's back with quiet concern, prayer beads in hand. The dokar driver, a thin old man in a faded blue headcloth, flicks the reins.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette moving from dawn grey-blue to warm gold, earthy greens and brown, historically accurate rural East Java and Surabaya in October 1945 countryside, traditional tiered-roof Javanese mosque.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Santri's or Kiai Utusan's face or outfit, domed mosques, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:17–2:28",
+      "narasi": "Di surau kampungmu, para pemuda mendengarkan tanpa bersuara. Dari masjid ke masjid, seruan itu menyebar. Pesantren dan kantor NU menjadi markas laskar Hizbullah.",
+      "prompt": "The viewer is Santri: the hands and forearms in the foreground match the first-person panel of the Santri reference image.\nMedium-wide shot at eye level inside a small village surau at night, a single oil lamp on the woven mat in the middle.\nFirst-person point of view. Slim young hands with warm medium-brown skin, short clean nails, light calluses on the palms from farm work, a thin pale scar across the left knuckle, off-white collarless cotton sleeves rolled once at the wrists, no rings or jewelry. The right hand lowers the coarse undyed cotton shoulder bag onto the mat; the left hand is still on its strap.\nA circle of village young men of different builds and ages sits cross-legged around the lamp, all looking straight at the viewer: a broad-shouldered farmer with mud on his shins clenching his jaw, a skinny boy hugging his knees with wide eyes, an older youth with a black peci frowning. They wear plain faded shirts and sarungs and are different people from Santri.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette moving from dawn grey-blue to warm gold, earthy greens and brown, historically accurate rural East Java and Surabaya in October 1945 village surau.\nAvoid stiff symmetrical poses, identical faces, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, mismatched sleeves, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:28–2:40",
+      "narasi": "Tiga hari kemudian, Sekutu mendarat di Surabaya. Pertempuran pecah, dan membesar sampai sepuluh November. Kampungmu ada di dalam garis itu... Kamu berangkat?",
+      "prompt": "Wide shot from behind and slightly low, a dirt road leading out of an East Javanese village at dawn toward the distant city.\nA loose group of young village men walk away from the viewer mid-stride in silhouette, some carrying cloth bundles and bamboo staffs, one turning his head back over his shoulder toward the village, his face in shadow. Mist lies over the rice fields; the first warm light rises at the horizon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette moving from dawn grey-blue to warm gold, earthy greens and brown, historically accurate rural East Java and Surabaya in October 1945 countryside at dawn.\nAvoid visible faces, characters looking at the camera, stiff symmetrical poses, weapons, modern embroidered baju koko, glossy printed modern sarongs, rubber flip-flops, plastic items, motorbikes, cars of later decades, loudspeakers on mosques, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki dewasa yang hangat dan agak berat; voice paling menentukan, karena tag tidak bisa memaksa voice lembut untuk terdengar tegang.\n\n- Babak 1: tegang dan rendah di hook, lalu tenang dan lembut di pesantren.\n- Babak 2: gelisah, tempo sedikit lebih cepat, berbisik di \"membonceng tentara Sekutu\".\n- Babak 3: tertahan dan khidmat; jeda panjang setelah \"Lalu ruangan hening\".\n- Babak 4: berat dan pelan; adegan 13 nyaris berbisik.\n- Babak 5: getir, tempo naik di surau, lalu turun pelan ke pertanyaan terakhir.",
+    "arahanBabak": {
+      "1": "tegang dan rendah di hook, lalu tenang dan lembut di pesantren.",
+      "2": "gelisah, tempo sedikit lebih cepat, berbisik di \"membonceng tentara Sekutu\".",
+      "3": "tertahan dan khidmat; jeda panjang setelah \"Lalu ruangan hening\".",
+      "4": "berat dan pelan; adegan 13 nyaris berbisik.",
+      "5": "getir, tempo naik di surau, lalu turun pelan ke pertanyaan terakhir."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Para kiai menarik garis sejauh sembilan puluh empat kilometer. [serious] Di dalam garis itu, menolak berperang berarti melanggar kewajiban agama...\n\n[calm] Pagi itu, sepucuk undangan tiba di pesantrenmu. [curious] Rapat besar para konsul NU se-Jawa dan Madura, di Surabaya...\n\n[calm] Kiaimu berangkat sebagai utusan konsul. [calm] Dan kamu ikut di belakangnya. [calm] Tugasmu sederhana: membawakan tasnya dan menjaga sandalnya...",
+    "2": "[tense] Tak sampai seminggu lagi, kota ini akan menjadi medan perang. [serious] Sebulan lalu, pemudanya merobek warna biru bendera Belanda di Hotel Yamato...\n\n[tense] Di jalan, kamu melihat pemuda menenteng senapan rampasan dari tentara Jepang. [nervous] Belum ada yang tahu, kapan senapan itu akan dipakai...\n\n[nervous] Orang-orang berbisik di warung, di pasar, di serambi masjid. [tense] Belanda akan kembali... membonceng tentara Sekutu...",
+    "3": "[tense] Di balik satu pintu di Jalan Bubutan, nasib kampungmu akan diputuskan, tanpa kamu. [serious] Utusan datang dari Jawa dan Madura; pulau-pulau lain sudah diduduki Sekutu...\n\n[calm] Kamu menunggu di serambi bersama santri pendamping lain. [curious] Santri dari daerah lain di sebelahmu berbisik: kali ini bukan rapat biasa...\n\n[whispers] Lalu ruangan hening. [serious] Hadratussyaikh Hasyim Asy'ari menyampaikan amanatnya. [calm] Dari balik pintu, kamu hanya menangkap potongan suaranya...\n\n[serious] Kiai Wahab Chasbullah memimpin rapat. [tense] Pemerintah belum juga memberi perintah yang tegas. [serious] Para kiai tidak mau menunggu lebih lama...",
+    "4": "[serious] Dua puluh dua Oktober. [tense] Keputusannya hanya beberapa baris, tapi penjelasannya akan mengubah hidupmu. [serious] Mempertahankan negara adalah kewajiban tiap-tiap orang Islam, dalam perjuangan sabilillah...\n\n[serious] Kepadamu, kiaimu menjelaskan maksudnya. [tense] Siapa pun dalam jarak sembilan puluh empat kilometer: fardu ain, wajib turun sendiri. [serious] Yang di luar itu, wajib membantu...\n\n[sad] [whispers] Kamu menghitung jarak ke kampungmu... [sad] Kurang dari sembilan puluh empat...",
+    "5": "[calm] Kamu pulang membawa tas yang sama. [nervous] Kini kamulah yang harus menyampaikan kabar itu, kepada orang-orang yang kamu kenal sejak kecil...\n\n[tense] Di surau kampungmu, para pemuda mendengarkan tanpa bersuara. [serious] Dari masjid ke masjid, seruan itu menyebar. [serious] Pesantren dan kantor NU menjadi markas laskar Hizbullah...\n\n[serious] Tiga hari kemudian, Sekutu mendarat di Surabaya. [tense] Pertempuran pecah, dan membesar sampai sepuluh November. [whispers] Kampungmu ada di dalam garis itu... [serious] Kamu berangkat?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Pesantren dan kota",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Khidmat lalu gelisah",
+      "style": "Javanese pesantren ambient, soft bamboo suling and gentle frame drum over a low drone, calm and devout at first, growing uneasy with sparse low gong hits and a slow tense pulse, fades out at the end, about 65 seconds long (1:05), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, EDM, trap drums"
+    },
+    {
+      "nomor": 2,
+      "nama": "Rapat dan garis",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:20",
+      "suasana": "Tertahan, berat, menuju hening",
+      "style": "Tense solemn ambient, low cello drone with soft slendro gamelan bonang notes and a distant frame-drum heartbeat, builds slowly to a heavy hush, drops almost to silence near the end, about 80 seconds long (1:20), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, EDM, trap drums, epic brass"
+    },
+    {
+      "nomor": 3,
+      "nama": "Kabar pulang",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:40",
+      "suasana": "Getir, naik pelan seperti fajar",
+      "style": "Bittersweet Javanese ambient, a lone bamboo suling over warm strings and a soft gong, rising gently like dawn, ending on an unresolved chord, about 40 seconds long (0:40), with a clear ending, 66 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, electric guitar, EDM, trap drums, triumphant march"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Gumam rapat di balik pintu",
+      "kataKunci": "muffled crowd murmur behind door",
+      "prompt": "Muffled men's voices murmuring in a meeting behind a closed wooden door, quiet night ambience"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Kokok ayam, pagi desa",
+      "kataKunci": "rooster morning village ambience",
+      "prompt": "Rooster crowing in a quiet tropical village at dawn, birds and light wind"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Jalan kota: bel sepeda, derap dokar",
+      "kataKunci": "old street ambience bicycle bell horse cart",
+      "prompt": "1940s tropical town street, bicycle bells, horse-drawn cart hooves on packed dirt, distant chatter"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Langkah sekelompok orang, obrolan tegang",
+      "kataKunci": "group footsteps street murmur",
+      "prompt": "Several men walking on a dusty street, low tense conversation passing by"
+    },
+    {
+      "nomor": 5,
+      "adegan": 7,
+      "bunyi": "Dokar berhenti, kuda mendengus",
+      "kataKunci": "horse cart stop snort",
+      "prompt": "Wooden horse cart rolling to a stop, horse snorting, harness jingling"
+    },
+    {
+      "nomor": 6,
+      "adegan": 9,
+      "bunyi": "Hening ruangan, nyala pelita",
+      "kataKunci": "quiet room oil lamp flicker",
+      "prompt": "Silent room with a soft oil lamp flame flicker and faint distant voice"
+    },
+    {
+      "nomor": 7,
+      "adegan": 11,
+      "bunyi": "Pena diletakkan, orang berdiri",
+      "kataKunci": "pen on wooden table cloth rustle",
+      "prompt": "A dip pen set down on a wooden table, then several people rising from floor mats, cloth rustling"
+    },
+    {
+      "nomor": 8,
+      "adegan": 14,
+      "bunyi": "Bedug dari kejauhan (sulit; cadangan: gong rendah dari cue 3)",
+      "kataKunci": "distant bedug drum",
+      "prompt": "A large Indonesian mosque drum struck slowly in the far distance across rice fields"
+    },
+    {
+      "nomor": 9,
+      "adegan": 15,
+      "bunyi": "Jangkrik malam",
+      "kataKunci": "night crickets village",
+      "prompt": "Crickets and frogs at night outside a small wooden prayer house"
+    },
+    {
+      "nomor": 10,
+      "adegan": 16,
+      "bunyi": "Langkah banyak orang di jalan tanah",
+      "kataKunci": "crowd footsteps dirt road",
+      "prompt": "A group of people walking away on a dirt road at dawn, footsteps fading, light wind"
+    }
+  ],
+  "adeganHening": [
+    13
+  ],
+  "ulikan": {
+    "teks": "Radius 94 km tak tertulis di teks resolusi; ia menyebar lewat penjelasan lisan.",
+    "sumber": "NU Online, \"Resolusi Jihad\" (rubrik Fragmen)",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Santri Utusan Resolusi Jihad 1945",
+      "catatan": "Alternatif judul: POV: Kamu Santri di Balik Pintu Resolusi Jihad / POV: Kamu Santri Pembawa Kabar Resolusi Jihad 1945",
+      "caption": "Para kiai menarik garis 94 km. Kampungmu ada di dalamnya.\n\nSurabaya, 21–22 Oktober 1945. Konsul-konsul NU se-Jawa dan Madura berkumpul di Jalan Bubutan dan melahirkan Resolusi Jihad, yang kini diperingati sebagai Hari Santri. Tiga hari kemudian, Sekutu mendarat di Surabaya.\n\nKalau kamu santri itu, kamu berangkat atau tetap di kampung?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online, detikEdu.\n\n#UlikSilam #sejarahindonesia #harisantri #resolusijihad #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Santri Utusan Resolusi Jihad 1945",
+      "catatan": "",
+      "caption": "Para kiai menarik garis 94 km. Kampungmu ada di dalamnya.\n\nSurabaya, 21–22 Oktober 1945. Konsul-konsul NU se-Jawa dan Madura berkumpul di Jalan Bubutan dan melahirkan Resolusi Jihad, yang kini diperingati sebagai Hari Santri. Tiga hari kemudian, Sekutu mendarat di Surabaya.\n\nKalau kamu santri itu, kamu berangkat atau tetap di kampung?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: NU Online, detikEdu.\n\n#UlikSilam #sejarahindonesia #harisantri #resolusijihad #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 309,
+    "kataPerBabak": {
+      "1": 53,
+      "2": 56,
+      "3": 79,
+      "4": 56,
+      "5": 65
+    },
+    "karakterPerBabak": {
+      "1": 440,
+      "2": 445,
+      "3": 659,
+      "4": 512,
+      "5": 545
+    },
+    "jedaBunyi": 3,
+    "perkiraanDetik130": {
+      "narasi": 160,
+      "denganMerek": 165
+    },
+    "perkiraanDetik135": {
+      "narasi": 154.7,
+      "denganMerek": 159.7
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

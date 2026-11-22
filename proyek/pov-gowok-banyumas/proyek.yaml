@@ -1,0 +1,21 @@
+judul: "POV: Kamu Seorang Gowok di Banyumas"
+slug: pov-gowok-banyumas
+format: POV
+lapisan: ["Sejarah"]
+latar: "Banyumas"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v2 · 2026-11-20"
+merek: pra-repo
+adegan: 18
+lembar_karakter: ["Sarinten", "Darsono", "Bu Karta"]
+aset: {ilustrasi: 18, narasi: 23, musik: 3, sfx: 11}
+render: "out/pov-gowok-banyumas.mp4"
+tanggal_render: 2026-11-20
+tautan: {"shorts": "https://youtube.com/shorts/Op4uv7ytUg4", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7710239420309327111"}
+arsip_lama: "pov/pov-gowok-banyumas"
+catatan: ""
+metrik_shorts: {"views": 0, "jam_tonton": 0.0, "rata_tonton_detik": null, "durasi_detik": 180, "persen_ditonton": null, "subscriber": 0, "impresi": 11, "ctr": 0.0, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-21", "tiktok": "2026-11-21"}
+metrik_tiktok: {"views": 6004, "suka": 338, "komentar": 5, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

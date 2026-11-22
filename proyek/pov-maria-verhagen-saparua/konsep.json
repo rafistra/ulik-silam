@@ -1,0 +1,662 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-04T10:14:27.797Z",
+  "judulDokumen": "Maria Verhagen dan anak residen di Saparua, 1817",
+  "judul": "POV: Kamu Merawat Anak Musuh di Hutan Saparua, 1817",
+  "slug": "pov-maria-verhagen-saparua",
+  "versi": "v2 · 2026-11-04",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Saparua, Maluku",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Maria Verhagen, gadis berdarah campuran, putri Sersan Verhagen (penjaga Benteng Duurstede) dan perempuan Saparua; tokoh nyata, isi batinnya didramatisasi",
+  "ringkasan": {
+    "Judul": "POV: Kamu Merawat Anak Musuh di Hutan Saparua, 1817",
+    "Slug": "pov-maria-verhagen-saparua",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Maria Verhagen, gadis berdarah campuran, putri Sersan Verhagen (penjaga Benteng Duurstede) dan perempuan Saparua; tokoh nyata, isi batinnya didramatisasi",
+    "Jumlah ilustrasi": "21 (17 adegan + 4 lembar karakter)",
+    "Lapisan": "Sejarah",
+    "Latar": "Saparua, Maluku",
+    "Versi": "v2 · 2026-11-04",
+    "Premis": "Ayahmu tewas mempertahankan benteng; kini kamu merawat anak residen yang selamat di hutan Rila, di tengah perang yang memisahkan kedua darahmu.",
+    "Benang merah": "Seorang gadis di antara dua pihak menyelamatkan anak musuh dari orang-orangnya sendiri, lalu harus melepasnya ke orang-orang yang belum tentu menerimanya.",
+    "Dipilih karena": "Dari brainstorming 2026-10-30: posisi Maria paling kuat secara emosi (ayahnya penjaga benteng, ibunya orang Saparua), alur enam bulan memberi visual paling beragam (benteng, hutan, teluk, kapal).",
+    "Asumsi": "Umur Maria tidak disebut di narasi (sumber berbeda: 13 tahun, atau ±21 tahun bila lahir ±1796); wajah Maria, Salomon, dan Jean rekaan; hubungan Maria dengan keluarga Pattiwael mengikuti sumber lokal (1 sumber)."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Malam di tembok",
+      "suasana": "Tegang, rahasia",
+      "palet": "Biru laut malam, abu batu, hitam jelaga",
+      "cahaya": "Bulan redup dari belakang, satu lentera tertutup memberi kilau emas di wajah ayah"
+    },
+    {
+      "babak": 2,
+      "nama": "Benteng jatuh",
+      "suasana": "Kacau lalu duka",
+      "palet": "Hijau kusam, abu asap mesiu, cokelat tanah, oker di dalam rumah",
+      "cahaya": "Pagi pucat tertutup asap; di dalam rumah, cahaya hangat dari celah dinding"
+    },
+    {
+      "babak": 3,
+      "nama": "Hutan Rila",
+      "suasana": "Sunyi, hangat, waspada",
+      "palet": "Hijau tua, cokelat kayu dan daun sagu, emas pelita",
+      "cahaya": "Cahaya matahari berbintik di sela kanopi; malam diterangi satu pelita kecil"
+    },
+    {
+      "babak": 4,
+      "nama": "Kapal di teluk",
+      "suasana": "Cemas, menunggu",
+      "palet": "Biru kehijauan teluk, jingga senja, hitam lambung kapal",
+      "cahaya": "Senja rendah di teluk; malam dengan lentera kapal kuning"
+    },
+    {
+      "babak": 5,
+      "nama": "Perahu ke Evertsen",
+      "suasana": "Getir, perpisahan",
+      "palet": "Abu-biru kabut, cokelat kayu, emas pucat matahari pagi",
+      "cahaya": "Matahari pagi rendah menembus kabut, hangat di wajah, dingin di laut"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Malam di tembok",
+    "2": "Benteng jatuh",
+    "3": "Hutan Rila",
+    "4": "Kapal di teluk",
+    "5": "Perahu ke Evertsen"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Malam di tembok",
+      "waktu": "0:00–0:11",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Malam, di puncak tembok belakang Benteng Duurstede, laut gelap di bawah. Tangan Sersan Verhagen mengoleskan arang hitam ke arah wajah penonton dan ia menatap lurus ke penonton, rahang mengeras. Tangan kiri \"kamu\" mencengkeram tali kasar yang melilit pinggang, tangan kanan menahan bibir tembok.",
+      "narasiSuara": "[tense] Malam ini, ayahmu menghitamkan wajahmu agar tak terlihat dalam gelap. [whispers] Lalu ia mengikatkan tali di tubuhmu, dan menurunkanmu dari tembok belakang benteng.",
+      "narasi": "Malam ini, ayahmu menghitamkan wajahmu agar tak terlihat dalam gelap. Lalu ia mengikatkan tali di tubuhmu, dan menurunkanmu dari tembok belakang benteng.",
+      "teksLayar": [
+        "Benteng Duurstede, Saparua. 15 Mei 1817."
+      ],
+      "suara": "Ombak memecah di kaki tembok, tali bergesek batu, bisikan ayah",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Malam di tembok",
+      "waktu": "0:11–0:23",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Bidikan sedang dari bawah: Maria tergantung pada tali di dinding batu sisi selatan, wajah dihitamkan, kain menempel di tubuh. Di atas tembok, Verhagen menurunkan tali tangan demi tangan sambil menoleh cemas ke arah darat, tempat titik-titik obor bergerak.",
+      "narasiSuara": "[nervous] Ayahmu serdadu Belanda, sersan penjaga benteng ini. [nervous] Ibumu orang Saparua. [serious] Sejak pagi, kabar buruk berdatangan: residen dihadang orang-orang Haria. [serious] Seluruh pulau sedang bangkit.",
+      "narasi": "Ayahmu serdadu Belanda, sersan penjaga benteng ini. Ibumu orang Saparua. Sejak pagi, kabar buruk berdatangan: residen dihadang orang-orang Haria. Seluruh pulau sedang bangkit.",
+      "teksLayar": [],
+      "suara": "Angin malam, tifa samar di kejauhan",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Malam di tembok",
+      "waktu": "0:23–0:32",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kaki menginjak tanah di kaki tembok; kepala mendongak ke siluet tembok dan langit berbintang. Tali kosong terayun, tak ada lagi kepala ayah di atas. Tangan kanan \"kamu\" melepas simpul tali dari pinggang.",
+      "narasiSuara": "[sad] Kakimu menyentuh tanah. [sad] Kamu mendongak, tapi ayahmu sudah hilang di balik tembok. [whispers] Kamu berlari dalam gelap, menuju keluarga ibumu.",
+      "narasi": "Kakimu menyentuh tanah. Kamu mendongak, tapi ayahmu sudah hilang di balik tembok. Kamu berlari dalam gelap, menuju keluarga ibumu.",
+      "teksLayar": [],
+      "suara": "Napas terengah, langkah di pasir",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Benteng jatuh",
+      "waktu": "0:32–0:41",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi, dari celah pepohonan kampung, Maria dan ibunya menatap asap mesiu yang naik dari arah benteng. Laki-laki Saparua bersenjata parang, tombak, dan perisai salawaku berlari melewati mereka menuju pantai.",
+      "narasiSuara": "[tense] Paginya, letusan senapan terdengar dari arah benteng. [tense] Pasukan Kapitan Pattimura menyerbu, dan benteng jatuh dengan cepat.",
+      "narasi": "Paginya, letusan senapan terdengar dari arah benteng. Pasukan Kapitan Pattimura menyerbu, dan benteng jatuh dengan cepat.",
+      "teksLayar": [
+        "16 Mei 1817."
+      ],
+      "suara": "Letusan senapan jauh, teriakan, langkah berlari",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Benteng jatuh",
+      "waktu": "0:41–0:49",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Di dalam rumah keluarga ibu, Maria terduduk di lantai, noda hitam di wajahnya luntur oleh air mata. Ibunya memeluknya dari samping, mata terpejam. Seorang kerabat di ambang pintu menunduk setelah menyampaikan kabar.",
+      "narasiSuara": "[sad] Lalu kabar itu sampai padamu. [sad] Ayahmu orang pertama yang gugur... [crying] menahan pintu benteng.",
+      "narasi": "Lalu kabar itu sampai padamu. Ayahmu orang pertama yang gugur... menahan pintu benteng.",
+      "teksLayar": [],
+      "suara": "Musik turun, hanya isak tertahan",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Benteng jatuh",
+      "waktu": "0:49–1:00",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Halaman kampung: Salomon Pattiwael melangkah masuk menggendong anak laki-laki Belanda berambut cokelat terang, telinga dibebat kain bernoda, wajah kotor dan tatapan kosong. Warga menoleh tajam ke arah mereka; Maria berdiri di tangga rumah, tangan menutup mulut.",
+      "narasiSuara": "[serious] Hari itu juga, Salomon Pattiwael datang menggendong seorang anak Belanda. [serious] Anak residen, lima tahun. [sad] Ia ditemukan bersembunyi di tumpukan beras, telinganya terluka.",
+      "narasi": "Hari itu juga, Salomon Pattiwael datang menggendong seorang anak Belanda. Anak residen, lima tahun. Ia ditemukan bersembunyi di tumpukan beras, telinganya terluka.",
+      "teksLayar": [],
+      "suara": "Gumam warga, anak terisak pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 7,
+      "babak": 2,
+      "namaBabak": "Benteng jatuh",
+      "waktu": "1:00–1:12",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Kilasan dari cerita yang didengar \"kamu\": di halaman berdebu, Salomon berlutut memegang lengan anak itu dan menatap ke atas, ke sosok pemimpin yang berdiri membelakangi cahaya (Pattimura sebagai siluet berwibawa, parang terkulai ke bawah). Para pejuang menunggu dengan napas tertahan.",
+      "narasiSuara": "[sad] Ayah, ibu, dan saudara-saudaranya sudah tewas. [serious] Di tengah amarah hari itu, Salomon memohon kepada Kapitan agar nyawa anak ini diampuni. [calm] Kapitan mengabulkannya.",
+      "narasi": "Ayah, ibu, dan saudara-saudaranya sudah tewas. Di tengah amarah hari itu, Salomon memohon kepada Kapitan agar nyawa anak ini diampuni. Kapitan mengabulkannya.",
+      "teksLayar": [],
+      "suara": "Hening sesaat, satu helaan napas lega",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Hutan Rila",
+      "waktu": "1:12–1:23",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Hutan Rila: pondok kecil beratap daun sagu di antara pohon-pohon besar; ibu dan saudari Maria menyalakan api kecil di belakang. Tangan kiri \"kamu\" menggandeng tangan kecil anak itu masuk ke pondok, tangan kanan menyibak dahan.",
+      "narasiSuara": "[calm] Salomon menyembunyikan kalian di hutan Rila, bekas kampung lama Saparua. [calm] Kamu, ibumu, saudarimu... dan anak itu. [serious] Kamu yang merawatnya setiap hari.",
+      "narasi": "Salomon menyembunyikan kalian di hutan Rila, bekas kampung lama Saparua. Kamu, ibumu, saudarimu... dan anak itu. Kamu yang merawatnya setiap hari.",
+      "teksLayar": [
+        "Hutan Rila, Saparua."
+      ],
+      "suara": "Suara hutan, burung, ranting patah",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Hutan Rila",
+      "waktu": "1:23–1:30",
+      "durasiCadangan": 7,
+      "bidikan": "A",
+      "visual": "Malam di pondok, satu pelita kecil. Anak itu meringkuk di tikar, menangis dan menatap ke arah penonton. Tangan kanan \"kamu\" mengusap rambutnya, tangan kiri menutup sebagian cahaya pelita agar tak terlihat dari luar.",
+      "narasiSuara": "[sad] Malam-malam pertama, ia menangis memanggil ibunya dalam bahasa Belanda. [whispers] Kamu menjawabnya pelan, dalam bahasa ayahmu.",
+      "narasi": "Malam-malam pertama, ia menangis memanggil ibunya dalam bahasa Belanda. Kamu menjawabnya pelan, dalam bahasa ayahmu.",
+      "teksLayar": [],
+      "suara": "Jangkrik, tangis anak teredam",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Hutan Rila",
+      "waktu": "1:30–1:39",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sore di depan pondok: Maria duduk di batang pohon tumbang, anak itu tertidur bersandar di bahunya sambil masih memegang potongan sagu; Maria menatap ke arah kanopi hutan, sudut bibirnya sedikit terangkat.",
+      "narasiSuara": "[calm] Minggu berganti bulan. [curious] Pelan-pelan, ia berhenti menangis. [calm] Ia makan dari tanganmu, dan tertidur bersandar di bahumu.",
+      "narasi": "Minggu berganti bulan. Pelan-pelan, ia berhenti menangis. Ia makan dari tanganmu, dan tertidur bersandar di bahumu.",
+      "teksLayar": [],
+      "suara": "Daun bergesek, napas tidur anak",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 3,
+      "namaBabak": "Hutan Rila",
+      "waktu": "1:39–1:50",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Dari tepi hutan di bukit, Maria menggendong anak itu dan menatap ke bawah ke arah teluk: layar kapal-kapal Belanda di kejauhan, asap tipis dari kampung pesisir. Rahangnya menegang, lengannya merapatkan anak ke dada.",
+      "narasiSuara": "[tense] Kabar dari pantai makin buruk. [tense] Pasukan Belanda terus berdatangan, merebut pulau demi pulau. [nervous] Kini anak di pelukanmu bisa membahayakan semua yang melindunginya.",
+      "narasi": "Kabar dari pantai makin buruk. Pasukan Belanda terus berdatangan, merebut pulau demi pulau. Kini anak di pelukanmu bisa membahayakan semua yang melindunginya.",
+      "teksLayar": [],
+      "suara": "Dentum meriam jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 12,
+      "babak": 3,
+      "namaBabak": "Hutan Rila",
+      "waktu": "1:50–2:00",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Di sungai kecil di hutan, anak itu tertawa sambil memercikkan air ke arah penonton. Tangan kanan \"kamu\" terangkat setengah menahan percikan, tangan kiri masih memegang kain basah yang sedang dicuci.",
+      "narasiSuara": "[nervous] Kamu tahu ia tak bisa selamanya di hutan. [sad] Tapi setiap kali ia tertawa, kamu berharap hari perpisahan itu masih lama.",
+      "narasi": "Kamu tahu ia tak bisa selamanya di hutan. Tapi setiap kali ia tertawa, kamu berharap hari perpisahan itu masih lama.",
+      "teksLayar": [],
+      "suara": "Air sungai, tawa anak",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Kapal di teluk",
+      "waktu": "2:00–2:09",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dari balik pepohonan pantai, Maria mengintip kapal perang tiga tiang yang berlabuh di Teluk Saparua, bendera Belanda di buritan. Satu tangannya menahan dahan, napasnya tertahan.",
+      "narasiSuara": "[tense] Awal November, sebuah kapal perang Belanda berlabuh di Teluk Saparua. [serious] Namanya Evertsen. [tense] Dari balik pepohonan, kamu melihat tiang-tiangnya.",
+      "narasi": "Awal November, sebuah kapal perang Belanda berlabuh di Teluk Saparua. Namanya Evertsen. Dari balik pepohonan, kamu melihat tiang-tiangnya.",
+      "teksLayar": [
+        "Awal November 1817."
+      ],
+      "suara": "Ombak, derit tiang kapal di kejauhan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 14,
+      "babak": 4,
+      "namaBabak": "Kapal di teluk",
+      "waktu": "2:09–2:17",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Perahu kecil bercadik merapat di lambung kapal yang menjulang; seorang pelayan Salomon, laki-laki muda bertelanjang kaki, memanjat tangga tali sambil menoleh cemas ke arah pantai, wajahnya tersorot lentera kapal.",
+      "narasiSuara": "[whispers] Diam-diam, seorang pelayan Salomon naik ke kapal itu. [tense] Ia membawa satu kabar: anak residen masih hidup.",
+      "narasi": "Diam-diam, seorang pelayan Salomon naik ke kapal itu. Ia membawa satu kabar: anak residen masih hidup.",
+      "teksLayar": [],
+      "suara": "Dayung menyentuh air, tali berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 15,
+      "babak": 4,
+      "namaBabak": "Kapal di teluk",
+      "waktu": "2:17–2:25",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Di pondok, Salomon berjongkok di depan penonton dan menatap lurus ke penonton, satu tangan di bahu anak yang berdiri di sampingnya. Tangan kiri \"kamu\" meremas ujung kain, tangan kanan terulur ke rambut anak itu.",
+      "narasiSuara": "[serious] Anak itu akan dikembalikan kepada orang Belanda. [sad] Dan kamu sendiri yang akan mengantarnya, bersama Salomon.",
+      "narasi": "Anak itu akan dikembalikan kepada orang Belanda. Dan kamu sendiri yang akan mengantarnya, bersama Salomon.",
+      "teksLayar": [],
+      "suara": "Pelita berdesis, suara hutan pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Perahu ke Evertsen",
+      "waktu": "2:25–2:34",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pantai pagi berkabut: orang-orang kampung berkerumun dan berbisik; seorang laki-laki datang berlari membawa kabar. Maria berdiri di tepi kerumunan menggandeng anak itu, menoleh ke arah si pembawa kabar, alisnya terangkat.",
+      "narasiSuara": "[sad] Di hari-hari itu, kabar lain menyebar. [sad] Kapitan Pattimura, orang yang dulu mengampuni anak ini, tertangkap di Booi.",
+      "narasi": "Di hari-hari itu, kabar lain menyebar. Kapitan Pattimura, orang yang dulu mengampuni anak ini, tertangkap di Booi.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik warga, ombak",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Perahu ke Evertsen",
+      "waktu": "2:34–2:44",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Di atas perahu kecil yang didayung Salomon, lambung kayu Evertsen menjulang di depan. Anak itu duduk di pangkuan \"kamu\" dan menoleh ke penonton; tangan kanannya menggenggam tangan kanan \"kamu\" erat-erat, tangan kiri \"kamu\" memeluk bahunya.",
+      "narasiSuara": "[sad] Perahu mendekati lambung kapal. [sad] Anak itu menggenggam tanganmu erat-erat. [serious] Kamu menyelamatkannya dari orang-orangmu. [whispers] Siapa yang akan menyelamatkanmu dari orang-orangnya?",
+      "narasi": "Perahu mendekati lambung kapal. Anak itu menggenggam tanganmu erat-erat. Kamu menyelamatkannya dari orang-orangmu. Siapa yang akan menyelamatkanmu dari orang-orangnya?",
+      "teksLayar": [],
+      "suara": "Dayung, ombak memukul lambung kapal, musik memudar",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Maria Verhagen",
+      "prompt": "Character reference sheet of Maria Verhagen. Maria Verhagen, a young woman of mixed Dutch and Saparua (Moluccan) descent in 1817, daughter of a Dutch garrison sergeant and a Saparua woman, her age left ambiguous between late teens and early twenties. Slim build, light-brown skin, oval face with high cheekbones, dark brown almond-shaped eyes, thick straight brows, small straight nose, full lips; long wavy black hair pulled into a low loose bun at the nape with stray strands. She wears a plain long-sleeved, hip-length cotton blouse in faded dark indigo with a simple round neckline and plain cuffs, over an ankle-length wrapped cotton sarong with a small brown-and-dark-red check, tucked at the waist; a faded off-white cotton cloth over one shoulder; barefoot. No jewelry. She carries herself watchfully, shoulders slightly drawn in, with quick protective hands. Full-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the fabric patterns, plus one first-person panel of her own hands and forearms seen from her point of view, held at chest height and matching this description: Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early-19th-century Saparua island, Moluccas, 1817, mixed-heritage young woman in simple everyday cotton clothing. Avoid text labels, captions, watermarks, modern clothing, batik patterns.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Jean Lubbert",
+      "prompt": "Character reference sheet of Jean Lubbert. Jean Lubbert van den Berg, a five-year-old Dutch boy in 1817, son of the colonial resident of Saparua. Small and thin, fair skin tanned and sunburnt from months in a tropical forest, round face, light-brown eyes, short tousled light-brown hair. A strip of off-white cloth is bound around his head over his left ear. He wears a loose long-sleeved white cotton shirt gone grey and torn at the hem, and knee-length white cotton trousers, both stained with earth; barefoot. He clings to hands and cloth and looks up at adults with wary, searching eyes. Full-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the fabric patterns. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early-19th-century Saparua island, Moluccas, 1817, European child's simple cotton clothing of the 1810s, worn and dirty. Avoid text labels, captions, watermarks, modern clothing, batik patterns.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Ibu Maria",
+      "prompt": "Character reference sheet of Ibu Maria. Ibu Maria, Maria Verhagen's mother, a Saparua (Moluccan) woman in her forties in 1817. Short and sturdy, dark brown skin, broad face with lines around the eyes, dark eyes, wide nose, grey-streaked black hair in a tight bun at the nape. She wears a plain long-sleeved black cotton kebaya-style blouse reaching the hips, over an ankle-length wrapped cotton sarong with a dark blue-and-black check; barefoot. No jewelry. She moves with steady, practical strength and keeps her family close. Full-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the fabric patterns. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early-19th-century Saparua island, Moluccas, 1817, everyday Moluccan woman's cotton clothing. Avoid text labels, captions, watermarks, modern clothing, batik patterns.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Salomon Pattiwael",
+      "prompt": "Character reference sheet of Salomon Pattiwael. Salomon Pattiwael, a Saparua (Moluccan) man in his forties in 1817, from a respected local family. Medium height, sturdy and broad-shouldered, dark brown skin, square face with deep-set dark eyes, heavy brows, broad nose, short black hair with a little grey, a short trimmed moustache. He wears a long-sleeved collarless white cotton shirt with rolled sleeves, a dark brown cotton cloth wrapped as a knee-length sarong over loose dark cotton trousers, and a plain dark cloth tied around his head; barefoot. A parang (long single-edged machete with a plain carved wooden handle) hangs in a wooden sheath at his left hip. He moves deliberately and calmly, with steady open hands. Full-body front view, side view and back view in a relaxed natural standing pose, one three-quarter face portrait, and one detail panel of the fabric patterns and the parang with its wooden sheath. Plain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early-19th-century Saparua island, Moluccas, 1817, everyday Moluccan man's cotton clothing. Avoid text labels, captions, watermarks, modern clothing, batik patterns.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:11",
+      "narasi": "Malam ini, ayahmu menghitamkan wajahmu agar tak terlihat dalam gelap. Lalu ia mengikatkan tali di tubuhmu, dan menurunkanmu dari tembok belakang benteng.",
+      "prompt": "The viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nMedium close shot at eye level, on top of the rear stone wall of Fort Duurstede at night, the dark sea and a moonlit night sky behind, mood tense and secret.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The fingertips are smudged with black soot. The left hand grips a coarse rope already wound around the waist; the right hand braces on the rough stone edge of the wall.\nSergeant Verhagen, a thin European man in his forties with sunburnt pale skin, grey sideburns and a lined face, wearing a dark early-19th-century military coat with brass buttons, no hat, leans close and reaches toward the viewer's face with two soot-blackened fingers, looking straight at the viewer, brows drawn together, jaw clenched, eyes wet but steady; his other hand holds the rope taut.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep night-sea blue, stone grey and soot black, dim moonlight from behind with the warm gold glow of a single shuttered lantern on the wall lighting his face, historically accurate early-19th-century Saparua island, Moluccas, 1817, stone fortress wall with a parapet.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:11–0:23",
+      "narasi": "Ayahmu serdadu Belanda, sersan penjaga benteng ini. Ibumu orang Saparua. Sejak pagi, kabar buruk berdatangan: residen dihadang orang-orang Haria. Seluruh pulau sedang bangkit.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nMedium shot from a low angle at the foot of the fort's south wall at night: Maria Verhagen hangs on a rope against the rough stone wall, face blackened with soot, bare feet searching for a hold, both hands clenched on the rope, eyes wide and looking down toward the ground, lips pressed tight. Above on the parapet, Sergeant Verhagen, a thin European man in his forties with sunburnt pale skin, grey sideburns and a lined face, wearing a dark early-19th-century military coat with brass buttons, no hat, lowers the rope hand over hand while glancing anxiously over his shoulder toward the dark land, where small torch flames move between palm trees. He is a different person from Salomon Pattiwael. Her sarong and loose strands of hair sway in the night wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep night-sea blue, stone grey and soot black, cold moonlight with small warm torch points in the distance, historically accurate early-19th-century Saparua island, Moluccas, 1817, stone fortress wall above a sandy shore.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:23–0:32",
+      "narasi": "Kakimu menyentuh tanah. Kamu mendongak, tapi ayahmu sudah hilang di balik tembok. Kamu berlari dalam gelap, menuju keluarga ibumu.",
+      "prompt": "The viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nLow angle looking up from the sandy ground at the foot of the fort wall at night, the dark wall rising against a starry sky, an empty rope swaying from the parapet, no one visible at the top, mood lonely and urgent.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The fingertips are smudged with black soot. The right hand pulls loose the knot of the rope at the waist; the left hand is pressed against the cold stone wall.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep night-sea blue, stone grey and soot black, faint moonlight on the stone and a last warm glimmer of lantern light from behind the parapet, historically accurate early-19th-century Saparua island, Moluccas, 1817, stone fortress wall.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:32–0:41",
+      "narasi": "Paginya, letusan senapan terdengar dari arah benteng. Pasukan Kapitan Pattimura menyerbu, dan benteng jatuh dengan cepat.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nSame character as the Ibu Maria reference image.\nWide shot at eye level from between palm and clove trees at the edge of a village in the morning: grey gunpowder smoke rises from the direction of the fort beyond the trees. Maria Verhagen, face still faintly smudged, grips her mother's arm and stares toward the smoke, mouth half open, body leaning forward. Ibu Maria pulls her back with both hands, eyes on the smoke, lips pressed thin. Saparua fighters of varied ages run past toward the shore mid-stride: plain cotton shirts or bare chests, plain headcloths in different dull colours, carrying parang, spears, a few flintlock muskets and long narrow wooden salawaku shields inlaid with small shell pieces. The fighters are different people from Maria Verhagen and Salomon Pattiwael.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dull green, gunsmoke grey and earth brown, pale morning light veiled by smoke, historically accurate early-19th-century Saparua island, Moluccas, 1817, village of thatched houses.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:41–0:49",
+      "narasi": "Lalu kabar itu sampai padamu. Ayahmu orang pertama yang gugur... menahan pintu benteng.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nSame character as the Ibu Maria reference image.\nMedium shot at eye level inside a simple raised wooden house with walls of sago-palm stems and a sago-leaf thatched roof: Maria Verhagen sits slumped on the plank floor, knees drawn up, the black smudges on her face streaked by tears, eyes unfocused and looking at the floor, lips trembling. Ibu Maria kneels beside her and holds her from the side, eyes closed, cheek pressed to Maria's hair. In the doorway a male relative, a middle-aged Saparua man in a plain faded shirt, lowers his head and looks at the floor, one hand on the doorframe. He is a different person from Salomon Pattiwael. Dust floats in a shaft of light.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm ochre and earth brown with deep shadows, warm light slanting through gaps in the wall, historically accurate early-19th-century Saparua island, Moluccas, 1817, raised house on posts.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:49–1:00",
+      "narasi": "Hari itu juga, Salomon Pattiwael datang menggendong seorang anak Belanda. Anak residen, lima tahun. Ia ditemukan bersembunyi di tumpukan beras, telinganya terluka.",
+      "prompt": "Same character as the Salomon Pattiwael reference image.\nSame character as the Jean Lubbert reference image.\nSame character as the Maria Verhagen reference image.\nMedium-wide shot from a slightly low angle in a dusty village yard among thatched houses: Salomon Pattiwael strides in mid-step carrying Jean Lubbert on his hip, his free hand shielding the boy's head; his face is set and grave, eyes fixed ahead. Jean Lubbert clings to his shirt, dirty-faced, the cloth over his ear stained, staring blankly at nothing. Villagers turn sharply toward them with suspicious, angry and curious looks, one woman pulling a child behind her. On the steps of a house at the side, Maria Verhagen stands frozen with one hand over her mouth, eyes on the boy. Villagers are different people from Salomon Pattiwael and Maria Verhagen, in plain cottons of other colours.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dull green, earth brown and dusty ochre, flat hazy daylight with gunsmoke still in the sky, historically accurate early-19th-century Saparua island, Moluccas, 1817, village of raised sago-thatched houses.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:00–1:12",
+      "narasi": "Ayah, ibu, dan saudara-saudaranya sudah tewas. Di tengah amarah hari itu, Salomon memohon kepada Kapitan agar nyawa anak ini diampuni. Kapitan mengabulkannya.",
+      "prompt": "Same character as the Salomon Pattiwael reference image.\nSame character as the Jean Lubbert reference image.\nMedium-wide shot at a low angle in a dusty open yard: Salomon Pattiwael kneels on one knee, one hand gripping Jean Lubbert's arm protectively, the other hand open and raised in a plea, looking up with urgent, pleading eyes toward a leader who stands with his back to the bright sky. The leader is shown only as a dark, dignified silhouette in a long coat resembling an old European military jacket, a parang held lowered toward the ground; his face is not visible. Jean Lubbert presses against Salomon's side, looking down. A half circle of Saparua fighters waits with held breath, some gripping spears and salawaku shields, faces tense; they are different people from Salomon Pattiwael, in plain cottons and plain headcloths of other colours.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusty ochre, earth brown and dark silhouette against pale smoky sky, strong backlight from the sky with warm rim light on Salomon's face, historically accurate early-19th-century Saparua island, Moluccas, 1817.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:12–1:23",
+      "narasi": "Salomon menyembunyikan kalian di hutan Rila, bekas kampung lama Saparua. Kamu, ibumu, saudarimu... dan anak itu. Kamu yang merawatnya setiap hari.",
+      "prompt": "Same character as the Jean Lubbert reference image.\nSame character as the Ibu Maria reference image.\nThe viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nMedium shot at eye level in the dense Rila forest: a small hut of sago-palm stems with a sago-leaf thatched roof stands among tall trees and sago palms; behind it, Ibu Maria and Maria's younger sister crouch by a small cooking fire, the sister looking curiously toward the boy. Mood quiet and hidden.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The left hand holds Jean Lubbert's small hand, leading him toward the hut; the right hand pushes aside a leafy branch.\nJean Lubbert walks half a step behind, mid-step, looking up at the viewer with wary, searching eyes. The sister is a different person from Maria Verhagen: a thin girl younger than Maria with darker skin, hair in a single braid, a faded green blouse and a plain brown sarong.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep forest green, wood brown and sago-leaf brown, dappled sunlight through the canopy and a small warm fire glow, historically accurate early-19th-century Saparua island, Moluccas, 1817.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:23–1:30",
+      "narasi": "Malam-malam pertama, ia menangis memanggil ibunya dalam bahasa Belanda. Kamu menjawabnya pelan, dalam bahasa ayahmu.",
+      "prompt": "Same character as the Jean Lubbert reference image.\nThe viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nClose medium shot inside the forest hut at night, a single small oil lamp on the floor, mood hushed.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The right hand strokes Jean Lubbert's hair; the left hand is cupped around the lamp flame to hide its light from outside.\nJean Lubbert lies curled on a woven mat, crying with his mouth open and tears on his cheeks, looking straight at the viewer, small fists clutching the edge of the mat.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep shadow brown and warm lamp gold, one small warm lamp as the only light, historically accurate early-19th-century Saparua island, Moluccas, 1817, interior of a sago-thatched forest hut.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:30–1:39",
+      "narasi": "Minggu berganti bulan. Pelan-pelan, ia berhenti menangis. Ia makan dari tanganmu, dan tertidur bersandar di bahumu.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nSame character as the Jean Lubbert reference image.\nMedium shot at eye level in front of the forest hut in late afternoon: Maria Verhagen sits on a fallen tree trunk; Jean Lubbert is asleep leaning against her shoulder, still holding a piece of dry, square sagu lempeng (baked sago cake) in his hand. Maria looks up toward the forest canopy, one arm around the boy, the corner of her mouth slightly lifted, tired but gentle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep forest green, wood brown and soft gold, low warm afternoon sun through the leaves, historically accurate early-19th-century Saparua island, Moluccas, 1817, sago palms and a clay sago mould by the hut.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:39–1:50",
+      "narasi": "Kabar dari pantai makin buruk. Pasukan Belanda terus berdatangan, merebut pulau demi pulau. Kini anak di pelukanmu bisa membahayakan semua yang melindunginya.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nSame character as the Jean Lubbert reference image.\nWide shot from behind and slightly above, at the forest edge on a hill: Maria Verhagen stands holding Jean Lubbert on her hip, turning her head sharply to look down at the bay, jaw tight, her arm pulling the boy closer to her chest. Far below, the sails of Dutch warships and boats crowd the bay and thin smoke rises from a coastal village. Jean Lubbert looks at Maria's face, not at the bay.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep green, muted blue bay and smoke grey, overcast light with a warm break of sun on the hillside, historically accurate early-19th-century Saparua island, Moluccas, 1817.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:50–2:00",
+      "narasi": "Kamu tahu ia tak bisa selamanya di hutan. Tapi setiap kali ia tertawa, kamu berharap hari perpisahan itu masih lama.",
+      "prompt": "Same character as the Jean Lubbert reference image.\nThe viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nMedium shot at a slightly high angle beside a small clear forest stream, mood light and fragile.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The cuffs are wet and slightly rolled up. The right hand is half raised against splashes of water; the left hand still holds a wet cloth being washed in the stream.\nJean Lubbert stands knee-deep in the stream, laughing with his whole face, both hands splashing water toward the viewer, looking straight at the viewer, droplets flying.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, fresh green, clear water blue and warm sunlit gold, dappled midday sun through the canopy, historically accurate early-19th-century Saparua island, Moluccas, 1817.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "2:00–2:09",
+      "narasi": "Awal November, sebuah kapal perang Belanda berlabuh di Teluk Saparua. Namanya Evertsen. Dari balik pepohonan, kamu melihat tiang-tiangnya.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nMedium-wide shot from behind trees at the edge of the shore in the evening: Maria Verhagen crouches among palm trunks, one hand holding aside a branch, breath held, eyes fixed on a large three-masted Dutch warship (a ship of the line) anchored in the Bay of Saparua, its sails furled and a Dutch tricolour flag at the stern. Her body leans back slightly as if ready to retreat.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dusky teal bay, low orange sunset sky and the black hull of the ship, low warm sunset light, historically accurate early-19th-century Saparua island, Moluccas, 1817, early-19th-century naval warship.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:09–2:17",
+      "narasi": "Diam-diam, seorang pelayan Salomon naik ke kapal itu. Ia membawa satu kabar: anak residen masih hidup.",
+      "prompt": "Medium shot from a low angle at night beside the towering wooden hull of a three-masted Dutch warship anchored in a bay: a small outrigger canoe bumps against the hull. A servant of Salomon Pattiwael, a thin young Saparua man, barefoot, in a sleeveless cotton shirt and a brown cloth, climbs a rope ladder mid-step, looking back anxiously over his shoulder toward the dark shore; the yellow glow of a ship's lantern above lights his face. He is a different person from Salomon Pattiwael, younger and thinner, with no headcloth and no parang.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, black hull, dark sea blue and lantern yellow, single warm lantern light from above, historically accurate early-19th-century Saparua island, Moluccas, 1817, early-19th-century naval warship.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:17–2:25",
+      "narasi": "Anak itu akan dikembalikan kepada orang Belanda. Dan kamu sendiri yang akan mengantarnya, bersama Salomon.",
+      "prompt": "Same character as the Salomon Pattiwael reference image.\nSame character as the Jean Lubbert reference image.\nThe viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nMedium shot at eye level inside the forest hut, lit by an oil lamp, mood heavy.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The left hand twists the edge of the off-white shoulder cloth; the right hand reaches toward Jean Lubbert's hair.\nSalomon Pattiwael crouches in front of the viewer, looking straight at the viewer with grave, sorrowful eyes, brows lowered, one hand resting on the shoulder of Jean Lubbert, who stands beside him looking from one adult to the other, unsure.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep shadow brown and warm lamp gold, one warm lamp lighting faces from below, historically accurate early-19th-century Saparua island, Moluccas, 1817, interior of a sago-thatched forest hut.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:25–2:34",
+      "narasi": "Di hari-hari itu, kabar lain menyebar. Kapitan Pattimura, orang yang dulu mengampuni anak ini, tertangkap di Booi.",
+      "prompt": "Same character as the Maria Verhagen reference image.\nSame character as the Jean Lubbert reference image.\nMedium-wide shot at eye level on a misty shore in the early morning: villagers huddle and whisper in small groups; a running man arrives mid-stride with news, arm pointing back along the coast, face stricken. Maria Verhagen stands at the edge of the crowd holding Jean Lubbert's hand, turning her head toward the messenger, brows raised, lips parted. Jean Lubbert hides half behind her sarong. The villagers and messenger are different people from Maria Verhagen and Salomon Pattiwael, in plain cottons of other colours.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, misty grey-blue, wood brown and pale gold, low morning sun through mist, historically accurate early-19th-century Saparua island, Moluccas, 1817, outrigger canoes on the sand.\nAvoid characters looking at the camera, modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:34–2:44",
+      "narasi": "Perahu mendekati lambung kapal. Anak itu menggenggam tanganmu erat-erat. Kamu menyelamatkannya dari orang-orangmu. Siapa yang akan menyelamatkanmu dari orang-orangnya?",
+      "prompt": "Same character as the Jean Lubbert reference image.\nSame character as the Salomon Pattiwael reference image.\nThe viewer is Maria Verhagen: the hands and forearms in the foreground match the first-person panel of the Maria Verhagen reference image.\nMedium shot at eye level from a small outrigger canoe in the morning, the towering dark wooden hull of a three-masted Dutch warship rising ahead and filling the upper frame, mist on the water, mood bittersweet.\nFirst-person point of view. Slim young hands with light-brown skin, short unpainted nails, small calluses and scratches from rough work; long sleeves of a faded dark indigo cotton blouse ending in plain cuffs at the wrists; no rings or bracelets. The right hand is held tightly in both small hands of Jean Lubbert; the left arm wraps around his shoulders.\nJean Lubbert sits in the viewer's lap and turns to look up at the viewer, eyes searching and frightened. At the stern, Salomon Pattiwael paddles mid-stroke, eyes on the warship, face set.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, misty grey-blue, dark hull brown and pale morning gold, low warm morning sun through mist on the faces, historically accurate early-19th-century Saparua island, Moluccas, 1817, early-19th-century naval warship.\nAvoid modern ceremonial baju cele or red satin costumes, batik patterns, hijab, shoes or sandals on villagers, 20th-century clothing, pith helmets, graphic gore, background figures copying Maria Verhagen's, Jean Lubbert's or Salomon Pattiwael's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice perempuan muda berbahasa Indonesia yang hangat dan bisa berbisik; voice paling menentukan, karena tag tidak bisa memaksa voice yang datar untuk menangis.\n\n- Babak 1: tegang dan rahasia, tempo sedang, berbisik di akhir adegan 1 dan 3.\n- Babak 2: tempo sedikit lebih cepat di adegan 4, lalu melambat dan pecah di adegan 5 (menangis tertahan), kembali tegas di adegan 6–7.\n- Babak 3: paling lembut dan lambat, hangat, berbisik di adegan 9.\n- Babak 4: tegang dan tertahan, berbisik di awal adegan 14.\n- Babak 5: sedih dan pelan; kalimat terakhir berbisik, beri jeda sebelum \"Siapa\".",
+    "arahanBabak": {
+      "1": "tegang dan rahasia, tempo sedang, berbisik di akhir adegan 1 dan 3.",
+      "2": "tempo sedikit lebih cepat di adegan 4, lalu melambat dan pecah di adegan 5 (menangis tertahan), kembali tegas di adegan 6–7.",
+      "3": "paling lembut dan lambat, hangat, berbisik di adegan 9.",
+      "4": "tegang dan tertahan, berbisik di awal adegan 14.",
+      "5": "sedih dan pelan; kalimat terakhir berbisik, beri jeda sebelum \"Siapa\"."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Malam ini, ayahmu menghitamkan wajahmu agar tak terlihat dalam gelap. [whispers] Lalu ia mengikatkan tali di tubuhmu, dan menurunkanmu dari tembok belakang benteng....\n\n[nervous] Ayahmu serdadu Belanda, sersan penjaga benteng ini. [nervous] Ibumu orang Saparua. [serious] Sejak pagi, kabar buruk berdatangan: residen dihadang orang-orang Haria. [serious] Seluruh pulau sedang bangkit....\n\n[sad] Kakimu menyentuh tanah. [sad] Kamu mendongak, tapi ayahmu sudah hilang di balik tembok. [whispers] Kamu berlari dalam gelap, menuju keluarga ibumu....",
+    "2": "[tense] Paginya, letusan senapan terdengar dari arah benteng. [tense] Pasukan Kapitan Pattimura menyerbu, dan benteng jatuh dengan cepat....\n\n[sad] Lalu kabar itu sampai padamu. [sad] Ayahmu orang pertama yang gugur... [crying] menahan pintu benteng....\n\n[serious] Hari itu juga, Salomon Pattiwael datang menggendong seorang anak Belanda. [serious] Anak residen, lima tahun. [sad] Ia ditemukan bersembunyi di tumpukan beras, telinganya terluka....\n\n[sad] Ayah, ibu, dan saudara-saudaranya sudah tewas. [serious] Di tengah amarah hari itu, Salomon memohon kepada Kapitan agar nyawa anak ini diampuni. [calm] Kapitan mengabulkannya....",
+    "3": "[calm] Salomon menyembunyikan kalian di hutan Rila, bekas kampung lama Saparua. [calm] Kamu, ibumu, saudarimu... dan anak itu. [serious] Kamu yang merawatnya setiap hari....\n\n[sad] Malam-malam pertama, ia menangis memanggil ibunya dalam bahasa Belanda. [whispers] Kamu menjawabnya pelan, dalam bahasa ayahmu....\n\n[calm] Minggu berganti bulan. [curious] Pelan-pelan, ia berhenti menangis. [calm] Ia makan dari tanganmu, dan tertidur bersandar di bahumu....\n\n[tense] Kabar dari pantai makin buruk. [tense] Pasukan Belanda terus berdatangan, merebut pulau demi pulau. [nervous] Kini anak di pelukanmu bisa membahayakan semua yang melindunginya....\n\n[nervous] Kamu tahu ia tak bisa selamanya di hutan. [sad] Tapi setiap kali ia tertawa, kamu berharap hari perpisahan itu masih lama....",
+    "4": "[tense] Awal November, sebuah kapal perang Belanda berlabuh di Teluk Saparua. [serious] Namanya Evertsen. [tense] Dari balik pepohonan, kamu melihat tiang-tiangnya....\n\n[whispers] Diam-diam, seorang pelayan Salomon naik ke kapal itu. [tense] Ia membawa satu kabar: anak residen masih hidup....\n\n[serious] Anak itu akan dikembalikan kepada orang Belanda. [sad] Dan kamu sendiri yang akan mengantarnya, bersama Salomon....",
+    "5": "[sad] Di hari-hari itu, kabar lain menyebar. [sad] Kapitan Pattimura, orang yang dulu mengampuni anak ini, tertangkap di Booi....\n\n[sad] Perahu mendekati lambung kapal. [sad] Anak itu menggenggam tanganmu erat-erat. [serious] Kamu menyelamatkannya dari orang-orangmu. [whispers] Siapa yang akan menyelamatkanmu dari orang-orangnya?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Tembok dan asap",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:20",
+      "suasana": "Tegang dan rahasia, memuncak di serbuan, lalu runtuh menjadi duka",
+      "style": "Moluccan-inspired cinematic ambient, low tifa hand drums and a deep slow gong pulse, sparse bamboo flute, distant low strings, tense and secretive, starts quiet and builds into urgent drum rolls, then collapses into a mournful flute line and fades out, about 80 seconds long (1:20), with a clear ending, 72 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, EDM, rock drums, ukulele, pop"
+    },
+    {
+      "nomor": 2,
+      "nama": "Hutan Rila",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:55",
+      "suasana": "Sunyi, hangat, rapuh, dengan kecemasan samar di akhir",
+      "style": "Moluccan-inspired gentle ambient, soft bamboo flute melody over muted tifa heartbeat and warm sustained strings, forest night atmosphere, tender and fragile, starts very sparse and warms slowly, a faint uneasy low pulse returns near the end, fades out, about 55 seconds long (0:55), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, EDM, rock drums, ukulele, pop"
+    },
+    {
+      "nomor": 3,
+      "nama": "Perahu ke Evertsen",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "0:50",
+      "suasana": "Menunggu, getir, perpisahan, memudar pelan",
+      "style": "Moluccan-inspired cinematic ambient, slow low tifa and distant gong, solo bamboo flute with long sad phrases, soft low strings swelling once, bittersweet farewell at sea, starts restrained and tense, ends almost silent with a single gong and fading flute, about 50 seconds long (0:50), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, electronic beats, EDM, rock drums, ukulele, pop"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Ombak memecah di kaki tembok batu, malam",
+      "kataKunci": "night waves stone wall",
+      "prompt": "Gentle night sea waves breaking against an old stone fortress wall, distant and calm"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Tali kasar bergesek di batu",
+      "kataKunci": "rope friction stone",
+      "prompt": "Coarse hemp rope slowly sliding and creaking against rough stone, close up"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Kaki telanjang berlari di pasir, napas terengah",
+      "kataKunci": "barefoot running sand breathing",
+      "prompt": "Bare feet running on soft sand at night with quick nervous breathing"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Letusan senapan lontak dari kejauhan dan teriakan",
+      "kataKunci": "distant musket fire shouts",
+      "prompt": "Distant scattered flintlock musket shots and faint crowd shouting across trees, early 19th century battle"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Gumam warga desa yang tegang",
+      "kataKunci": "tense crowd murmur village",
+      "prompt": "Small village crowd murmuring tensely in an open yard, outdoor"
+    },
+    {
+      "nomor": 6,
+      "adegan": 8,
+      "bunyi": "Suasana hutan tropis siang",
+      "kataKunci": "tropical forest ambience birds",
+      "prompt": "Dense tropical rainforest daytime ambience with birds, insects and rustling leaves"
+    },
+    {
+      "nomor": 7,
+      "adegan": 9,
+      "bunyi": "Jangkrik malam dan pelita berdesis",
+      "kataKunci": "night crickets oil lamp",
+      "prompt": "Night crickets in a forest hut with a small oil lamp flame softly hissing"
+    },
+    {
+      "nomor": 8,
+      "adegan": 11,
+      "bunyi": "Dentum meriam jauh",
+      "kataKunci": "distant cannon boom",
+      "prompt": "A single distant naval cannon boom echoing over a bay"
+    },
+    {
+      "nomor": 9,
+      "adegan": 12,
+      "bunyi": "Sungai kecil dan percikan air",
+      "kataKunci": "forest stream splash",
+      "prompt": "Small clear forest stream with a child splashing water playfully"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Derit tiang dan tali kapal layar kayu",
+      "kataKunci": "wooden ship creak rigging",
+      "prompt": "Old wooden sailing ship creaking at anchor, rigging and ropes groaning, light waves"
+    },
+    {
+      "nomor": 11,
+      "adegan": 14,
+      "bunyi": "Dayung masuk air, tangga tali berderit",
+      "kataKunci": "paddle water rope ladder",
+      "prompt": "Wooden paddle dipping into calm sea water at night, then a rope ladder creaking under weight"
+    },
+    {
+      "nomor": 12,
+      "adegan": 17,
+      "bunyi": "Ombak memukul lambung kapal dari perahu kecil",
+      "kataKunci": "waves hitting hull small boat",
+      "prompt": "Small waves slapping against a large wooden ship hull heard from a small canoe, morning"
+    }
+  ],
+  "adeganHening": [
+    5
+  ],
+  "ulikan": {
+    "teks": "Tahun 1875, anak itu resmi menambahkan \"van Saparoea\" ke namanya.",
+    "sumber": "Memoar keluarga Van den Berg van Saparoea, via Pisarana Hatusiri Amalatu (1 sumber)",
+    "kata": 10,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Merawat Anak Musuh di Hutan Saparua, 1817",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Merawat Anak Musuh, 1817\nAlternatif judul: POV: Kamu Menyembunyikan Anak Residen Belanda di Saparua, 1817 / POV: Kamu Gadis Saparua yang Menyelamatkan Anak Belanda",
+      "caption": "Ayahmu gugur mempertahankan benteng. Lalu kamu diminta merawat anak musuh.\n\nSaparua, Maluku, 1817. Rakyat Saparua bangkit di bawah Kapitan Pattimura melawan kerja paksa, pajak tanah, dan monopoli Belanda. Satu-satunya penyintas Benteng Duurstede, anak residen berusia lima tahun, disembunyikan di hutan Rila selama hampir enam bulan.\n\nKalau kamu Maria, kamu serahkan anak itu, atau tetap menyembunyikannya?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: memoar keluarga Van den Berg van Saparoea dan Wikipedia.\n\n#UlikSilam #sejarahindonesia #pattimura #saparua #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Merawat Anak Musuh di Hutan Saparua, 1817",
+      "catatan": "",
+      "caption": "Ayahmu gugur mempertahankan benteng. Lalu kamu diminta merawat anak musuh.\n\nSaparua, Maluku, 1817. Rakyat Saparua bangkit di bawah Kapitan Pattimura melawan kerja paksa, pajak tanah, dan monopoli Belanda. Satu-satunya penyintas Benteng Duurstede, anak residen berusia lima tahun, disembunyikan di hutan Rila selama hampir enam bulan.\n\nKalau kamu Maria, kamu serahkan anak itu, atau tetap menyembunyikannya?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: memoar keluarga Van den Berg van Saparoea dan Wikipedia.\n\n#UlikSilam #sejarahindonesia #pattimura #saparua #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 5,
+    "totalKata": 316,
+    "kataPerBabak": {
+      "1": 64,
+      "2": 73,
+      "3": 94,
+      "4": 49,
+      "5": 36
+    },
+    "karakterPerBabak": {
+      "1": 553,
+      "2": 633,
+      "3": 781,
+      "4": 420,
+      "5": 334
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 163.6,
+      "denganMerek": 168.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 158.2,
+      "denganMerek": 163.2
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

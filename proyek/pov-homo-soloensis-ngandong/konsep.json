@@ -1,0 +1,652 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-04T12:32:01.831Z",
+  "judulDokumen": "Homo Soloensis di Tepi Bengawan Solo",
+  "judul": "POV: Kamu Homo Soloensis di Tepi Bengawan Solo",
+  "slug": "pov-homo-soloensis-ngandong",
+  "versi": "v1 · 2026-11-01",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Ngandong, tepi Bengawan Solo",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Perempuan Homo erectus soloensis dewasa (fiktif), ±25 tahun, anggota kawanan kecil di tepi Bengawan Solo",
+  "ringkasan": {
+    "Judul": "POV: Kamu Homo Soloensis di Tepi Bengawan Solo",
+    "Slug": "pov-homo-soloensis-ngandong",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:32, ±2:37 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Perempuan Homo erectus soloensis dewasa (fiktif), ±25 tahun, anggota kawanan kecil di tepi Bengawan Solo",
+    "Jumlah ilustrasi": "18 (16 adegan + 2 lembar karakter: Perempuan Soloensis, Anak Soloensis)",
+    "Versi": "v1 · 2026-11-01",
+    "Lapisan": "Sejarah",
+    "Latar": "Ngandong, tepi Bengawan Solo",
+    "Premis": "Jenis manusia yang bertahan lebih dari sejuta tahun di Jawa meninggalkan jejak terakhirnya di satu tikungan sungai, dan \"kamu\" ada di sana tanpa tahu apa artinya.",
+    "Benang merah": "Batu kecil yang ditajamkan: dari tangan \"kamu\", ke tangan anak itu, sampai tengkorak yang dicatat sebagai kepala harimau.",
+    "Asumsi": "Kehidupan, perasaan, dan hubungan dalam kawanan adalah rekonstruksi; pemicu bencana (kemarau lalu banjir) adalah tafsir dari hipotesis yang ada; \"kamu\" perempuan dengan seorang anak di kawanan; tengkorak temuan Samsi tidak diklaim sebagai milik \"kamu\".",
+    "Dipilih karena": "Brainstorming 2026-11-01: pilihan 2 (Homo erectus terakhir di Ngandong), alur A satu musim terakhir, akhir gabungan epilog penemuan 1931 dan fakta jejak terakhir."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Padang",
+      "suasana": "Tenang dan luas",
+      "palet": "Kuning rumput kering, cokelat sungai, hijau zaitun",
+      "cahaya": "Senja keemasan rendah"
+    },
+    {
+      "babak": 2,
+      "nama": "Hutan",
+      "suasana": "Menekan dan waspada",
+      "palet": "Hijau tua basah, cokelat lumpur, abu kabut",
+      "cahaya": "Cahaya redup tersaring kanopi; pagi pucat di tepi sungai"
+    },
+    {
+      "babak": 3,
+      "nama": "Kemarau",
+      "suasana": "Kering lalu sunyi",
+      "palet": "Oker, cokelat retak, putih tulang",
+      "cahaya": "Siang terik dan pucat; malam biru dengan bulan"
+    },
+    {
+      "babak": 4,
+      "nama": "Banjir",
+      "suasana": "Dahsyat lalu hampa",
+      "palet": "Abu badai, cokelat lumpur, hijau gelap",
+      "cahaya": "Hujan kelabu dan kilat; pagi pucat sesudahnya"
+    },
+    {
+      "babak": 5,
+      "nama": "Epilog",
+      "suasana": "Hening dan reflektif",
+      "palet": "Hijau jati, cokelat tanah, sepia hangat; jingga senja di akhir",
+      "cahaya": "Siang tersaring daun jati; lampu laboratorium netral; senja hangat"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Padang",
+    "2": "Hutan",
+    "3": "Kemarau",
+    "4": "Banjir",
+    "5": "Epilog"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Padang",
+      "waktu": "0:00–0:08",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Senja keemasan di tepi sungai lebar berair cokelat, padang rumput dan pohon-pohon jarang di seberang. Tangan kiri \"kamu\" memegang batu inti, tangan kanan memukulnya dengan batu bulat; serpih kecil terlepas.",
+      "narasiSuara": "[calm] Lebih dari seratus ribu tahun lalu, di tepi Bengawan Solo... [tense] kamu memukul sebutir batu sampai tajam.",
+      "narasi": "Lebih dari seratus ribu tahun lalu, di tepi Bengawan Solo... kamu memukul sebutir batu sampai tajam.",
+      "teksLayar": [
+        "Lebih dari 100.000 tahun lalu."
+      ],
+      "suara": "Batu beradu, air sungai, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Padang",
+      "waktu": "0:08–0:17",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Padang terbuka di tepi sungai. \"Kamu\" berjongkok di antara beberapa anggota kawanan, menoleh ke seberang: gajah purba merumput, kuda nil berendam di air keruh.",
+      "narasiSuara": "[calm] Kawananmu kecil. [curious] Di seberang sungai, gajah purba merumput, dan kuda nil berendam di air yang keruh.",
+      "narasi": "Kawananmu kecil. Di seberang sungai, gajah purba merumput, dan kuda nil berendam di air yang keruh.",
+      "teksLayar": [],
+      "suara": "Lenguh gajah di kejauhan, air",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Padang",
+      "waktu": "0:17–0:28",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" menuntun tangan kecil Anak Soloensis yang memegang batu; serpih kecil berserakan di tanah, ujung jari anak itu tergores.",
+      "narasiSuara": "[calm] Anak kecil di kawananmu meniru caramu, memukul serpih batu yang tak lebih besar dari ibu jari. [curious] Jarinya terluka, tapi ia terus mencoba.",
+      "narasi": "Anak kecil di kawananmu meniru caramu, memukul serpih batu yang tak lebih besar dari ibu jari. Jarinya terluka, tapi ia terus mencoba.",
+      "teksLayar": [],
+      "suara": "Ketukan batu kecil, napas",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Hutan",
+      "waktu": "0:28–0:37",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kawanan berjalan beriringan di sepetak padang yang terjepit hutan lebat dan basah; \"kamu\" di depan, menoleh ke rimbun pepohonan.",
+      "narasiSuara": "[serious] Hutan di sekeliling kalian makin rapat dan basah. [tense] Padang terbuka tempat kawananmu mencari makan, kini tinggal sepetak demi sepetak.",
+      "narasi": "Hutan di sekeliling kalian makin rapat dan basah. Padang terbuka tempat kawananmu mencari makan, kini tinggal sepetak demi sepetak.",
+      "teksLayar": [],
+      "suara": "Serangga hutan, tetes air",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Hutan",
+      "waktu": "0:37–0:47",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Lumpur tepi sungai. Tangan kanan \"kamu\" menyentuh tepi jejak kaki harimau yang besar dan dalam; tangan kiri menahan tubuh di tanah; semak di depan bergoyang.",
+      "narasiSuara": "[tense] Di lumpur tepi sungai, kamu menemukan jejak kaki yang besar dan dalam. [nervous] Harimau... dan jejaknya masih baru.",
+      "narasi": "Di lumpur tepi sungai, kamu menemukan jejak kaki yang besar dan dalam. Harimau... dan jejaknya masih baru.",
+      "teksLayar": [],
+      "suara": "Hening mendadak, ranting patah",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Hutan",
+      "waktu": "0:47–0:56",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Tepi sungai di pagi hari. Kerbau purba bertanduk lebar dan rusa minum; kawanan menunggu di balik semak, \"kamu\" mengamati dengan tubuh merunduk.",
+      "narasiSuara": "[calm] Kalian bertahan di tepi sungai. [serious] Di sini masih ada air, kerbau purba bertanduk lebar, dan rusa yang datang minum.",
+      "narasi": "Kalian bertahan di tepi sungai. Di sini masih ada air, kerbau purba bertanduk lebar, dan rusa yang datang minum.",
+      "teksLayar": [],
+      "suara": "Air diminum, kicau burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Kemarau",
+      "waktu": "0:56–1:05",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kemarau. Sungai menyusut menjadi kubangan, lumpur retak; bangkai binatang di tepian; kawanan berjalan lambat di bawah matahari terik.",
+      "narasiSuara": "[tense] Lalu datang kemarau panjang. [sad] Sungai menyusut, lumpur retak, dan binatang-binatang mulai mati satu per satu di tepian.",
+      "narasi": "Lalu datang kemarau panjang. Sungai menyusut, lumpur retak, dan binatang-binatang mulai mati satu per satu di tepian.",
+      "teksLayar": [],
+      "suara": "Angin kering, lalat",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Kemarau",
+      "waktu": "1:05–1:15",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" menggali lumpur basah di dasar sungai yang kering, air keruh merembes sedikit; Anak Soloensis meringkuk lemah di sisi.",
+      "narasiSuara": "[nervous] Kamu menggali lumpur dengan tangan, mencari air yang tersisa. [sad] Anak itu terus menempel di sisimu, terlalu lemah untuk menangis.",
+      "narasi": "Kamu menggali lumpur dengan tangan, mencari air yang tersisa. Anak itu terus menempel di sisimu, terlalu lemah untuk menangis.",
+      "teksLayar": [],
+      "suara": "Lumpur dikeruk, napas pendek",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Kemarau",
+      "waktu": "1:15–1:23",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Malam di bawah tebing, cahaya bulan. Kedua lengan \"kamu\" memeluk Anak Soloensis yang tertidur; jauh di hulu, kilat menyala di balik awan.",
+      "narasiSuara": "[sad] [whispers] Malam itu, kamu memeluk anak itu erat-erat. [whispers] Jauh di hulu, langit mulai bergemuruh.",
+      "narasi": "Malam itu, kamu memeluk anak itu erat-erat. Jauh di hulu, langit mulai bergemuruh.",
+      "teksLayar": [],
+      "suara": "Guruh jauh, musik turun",
+      "hening": true,
+      "epilog": false,
+      "kata": 13
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Banjir",
+      "waktu": "1:23–1:31",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Hujan deras di tepi sungai. \"Kamu\" mendongak, wajah basah, mulut terbuka meminum hujan; anggota kawanan lain menengadahkan tangan.",
+      "narasiSuara": "[excited] Akhirnya hujan turun. [tense] Tapi bukan hujan biasa... deras, berhari-hari, tanpa henti, dari hulu yang jauh.",
+      "narasi": "Akhirnya hujan turun. Tapi bukan hujan biasa... deras, berhari-hari, tanpa henti, dari hulu yang jauh.",
+      "teksLayar": [],
+      "suara": "Hujan deras",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Banjir",
+      "waktu": "1:31–1:40",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Air bah cokelat menggulung di tikungan sungai, membawa batang pohon dan lumpur; kawanan berlari ke arah tebing, \"kamu\" menggendong Anak Soloensis.",
+      "narasiSuara": "[tense] Air cokelat datang menggulung, membawa batang pohon, lumpur, dan bangkai. [nervous] Tepian tempat kalian berlindung lenyap dalam sekejap.",
+      "narasi": "Air cokelat datang menggulung, membawa batang pohon, lumpur, dan bangkai. Tepian tempat kalian berlindung lenyap dalam sekejap.",
+      "teksLayar": [],
+      "suara": "Gemuruh air bah, kayu patah",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Banjir",
+      "waktu": "1:40–1:49",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagi sesudahnya. Tikungan sungai yang tenang, lumpur dan pasir baru menutupi tepian, batang pohon tumbang tergeletak; tidak ada siapa pun.",
+      "narasiSuara": "[sad] Ketika air akhirnya surut, tikungan sungai itu sunyi. [resigned] Lumpur dan pasir dari hulu menutup semuanya, lapis demi lapis.",
+      "narasi": "Ketika air akhirnya surut, tikungan sungai itu sunyi. Lumpur dan pasir dari hulu menutup semuanya, lapis demi lapis.",
+      "teksLayar": [],
+      "suara": "Air tenang, burung jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Epilog",
+      "waktu": "1:49–2:00",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Teras sungai tinggi berlapis endapan, ditumbuhi hutan; jauh di bawahnya Bengawan Solo mengalir.",
+      "narasiSuara": "[calm] Ribuan tahun berlalu. [serious] Bengawan Solo terus bergeser, dan endapan di tikungan itu kini tertinggal tinggi, sekitar dua puluh meter di atas air.",
+      "narasi": "Ribuan tahun berlalu. Bengawan Solo terus bergeser, dan endapan di tikungan itu kini tertinggal tinggi, sekitar dua puluh meter di atas air.",
+      "teksLayar": [
+        "Ribuan tahun kemudian."
+      ],
+      "suara": "Angin, sungai jauh di bawah",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Epilog",
+      "waktu": "2:00–2:10",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Kotak gali di teras di tengah hutan jati. Samsi berjongkok, membersihkan pecahan tengkorak berwarna gelap dengan kuas, lalu menulis di buku catatan.",
+      "narasiSuara": "[curious] Tahun 1931, seorang penggali bernama Samsi menemukan pecahan tengkorak di teras itu. [calm] Ia mencatatnya sebagai pecahan kepala harimau.",
+      "narasi": "Tahun 1931, seorang penggali bernama Samsi menemukan pecahan tengkorak di teras itu. Ia mencatatnya sebagai pecahan kepala harimau.",
+      "teksLayar": [
+        "Ngandong, 15 September 1931."
+      ],
+      "suara": "Sekop, kuas, burung hutan jati",
+      "hening": false,
+      "epilog": true,
+      "kata": 18
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Epilog",
+      "waktu": "2:10–2:20",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Laboratorium modern: tangan bersarung memegang sampel endapan dan fosil hewan; layar alat ukur menyala.",
+      "narasiSuara": "[serious] Hampir sembilan puluh tahun kemudian, para ilmuwan menghitung umurnya... [serious] antara seratus delapan ribu dan seratus tujuh belas ribu tahun.",
+      "narasi": "Hampir sembilan puluh tahun kemudian, para ilmuwan menghitung umurnya... antara seratus delapan ribu dan seratus tujuh belas ribu tahun.",
+      "teksLayar": [],
+      "suara": "Dengung mesin laboratorium",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Epilog",
+      "waktu": "2:20–2:31",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Senja di teras Ngandong yang sunyi; sebutir serpih batu kecil tergeletak di tanah, Bengawan Solo berkilau di bawah.",
+      "narasiSuara": "[sad] Jenismu menjelajah Jawa selama lebih dari satu juta tahun. [resigned] Dan sampai hari ini... tak ada jejaknya yang lebih muda dari tepian ini.",
+      "narasi": "Jenismu menjelajah Jawa selama lebih dari satu juta tahun. Dan sampai hari ini... tak ada jejaknya yang lebih muda dari tepian ini.",
+      "teksLayar": [],
+      "suara": "Angin senja, musik menggantung",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Perempuan Soloensis",
+      "prompt": "Character reference sheet of Perempuan Soloensis.\nPerempuan Soloensis is an adult female Homo erectus of about twenty-five, from a small band living on the banks of the Solo River in Java more than 100,000 years ago. Short, lean and strong, about 158 cm tall, with dark brown skin and very little body hair. A long, low head with a receding forehead, heavy brow ridges arching separately over each deep-set dark eye, broad prominent cheekbones, a wide flat nose, a forward-projecting mouth and no chin; short, dark, tightly curled hair. She wears a simple untailored wrap of soft brown animal hide tied over one shoulder and belted at the waist with a twisted vine, reaching mid-thigh; barefoot. She carries a small sharp flake of translucent honey-brown chalcedony. Alert and protective, always scanning the grass and the water.\nFull-body front, side and back views in a relaxed, natural standing pose holding a small stone flake, one three-quarter face portrait showing the brow ridges, low forehead and chinless jaw, one detail panel of the chalcedony flake and the hide wrap with its vine belt, and one first-person panel of her own hands and forearms seen from her eyes: Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, scientifically grounded reconstruction of a late Homo erectus from Ngandong, Java.\nAvoid caveman caricature, ape-like fur-covered body, wooden clubs, spears, fire, jewelry, body paint, tailored or sewn clothing, modern hairstyles, nudity, batik parang pattern, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Anak Soloensis",
+      "prompt": "Character reference sheet of Anak Soloensis.\nAnak Soloensis is a Homo erectus child of about six from the same band. Small and thin, dark brown skin, a rounded low forehead with only faint brow ridges, large curious dark eyes, a wide flat nose and a small jaw without a chin; short, dark, tightly curled hair. A small wrap of soft brown hide around the hips; barefoot. A tiny chipped stone is often clutched in one fist. Curious and clinging, quick to copy the adults.\nFull-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, and one detail panel of the small chipped stone in the child's hand. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, scientifically grounded reconstruction of a late Homo erectus child from Ngandong, Java.\nAvoid caveman caricature, ape-like fur-covered body, jewelry, body paint, tailored or sewn clothing, modern hairstyles, nudity, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:08",
+      "narasi": "Lebih dari seratus ribu tahun lalu, di tepi Bengawan Solo... kamu memukul sebutir batu sampai tajam.",
+      "prompt": "The viewer is Perempuan Soloensis: the hands and forearms in the foreground match the first-person panel of the Perempuan Soloensis reference image.\nMedium shot from a low angle at golden dusk on the bank of a wide brown river, dry grassland and scattered trees on the far side, a vast warm sky above.\nFirst-person point of view. Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. The left hand holds a fist-sized core of honey-brown chalcedony against the knee; the right hand strikes it with a round grey andesite pebble, and a small sharp flake breaks away in mid-air.\nNo other people in view; grass bends in the evening wind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dry grass yellows, brown river water and olive greens under a low golden sun, scientifically grounded Late Pleistocene open woodland on the Solo River, Java.\nAvoid characters looking at the camera, metal tools, fire, huts, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:08–0:17",
+      "narasi": "Kawananmu kecil. Di seberang sungai, gajah purba merumput, dan kuda nil berendam di air yang keruh.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nWide shot at eye level across an open grassy riverbank in late afternoon.\nPerempuan Soloensis crouches among four other band members at the water's edge, half-turned toward the far bank, head lifted and eyes narrowed in calm attention; on the far side a pair of Stegodon elephants graze, their long straight tusks nearly touching and curving slightly upward, and several hippopotamuses lie half-submerged in the muddy water. The other band members are different people from Perempuan Soloensis: varied ages and builds, one grey-haired elder, hide wraps in grey-brown and reddish-brown without a vine belt.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dry grass yellows, brown water and olive greens in warm afternoon light, scientifically grounded Late Pleistocene Ngandong fauna on the Solo River, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Perempuan Soloensis's face or outfit, identical faces, caveman caricature, spears, fire, nudity, woolly mammoths, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:28",
+      "narasi": "Anak kecil di kawananmu meniru caramu, memukul serpih batu yang tak lebih besar dari ibu jari. Jarinya terluka, tapi ia terus mencoba.",
+      "prompt": "The viewer is Perempuan Soloensis: the hands and forearms in the foreground match the first-person panel of the Perempuan Soloensis reference image.\nSame character as the Anak Soloensis reference image.\nMedium shot from a slightly high angle on a patch of bare earth beside the grass in the late afternoon.\nFirst-person point of view. Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. Both hands gently guide the small hands of the child around a thumb-sized chalcedony flake and a round pebble.\nAnak Soloensis sits cross-legged, tongue between the lips in concentration, eyes fixed on the stone; a fingertip shows a small red scratch, but the child keeps tapping; tiny flakes lie scattered on the ground.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earth browns and golden late light, scientifically grounded Late Pleistocene stone flaking at Ngandong, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, metal tools, fire, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:37",
+      "narasi": "Hutan di sekeliling kalian makin rapat dan basah. Padang terbuka tempat kawananmu mencari makan, kini tinggal sepetak demi sepetak.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nMedium-wide shot from a low angle on a narrow strip of grass squeezed between walls of dense, dripping rainforest.\nPerempuan Soloensis leads the band in single file, mid-stride, turning her head toward the dark trees with brows drawn together and lips pressed; behind her the others walk close together, an elder leaning on a stick. The other band members are different people from Perempuan Soloensis, with varied hide wraps and no vine belt.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep wet greens, muddy browns and grey mist under dim filtered light, scientifically grounded Late Pleistocene shift from open woodland to tropical rainforest in Java.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Perempuan Soloensis's face or outfit, caveman caricature, spears, fire, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:47",
+      "narasi": "Di lumpur tepi sungai, kamu menemukan jejak kaki yang besar dan dalam. Harimau... dan jejaknya masih baru.",
+      "prompt": "The viewer is Perempuan Soloensis: the hands and forearms in the foreground match the first-person panel of the Perempuan Soloensis reference image.\nMedium shot from a low angle, crouched on the soft mud of a riverbank at the forest edge in pale morning light.\nFirst-person point of view. Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. The right hand hovers over a huge, fresh tiger paw print pressed deep into the mud, fingers spread beside it for scale; the left hand presses flat on the ground, ready to push away.\nJust ahead, tall ferns and bushes at the forest edge sway, and two yellow eyes glint in the shadows between the leaves.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep wet greens and grey-brown mud in pale misty light, scientifically grounded Late Pleistocene Java with the large Ngandong tiger.\nAvoid characters looking at the camera, full view of the tiger attacking, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:56",
+      "narasi": "Kalian bertahan di tepi sungai. Di sini masih ada air, kerbau purba bertanduk lebar, dan rusa yang datang minum.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nMedium-wide shot at eye level from behind a screen of riverside bushes in the early morning.\nAt the water, giant prehistoric water buffaloes with enormously long, sweeping horns spreading sideways drink beside a few slender deer; in the foreground Perempuan Soloensis crouches low behind the leaves, one hand raised to hold the band still, eyes locked on the animals; two band members wait behind her, barely breathing. The other band members are different people from Perempuan Soloensis.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft greens, brown water and pale gold morning light, scientifically grounded Late Pleistocene Ngandong fauna with Bubalus palaeokerabau.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Perempuan Soloensis's face or outfit, spears, bows, fire, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:56–1:05",
+      "narasi": "Lalu datang kemarau panjang. Sungai menyusut, lumpur retak, dan binatang-binatang mulai mati satu per satu di tepian.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nWide shot from a slightly high angle over a riverbed shrunk to scattered muddy pools under a harsh midday sun.\nCracked mud stretches across the riverbed; the bleached skeleton of a large animal lies half-buried at the edge; Perempuan Soloensis walks slowly along the bank with the band, shoulders slumped, shading her eyes with one hand as she scans for water. The other band members are different people from Perempuan Soloensis.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ochre, cracked browns and bone white in harsh pale light, scientifically grounded Late Pleistocene drought on the Solo River, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Perempuan Soloensis's face or outfit, gore, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:05–1:15",
+      "narasi": "Kamu menggali lumpur dengan tangan, mencari air yang tersisa. Anak itu terus menempel di sisimu, terlalu lemah untuk menangis.",
+      "prompt": "The viewer is Perempuan Soloensis: the hands and forearms in the foreground match the first-person panel of the Perempuan Soloensis reference image.\nSame character as the Anak Soloensis reference image.\nMedium shot at eye level, kneeling in a dry riverbed in the hot afternoon.\nFirst-person point of view. Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. Now caked in grey mud. Both hands scoop into a hole in the riverbed, and a thin trickle of muddy water seeps up at the bottom.\nAnak Soloensis curls against the viewer's side, cheek pressed to the arm, eyes half closed, lips dry and cracked, too tired to cry.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, ochre and cracked browns in harsh pale light, scientifically grounded Late Pleistocene drought on the Solo River, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:15–1:23",
+      "narasi": "Malam itu, kamu memeluk anak itu erat-erat. Jauh di hulu, langit mulai bergemuruh.",
+      "prompt": "The viewer is Perempuan Soloensis: the hands and forearms in the foreground match the first-person panel of the Perempuan Soloensis reference image.\nSame character as the Anak Soloensis reference image.\nMedium shot at eye level beneath a low rock overhang at night, moonlight on the dry riverbed below.\nFirst-person point of view. Broad, strong adult hands with dark brown skin, short thick fingers, rough calloused palms and small healed cuts on the fingertips from stone work, bare forearms with very little hair and no ornaments. Both arms wrap around the sleeping child, one hand cradling the back of the small head.\nAnak Soloensis sleeps curled against the viewer's chest, face peaceful; far upstream, lightning flickers silently inside heavy clouds on the horizon.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep night blues with silver moonlight and a faint warm glow on skin, scientifically grounded Late Pleistocene Java.\nAvoid characters looking at the camera, fire, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:23–1:31",
+      "narasi": "Akhirnya hujan turun. Tapi bukan hujan biasa... deras, berhari-hari, tanpa henti, dari hulu yang jauh.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nMedium shot from a low angle on the riverbank in a heavy grey downpour.\nPerempuan Soloensis tilts her head back with eyes closed and mouth open to drink the rain, water streaming down her face and hide wrap; around her, band members hold their cupped hands up to the sky, one laughing with relief. The other band members are different people from Perempuan Soloensis.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, storm greys, dark greens and brown earth under heavy rain, scientifically grounded Late Pleistocene Java.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Perempuan Soloensis's face or outfit, shelters, fire, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:31–1:40",
+      "narasi": "Air cokelat datang menggulung, membawa batang pohon, lumpur, dan bangkai. Tepian tempat kalian berlindung lenyap dalam sekejap.",
+      "prompt": "Same character as the Perempuan Soloensis reference image.\nSame character as the Anak Soloensis reference image.\nWide shot from a slightly high angle over a bend of the river as a wall of brown floodwater surges around it, carrying whole tree trunks and mud.\nPerempuan Soloensis runs toward the rising bank with Anak Soloensis clutched to her chest, mouth open in a shout, one arm reaching for a root; other band members scramble up the slope ahead of her. The other band members are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, storm greys and churning muddy browns with a flash of lightning, scientifically grounded Late Pleistocene flood on the Solo River, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, gore, nudity, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:40–1:49",
+      "narasi": "Ketika air akhirnya surut, tikungan sungai itu sunyi. Lumpur dan pasir dari hulu menutup semuanya, lapis demi lapis.",
+      "prompt": "Medium-wide shot at eye level over the same river bend on a pale, still morning after the flood.\nFresh grey mud and sand cover the banks in smooth layers; uprooted trees lie tangled across the bend; the water runs calm and brown; a single bird stands in the shallows. No people anywhere.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, pale grey-brown mud and soft green under quiet morning light, scientifically grounded Late Pleistocene river bend at Ngandong, Java.\nAvoid people, bodies, gore, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:49–2:00",
+      "narasi": "Ribuan tahun berlalu. Bengawan Solo terus bergeser, dan endapan di tikungan itu kini tertinggal tinggi, sekitar dua puluh meter di atas air.",
+      "prompt": "Wide shot from a low angle up a high, forested river terrace, its exposed edge showing layered bands of sand, gravel and clay, with the Solo River flowing far below.\nNo people; tall trees grow on top of the terrace and morning mist lifts off the river.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, layered earth browns and deep greens in soft morning light, scientifically grounded river terrace of the Solo River at Ngandong, Java.\nAvoid people, buildings, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:00–2:10",
+      "narasi": "Tahun 1931, seorang penggali bernama Samsi menemukan pecahan tengkorak di teras itu. Ia mencatatnya sebagai pecahan kepala harimau.",
+      "prompt": "Medium shot at eye level inside a square excavation pit on a river terrace in a teak forest, midday light filtering through broad teak leaves.\nSamsi, a Javanese man of about thirty in a plain white long-sleeved shirt with rolled sleeves, dark trousers and a plain dark headcloth, barefoot, crouches in the pit, brushing earth from a dark, fossilised skull fragment, then leaning over a small notebook on his knee with a pencil, brows slightly raised in uncertainty. Behind him, two other diggers with hoes work at the pit edge. The other diggers are different people from Samsi.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, teak greens, earth browns and warm muted light, historically accurate 1931 Dutch colonial geological excavation at Ngandong, Java.\nAvoid characters looking at the camera, stiff symmetrical poses, modern clothing, machinery, batik parang pattern, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:10–2:20",
+      "narasi": "Hampir sembilan puluh tahun kemudian, para ilmuwan menghitung umurnya... antara seratus delapan ribu dan seratus tujuh belas ribu tahun.",
+      "prompt": "Medium close shot at eye level in a modern geochronology laboratory.\nGloved hands lift a small vial of sediment beside a fossil animal tooth on a clean bench; behind them a screen on a measuring instrument glows with a soft curve of data; faces are not shown.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, neutral whites and soft warm lamp light against muted shadows, modern scientific laboratory.\nAvoid faces, neon colours, text, numbers, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:20–2:31",
+      "narasi": "Jenismu menjelajah Jawa selama lebih dari satu juta tahun. Dan sampai hari ini... tak ada jejaknya yang lebih muda dari tepian ini.",
+      "prompt": "Medium shot at eye level at dusk on top of the quiet Ngandong river terrace.\nA single small, sharp flake of translucent honey-brown chalcedony lies on the bare earth in the foreground, catching the last light; below, the Solo River glints between teak trees. No people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm orange dusk light and deep soft shadows, scientifically grounded Ngandong river terrace on the Solo River, Java.\nAvoid people, buildings, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice yang hangat dan tenang, seperti pencerita dokumenter alam; voice menentukan lebih dari tag.\n\n- Babak 1: tenang dan lapang, tempo lambat; ada kehangatan di adegan anak.\n- Babak 2: waspada, suara sedikit menahan; jeda tegang sebelum \"dan jejaknya masih baru\".\n- Babak 3: berat dan kering, lalu berbisik penuh di adegan 9.\n- Babak 4: lega sesaat, lalu cepat dan tegang di air bah; kalimat terakhir babak ini pelan dan hampa.\n- Babak 5: tenang seperti membaca catatan sejarah; kalimat terakhir pelan, sedih, dan dibiarkan menggantung.",
+    "arahanBabak": {
+      "1": "tenang dan lapang, tempo lambat; ada kehangatan di adegan anak.",
+      "2": "waspada, suara sedikit menahan; jeda tegang sebelum \"dan jejaknya masih baru\".",
+      "3": "berat dan kering, lalu berbisik penuh di adegan 9.",
+      "4": "lega sesaat, lalu cepat dan tegang di air bah; kalimat terakhir babak ini pelan dan hampa.",
+      "5": "tenang seperti membaca catatan sejarah; kalimat terakhir pelan, sedih, dan dibiarkan menggantung."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[calm] Lebih dari seratus ribu tahun lalu, di tepi Bengawan Solo... [tense] kamu memukul sebutir batu sampai tajam...\n\n[calm] Kawananmu kecil. [curious] Di seberang sungai, gajah purba merumput, dan kuda nil berendam di air yang keruh...\n\n[calm] Anak kecil di kawananmu meniru caramu, memukul serpih batu yang tak lebih besar dari ibu jari. [curious] Jarinya terluka, tapi ia terus mencoba...",
+    "2": "[serious] Hutan di sekeliling kalian makin rapat dan basah. [tense] Padang terbuka tempat kawananmu mencari makan, kini tinggal sepetak demi sepetak...\n\n[tense] Di lumpur tepi sungai, kamu menemukan jejak kaki yang besar dan dalam. [nervous] Harimau... dan jejaknya masih baru...\n\n[calm] Kalian bertahan di tepi sungai. [serious] Di sini masih ada air, kerbau purba bertanduk lebar, dan rusa yang datang minum...",
+    "3": "[tense] Lalu datang kemarau panjang. [sad] Sungai menyusut, lumpur retak, dan binatang-binatang mulai mati satu per satu di tepian...\n\n[nervous] Kamu menggali lumpur dengan tangan, mencari air yang tersisa. [sad] Anak itu terus menempel di sisimu, terlalu lemah untuk menangis...\n\n[sad] [whispers] Malam itu, kamu memeluk anak itu erat-erat. [whispers] Jauh di hulu, langit mulai bergemuruh...",
+    "4": "[excited] Akhirnya hujan turun. [tense] Tapi bukan hujan biasa... deras, berhari-hari, tanpa henti, dari hulu yang jauh...\n\n[tense] Air cokelat datang menggulung, membawa batang pohon, lumpur, dan bangkai. [nervous] Tepian tempat kalian berlindung lenyap dalam sekejap...\n\n[sad] Ketika air akhirnya surut, tikungan sungai itu sunyi. [resigned] Lumpur dan pasir dari hulu menutup semuanya, lapis demi lapis...",
+    "5": "[calm] Ribuan tahun berlalu. [serious] Bengawan Solo terus bergeser, dan endapan di tikungan itu kini tertinggal tinggi, sekitar dua puluh meter di atas air...\n\n[curious] Tahun 1931, seorang penggali bernama Samsi menemukan pecahan tengkorak di teras itu. [calm] Ia mencatatnya sebagai pecahan kepala harimau...\n\n[serious] Hampir sembilan puluh tahun kemudian, para ilmuwan menghitung umurnya... [serious] antara seratus delapan ribu dan seratus tujuh belas ribu tahun...\n\n[sad] Jenismu menjelajah Jawa selama lebih dari satu juta tahun. [resigned] Dan sampai hari ini... tak ada jejaknya yang lebih muda dari tepian ini..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Padang",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Lapang dan purba, lalu menekan dan waspada",
+      "style": "Primal ambient soundscape, deep earthy drone, soft hand-struck stone clicks and a slow frame drum heartbeat, breathy low wooden flute, wide and ancient, gradually thickening with dense humid textures and a tense low pulse, fades out at the end, about 65 seconds long (1:05), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, gamelan, orchestral brass, synth pop"
+    },
+    {
+      "nomor": 2,
+      "nama": "Kemarau dan Banjir",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Kering dan sunyi, berbisik, lalu dahsyat dan hampa",
+      "style": "Sparse dry ambient, cracked percussive textures and a thin wavering drone, almost silent at a whisper, then rolling distant thunder drums building into a violent surge of low strings and pounding percussion like floodwater, collapsing into a hollow empty tone, fades out at the end, about 60 seconds long (1:00), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, gamelan, triumphant brass, rock drums"
+    },
+    {
+      "nomor": 3,
+      "nama": "Teras",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:50",
+      "suasana": "Tenang, berjarak, lalu sedih dan menggantung",
+      "style": "Reflective cinematic underscore, soft piano and warm strings over the faint stone-click motif from the first cue, calm and distant like turning the pages of deep time, slowly darkening into a single sustained unresolved chord, fades out at the end, about 50 seconds long (0:50), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, triumphant brass, anthem"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Batu beradu",
+      "kataKunci": "stone knapping flint",
+      "prompt": "Stone striking stone in short sharp taps, small flakes chipping off, quiet riverbank wind"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Lenguh gajah dan kuda nil",
+      "kataKunci": "elephant rumble distant, hippo grunt",
+      "prompt": "Distant elephant rumble across a river, hippos grunting and splashing in muddy water, birds"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Ketukan batu kecil",
+      "kataKunci": "small stone tapping",
+      "prompt": "Light, uneven tapping of a small stone by a child, soft breathing, grass rustling"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Hutan basah",
+      "kataKunci": "rainforest ambience dripping",
+      "prompt": "Dense humid rainforest, water dripping from leaves, insects buzzing, distant bird calls"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Hening dan ranting patah",
+      "kataKunci": "twig snap forest silence",
+      "prompt": "Forest suddenly falling silent, a single twig snapping in the undergrowth, low breathing"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Binatang minum",
+      "kataKunci": "animals drinking river",
+      "prompt": "Large animals drinking and wading at a river edge, hooves in mud, a soft snort"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Angin kering dan lalat",
+      "kataKunci": "dry wind flies",
+      "prompt": "Hot dry wind over cracked earth, flies buzzing, a distant crow"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Lumpur dikeruk",
+      "kataKunci": "digging mud hands",
+      "prompt": "Hands scooping thick wet mud, water seeping slowly, short tired breaths"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Guruh jauh",
+      "kataKunci": "distant thunder night",
+      "prompt": "Very distant thunder rolling at night, crickets, a child's slow sleeping breath"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Hujan deras",
+      "kataKunci": "heavy rain downpour",
+      "prompt": "Heavy tropical downpour hitting leaves and earth, water splashing, a short relieved laugh"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Air bah",
+      "kataKunci": "flash flood roar",
+      "prompt": "Roaring flash flood, rushing water, tree trunks cracking and tumbling, rocks grinding"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Air tenang",
+      "kataKunci": "calm river morning",
+      "prompt": "Calm brown river after a flood, gentle trickling, a single bird call, stillness"
+    },
+    {
+      "nomor": 13,
+      "adegan": 14,
+      "bunyi": "Penggalian",
+      "kataKunci": "archaeology dig trowel",
+      "prompt": "Small trowel and brush scraping soil, a hoe digging nearby, birds in a teak forest"
+    },
+    {
+      "nomor": 14,
+      "adegan": 15,
+      "bunyi": "Laboratorium",
+      "kataKunci": "laboratory hum",
+      "prompt": "Quiet laboratory hum, a glass vial set on a bench, soft electronic beeps"
+    },
+    {
+      "nomor": 15,
+      "adegan": 16,
+      "bunyi": "Angin senja",
+      "kataKunci": "dusk wind river",
+      "prompt": "Evening wind over a high riverbank, distant river flowing, leaves rustling"
+    }
+  ],
+  "adeganHening": [
+    9
+  ],
+  "ulikan": {
+    "teks": "Volume otak Homo soloensis 1.013–1.251 cc, masuk rentang otak manusia modern.",
+    "sumber": "Solo Man (Wikipedia), merangkum pengukuran enam tengkorak Ngandong",
+    "kata": 14,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Homo Soloensis di Tepi Bengawan Solo",
+      "catatan": "Alternatif judul: POV: Kamu di Antara Homo Erectus Terakhir di Jawa / POV: Kamu Hidup Lebih dari 100.000 Tahun Lalu di Bengawan Solo",
+      "caption": "Lebih dari sejuta tahun jenismu menjelajah Jawa. Jejak terakhirnya ada di tepi Bengawan Solo.\n\nDi Ngandong, Blora, tim geologi Hindia Belanda menggali belasan atap tengkorak Homo erectus pada 1931–1933. Penanggalan yang terbit di jurnal Nature (2020) menempatkan lapisan tulangnya pada 117.000–108.000 tahun lalu, ketika padang terbuka Jawa perlahan berganti hutan hujan. Hingga kini, tak ada jejak Homo erectus yang lebih muda di mana pun.\n\nMenurutmu, apa yang membuat jenis yang bertahan sejuta tahun akhirnya hilang?\n\nDramatisasi berdasarkan catatan sejarah dan temuan ilmiah; kehidupan kawanan adalah rekonstruksi. Sumber utama: Rizal dkk., Nature (2020); BPSMP Sangiran.\n\n#UlikSilam #sejarahindonesia #homoerectus #ngandong"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Homo Soloensis di Tepi Bengawan Solo",
+      "catatan": "",
+      "caption": "Lebih dari sejuta tahun jenismu menjelajah Jawa. Jejak terakhirnya ada di tepi Bengawan Solo.\n\nDi Ngandong, Blora, tim geologi Hindia Belanda menggali belasan atap tengkorak Homo erectus pada 1931–1933. Penanggalan yang terbit di jurnal Nature (2020) menempatkan lapisan tulangnya pada 117.000–108.000 tahun lalu, ketika padang terbuka Jawa perlahan berganti hutan hujan. Hingga kini, tak ada jejak Homo erectus yang lebih muda di mana pun.\n\nMenurutmu, apa yang membuat jenis yang bertahan sejuta tahun akhirnya hilang?\n\nDramatisasi berdasarkan catatan sejarah dan temuan ilmiah; kehidupan kawanan adalah rekonstruksi. Sumber utama: Rizal dkk., Nature (2020); BPSMP Sangiran.\n\n#UlikSilam #sejarahindonesia #homoerectus #ngandong #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 289,
+    "kataPerBabak": {
+      "1": 54,
+      "2": 55,
+      "3": 49,
+      "4": 50,
+      "5": 81
+    },
+    "karakterPerBabak": {
+      "1": 395,
+      "2": 415,
+      "3": 396,
+      "4": 411,
+      "5": 627
+    },
+    "jedaBunyi": 5,
+    "perkiraanDetik130": {
+      "narasi": 151.8,
+      "denganMerek": 156.8
+    },
+    "perkiraanDetik135": {
+      "narasi": 146.8,
+      "denganMerek": 151.8
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+judul: "POV: Kamu Romusha Perempuan di Pulau Numfor, 1944"
+slug: pov-romusha-numfor
+format: POV
+lapisan: ["Sejarah"]
+latar: "Pulau Numfor, Papua"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v6 · 2026-11-06"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Romusha Surabaya", "Adik"]
+aset: {ilustrasi: 17, narasi: 25, musik: 3, sfx: 13}
+render: "out/pov-romusha-numfor.mp4"
+tanggal_render: 2026-11-06
+tautan: {"shorts": "https://youtube.com/shorts/R_OEYIL4h3A", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7705013687517596935"}
+arsip_lama: "pov/pov-romusha-numfor"
+catatan: ""
+metrik_shorts: {"views": 3651, "jam_tonton": 65.4, "rata_tonton_detik": 64.4, "durasi_detik": 169, "persen_ditonton": 38.1, "subscriber": 25, "impresi": 2824, "ctr": 6.87, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-11-06", "tiktok": "2026-11-06"}
+metrik_tiktok: {"views": 6081, "suka": 156, "komentar": 3, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

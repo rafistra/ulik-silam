@@ -1,0 +1,648 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-22T14:07:44.475Z",
+  "judulDokumen": "Supratman di Malam Sumpah Pemuda",
+  "judul": "POV: Kamu W.R. Supratman di Malam Sumpah Pemuda",
+  "slug": "pov-supratman-sumpah-pemuda",
+  "versi": "v3 · 2026-10-22",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Batavia, masa Hindia Belanda",
+  "durasiMaksDetik": 150,
+  "durasiTargetDetik": 140,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "W.R. Supratman (tokoh nyata), 25 tahun, wartawan Sin Po dan pemain biola",
+  "ringkasan": {
+    "Judul": "POV: Kamu W.R. Supratman di Malam Sumpah Pemuda",
+    "Slug": "pov-supratman-sumpah-pemuda",
+    "Durasi": "2:30 maksimum, target ±2:20",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "W.R. Supratman (tokoh nyata), 25 tahun, wartawan Sin Po dan pemain biola",
+    "Jumlah ilustrasi": "18 (15 adegan + 3 lembar karakter: Supratman, Soegondo, agen polisi)",
+    "Lapisan": "Sejarah",
+    "Latar": "Batavia, masa Hindia Belanda",
+    "Premis": "Di malam Sumpah Pemuda, kamu memegang lagu yang liriknya bisa membubarkan rapat, di bawah mata polisi yang menunggu satu kata.",
+    "Benang merah": "Lagu yang hanya boleh terdengar tanpa kata pada 1928 akhirnya dinyanyikan utuh pada 17 Agustus 1945, tepat tujuh tahun setelah penciptanya wafat.",
+    "Alur": "Hitung mundur satu malam (rapat ketiga, Kramat 106), lalu lompatan waktu ke 1928–1938 dan epilog 1945",
+    "Tokoh pendukung": "Agen polisi Belanda (fiktif, tanpa nama), Soegondo Djojopoespito, Mohammad Yamin (cameo)",
+    "Target tayang": "28 Oktober 2026 (Hari Sumpah Pemuda)",
+    "Asumsi": "Nada tegang lalu getir; agen polisi tanpa nama; Yamin hanya cameo; interogasi oleh agen yang sama ditandai dramatisasi; melodi dan lirik Indonesia Raya tidak dipakai di audio",
+    "Dipilih karena": "Gabungan opsi Supratman dan agen polisi dari brainstorming: hook langsung dipahami, momen hening alami (biola tanpa kata), tokoh berulang sedikit, dan penutup tujuh tahun yang kuat",
+    "Versi": "v3 · 2026-10-22"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Kotak biola",
+      "suasana": "Tegang, tertahan",
+      "palet": "Cokelat tua, hijau zaitun gelap, krem kusam, aksen amber",
+      "cahaya": "Lampu minyak dan lampu gantung kuning dari dalam gedung; malam pekat di luar"
+    },
+    {
+      "babak": 2,
+      "nama": "Satu kata",
+      "suasana": "Gelisah, berbisik",
+      "palet": "Cokelat kayu, krem kertas, bayangan hitam, aksen amber",
+      "cahaya": "Satu lampu gantung di atas meja pimpinan, bayangan panjang"
+    },
+    {
+      "babak": 3,
+      "nama": "Tanpa kata",
+      "suasana": "Hening, lalu khidmat",
+      "palet": "Cokelat kemerahan biola, emas redup, krem",
+      "cahaya": "Cahaya hangat jatuh ke Supratman, sisa ruangan meredup"
+    },
+    {
+      "babak": 4,
+      "nama": "Lagu yang diburu",
+      "suasana": "Dingin, tertekan",
+      "palet": "Abu kebiruan pudar, cokelat tua, hijau kusam, sedikit amber",
+      "cahaya": "Satu bohlam atau lampu meja yang keras; siang mendung di studio radio"
+    },
+    {
+      "babak": 5,
+      "nama": "Tujuh tahun",
+      "suasana": "Getir, lalu lega",
+      "palet": "Biru malam dan amber pelita (adegan 14); krem cerah, matahari hangat, merah putih (adegan 15)",
+      "cahaya": "Pelita redup (14); matahari pagi rendah yang hangat (15)"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Kotak biola",
+    "2": "Satu kata",
+    "3": "Tanpa kata",
+    "4": "Lagu yang diburu",
+    "5": "Tujuh tahun"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Kotak biola",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tangan kanan \"kamu\" menggenggam pegangan kotak biola tua setinggi dada di depan beranda rumah kolonial berpilar di Kramat 106, malam hari; cahaya kuning hangat dari jendela; tiga pemuda menaiki tangga beranda, satu menoleh gelisah ke jalan.",
+      "narasiSuara": "[tense] Kamu menulis lagu untuk bangsa yang belum ada. [whispers] Malam ini, satu kata di dalamnya bisa membubarkan kongres ini.",
+      "narasi": "Kamu menulis lagu untuk bangsa yang belum ada. Malam ini, satu kata di dalamnya bisa membubarkan kongres ini.",
+      "teksLayar": [
+        "Kramat 106, Batavia",
+        "28 Oktober 1928"
+      ],
+      "suara": "Jangkrik malam, riuh pelan dari dalam gedung.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Kotak biola",
+      "waktu": "0:09–0:17",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Supratman muda berkacamata, berjas cokelat tua dan berdasi, peci lurik, melangkah masuk ruang rapat yang penuh pemuda; matanya melirik waspada ke sudut kiri, tempat agen polisi Belanda berjas linen krem mencatat di buku kecil.",
+      "narasiSuara": "[calm] Kamu datang sebagai wartawan Sin Po, membawa biolamu. [serious] Di sudut ruangan, seorang agen polisi mencatat setiap kata.",
+      "narasi": "Kamu datang sebagai wartawan Sin Po, membawa biolamu. Di sudut ruangan, seorang agen polisi mencatat setiap kata.",
+      "teksLayar": [],
+      "suara": "Dengung percakapan, kursi berderit, pena menggores kertas.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Kotak biola",
+      "waktu": "0:17–0:28",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Pembicara muda di mimbar terhenti dengan tangan masih terangkat; komisaris polisi Belanda berseragam putih bangkit setengah dari kursi depan dengan telapak tangan terangkat memotong; hadirin menoleh tegang ke arahnya.",
+      "narasiSuara": "[tense] Sejak kongres dibuka, kata \"merdeka\" terlarang di sini. [serious] Seorang pembicara berharap negeri ini sejajar dengan Inggris dan Belanda. [tense] Polisi langsung menghentikannya.",
+      "narasi": "Sejak kongres dibuka, kata \"merdeka\" terlarang di sini. Seorang pembicara berharap negeri ini sejajar dengan Inggris dan Belanda. Polisi langsung menghentikannya.",
+      "teksLayar": [],
+      "suara": "Ketukan keras di meja, suara tegas memotong, ruangan mendadak sunyi.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Satu kata",
+      "waktu": "0:28–0:37",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" membuka partitur tulisan tangan setinggi dada; ibu jari kanan di samping satu kata yang dilingkari pensil di garis lirik; kotak biola bersandar di lutut.",
+      "narasiSuara": "[nervous] Kamu membuka partitur lagumu, Indonesia, di atas pangkuan. [whispers] Di refreinnya, satu kata tertulis berulang kali. [tense] Merdeka, merdeka.",
+      "narasi": "Kamu membuka partitur lagumu, Indonesia, di atas pangkuan. Di refreinnya, satu kata tertulis berulang kali. Merdeka, merdeka.",
+      "teksLayar": [],
+      "suara": "Kertas partitur dibuka, napas tertahan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Satu kata",
+      "waktu": "0:37–0:45",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Supratman mencondongkan badan menyerahkan lembar lirik kepada Soegondo di meja pimpinan; Soegondo membaca dengan dahi berkerut lalu melirik ke samping; di dinding samping, pejabat Belanda bersetelan putih mengawasi.",
+      "narasiSuara": "[nervous] Kamu menghadap Soegondo, ketua kongres, dan menyerahkan liriknya. [serious] Ia membaca pelan, lalu melirik barisan pejabat Belanda.",
+      "narasi": "Kamu menghadap Soegondo, ketua kongres, dan menyerahkan liriknya. Ia membaca pelan, lalu melirik barisan pejabat Belanda.",
+      "teksLayar": [],
+      "suara": "Langkah di lantai kayu, kertas berpindah tangan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Satu kata",
+      "waktu": "0:45–0:53",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Soegondo menatap \"kamu\" dari seberang meja sambil menggeleng pelan dengan wajah menyesal dan mengembalikan kertas lirik; tangan kanan \"kamu\" terulur mengambilnya; lampu gantung di atas.",
+      "narasiSuara": "[serious] Soegondo menggeleng. [resigned] Kata itu terlalu berbahaya di depan mereka. [serious] Lagumu boleh dimainkan, tapi tidak boleh dinyanyikan.",
+      "narasi": "Soegondo menggeleng. Kata itu terlalu berbahaya di depan mereka. Lagumu boleh dimainkan, tapi tidak boleh dinyanyikan.",
+      "teksLayar": [],
+      "suara": "Desah pelan, kertas dilipat.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Tanpa kata",
+      "waktu": "0:53–1:01",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Supratman berdiri di depan hadirin, menunduk memberi hormat ke meja panitia sambil mengangkat biola ke bahu dengan tangan kiri, busur di tangan kanan; wajahnya pucat tapi tenang.",
+      "narasiSuara": "[calm] Kamu maju, memberi hormat. [serious] Semua mata tertuju padamu. [whispers] Biola di bahu, tanpa satu kata pun.",
+      "narasi": "Kamu maju, memberi hormat. Semua mata tertuju padamu. Biola di bahu, tanpa satu kata pun.",
+      "teksLayar": [],
+      "suara": "Langkah ke depan, bisik-bisik mereda.",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Tanpa kata",
+      "waktu": "1:01–1:10",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Close-up dari sudut pandang \"kamu\": tangan kiri di leher biola, tangan kanan menahan busur sejari di atas senar; cahaya lampu memantul di kayu biola; hadirin kabur di latar.",
+      "narasiSuara": "[whispers] Kamu menarik napas. [whispers] Untuk pertama kalinya, lagumu akan terdengar... [whispers] Busurmu menyentuh senar.",
+      "narasi": "Kamu menarik napas. Untuk pertama kalinya, lagumu akan terdengar... Busurmu menyentuh senar.",
+      "teksLayar": [],
+      "suara": "Musik turun ke hening; satu gesekan biola sangat lembut lalu sunyi total (tanpa melodi lagu).",
+      "hening": true,
+      "epilog": false,
+      "kata": 12
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Tanpa kata",
+      "waktu": "1:10–1:18",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Wajah-wajah pemuda terpaku menatap ke depan ruangan; di sudut kiri, agen polisi berhenti menulis, pensil menggantung di atas buku catatan, alisnya sedikit terangkat.",
+      "narasiSuara": "[calm] Seisi ruangan terpaku. [curious] Agen polisi berhenti menulis. [whispers] Tak ada satu kata pun yang bisa ia catat.",
+      "narasi": "Seisi ruangan terpaku. Agen polisi berhenti menulis. Tak ada satu kata pun yang bisa ia catat.",
+      "teksLayar": [],
+      "suara": "Sunyi, detak jam dinding.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 10,
+      "babak": 3,
+      "namaBabak": "Tanpa kata",
+      "waktu": "1:18–1:28",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Soegondo berdiri membacakan secarik kertas dengan khidmat; Mohammad Yamin muda di sampingnya mendengarkan dengan senyum tipis; hadirin berdiri mendengarkan.",
+      "narasiSuara": "[serious] Lalu Soegondo membacakan kertas tulisan Yamin. [calm] Satu tanah air, satu bangsa, bahasa persatuan. [calm] Kata-kata yang boleh diucapkan malam itu.",
+      "narasi": "Lalu Soegondo membacakan kertas tulisan Yamin. Satu tanah air, satu bangsa, bahasa persatuan. Kata-kata yang boleh diucapkan malam itu.",
+      "teksLayar": [
+        "Kami poetra dan poetri Indonesia"
+      ],
+      "suara": "Suara pembacaan bergema samar, tepuk tangan tertahan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Lagu yang diburu",
+      "waktu": "1:28–1:36",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Kedua tangan \"kamu\" membuka koran Sin Po edisi mingguan setinggi dada, halamannya berisi partitur tercetak; di balik meja redaksi bermesin tik, seorang redaktur tua mengangguk kecil.",
+      "narasiSuara": "[excited] Tak sampai dua minggu kemudian, Sin Po memuat lirik dan partitur lagumu. [calm] Kini siapa saja bisa membacanya.",
+      "narasi": "Tak sampai dua minggu kemudian, Sin Po memuat lirik dan partitur lagumu. Kini siapa saja bisa membacanya.",
+      "teksLayar": [
+        "10 November 1928"
+      ],
+      "suara": "Mesin cetak berderak, lembar koran dibalik.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Lagu yang diburu",
+      "waktu": "1:36–1:46",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Ruang interogasi sempit dengan satu bohlam; Supratman duduk tegak dan tenang berhadapan dengan agen polisi yang sama, kini berjas abu gelap, yang mencondongkan badan di atas map terbuka dengan mata menyipit.",
+      "narasiSuara": "[tense] Lagumu dilarang. [tense] Polisi rahasia memeriksamu. [serious] Wajah di seberang meja terasa tak asing. [calm] Kamu bilang, kata aslinya mulia, bukan merdeka.",
+      "narasi": "Lagumu dilarang. Polisi rahasia memeriksamu. Wajah di seberang meja terasa tak asing. Kamu bilang, kata aslinya mulia, bukan merdeka.",
+      "teksLayar": [
+        "1930"
+      ],
+      "suara": "Lampu berdengung, kursi diseret.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Lagu yang diburu",
+      "waktu": "1:46–1:55",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Studio radio sederhana dengan mikrofon kuno; dua polisi menggiring Supratman yang lebih kurus keluar pintu; ia menoleh ke para pandu muda yang terpaku di dekat mikrofon.",
+      "narasiSuara": "[sad] Delapan tahun kemudian, lagu barumu di radio dianggap memuji Jepang. [tense] Kamu ditangkap. [resigned] Dibebaskan, tapi tubuhmu sudah lelah.",
+      "narasi": "Delapan tahun kemudian, lagu barumu di radio dianggap memuji Jepang. Kamu ditangkap. Dibebaskan, tapi tubuhmu sudah lelah.",
+      "teksLayar": [
+        "Surabaya, 7 Agustus 1938"
+      ],
+      "suara": "Statis radio, pintu dibuka paksa.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Tujuh tahun",
+      "waktu": "1:55–2:03",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Kamar sederhana di malam hari dari sudut pandang ranjang; tangan kanan \"kamu\" yang kurus terulur lemah ke arah meja; pelita redup; biola tergeletak di meja dekat jendela.",
+      "narasiSuara": "[sad] Sepuluh hari kemudian, kamu wafat di Surabaya. [sad] Usiamu 35 tahun. [sad] Biolamu diam di meja. [sad] [whispers] Indonesia belum merdeka.",
+      "narasi": "Sepuluh hari kemudian, kamu wafat di Surabaya. Usiamu 35 tahun. Biolamu diam di meja. Indonesia belum merdeka.",
+      "teksLayar": [
+        "17 Agustus 1938"
+      ],
+      "suara": "Detak jam, angin malam di jendela.",
+      "hening": false,
+      "epilog": true,
+      "kata": 17
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Tujuh tahun",
+      "waktu": "2:03–2:13",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Halaman rumah Pegangsaan Timur 56 pada pagi hari; bendera merah putih di tiang bambu; kerumunan rakyat dan pemuda bernyanyi dengan kepala terangkat; cahaya matahari hangat.",
+      "narasiSuara": "[calm] Tepat tujuh tahun kemudian, merah putih berkibar di Pegangsaan Timur 56, dan orang-orang menyanyikan lagumu. [sad] [whispers] Kali ini, dengan kata-katanya.",
+      "narasi": "Tepat tujuh tahun kemudian, merah putih berkibar di Pegangsaan Timur 56, dan orang-orang menyanyikan lagumu. Kali ini, dengan kata-katanya.",
+      "teksLayar": [
+        "Pegangsaan Timur 56, Jakarta",
+        "17 Agustus 1945"
+      ],
+      "suara": "Angin pagi, kain bendera berkibar, riuh suara orang banyak (bukan melodi lagu).",
+      "hening": false,
+      "epilog": true,
+      "kata": 19
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Supratman",
+      "prompt": "Character reference sheet of Supratman.\nWage Rudolf Supratman, a 25-year-old Javanese journalist and violinist in Batavia, 1928. Slim, narrow-shouldered build of average height; light brown skin; an oval face with a soft jaw, high cheekbones and a gentle mouth; dark almond-shaped eyes behind round thin black wire-rimmed glasses; straight dark brows; clean-shaven. Thick wavy black hair combed back, its waves showing at the temples and nape under a black peci covered in fine dark-striped lurik woven cotton. A single-breasted dark brown cotton lounge jacket with narrow lapels over a white collared shirt and a plain dark tie, high-waisted dark grey trousers with a sharp crease, and polished brown leather lace-up shoes. No jewelry. Carries a worn dark brown wooden violin case with brass clasps. Holds himself slightly stooped, quiet and watchful, his long fingers often resting on the violin case.\nSheet layout on one page: front, side and back full-body views in a relaxed, natural standing pose; one three-quarter portrait of his face; one detail panel of the lurik peci fabric, the jacket sleeve with its shirt cuff, and the brass clasps of the violin case; one first-person panel of his own hands and forearms as he would see them, raised to chest height and holding the violin case handle, matching this description: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets.\nPlain light warm grey background, even soft lighting, no other people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1928 Batavia clothing of an educated young Indonesian nationalist: Western lounge jacket, shirt and tie, long trousers, leather shoes and a peci.\nIf a reference photo is uploaded, use it only for his face, glasses and hair, not for the pose, clothing or photo style.\nAvoid batik shirts, parang batik pattern, caricature, labels, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Soegondo",
+      "prompt": "Character reference sheet of Soegondo.\nSoegondo Djojopoespito, a Javanese law student in his early twenties and chairman of the Second Youth Congress, Batavia, 1928. Medium height with a compact, upright build; light brown skin; a broad face with a square jaw, straight nose and full lips; calm dark eyes under thick straight brows; clean-shaven, no glasses. Short black hair neatly trimmed, mostly hidden under a plain black velvet peci. A white cotton jas tutup with a high stand-up collar, five small brass buttons down the front and two lower patch pockets, over long dark trousers and black leather shoes. No jewelry; often holds a few folded sheets of paper or a pencil. Stands squarely and moves deliberately, as if weighing every word before he speaks.\nSheet layout on one page: front, side and back full-body views in a relaxed, natural standing pose; one three-quarter portrait of his face; one detail panel of the jas tutup collar, its brass buttons and the velvet peci.\nPlain light warm grey background, even soft lighting, no other people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1928 Batavia clothing of a Javanese law student: white jas tutup, long trousers, leather shoes and a black velvet peci.\nAvoid glasses, batik shirts, parang batik pattern, caricature, labels, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Agen polisi",
+      "prompt": "Character reference sheet of Agen polisi.\nA fictional Dutch agent of the colonial political intelligence service, a European man of about 35, Batavia, 1928. Tall and lean with slightly hunched shoulders; pale, faintly sunburnt skin; a long narrow face with a sharp nose, thin lips and a neat thin light-brown mustache; pale grey eyes that rarely blink; light brown hair slicked back with a side parting. A slightly rumpled single-breasted cream linen suit over a white shirt and a narrow dark tie, cream trousers and brown leather shoes; bareheaded indoors. No jewelry. Always carries a small black notebook and a short pencil. Stands very still against walls with his head tilted, watching far more than he moves.\nSheet layout on one page: front, side and back full-body views in a relaxed, natural standing pose; one three-quarter portrait of his face; one detail panel of the creased linen fabric, the narrow tie and the small black notebook with its pencil.\nPlain light warm grey background, even soft lighting, no other people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1928 Dutch East Indies tropical suit of a European civil official.\nAvoid uniforms, pith helmets, caricature, labels, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Kamu menulis lagu untuk bangsa yang belum ada. Malam ini, satu kata di dalamnya bisa membubarkan kongres ini.",
+      "prompt": "The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image.\nMedium-wide shot at eye level, night outside a single-storey Dutch colonial Indies house with a deep front veranda, simple white columns and tall wooden shuttered windows glowing with warm lamplight; a dark tropical sky and palm fronds above the roof.\nFirst-person point of view. The viewer's hands: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets. The right hand grips the leather handle of a worn dark brown violin case, lifting it slightly at chest height; the left hand hovers near the brass clasp as if checking that it is shut.\nOn the veranda steps ahead, three young Indonesian men climb toward the open door mid-stride, one glancing back nervously over his shoulder at the dark street, another tugging his plain black peci straight; they are different people from Supratman, Soegondo and the Agen polisi: varied faces and heights, aged 18 to 25, in grey or black Western jackets with ties or khaki jas tutup, plain black peci or bare heads with short side-parted hair, no round glasses, no lurik peci, no white jas tutup, no cream linen suits.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep browns, dark olive, muted cream and warm amber lamplight against deep night shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, the colonial house at Kramat 106.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:17",
+      "narasi": "Kamu datang sebagai wartawan Sin Po, membawa biolamu. Di sudut ruangan, seorang agen polisi mencatat setiap kata.",
+      "prompt": "Same character as the Supratman reference image. Same character as the Agen polisi reference image.\nMedium-wide shot from slightly behind and to the right of Supratman, inside a crowded lamp-lit meeting room at night under a dark wooden ceiling.\nSupratman steps through the doorway mid-stride, violin case in his right hand, shoulders drawn in; behind his round glasses his eyes slide warily toward the far left corner, lips pressed together.\nIn the far left corner the Agen polisi leans against the wall, pencil moving over his small black notebook, head tilted, eyes fixed on the committee table, face cold and attentive.\nRows of young delegates lean toward each other in murmured conversation, one fanning himself with a folded paper, two young women in white kebaya and plain dark kain listening among them; they are different people from Supratman, Soegondo and the Agen polisi: varied faces and heights, aged 18 to 25, in grey or black Western jackets with ties or khaki jas tutup, plain black peci or bare heads with short side-parted hair, no round glasses, no lurik peci, no white jas tutup, no cream linen suits.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep browns, dark olive, muted cream and warm amber lamplight against deep night shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying Supratman's or the Agen polisi's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:28",
+      "narasi": "Sejak kongres dibuka, kata \"merdeka\" terlarang di sini. Seorang pembicara berharap negeri ini sejajar dengan Inggris dan Belanda. Polisi langsung menghentikannya.",
+      "prompt": "Medium shot from a low angle near the front row of the lamp-lit meeting room at night, a dark wall and a hanging lamp above.\nAt a wooden lectern a young Indonesian speaker in a grey jacket, bareheaded, freezes mid-gesture with one hand still raised, mouth half open, eyes darting toward the front row.\nIn the front row an older heavyset European police commissioner of about 50, with a grey moustache, receding grey hair and a white high-collared uniform jacket with brass buttons, rises halfway from his chair with one palm thrust out to stop him, brows lowered, jaw set.\nDelegates in the nearest rows twist in their seats toward the commissioner, eyes wide, one gripping the back of the chair in front of him; the speaker, the commissioner and the delegates are different people from Supratman, Soegondo and the Agen polisi: no round glasses, no lurik peci, no white jas tutup, no cream linen suits.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep browns, dark olive, muted cream and warm amber lamplight against deep night shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:37",
+      "narasi": "Kamu membuka partitur lagumu, Indonesia, di atas pangkuan. Di refreinnya, satu kata tertulis berulang kali. Merdeka, merdeka.",
+      "prompt": "The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image.\nClose medium shot looking down from seated eye height in a dim corner of the lamp-lit meeting room, a hanging lamp glowing above.\nFirst-person point of view. The viewer's hands: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets. Both hands hold a handwritten music score on yellowed paper, unfolded at chest height; the right thumb rests beside one word in the lyric line under the notes, circled in pencil, the handwriting illegible; the left hand steadies the fold, fingers tense. The dark brown violin case from the previous scene leans against the viewer's knee.\nBeyond the paper, the backs of seated delegates' heads are soft and out of focus; they are different people from Supratman, with plain black peci or bare heads.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wood browns, paper cream and warm amber lamplight with deep black shadows, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:37–0:45",
+      "narasi": "Kamu menghadap Soegondo, ketua kongres, dan menyerahkan liriknya. Ia membaca pelan, lalu melirik barisan pejabat Belanda.",
+      "prompt": "Same character as the Supratman reference image. Same character as the Soegondo reference image.\nMedium shot over Supratman's left shoulder at eye level, at the long wooden committee table under a single hanging lamp, deep shadow all around.\nSupratman leans forward across the table holding out a sheet of lyrics with both hands, eyes anxious on Soegondo's face, lips parted as if about to explain.\nSoegondo, seated, takes the sheet in one hand and reads it, brows pulled together, the other hand paused on the tabletop; his eyes have just flicked sideways toward the officials by the wall.\nOn a bench against the side wall three older European officials in white linen suits sit watching with folded arms, one leaning to whisper to another; they are different people from the Agen polisi and Soegondo: aged 45 to 60, heavier, grey or balding, no notebooks, no thin mustaches.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wood browns, paper cream and warm amber lamplight with deep black shadows, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying Supratman's, Soegondo's or the Agen polisi's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:45–0:53",
+      "narasi": "Soegondo menggeleng. Kata itu terlalu berbahaya di depan mereka. Lagumu boleh dimainkan, tapi tidak boleh dinyanyikan.",
+      "prompt": "Same character as the Soegondo reference image. The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image.\nClose medium shot across the committee table at seated eye level, a hanging lamp above Soegondo casting warm light on his face, the room behind him sunk in shadow.\nFirst-person point of view. The viewer's hands: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets. The right hand reaches forward at chest height to take back the sheet of lyrics; the left hand rests flat on the tabletop, fingertips pressing into the wood.\nSoegondo looks straight at the viewer, his head turned slightly in a slow shake, brows drawn together in regret, mouth firm, as he holds the folded sheet out across the table.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of wood browns, paper cream and warm amber lamplight with deep black shadows, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:53–1:01",
+      "narasi": "Kamu maju, memberi hormat. Semua mata tertuju padamu. Biola di bahu, tanpa satu kata pun.",
+      "prompt": "Same character as the Supratman reference image.\nMedium-wide shot from a low angle among the front rows of the meeting room at night, one warm lamp above lighting Supratman while the rest of the room dims into shadow.\nSupratman stands at the front facing the seated delegates, caught mid-bow toward the committee table on the left, head dipped; his left hand lifts the dark brown violin toward his shoulder by its neck while the bow hangs from his right hand; his face is pale but composed, eyes lowered, lips pressed together. The open violin case lies on a chair beside him.\nIn the foreground the backs and profiles of seated delegates lean forward, some craning their necks; they are different people from Supratman, Soegondo and the Agen polisi: varied faces and heights, aged 18 to 25, in grey or black Western jackets with ties or khaki jas tutup, plain black peci or bare heads with short side-parted hair, no round glasses, no lurik peci, no white jas tutup, no cream linen suits.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of reddish violin brown, dim gold and soft cream, the rest of the room sinking into shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:01–1:10",
+      "narasi": "Kamu menarik napas. Untuk pertama kalinya, lagumu akan terdengar... Busurmu menyentuh senar.",
+      "prompt": "The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image.\nExtreme close-up from the player's own point of view, looking down along the neck of a dark brown violin held under the chin, warm lamplight glinting on the varnished wood, everything beyond it a soft blur of dark shapes.\nFirst-person point of view. The viewer's hands: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets. The left hand curls around the violin's neck, fingertips pressed on the strings; the right hand holds the bow hovering a finger's width above the strings, frozen in the instant before the first stroke.\nBeyond the violin the audience is only blurred dark shapes and a few faint peci outlines, no clear faces. Deep shadows, one warm light, utterly still.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of reddish violin brown, dim gold and soft cream, the rest of the room sinking into shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:10–1:18",
+      "narasi": "Seisi ruangan terpaku. Agen polisi berhenti menulis. Tak ada satu kata pun yang bisa ia catat.",
+      "prompt": "Same character as the Agen polisi reference image.\nMedium-wide shot at eye level from the side of the room, warm lamplight on rows of lifted faces, the left corner half in shadow.\nRows of young delegates sit motionless with faces lifted toward the unseen violinist at the front: one with shining eyes and parted lips, one with a hand pressed to his chest, a young woman in a white kebaya with her fingers frozen on the edge of her shawl; they are different people from Supratman, Soegondo and the Agen polisi: varied faces and heights, aged 18 to 25, in grey or black Western jackets with ties or khaki jas tutup, plain black peci or bare heads with short side-parted hair, no round glasses, no lurik peci, no white jas tutup, no cream linen suits.\nIn the left corner the Agen polisi stands still against the wall, pencil hovering above his open notebook, not writing; his brows rise slightly and his lips part, eyes fixed on the front of the room.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of reddish violin brown, dim gold and soft cream, the rest of the room sinking into shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying the Agen polisi's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:18–1:28",
+      "narasi": "Lalu Soegondo membacakan kertas tulisan Yamin. Satu tanah air, satu bangsa, bahasa persatuan. Kata-kata yang boleh diucapkan malam itu.",
+      "prompt": "Same character as the Soegondo reference image.\nMedium shot from a slightly low angle in front of the committee table, warm hanging lamps above and a dark ceiling.\nSoegondo stands behind the table reading aloud from a small slip of paper held in both hands, chin raised, mouth open mid-word, eyes on the paper, his face solemn and steady.\nBeside him a young Indonesian man of about 25 with thick wavy black hair, bareheaded, in a dark jacket and tie, leans in slightly to listen, hands clasped, a faint proud smile; in the foreground delegates stand in rows, some with heads bowed, one gripping his neighbour's shoulder; the young man and the delegates are different people from Soegondo and Supratman: no white jas tutup, no round glasses, no lurik peci.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of reddish violin brown, dim gold and soft cream, the rest of the room sinking into shadow, historically accurate Batavia, Dutch East Indies, 28 October 1928, inside the Indonesische Clubgebouw at Kramat 106: whitewashed walls, Dutch-era tiled floor, wooden chairs, hanging oil lamps.\nAvoid characters looking at the camera, background figures copying Soegondo's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:28–1:36",
+      "narasi": "Tak sampai dua minggu kemudian, Sin Po memuat lirik dan partitur lagumu. Kini siapa saja bisa membacanya.",
+      "prompt": "The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image.\nMedium close shot at seated eye level in a cluttered newspaper office by day: a wooden desk with a black typewriter, stacks of paper and a desk lamp, pale light through wooden shutters behind.\nFirst-person point of view. The viewer's hands: slender light brown hands with long fingers, short clean nails and faint calluses on the left fingertips from violin strings; the dark brown cotton jacket sleeve ends at the wrist with about one centimetre of white shirt cuff showing; no rings, no watch, no bracelets. Both hands hold open a large weekly newspaper at chest height, its page showing a printed music score in tiny illegible print; the right thumb presses the page flat while the left hand's fingers grip the top edge a little too tightly.\nBehind the desk an older Chinese-Indonesian editor with short grey-streaked hair and a white shirt with rolled sleeves glances up from his proofs with a small approving nod toward the newspaper; he is a different person from Supratman: older, no glasses, no peci, no jacket.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of faded bluish grey, dark brown and dull green with a small touch of amber, historically accurate Batavia newspaper office of a Malay-language Chinese-owned weekly, November 1928.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:36–1:46",
+      "narasi": "Lagumu dilarang. Polisi rahasia memeriksamu. Wajah di seberang meja terasa tak asing. Kamu bilang, kata aslinya mulia, bukan merdeka.",
+      "prompt": "Same character as the Supratman reference image. Same character as the Agen polisi reference image.\nMedium shot at eye level from beside a small wooden table in a narrow interrogation room with bare plaster walls and one bare bulb hanging overhead, hard shadows on the walls.\nSupratman sits upright on a wooden chair with his hands folded on the table, face calm but tired, eyes level on the agent, a guarded tightness at the corners of his mouth.\nThe Agen polisi, two years older and now in a dark grey suit, leans forward over an open case file with one finger pressed on a page, brows lowered, eyes narrowed at Supratman, mouth a thin line.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of faded bluish grey, dark brown and dull green with a small touch of amber, historically accurate Dutch East Indies police office, 1930.\nAvoid characters looking at the camera, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:46–1:55",
+      "narasi": "Delapan tahun kemudian, lagu barumu di radio dianggap memuji Jepang. Kamu ditangkap. Dibebaskan, tapi tubuhmu sudah lelah.",
+      "prompt": "Same character as the Supratman reference image.\nMedium-wide shot from a slightly high angle inside a simple 1930s radio studio: an old ribbon microphone on a stand, a heavy curtain along one wall, overcast daylight from a high window.\nTwo colonial policemen in dark uniforms and peaked caps lead Supratman toward the door mid-stride, one gripping his upper arm; Supratman, ten years older and thinner, his jacket hanging loosely, keeps his head up and his jaw tight, eyes turned back toward the scouts.\nBy the microphone four young Indonesian scouts in khaki shirts, shorts and dark neckerchiefs stand frozen, one clutching his scout hat, eyes wide, another half stepping forward as if to protest; the policemen and scouts are different people from Supratman: varied faces, scouts aged 14 to 20 and policemen 30 to 45, no round glasses, no lurik peci.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of faded bluish grey, dark brown and dull green with a small touch of amber, historically accurate Surabaya radio studio, August 1938.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "1:55–2:03",
+      "narasi": "Sepuluh hari kemudian, kamu wafat di Surabaya. Usiamu 35 tahun. Biolamu diam di meja. Indonesia belum merdeka.",
+      "prompt": "The viewer is Supratman: the hands and forearms in the foreground match the first-person panel of the Supratman reference image, but ten years older and thinner, with a loose white cotton shirt sleeve instead of the jacket.\nMedium shot from the point of view of someone lying on a simple bed at night in a modest room: a small wooden table by the window holds a dark brown violin, its bow and a dim oil lamp; a faded curtain stirs slightly; deep blue night outside the window.\nFirst-person point of view. The viewer's hands: thin, bony light brown hands with long fingers, prominent knuckles, short nails and faint calluses on the left fingertips; a loose plain white cotton shirt sleeve, slightly frayed at the cuff; no rings, no watch, no bracelets. The right hand reaches weakly across a faded cotton blanket toward the table, fingers half open and trembling slightly; the left hand rests on the blanket at the edge of view.\nThe room is empty, still and quiet.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of deep night blue and warm amber lamplight, historically accurate modest house interior in Surabaya, 1938.\nAvoid stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks, other people in the room.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:03–2:13",
+      "narasi": "Tepat tujuh tahun kemudian, merah putih berkibar di Pegangsaan Timur 56, dan orang-orang menyanyikan lagumu. Kali ini, dengan kata-katanya.",
+      "prompt": "Wide shot from a slightly low angle in the front yard of the house at Pegangsaan Timur 56, Jakarta, on the morning of 17 August 1945: a red and white flag flies from a simple bamboo pole planted a few steps from the terrace, warm low morning sun, long soft shadows, bright open sky above.\nA crowd of Indonesian men and women stand facing the flag, singing with heads raised: a young man in a white shirt and black peci with his fist pressed to his chest, an older woman in a kebaya with shining eyes, a boy on his father's shoulders pointing up at the flag, a few people wiping their eyes.\nThe crowd are different people from Supratman: varied ages and faces, no round glasses, no lurik peci.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, palette of bright cream, warm golden sunlight and the red and white of the flag, historically accurate Jakarta, 17 August 1945.\nAvoid characters looking at the camera, background figures copying Supratman's face or outfit, stiff symmetrical poses, identical faces, parang batik pattern, batik shirts on men, caricature, modern objects, neon colors, extra or malformed hands and fingers, text, watermarks, recognizable portraits of Soekarno or Hatta.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "- Babak 1: tertahan dan tegang, tempo sedang, berbisik pada kalimat kedua adegan 1.\n- Babak 2: gelisah dan sedikit lebih pelan; beri jeda sebelum \"Merdeka, merdeka.\"\n- Babak 3: hening dan khidmat; adegan 8 berbisik nyaris tanpa suara; adegan 10 tenang dan tegas.\n- Babak 4: tempo sedikit lebih cepat dan dingin; \"Kamu ditangkap.\" pendek dan tajam.\n- Babak 5: pelan dan getir; kalimat terakhir berbisik.\n\nPilihan voice paling menentukan hasil: pilih voice pria yang hangat dan sanggup berbisik, karena tag tidak bisa memaksa voice yang datar menjadi ekspresif. Bila tag kurang terasa, coba Stability Creative untuk babak 3 dan 5 saja.",
+    "arahanBabak": {
+      "1": "tertahan dan tegang, tempo sedang, berbisik pada kalimat kedua adegan 1.",
+      "2": "gelisah dan sedikit lebih pelan; beri jeda sebelum \"Merdeka, merdeka.\"",
+      "3": "hening dan khidmat; adegan 8 berbisik nyaris tanpa suara; adegan 10 tenang dan tegas.",
+      "4": "tempo sedikit lebih cepat dan dingin; \"Kamu ditangkap.\" pendek dan tajam.",
+      "5": "pelan dan getir; kalimat terakhir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu menulis lagu untuk bangsa yang belum ada. [whispers] Malam ini, satu kata di dalamnya bisa membubarkan kongres ini...\n\n[calm] Kamu datang sebagai wartawan Sin Po, membawa biolamu. [serious] Di sudut ruangan, seorang agen polisi mencatat setiap kata...\n\n[tense] Sejak kongres dibuka, kata \"merdeka\" terlarang di sini. [serious] Seorang pembicara berharap negeri ini sejajar dengan Inggris dan Belanda. [tense] Polisi langsung menghentikannya...",
+    "2": "[nervous] Kamu membuka partitur lagumu, Indonesia, di atas pangkuan. [whispers] Di refreinnya, satu kata tertulis berulang kali. [tense] Merdeka, merdeka...\n\n[nervous] Kamu menghadap Soegondo, ketua kongres, dan menyerahkan liriknya. [serious] Ia membaca pelan, lalu melirik barisan pejabat Belanda...\n\n[serious] Soegondo menggeleng. [resigned] Kata itu terlalu berbahaya di depan mereka. [serious] Lagumu boleh dimainkan, tapi tidak boleh dinyanyikan...",
+    "3": "[calm] Kamu maju, memberi hormat. [serious] Semua mata tertuju padamu. [whispers] Biola di bahu, tanpa satu kata pun...\n\n[whispers] Kamu menarik napas. [whispers] Untuk pertama kalinya, lagumu akan terdengar... [whispers] Busurmu menyentuh senar...\n\n[calm] Seisi ruangan terpaku. [curious] Agen polisi berhenti menulis. [whispers] Tak ada satu kata pun yang bisa ia catat...\n\n[serious] Lalu Soegondo membacakan kertas tulisan Yamin. [calm] Satu tanah air, satu bangsa, bahasa persatuan. [calm] Kata-kata yang boleh diucapkan malam itu...",
+    "4": "[excited] Tak sampai dua minggu kemudian, Sin Po memuat lirik dan partitur lagumu. [calm] Kini siapa saja bisa membacanya...\n\n[tense] Lagumu dilarang. [tense] Polisi rahasia memeriksamu. [serious] Wajah di seberang meja terasa tak asing. [calm] Kamu bilang, kata aslinya mulia, bukan merdeka...\n\n[sad] Delapan tahun kemudian, lagu barumu di radio dianggap memuji Jepang. [tense] Kamu ditangkap. [resigned] Dibebaskan, tapi tubuhmu sudah lelah...",
+    "5": "[sad] Sepuluh hari kemudian, kamu wafat di Surabaya. [sad] Usiamu 35 tahun. [sad] Biolamu diam di meja. [sad] [whispers] Indonesia belum merdeka...\n\n[calm] Tepat tujuh tahun kemudian, merah putih berkibar di Pegangsaan Timur 56, dan orang-orang menyanyikan lagumu. [sad] [whispers] Kali ini, dengan kata-katanya..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Ruang yang diawasi",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:00",
+      "suasana": "Tegang tertahan, malam kolonial yang diawasi",
+      "style": "Dark cinematic underscore, 1920s Dutch East Indies colonial night atmosphere, low sustained cello drone, soft muted gamelan metallophone hits, sparse pizzicato strings like cautious footsteps, restrained tension, starts sparse and slowly builds unease, about 60 seconds long (1:00), with a clear ending, 70 BPM, no vocals, instrumental",
+      "exclude": "vocals, choir, march, anthem, electronic drums, EDM, bright pop"
+    },
+    {
+      "nomor": 2,
+      "nama": "Busur di atas senar",
+      "babakAwal": 3,
+      "babakAkhir": 3,
+      "durasiTarget": "0:40",
+      "suasana": "Khidmat dan rapuh, turun ke hening di adegan 8",
+      "style": "Minimal solemn cinematic piece, warm solo cello and soft sparse piano notes with long pauses, reverent and fragile, very quiet, fades almost to silence, about 40 seconds long (0:40), with a clear ending, 60 BPM, no vocals, instrumental",
+      "exclude": "vocals, choir, march, anthem, brass fanfare, drums, violin solo"
+    },
+    {
+      "nomor": 3,
+      "nama": "Lagu yang diburu",
+      "babakAwal": 4,
+      "babakAkhir": 5,
+      "durasiTarget": "0:50",
+      "suasana": "Dingin dan getir, lalu hangat dan lega di adegan 15",
+      "style": "Melancholic cinematic score, low strings and distant gamelan bells, cold and restrained at first, then slowly swelling warmth with soft strings and hopeful piano in the final section, about 50 seconds long (0:50), with a clear ending, 68 BPM, no vocals, instrumental",
+      "exclude": "vocals, choir, march, anthem, brass fanfare, electronic beats"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Jangkrik malam, riuh pelan dari dalam gedung",
+      "kataKunci": "night crickets, muffled crowd indoors",
+      "prompt": "Night crickets outside a colonial house, muffled crowd murmuring indoors, distant"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Dengung percakapan, kursi berderit, pena menggores kertas",
+      "kataKunci": "room murmur, pencil writing",
+      "prompt": "Indoor meeting room murmur, wooden chairs creaking, pencil scratching on paper close up"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Ketukan keras di meja lalu hening",
+      "kataKunci": "table knock, sudden silence",
+      "prompt": "Single hard knock on a wooden table, crowd murmur cutting to sudden silence"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Kertas partitur dibuka",
+      "kataKunci": "paper unfolding",
+      "prompt": "Old paper sheet unfolding slowly, close, quiet room"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Langkah di lantai kayu, kertas berpindah tangan",
+      "kataKunci": "footsteps wooden floor, paper handover",
+      "prompt": "Footsteps on an old wooden floor, a sheet of paper handed over, quiet"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Desah pelan, kertas dilipat",
+      "kataKunci": "soft sigh, paper fold",
+      "prompt": "Soft sigh, paper folded twice"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Langkah ke depan, bisik-bisik mereda",
+      "kataKunci": "footsteps, whispers fade",
+      "prompt": "Three footsteps on a wooden floor, crowd whispers fading to silence"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Satu gesekan biola sangat lembut lalu sunyi (sulit; cadangan: hening dari ujung cue 2)",
+      "kataKunci": "violin bow touch, single soft tone",
+      "prompt": "Single very soft violin bow touch on one string, one short quiet tone, no melody, then complete silence"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Detak jam dinding dalam sunyi",
+      "kataKunci": "wall clock ticking",
+      "prompt": "Old wall clock ticking in a silent room"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Pembacaan bergema samar, tepuk tangan tertahan",
+      "kataKunci": "distant speech reverb, restrained applause",
+      "prompt": "Distant indistinct man reading aloud in a hall with reverb, followed by restrained applause"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Mesin cetak berderak, koran dibalik (sulit; cadangan: awal cue 3)",
+      "kataKunci": "printing press, newspaper page turn",
+      "prompt": "Vintage printing press clattering, then a newspaper page turned close"
+    },
+    {
+      "nomor": 12,
+      "adegan": 12,
+      "bunyi": "Lampu berdengung, kursi diseret",
+      "kataKunci": "light bulb hum, chair scrape",
+      "prompt": "Electric bulb humming in a small room, wooden chair scraping on the floor"
+    },
+    {
+      "nomor": 13,
+      "adegan": 13,
+      "bunyi": "Statis radio, pintu dibuka paksa",
+      "kataKunci": "radio static, door forced open",
+      "prompt": "Old radio static crackle, a door forced open, hurried footsteps"
+    },
+    {
+      "nomor": 14,
+      "adegan": 14,
+      "bunyi": "Detak jam pelan, angin malam di jendela",
+      "kataKunci": "clock tick, night wind",
+      "prompt": "Slow clock ticking, soft night wind through a window curtain"
+    },
+    {
+      "nomor": 15,
+      "adegan": 15,
+      "bunyi": "Angin pagi, bendera berkibar, riuh orang banyak",
+      "kataKunci": "flag flapping, crowd ambience",
+      "prompt": "Morning breeze, cloth flag flapping, large outdoor crowd ambience, no music"
+    }
+  ],
+  "adeganHening": [
+    8
+  ],
+  "ulikan": {
+    "teks": "Biola yang dimainkan malam itu kini disimpan Museum Sumpah Pemuda, di Kramat 106.",
+    "sumber": "Museum Sumpah Pemuda",
+    "kata": 13,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu W.R. Supratman di Malam Sumpah Pemuda",
+      "catatan": "Alternatif judul: POV: Kamu W.R. Supratman, Lagumu Tak Boleh Dinyanyikan / POV: Kamu W.R. Supratman, 28 Oktober 1928\n**Judul di layar sampul:** POV: Kamu Supratman di Sumpah Pemuda",
+      "caption": "Malam itu, lagumu hanya boleh terdengar tanpa kata. Kenapa?\n\n28 Oktober 1928, Kramat 106, Batavia. Di penutupan Kongres Pemuda II, W.R. Supratman memainkan lagunya dengan biola, tanpa lirik, di depan polisi dan pejabat Belanda. Ikrar yang dibacakan malam itu pun belum bernama Sumpah Pemuda; dulu disebut Putusan Kongres.\n\nKalau kamu di posisinya, kamu tetap bermain tanpa kata atau nekat menyanyikan liriknya?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Tirto, detikNews.\n\n#UlikSilam #sumpahpemuda #sejarahindonesia #wrsupratman #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu W.R. Supratman di Malam Sumpah Pemuda",
+      "catatan": "",
+      "caption": "Satu kata di lagumu bisa membubarkan Kongres Pemuda. Malam ini kamu harus memilih.\n\n28 Oktober 1928, Kramat 106, Batavia. W.R. Supratman memainkan lagunya dengan biola, tanpa lirik, di bawah pengawasan polisi Belanda. Ikrar malam itu pun belum bernama Sumpah Pemuda; dulu disebut Putusan Kongres.\n\nKalau kamu di posisinya, kamu tetap bermain tanpa kata atau nekat menyanyikan liriknya?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Tirto, detikNews.\n\n#UlikSilam #sumpahpemuda #sejarahindonesia #wrsupratman #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 15,
+    "jumlahBabak": 5,
+    "totalKata": 256,
+    "kataPerBabak": {
+      "1": 56,
+      "2": 49,
+      "3": 62,
+      "4": 53,
+      "5": 36
+    },
+    "karakterPerBabak": {
+      "1": 459,
+      "2": 457,
+      "3": 541,
+      "4": 448,
+      "5": 316
+    },
+    "jedaBunyi": 1,
+    "perkiraanDetik130": {
+      "narasi": 133.7,
+      "denganMerek": 138.7
+    },
+    "perkiraanDetik135": {
+      "narasi": 129.3,
+      "denganMerek": 134.3
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

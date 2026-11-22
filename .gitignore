@@ -1,0 +1,39 @@
+# Ketergantungan dan hasil build
+node_modules/
+out/
+dist/
+.remotion/
+
+# Setelan lokal per device
+.env
+
+# Aset berat: disimpan di cloud drive ($ASET_DIR), bukan di repo
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.tif
+*.tiff
+*.psd
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.webm
+*.zip
+
+# Kecuali acuan render dan logo merek yang memang kecil
+!merek/**/acuan/*.png
+
+# Sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Berkas sementara yang menunggu dihapus manual
+_to_delete/

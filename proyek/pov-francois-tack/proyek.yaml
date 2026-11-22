@@ -1,0 +1,21 @@
+judul: "POV: Kamu Kapten VOC yang Tinggal Satu Tugas Lagi Sebelum Jadi Gubernur Malaka"
+slug: pov-francois-tack
+format: POV
+lapisan: ["Sejarah"]
+latar: "Kartasura, masa VOC"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v3 · 2026-10-17"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["François Tack", "Amangkurat II", "Untung Surapati"]
+aset: {ilustrasi: 16, narasi: 16, musik: 3, sfx: 0}
+render: "out/Video.mp4"
+tanggal_render: 2026-10-18
+tautan: {"shorts": "https://youtube.com/shorts/A_GVlg5TNFk", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7697841967912226055"}
+arsip_lama: "pov/pov-francois-tack"
+catatan: ""
+metrik_shorts: {"views": 385, "jam_tonton": 4.5, "rata_tonton_detik": 42.0, "durasi_detik": 179, "persen_ditonton": 23.5, "subscriber": 2, "impresi": 1352, "ctr": 1.18, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-18", "tiktok": "2026-10-18"}
+metrik_tiktok: {"views": 934, "suka": 26, "komentar": 1, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-22"}

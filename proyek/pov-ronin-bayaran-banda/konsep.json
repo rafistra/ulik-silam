@@ -1,0 +1,687 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-30T08:20:25.654Z",
+  "judulDokumen": "Ronin Bayaran VOC di Banda",
+  "judul": "POV: Kamu Ronin Bayaran VOC di Banda, 1621",
+  "slug": "pov-ronin-bayaran-banda",
+  "versi": "v1 · 2026-10-27",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Kepulauan Banda, masa VOC",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Ronin fiktif dari Jepang, sekitar 30 tahun, samurai tanpa tuan yang menandatangani kontrak VOC di Hirado; satu dari tentara bayaran dalam armada Coen",
+  "ringkasan": {
+    "Judul": "POV: Kamu Ronin Bayaran VOC di Banda, 1621",
+    "Slug": "pov-ronin-bayaran-banda",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:40 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Ronin fiktif dari Jepang, sekitar 30 tahun, samurai tanpa tuan yang menandatangani kontrak VOC di Hirado; satu dari tentara bayaran dalam armada Coen",
+    "Jumlah ilustrasi": "20 (17 adegan + 3 lembar karakter perkiraan: Ronin, Orang Kaya Tua, Ronin Tua); diperbarui di 2B",
+    "Lapisan": "Sejarah",
+    "Latar": "Kepulauan Banda, masa VOC",
+    "Premis": "Pedang sewaan yang datang demi upah, lalu dipaksa menanggung bagian paling kelam dari perebutan pala.",
+    "Benang merah": "Bau pala: tercium dari laut di adegan pertama, harum di telapak tangan sesudah eksekusi, dan tetap berlayar ke Eropa di akhir.",
+    "Asumsi": "\"Kamu\" fiktif; durasi 3:00; alur hitung mundur Februari sampai Mei 1621; jumlah tentara Jepang dan jumlah orang kaya yang dieksekusi tidak disebut angka pasti karena sumber berbeda.",
+    "Versi": "v1 · 2026-10-27"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Laut yang berbau pala",
+      "suasana": "Tegang menunggu, pahit",
+      "palet": "Teal laut gelap, oranye senja, emas lentera",
+      "cahaya": "Matahari rendah dan satu lentera kapal"
+    },
+    {
+      "babak": 2,
+      "nama": "Lonthor jatuh",
+      "suasana": "Keras, kacau",
+      "palet": "Hijau hutan pekat, cokelat tanah merah, putih asap mesiu",
+      "cahaya": "Siang berkabut asap"
+    },
+    {
+      "babak": 3,
+      "nama": "Damai yang rapuh",
+      "suasana": "Mencekam, sesak",
+      "palet": "Cokelat batu karang, hitam, oranye obor",
+      "cahaya": "Malam, obor berkedip"
+    },
+    {
+      "babak": 4,
+      "nama": "Di luar Benteng Nassau",
+      "suasana": "Sunyi berat, lalu kosong",
+      "palet": "Abu-abu pucat, hijau bambu, merah tua",
+      "cahaya": "Pagi mendung datar; sore keemasan di adegan 13"
+    },
+    {
+      "babak": 5,
+      "nama": "Sesudahnya",
+      "suasana": "Duka, hampa",
+      "palet": "Merah api, abu, ungu senja",
+      "cahaya": "Api dan senja; satu lentera di adegan 15"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Laut yang berbau pala",
+    "2": "Lonthor jatuh",
+    "3": "Damai yang rapuh",
+    "4": "Di luar Benteng Nassau",
+    "5": "Sesudahnya"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Laut yang berbau pala",
+      "waktu": "0:02–0:14",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Senja di geladak kapal VOC; di kejauhan kerucut Gunung Api dan Benteng Nassau di Neira. Tangan kanan \"kamu\" bertumpu pada gagang pedang yang terbungkus kain, tangan kiri mencengkeram tali kapal. Satu lentera menyala.",
+      "narasiSuara": "[tense] Laut di depanmu berbau pala. [calm] Kamu ronin, samurai tanpa tuan, dan pedangmu kini dibayar VOC. [serious] Armada Gubernur Jenderal Coen sudah tiba di Banda.",
+      "narasi": "Laut di depanmu berbau pala. Kamu ronin, samurai tanpa tuan, dan pedangmu kini dibayar VOC. Armada Gubernur Jenderal Coen sudah tiba di Banda.",
+      "teksLayar": [
+        "Laut Banda, Februari 1621."
+      ],
+      "suara": "Ombak, derit tiang kapal",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Laut yang berbau pala",
+      "waktu": "0:14–0:25",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Di geladak bawah, ronin tua berjanggut kelabu mengasah pedangnya sambil tersenyum tipis; di sampingnya gulungan kontrak bertulisan Belanda. Prajurit Belanda lewat tanpa menoleh.",
+      "narasiSuara": "[calm] Di Jepang, perang sudah usai, dan orang sepertimu tak lagi dibutuhkan. [serious] Di Hirado, kamu menandatangani kontrak VOC: patuh pada perwira Belanda. [sarcastic] Setidaknya mereka membayar.",
+      "narasi": "Di Jepang, perang sudah usai, dan orang sepertimu tak lagi dibutuhkan. Di Hirado, kamu menandatangani kontrak VOC: patuh pada perwira Belanda. Setidaknya mereka membayar.",
+      "teksLayar": [],
+      "suara": "Batu asah, tawa pendek",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Laut yang berbau pala",
+      "waktu": "0:25–0:34",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kebun pala di lereng: buah terbelah memperlihatkan biji cokelat berbalut fuli merah; perempuan Banda memetik dengan galah, menoleh curiga ke arah kapal-kapal di teluk.",
+      "narasiSuara": "[curious] Pulau-pulau ini kecil. [serious] Tapi pala dan fulinya dicari sampai Eropa. [tense] Dan VOC ingin semuanya, hanya untuk mereka.",
+      "narasi": "Pulau-pulau ini kecil. Tapi pala dan fulinya dicari sampai Eropa. Dan VOC ingin semuanya, hanya untuk mereka.",
+      "teksLayar": [],
+      "suara": "Angin di dedaunan, burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Lonthor jatuh",
+      "waktu": "0:34–0:44",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Lereng terjal Lonthor; tangan kanan \"kamu\" menghunus pedang, tangan kiri meraih akar di tebing. Di atas, pagar kayu dan batu benteng orang Banda di balik pepohonan.",
+      "narasiSuara": "[tense] Kalian mendarat di Lonthor, pulau terbesar. [nervous] Orang Banda bertahan di benteng-benteng perbukitan. [tense] Kamu mendaki di barisan depan, pedang terhunus.",
+      "narasi": "Kalian mendarat di Lonthor, pulau terbesar. Orang Banda bertahan di benteng-benteng perbukitan. Kamu mendaki di barisan depan, pedang terhunus.",
+      "teksLayar": [
+        "Lonthor, Maret 1621."
+      ],
+      "suara": "Napas berat, teriakan jauh, letusan senapan",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Lonthor jatuh",
+      "waktu": "0:44–0:52",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Kampung di pesisir Lonthor kosong; rumah panggung beratap rumbia, tungku masih berasap; prajurit VOC menurunkan bendera dan menumpuk perbekalan. Di bukit, siluet penduduk menjauh.",
+      "narasiSuara": "[serious] Dalam beberapa hari, pulau itu jatuh. [sad] Penduduk lari ke hutan dan perbukitan. [calm] Kampung-kampung dijadikan barak.",
+      "narasi": "Dalam beberapa hari, pulau itu jatuh. Penduduk lari ke hutan dan perbukitan. Kampung-kampung dijadikan barak.",
+      "teksLayar": [],
+      "suara": "Ayam, langkah sepatu bot",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Lonthor jatuh",
+      "waktu": "0:52–1:00",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Para orang kaya berkain dan berdestar menyerahkan tombak dan keris di hadapan perwira Belanda; satu orang kaya tua berdiri paling tegak, wajahnya tenang. Coen terlihat jauh di latar, di bawah tenda.",
+      "narasiSuara": "[calm] Para orang kaya datang dan menyerah. [serious] Mereka menerima syarat VOC: senjata diserahkan, pala dijual hanya kepada Belanda.",
+      "narasi": "Para orang kaya datang dan menyerah. Mereka menerima syarat VOC: senjata diserahkan, pala dijual hanya kepada Belanda.",
+      "teksLayar": [],
+      "suara": "Senjata diletakkan di tanah",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Damai yang rapuh",
+      "waktu": "1:00–1:08",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Malam di dalam benteng; prajurit Belanda menggiring orang kaya yang tangannya terikat; obor menerangi dinding batu.",
+      "narasiSuara": "[tense] Lalu tersiar tuduhan. [serious] Katanya, para orang kaya bersekongkol melawan Belanda. [tense] Satu per satu mereka ditahan.",
+      "narasi": "Lalu tersiar tuduhan. Katanya, para orang kaya bersekongkol melawan Belanda. Satu per satu mereka ditahan.",
+      "teksLayar": [
+        "April 1621."
+      ],
+      "suara": "Rantai, pintu kayu dibanting",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Damai yang rapuh",
+      "waktu": "1:08–1:18",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari ambang pintu yang terbuka setengah, terlihat ruang tahanan bercahaya obor: seorang orang kaya terikat di tiang, punggungnya bergaris luka merah; seorang interogator Belanda mengangkat cambuk, juru tulis mencatat di meja. Tangan \"kamu\" mencengkeram gagang pedang bersarung di tepi bingkai.",
+      "narasiSuara": "[nervous] Kamu berjaga di luar ruang tahanan. [whispers] Pintu terbuka sesaat, dan kamu melihat bagaimana pengakuan itu didapat. [sad] Kamu tidak memalingkan muka.",
+      "narasi": "Kamu berjaga di luar ruang tahanan. Pintu terbuka sesaat, dan kamu melihat bagaimana pengakuan itu didapat. Kamu tidak memalingkan muka.",
+      "teksLayar": [],
+      "suara": "Lecutan cambuk, erangan tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Damai yang rapuh",
+      "waktu": "1:18–1:28",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Orang kaya tua duduk di balik jeruji kayu, menatap lurus ke \"kamu\"; tidak ada air mata, hanya pertanyaan.",
+      "narasiSuara": "[calm] Seorang orang kaya tua menatapmu dari balik jeruji. [serious] Ia tidak memohon. [curious] Matanya hanya bertanya: kenapa kamu ada di sini?",
+      "narasi": "Seorang orang kaya tua menatapmu dari balik jeruji. Ia tidak memohon. Matanya hanya bertanya: kenapa kamu ada di sini?",
+      "teksLayar": [],
+      "suara": "Hening, tetesan air",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Di luar Benteng Nassau",
+      "waktu": "1:28–1:36",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Halaman di luar Benteng Nassau, pagi; seorang perwira Belanda menunjuk ke arah \"kamu\" dan beberapa orang Jepang; ronin tua sudah melangkah maju. Tangan \"kamu\" mengencang di gagang pedang.",
+      "narasiSuara": "[serious] Di luar Benteng Nassau, perintah itu sampai kepadamu. [tense] Orang-orang Jepang yang akan menjadi algojo. [nervous] Termasuk kamu.",
+      "narasi": "Di luar Benteng Nassau, perintah itu sampai kepadamu. Orang-orang Jepang yang akan menjadi algojo. Termasuk kamu.",
+      "teksLayar": [
+        "Benteng Nassau, 8 Mei 1621."
+      ],
+      "suara": "Genderang lambat",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Di luar Benteng Nassau",
+      "waktu": "1:36–1:45",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Pagar bambu tinggi; para orang kaya duduk bersila di dalamnya, sebagian berdoa. Orang kaya tua duduk paling depan, punggung tegak, mata terpejam. Prajurit dan penduduk yang ditawan menonton dari luar.",
+      "narasiSuara": "[calm] Puluhan orang kaya digiring ke dalam pagar bambu. [sad] Orang tua itu duduk paling depan, punggungnya tegak.",
+      "narasi": "Puluhan orang kaya digiring ke dalam pagar bambu. Orang tua itu duduk paling depan, punggungnya tegak.",
+      "teksLayar": [],
+      "suara": "Doa lirih, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Di luar Benteng Nassau",
+      "waktu": "1:45–1:53",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Dari sudut pandang \"kamu\": kedua tangan di gagang, pedang terangkat tinggi; orang kaya tua berlutut di bawah, menatap ke atas. Potongan cepat ke sebaliknya: bilah turun, percikan merah datar memenuhi separuh bingkai, lalu tanah berbecak merah di dalam pagar bambu.",
+      "narasiSuara": "[whispers] Orang tua itu menatapmu sekali lagi. [whispers] Kamu menarik napas... [sad] lalu mengangkat pedangmu.",
+      "narasi": "Orang tua itu menatapmu sekali lagi. Kamu menarik napas... lalu mengangkat pedangmu.",
+      "teksLayar": [],
+      "suara": "Hening total",
+      "hening": true,
+      "epilog": false,
+      "kata": 12
+    },
+    {
+      "nomor": 13,
+      "babak": 4,
+      "namaBabak": "Di luar Benteng Nassau",
+      "waktu": "1:53–2:02",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Tepi pantai Neira saat sore; tangan \"kamu\" membasuh bilah pedang berlumur darah di air laut; air di sekitarnya memerah lalu menyebar. Lengan baju \"kamu\" juga berbercak merah.",
+      "narasiSuara": "[resigned] Sore itu, kamu membasuh pedang di tepi laut. [sad] Kamu menggosoknya lama sekali. [sad] Airnya tak juga terasa bersih.",
+      "narasi": "Sore itu, kamu membasuh pedang di tepi laut. Kamu menggosoknya lama sekali. Airnya tak juga terasa bersih.",
+      "teksLayar": [],
+      "suara": "Ombak kecil",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Sesudahnya",
+      "waktu": "2:02–2:10",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Kampung di lereng Lonthor terbakar; prajurit VOC menyulut atap rumbia dengan obor, tubuh-tubuh tergeletak di jalan kampung. Di tebing tinggi di latar, seorang ibu menggendong anak melangkah ke tepi; yang lain sudah jatuh.",
+      "narasiSuara": "[sad] Minggu-minggu berikutnya, kampung-kampung dibakar. [whispers] Ada yang memilih kelaparan di hutan. [sad] Ada yang melompat dari tebing.",
+      "narasi": "Minggu-minggu berikutnya, kampung-kampung dibakar. Ada yang memilih kelaparan di hutan. Ada yang melompat dari tebing.",
+      "teksLayar": [
+        "Kepulauan Banda, 1621."
+      ],
+      "suara": "Kayu terbakar dari jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Sesudahnya",
+      "waktu": "2:10–2:18",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Malam di barak; tangan kiri \"kamu\" menggenggam kantong upah berisi koin perak, tangan kanan terbuka dengan sebutir pala di telapaknya. Lentera redup.",
+      "narasiSuara": "[resigned] Upahmu dibayar penuh, seperti janji orang Belanda. [sad] Di telapak tanganmu, sebutir pala masih harum. [whispers] Harumnya tak berubah.",
+      "narasi": "Upahmu dibayar penuh, seperti janji orang Belanda. Di telapak tanganmu, sebutir pala masih harum. Harumnya tak berubah.",
+      "teksLayar": [],
+      "suara": "Koin bergemerincing",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Sesudahnya",
+      "waktu": "2:18–2:30",
+      "durasiCadangan": 12,
+      "bidikan": "B",
+      "visual": "Kebun pala yang sama, kini dikerjakan orang-orang dari negeri lain di bawah pengawasan mandor VOC; rumah-rumah orang Banda kosong di latar.",
+      "narasiSuara": "[serious] Dari sekitar lima belas ribu orang Banda, kira-kira seribu yang bertahan. [calm] Kebun pala jatuh ke tangan orang VOC, digarap budak dari negeri lain.",
+      "narasi": "Dari sekitar lima belas ribu orang Banda, kira-kira seribu yang bertahan. Kebun pala jatuh ke tangan orang VOC, digarap budak dari negeri lain.",
+      "teksLayar": [],
+      "suara": "Angin, langkah berat",
+      "hening": false,
+      "epilog": true,
+      "kata": 23
+    },
+    {
+      "nomor": 17,
+      "babak": 5,
+      "namaBabak": "Sesudahnya",
+      "waktu": "2:30–2:38",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Geladak kapal yang berangkat saat senja; tangan \"kamu\" bertumpu pada pagar kapal, karung-karung pala dimuat di belakang. Banda mengecil di kejauhan dengan satu lampu benteng.",
+      "narasiSuara": "[sad] Pala Banda tetap berlayar ke Eropa, seharum dulu. [whispers] Kamu hanya menjalankan perintah. [calm] Apakah itu cukup?",
+      "narasi": "Pala Banda tetap berlayar ke Eropa, seharum dulu. Kamu hanya menjalankan perintah. Apakah itu cukup?",
+      "teksLayar": [],
+      "suara": "Ombak, derit tiang kapal (menggemakan adegan 1)",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Ronin",
+      "prompt": "Character reference sheet of Ronin. Ronin, a Japanese masterless samurai about thirty years old, hired as a VOC mercenary in 1621. Lean and wiry, medium height, sun-browned light skin, narrow face with sharp cheekbones, watchful dark eyes under straight heavy brows, thin lips, a few days of black stubble. Black hair in a rough topknot with the crown grown out unshaven and loose strands at the temples. A faded indigo cotton kosode with narrow sleeves and frayed cuffs, closed left over right, under a dark grey-brown hemp hakama tied at the waist with a plain black sash; shins wrapped in off-white cloth, straw waraji sandals. A katana and a shorter wakizashi in worn black lacquered scabbards thrust through the sash, plain round iron guards, dark cord-wrapped hilts. His hands are lean and sun-browned, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. Carries himself quietly, weight often on his back foot, eyes always measuring the people around him.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the kosode cuffs, sash and sword fittings, and one first-person panel showing only his two hands and forearms raised to chest height from the bottom of the frame as the wearer would see them.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early 17th-century Japanese commoner-samurai clothing.\nAvoid full samurai armor, bright silk kimono, katana worn on the back, ninja outfits, anime style, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Ronin Tua",
+      "prompt": "Character reference sheet of Ronin Tua. Ronin Tua, a Japanese masterless samurai about fifty-five years old, a veteran mercenary in VOC service in 1621. Short and stocky with broad shoulders, weathered tan skin, deep crow's-feet, a flattened nose, a grey beard trimmed close, a missing upper front tooth that shows when he smiles. Grey hair in a thin topknot, crown grown out. A mended brown hemp kosode with darker patches on the shoulders, sleeves tied back with a cord, olive-drab hakama, bare shins, worn straw waraji sandals. A long katana with a faded red-brown cord-wrapped scabbard and a small whetstone hanging from his sash in a cloth pouch. Relaxed, slouching posture of a man who has stopped asking questions, easy half-smile.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the patched kosode, scabbard wrap and whetstone pouch.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early 17th-century Japanese commoner-samurai clothing.\nAvoid full samurai armor, bright silk kimono, katana worn on the back, anime style, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Orang Kaya Tua",
+      "prompt": "Character reference sheet of Orang Kaya Tua. Orang Kaya Tua, an elderly Bandanese village leader (orang kaya) about sixty-five, a Muslim nutmeg trader-noble of the Banda Islands in 1621. Lean, dark brown skin, high cheekbones, deep-set calm black eyes, a short white beard and white moustache, lips faintly reddened by betel chewing. A plain white cotton head cloth wrapped close around the head. A loose long-sleeved off-white cotton tunic reaching mid-thigh, collarless with a short front slit; a wrapped ankle-length sarong of Indian trade cotton in a madder-red and indigo checked pattern; a dark cloth sash at the waist; barefoot. A single plain gold ring on the right hand and a string of dark wooden prayer beads. Sits and stands very upright, hands still, gaze steady and unhurried.\nFront, side and back full-body views in a relaxed natural standing pose, one three-quarter face portrait, one detail panel of the checked sarong pattern, head cloth, ring and prayer beads.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate early 17th-century Banda Islands Muslim trader dress with Indian trade cotton.\nAvoid batik patterns, kebaya, songkok or peci cap, modern clothing, Middle Eastern robes, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:02–0:14",
+      "narasi": "Laut di depanmu berbau pala. Kamu ronin, samurai tanpa tuan, dan pedangmu kini dibayar VOC. Armada Gubernur Jenderal Coen sudah tiba di Banda.",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium shot from the deck of a VOC sailing ship at sunset, looking over the bow rail toward the Banda Islands: the steep volcanic cone of Gunung Api and, low on the shore of Banda Neira, the stone walls of Fort Nassau flying an orange-white-blue Dutch flag; several other tall ships anchored in the bay.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. The right hand rests on the hilt of a katana whose scabbard is wrapped in a strip of cloth; the left hand grips a tarred rope of the rigging. A single hanging ship lantern glows nearby.\nTwo Dutch sailors further along the rail haul on a line, one bearded and heavy, one young and thin in a knitted cap, looking at the islands, not at the viewer.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teal sea, burnt orange sunset and lantern gold with deep shadows, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:14–0:25",
+      "narasi": "Di Jepang, perang sudah usai, dan orang sepertimu tak lagi dibutuhkan. Di Hirado, kamu menandatangani kontrak VOC: patuh pada perwira Belanda. Setidaknya mereka membayar.",
+      "prompt": "Same character as the Ronin Tua reference image.\nMedium shot at eye level in the cramped lantern-lit lower deck of a VOC ship, hammocks and barrels around.\nRonin Tua sits cross-legged sharpening his katana on a whetstone, mid-stroke, head tilted, a thin amused half-smile, eyes on the blade. Beside him on a barrel lies an unrolled paper contract written in Dutch with a red wax seal.\nA Dutch soldier with a morion helmet tucked under his arm walks past in the background without glancing at him; he is a different person from Ronin Tua: pale, clean-shaven, ginger-haired, in a buff leather coat. Three other Japanese mercenaries of different ages and builds rest on hammocks, one young and round-faced, one tall and gaunt, all in plain dull-colored kosode.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teal sea, burnt orange sunset and lantern gold with deep shadows, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:25–0:34",
+      "narasi": "Pulau-pulau ini kecil. Tapi pala dan fulinya dicari sampai Eropa. Dan VOC ingin semuanya, hanya untuk mereka.",
+      "prompt": "Medium-wide shot from a slightly low angle on a steep green hillside nutmeg grove on Banda, the bay with distant anchored Dutch ships visible below between the trees, late afternoon.\nA Bandanese woman in her thirties, wrapped in a plain dark-brown cotton sarong tied above the chest and a loose faded blue upper cloth, hair in a low bun, reaches up with a long bamboo pole to pluck a nutmeg fruit; she pauses mid-motion and turns her head sharply toward the ships, brows drawn together, lips tight. In the foreground a split yellow nutmeg fruit shows the glossy brown seed wrapped in bright red lacy mace.\nA young boy beside her clutches a woven basket of nutmeg fruit and stares at the ships with wide, curious eyes.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark teal sea, burnt orange sunset and lantern gold with deep shadows, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:34–0:44",
+      "narasi": "Kalian mendarat di Lonthor, pulau terbesar. Orang Banda bertahan di benteng-benteng perbukitan. Kamu mendaki di barisan depan, pedang terhunus.",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nLow-angle medium shot climbing a steep jungle slope on Lonthor island at midday; above, through the trees and drifting gunpowder smoke, a Bandanese hill stronghold of stacked coral stone and sharpened wooden stakes.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. The right hand holds the drawn katana pointed upward, the blade catching light; the left hand grabs an exposed tree root to pull the body up.\nAbove, Bandanese defenders, men of different ages in plain wrapped cloths and head cloths, hurl stones and thrust spears over the wall, shouting; to the sides, Japanese mercenaries of varied builds and VOC musketeers in steel morion helmets with a front-to-back crest, buff leather coats over plain doublets, knee breeches and stockings, carrying matchlock muskets and bandoliers of wooden powder flasks climb and fire, muzzle flashes and smoke. The defenders and soldiers are different people from Ronin.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dense jungle green, red-brown earth and pale gunpowder smoke under a hazy midday sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:44–0:52",
+      "narasi": "Dalam beberapa hari, pulau itu jatuh. Penduduk lari ke hutan dan perbukitan. Kampung-kampung dijadikan barak.",
+      "prompt": "Medium-wide shot at eye level of an abandoned coastal village on Lonthor in the afternoon: wooden stilt houses with steep sago-palm thatched roofs, a cooking fire still smoking, a dropped basket of nutmeg spilled on the path.\nVOC soldiers take over the village: one lowers a woven mat from a doorway, two others stack powder barrels and muskets under a house, one ties an orange-white-blue Dutch Prince's flag to a pole; all busy, not looking up.\nVOC soldiers in steel morion helmets with a front-to-back crest, buff leather coats over plain doublets, knee breeches and stockings, carrying matchlock muskets and bandoliers of wooden powder flasks; varied faces: a grey-bearded sergeant, a freckled youth, a dark-haired man with a scarred chin. On the green hill behind, small figures of fleeing villagers with bundles disappear into the forest.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dense jungle green, red-brown earth and pale gunpowder smoke under a hazy midday sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:52–1:00",
+      "narasi": "Para orang kaya datang dan menyerah. Mereka menerima syarat VOC: senjata diserahkan, pala dijual hanya kepada Belanda.",
+      "prompt": "Same character as the Orang Kaya Tua reference image.\nMedium-wide shot at eye level on a beach clearing on Lonthor under a hazy sun, a canvas awning in the background.\nA line of Bandanese orang kaya in white head cloths and checked sarongs kneel and lay spears and wavy-bladed keris on a mat before a Dutch officer. Orang Kaya Tua stands slightly apart, very upright, placing his keris down last, face composed, eyes lowered to the weapon, lips pressed together. Far in the background under the awning a Dutch commander in a black doublet and a white millstone ruff sits at a table, small and indistinct.\nThe Dutch officer wears a broad-brimmed black hat, a plain falling white collar and an orange sash across a buff coat, writing on a tablet; he is a different person from Orang Kaya Tua. The other orang kaya are different people from Orang Kaya Tua: younger or heavier, some with black beards, sarongs in plainer colors, expressions ranging from bitter to resigned.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dense jungle green, red-brown earth and pale gunpowder smoke under a hazy midday sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:00–1:08",
+      "narasi": "Lalu tersiar tuduhan. Katanya, para orang kaya bersekongkol melawan Belanda. Satu per satu mereka ditahan.",
+      "prompt": "Medium shot at a slightly high angle inside the coral-stone courtyard of Fort Nassau at night, lit by torches on the walls.\nTwo VOC soldiers march a Bandanese orang kaya forward, his wrists bound with rope behind him; he twists his head back toward another captive being pulled from a doorway, mouth open in protest. A soldier slams a heavy wooden door; another raises a torch, flames streaming.\nVOC soldiers in steel morion helmets with a front-to-back crest, buff leather coats over plain doublets, knee breeches and stockings, carrying matchlock muskets and bandoliers of wooden powder flasks; varied faces and builds. The captives are middle-aged Bandanese men in white head cloths and checked sarongs, different from one another.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark coral-stone brown, near-black shadows and flickering torch orange, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:08–1:18",
+      "narasi": "Kamu berjaga di luar ruang tahanan. Pintu terbuka sesaat, dan kamu melihat bagaimana pengakuan itu didapat. Kamu tidak memalingkan muka.",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium shot at eye level from a stone corridor of Fort Nassau at night, looking through a half-open heavy wooden door into a torch-lit cell.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. Both hands grip the hilt of the sheathed katana at the bottom edge of the frame, knuckles pale.\nInside the cell, a Bandanese orang kaya in his forties, bare-backed, wrists tied to a wooden post, sags forward, his back marked with red welts drawn as flat lines; a Dutch interrogator in shirtsleeves and a leather apron draws back a whip mid-swing; at a small table a thin Dutch clerk in black writes by candlelight, not looking up. The prisoner's face is turned away, eyes squeezed shut, jaw clenched.\nThe interrogator and clerk are different people from one another: the interrogator broad and red-faced with a cropped beard, the clerk pale and narrow with spectacles.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark coral-stone brown, near-black shadows and flickering torch orange, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, gore close-ups, severed limbs or heads, exposed wounds in detail, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:18–1:28",
+      "narasi": "Seorang orang kaya tua menatapmu dari balik jeruji. Ia tidak memohon. Matanya hanya bertanya: kenapa kamu ada di sini?",
+      "prompt": "Same character as the Orang Kaya Tua reference image.\nThe viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium close-up at eye level of a dim fort cell at night, lit by a single torch outside.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. The left hand holds a torch slightly forward, casting warm light between thick wooden bars.\nBehind the bars Orang Kaya Tua sits cross-legged on the stone floor, back straight, hands resting on his knees, prayer beads looped over his fingers; he looks straight at the viewer, brows level, eyes steady and searching, mouth calm and closed, no tears.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of dark coral-stone brown, near-black shadows and flickering torch orange, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:28–1:36",
+      "narasi": "Di luar Benteng Nassau, perintah itu sampai kepadamu. Orang-orang Jepang yang akan menjadi algojo. Termasuk kamu.",
+      "prompt": "Same character as the Ronin Tua reference image.\nThe viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium-wide shot at eye level on the open ground outside the stone walls of Fort Nassau on an overcast morning, a tall bamboo stockade visible to one side.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. The right hand tightens on the katana hilt at the hip; the left hand hangs half-open at the side.\nRonin Tua has already stepped forward into a short line of Japanese mercenaries, glancing back over his shoulder with a resigned half-smile. A Dutch officer with a broad-brimmed hat and orange sash points with a cane toward the line and the viewer, face hard and impatient, eyes on the Japanese, not on the viewer.\nThe other Japanese mercenaries are different people from Ronin and Ronin Tua: one young and thin, one heavy with a shaved head, one with a bandaged arm. Rows of VOC musketeers stand behind.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted earthy palette of pale overcast grey, bamboo green and deep oxblood red, with flat diffuse light, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:45",
+      "narasi": "Puluhan orang kaya digiring ke dalam pagar bambu. Orang tua itu duduk paling depan, punggungnya tegak.",
+      "prompt": "Same character as the Orang Kaya Tua reference image.\nWide shot from a slightly high angle of a square enclosure of tall bamboo stakes outside Fort Nassau, overcast morning.\nDozens of Bandanese orang kaya sit cross-legged inside the stockade, some with hands raised in prayer, some heads bowed. Orang Kaya Tua sits in the front row, back perfectly upright, eyes closed, lips moving silently, prayer beads in his fingers.\nOutside the stakes, VOC musketeers stand guard; behind them a crowd of captive Bandanese women and children watch, a woman covering a child's eyes, an old man gripping the stakes. All are different people from Orang Kaya Tua. VOC soldiers in steel morion helmets with a front-to-back crest, buff leather coats over plain doublets, knee breeches and stockings, carrying matchlock muskets and bandoliers of wooden powder flasks.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted earthy palette of pale overcast grey, bamboo green and deep oxblood red, with flat diffuse light, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:45–1:53",
+      "narasi": "Orang tua itu menatapmu sekali lagi. Kamu menarik napas... lalu mengangkat pedangmu.",
+      "prompt": "Same character as the Orang Kaya Tua reference image.\nThe viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nLow-angle close shot from the viewpoint of the executioner inside the bamboo stockade, overcast sky above.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. Both hands grip the katana hilt high above the head, the blade raised against the grey sky.\nBelow, Orang Kaya Tua kneels with his back straight and looks up straight at the viewer, eyes open and steady, face calm, no plea. A broad flat diagonal splash of dark red crosses the lower half of the frame as the blade begins to fall, the moment of the strike shown only as this stylized red shape; spatters of red stain the trampled earth.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted earthy palette of pale overcast grey, bamboo green and deep oxblood red, with flat diffuse light, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid gore close-ups, severed limbs or heads, exposed wounds in detail, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:53–2:02",
+      "narasi": "Sore itu, kamu membasuh pedang di tepi laut. Kamu menggosoknya lama sekali. Airnya tak juga terasa bersih.",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium shot at eye level on a narrow beach of Banda Neira in late golden afternoon, calm clear water, Fort Nassau a dark shape behind.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. Kneeling at the waterline, the left hand holds the katana flat in the shallow water while the right hand scrubs the blade with a cloth; red stains bloom and spread into the clear water around the blade; the right sleeve cuff is spattered with dark red.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, muted earthy palette of pale overcast grey, bamboo green and deep oxblood red, with flat diffuse light, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, gore close-ups, severed limbs or heads, exposed wounds in detail, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:02–2:10",
+      "narasi": "Minggu-minggu berikutnya, kampung-kampung dibakar. Ada yang memilih kelaparan di hutan. Ada yang melompat dari tebing.",
+      "prompt": "Medium-wide shot at eye level on a village path on the slope of Lonthor at dusk, a high sea cliff visible in the background.\nVOC soldiers set fire to sago-palm thatched stilt houses with torches, flames leaping and smoke rolling; bodies of Bandanese villagers lie face-down on the path, drawn simply without wounds. In the background, on the cliff edge, a Bandanese mother clutching a child to her chest steps toward the drop, her cloth whipping in the wind; other small figures have already gone over.\nVOC soldiers in steel morion helmets with a front-to-back crest, buff leather coats over plain doublets, knee breeches and stockings, carrying matchlock muskets and bandoliers of wooden powder flasks; varied faces, one soldier hesitating with his torch lowered and face turned away.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fire red, ash grey and dusky violet, with a single warm lantern or low sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, gore close-ups, severed limbs or heads, exposed wounds in detail, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:10–2:18",
+      "narasi": "Upahmu dibayar penuh, seperti janji orang Belanda. Di telapak tanganmu, sebutir pala masih harum. Harumnya tak berubah.",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nClose shot at a slightly high angle inside a dim barrack room at night, lit by one small oil lantern.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. The left hand holds a small cloth pouch heavy with silver coins, a few spilling between the fingers; the right hand is open, palm up, holding a single brown nutmeg seed still wrapped in red mace.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fire red, ash grey and dusky violet, with a single warm lantern or low sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:18–2:30",
+      "narasi": "Dari sekitar lima belas ribu orang Banda, kira-kira seribu yang bertahan. Kebun pala jatuh ke tangan orang VOC, digarap budak dari negeri lain.",
+      "prompt": "Medium-wide shot at eye level of a fenced nutmeg grove on a Banda hillside in late afternoon, empty Bandanese stilt houses with sagging roofs in the background.\nEnslaved laborers brought from other islands and lands, men and women of varied ages and skin tones in plain coarse loincloths and wrapped cloths, carry baskets of nutmeg and bend under the trees, faces tired and downcast; a VOC overseer in a broad hat and plain coat stands by the fence with a cane, watching the workers.\nThe laborers are distinct from one another: an older man with grey stubble, a young woman with a headcloth, a tall thin youth.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fire red, ash grey and dusky violet, with a single warm lantern or low sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:30–2:38",
+      "narasi": "Pala Banda tetap berlayar ke Eropa, seharum dulu. Kamu hanya menjalankan perintah. Apakah itu cukup?",
+      "prompt": "The viewer is Ronin: the hands and forearms in the foreground match the first-person panel of the Ronin reference image.\nMedium shot at eye level from the stern of a departing VOC ship at dusk, sea spray in the air.\nFirst-person point of view. Lean, sun-browned hands of a Japanese man about thirty, knuckles scarred and palms callused from years of sword practice, short square nails with grime under them, a thin pale scar across the back of the right hand; forearms covered by the narrow sleeves of a faded indigo cotton kosode with frayed cuffs, no rings or jewelry. Both forearms rest on the wooden rail, the right hand loosely holding the cloth-wrapped katana, the left hand open and empty.\nBehind, sailors stack bulging sacks of nutmeg on deck, not looking up. Far away the Banda Islands shrink on the horizon, the dark cone of Gunung Api and a single warm light from the fort.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm earthy palette of fire red, ash grey and dusky violet, with a single warm lantern or low sun, historically accurate Banda Islands in 1621 under the Dutch East India Company (VOC).\nAvoid characters looking at the camera, full samurai armor, tricorn hats, red coats, 18th-century uniforms, batik, kebaya, background figures copying the main characters' faces or outfits, mismatched sleeves, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice laki-laki dewasa yang berat dan tenang; voice paling menentukan, tag tidak bisa memaksa voice lembut menjadi muram.\n\n- Babak 1: tenang dan getir, tempo sedang, sedikit sinis di \"Setidaknya mereka membayar.\"\n- Babak 2: tegang, tempo sedikit lebih cepat, napas pendek.\n- Babak 3: rendah dan menekan, berbisik di adegan 8, pelan di adegan 9.\n- Babak 4: sangat pelan, berbisik, jeda panjang sebelum \"lalu mengangkat pedangmu\".\n- Babak 5: datar dan lelah, kalimat terakhir menggantung sebagai pertanyaan.",
+    "arahanBabak": {
+      "1": "tenang dan getir, tempo sedang, sedikit sinis di \"Setidaknya mereka membayar.\"",
+      "2": "tegang, tempo sedikit lebih cepat, napas pendek.",
+      "3": "rendah dan menekan, berbisik di adegan 8, pelan di adegan 9.",
+      "4": "sangat pelan, berbisik, jeda panjang sebelum \"lalu mengangkat pedangmu\".",
+      "5": "datar dan lelah, kalimat terakhir menggantung sebagai pertanyaan."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Laut di depanmu berbau pala. [calm] Kamu ronin, samurai tanpa tuan, dan pedangmu kini dibayar VOC. [serious] Armada Gubernur Jenderal Coen sudah tiba di Banda...\n\n[calm] Di Jepang, perang sudah usai, dan orang sepertimu tak lagi dibutuhkan. [serious] Di Hirado, kamu menandatangani kontrak VOC: patuh pada perwira Belanda. [sarcastic] Setidaknya mereka membayar...\n\n[curious] Pulau-pulau ini kecil. [serious] Tapi pala dan fulinya dicari sampai Eropa. [tense] Dan VOC ingin semuanya, hanya untuk mereka...",
+    "2": "[tense] Kalian mendarat di Lonthor, pulau terbesar. [nervous] Orang Banda bertahan di benteng-benteng perbukitan. [tense] Kamu mendaki di barisan depan, pedang terhunus...\n\n[serious] Dalam beberapa hari, pulau itu jatuh. [sad] Penduduk lari ke hutan dan perbukitan. [calm] Kampung-kampung dijadikan barak...\n\n[calm] Para orang kaya datang dan menyerah. [serious] Mereka menerima syarat VOC: senjata diserahkan, pala dijual hanya kepada Belanda...",
+    "3": "[tense] Lalu tersiar tuduhan. [serious] Katanya, para orang kaya bersekongkol melawan Belanda. [tense] Satu per satu mereka ditahan...\n\n[nervous] Kamu berjaga di luar ruang tahanan. [whispers] Pintu terbuka sesaat, dan kamu melihat bagaimana pengakuan itu didapat. [sad] Kamu tidak memalingkan muka...\n\n[calm] Seorang orang kaya tua menatapmu dari balik jeruji. [serious] Ia tidak memohon. [curious] Matanya hanya bertanya: kenapa kamu ada di sini?...",
+    "4": "[serious] Di luar Benteng Nassau, perintah itu sampai kepadamu. [tense] Orang-orang Jepang yang akan menjadi algojo. [nervous] Termasuk kamu...\n\n[calm] Puluhan orang kaya digiring ke dalam pagar bambu. [sad] Orang tua itu duduk paling depan, punggungnya tegak...\n\n[whispers] Orang tua itu menatapmu sekali lagi. [whispers] Kamu menarik napas... [sad] lalu mengangkat pedangmu...\n\n[resigned] Sore itu, kamu membasuh pedang di tepi laut. [sad] Kamu menggosoknya lama sekali. [sad] Airnya tak juga terasa bersih...",
+    "5": "[sad] Minggu-minggu berikutnya, kampung-kampung dibakar. [whispers] Ada yang memilih kelaparan di hutan. [sad] Ada yang melompat dari tebing...\n\n[resigned] Upahmu dibayar penuh, seperti janji orang Belanda. [sad] Di telapak tanganmu, sebutir pala masih harum. [whispers] Harumnya tak berubah...\n\n[serious] Dari sekitar lima belas ribu orang Banda, kira-kira seribu yang bertahan. [calm] Kebun pala jatuh ke tangan orang VOC, digarap budak dari negeri lain...\n\n[sad] Pala Banda tetap berlayar ke Eropa, seharum dulu. [whispers] Kamu hanya menjalankan perintah. [calm] Apakah itu cukup?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Angin pala",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Laut senja yang getir, lalu pendakian tegang",
+      "style": "Dark cinematic ambient with a lone shakuhachi over low taiko pulses and distant Moluccan tifa hand drums, ocean wind texture, brooding and bitter, starts sparse at sea then tightens with faster drums for an uphill assault, about 65 seconds long (1:05), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, rock guitar, upbeat pop"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pagar bambu",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:10",
+      "suasana": "Gelap menekan, makin sunyi menuju eksekusi",
+      "style": "Tense minimalist dark ambient, low bowed strings drone, sparse muted taiko hits and a slow ticking wooden clapper, shakuhachi breaths, oppressive and claustrophobic, builds very slowly then thins to near silence, about 70 seconds long (1:10), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, heroic brass, EDM, upbeat"
+    },
+    {
+      "nomor": 3,
+      "nama": "Harum yang sama",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:45",
+      "suasana": "Duka hampa, terbuka di akhir",
+      "style": "Sorrowful sparse lament, solo shakuhachi with soft koto plucks and distant ocean wind, a faint tifa heartbeat, hollow and grieving, starts quiet and ends unresolved and fading, about 45 seconds long (0:45), with a clear ending, 56 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, triumphant, EDM, upbeat"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Ombak dan derit tiang kapal kayu",
+      "kataKunci": "wooden ship creak, ocean waves",
+      "prompt": "Old wooden sailing ship creaking at anchor, gentle waves against the hull, wind in rigging"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Pedang diasah di batu",
+      "kataKunci": "sword sharpening whetstone",
+      "prompt": "Slow steady strokes of a steel blade on a wet whetstone, close"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Angin di kebun dan burung tropis",
+      "kataKunci": "tropical forest birds wind",
+      "prompt": "Warm breeze through tropical trees, distant tropical birds, calm"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Tembakan musket dan teriakan jauh",
+      "kataKunci": "musket fire battle distant",
+      "prompt": "17th-century matchlock musket volley in a jungle, distant shouting, smoke"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Langkah sepatu bot di tanah",
+      "kataKunci": "boots footsteps dirt",
+      "prompt": "Several soldiers' boots walking on dirt path, equipment rattling"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Senjata diletakkan di tanah",
+      "kataKunci": "metal weapons dropped sand",
+      "prompt": "Spears and daggers laid down one by one on sandy ground"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Pintu kayu berat dibanting, tali",
+      "kataKunci": "heavy wooden door slam",
+      "prompt": "Heavy wooden fortress door slammed shut, echo in stone courtyard"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Lecutan cambuk dan erangan tertahan",
+      "kataKunci": "whip crack",
+      "prompt": "Leather whip lashing in a stone room, muffled groan, torch crackle"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Tetesan air di sel",
+      "kataKunci": "water drip cave",
+      "prompt": "Slow water drips in a quiet stone cell, faint torch crackle"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Genderang lambat",
+      "kataKunci": "slow military drum",
+      "prompt": "Slow single military snare drum beat, outdoor, solemn"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Doa lirih dan angin",
+      "kataKunci": "wind murmuring crowd",
+      "prompt": "Soft wind through bamboo, faint murmured prayers of many men"
+    },
+    {
+      "nomor": 12,
+      "adegan": 13,
+      "bunyi": "Ombak kecil dan gosokan kain",
+      "kataKunci": "small waves shore",
+      "prompt": "Small waves lapping a beach, cloth scrubbing a metal blade in water"
+    },
+    {
+      "nomor": 13,
+      "adegan": 14,
+      "bunyi": "Kayu dan atap rumbia terbakar",
+      "kataKunci": "fire burning thatch",
+      "prompt": "Thatched wooden houses burning, crackling roaring fire, distant"
+    },
+    {
+      "nomor": 14,
+      "adegan": 15,
+      "bunyi": "Koin perak bergemerincing",
+      "kataKunci": "coins jingle pouch",
+      "prompt": "Handful of silver coins clinking in a cloth pouch, quiet room"
+    },
+    {
+      "nomor": 15,
+      "adegan": 16,
+      "bunyi": "Angin dan langkah berat",
+      "kataKunci": "footsteps wind field",
+      "prompt": "Slow tired footsteps on soil, wind through trees"
+    },
+    {
+      "nomor": 16,
+      "adegan": 17,
+      "bunyi": "Ombak dan derit kapal (gema adegan 1)",
+      "kataKunci": "wooden ship creak waves",
+      "prompt": "Wooden sailing ship creaking under way at dusk, waves and wind"
+    }
+  ],
+  "adeganHening": [
+    12
+  ],
+  "ulikan": {
+    "teks": "Pada 1667, Belanda melepas klaim atas Manhattan demi Pulau Run, tetangga Banda.",
+    "sumber": "Perjanjian Breda 1667; Wikipedia (Run), Spice Islands Blog",
+    "kata": 12,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Ronin Bayaran VOC di Banda, 1621",
+      "catatan": "Alternatif judul: POV: Kamu Ronin yang Jadi Algojo VOC di Banda / POV: Kamu Samurai Bayaran Saat VOC Menaklukkan Banda",
+      "caption": "Pedangmu dibayar VOC. Lalu datang perintah: jadi algojo di Banda.\n\nTahun 1621, VOC di bawah Coen menaklukkan Kepulauan Banda demi monopoli pala. Para algojo yang mengeksekusi orang kaya Banda di luar Benteng Nassau adalah tentara bayaran Jepang yang direkrut di Hirado.\n\nMenurutmu, apakah \"hanya menjalankan perintah\" bisa jadi alasan?\n\nVideo ini memuat penggambaran kekerasan. Dramatisasi berdasarkan catatan sejarah. Sumber utama: Historia; Wikipedia (Dutch conquest of the Banda Islands).\n\n#UlikSilam #sejarahindonesia #banda #voc #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Ronin Bayaran VOC di Banda, 1621",
+      "catatan": "",
+      "caption": "Pedangmu dibayar VOC. Lalu datang perintah: jadi algojo di Banda.\n\nTahun 1621, VOC di bawah Coen menaklukkan Kepulauan Banda demi monopoli pala. Para algojo yang mengeksekusi orang kaya Banda di luar Benteng Nassau adalah tentara bayaran Jepang yang direkrut di Hirado.\n\nMenurutmu, apakah \"hanya menjalankan perintah\" bisa jadi alasan?\n\nVideo ini memuat penggambaran kekerasan. Dramatisasi berdasarkan catatan sejarah. Sumber utama: Historia; Wikipedia (Dutch conquest of the Banda Islands).\n\n#UlikSilam #sejarahindonesia #banda #voc #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 5,
+    "totalKata": 300,
+    "kataPerBabak": {
+      "1": 64,
+      "2": 51,
+      "3": 54,
+      "4": 61,
+      "5": 70
+    },
+    "karakterPerBabak": {
+      "1": 516,
+      "2": 449,
+      "3": 453,
+      "4": 515,
+      "5": 590
+    },
+    "jedaBunyi": 1,
+    "perkiraanDetik130": {
+      "narasi": 155.8,
+      "denganMerek": 160.8
+    },
+    "perkiraanDetik135": {
+      "narasi": 150.6,
+      "denganMerek": 155.6
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

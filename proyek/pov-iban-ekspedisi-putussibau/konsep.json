@@ -1,0 +1,664 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-14T02:39:23.519Z",
+  "judulDokumen": "Orang Iban di Ekspedisi Putussibau, 1894",
+  "judul": "POV: Kamu Orang Iban di Ekspedisi Putussibau, 1894",
+  "slug": "pov-iban-ekspedisi-putussibau",
+  "versi": "v1 · 2026-11-01",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Putussibau dan hulu Kapuas",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Pemuda Iban Batang Lupar (fiktif), ±20 tahun, pendayung dan pemikul ekspedisi",
+  "ringkasan": {
+    "Judul": "POV: Kamu Orang Iban di Ekspedisi Putussibau, 1894",
+    "Slug": "pov-iban-ekspedisi-putussibau",
+    "Durasi": "3:00 maksimum, target ±2:50 (naskah ±2:40, ±2:45 termasuk elemen merek)",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Pemuda Iban Batang Lupar (fiktif), ±20 tahun, pendayung dan pemikul ekspedisi",
+    "Jumlah ilustrasi": "20 (16 adegan + 4 lembar karakter: Pemuda Iban, Pemuda Kayan, Kontrolir, Dokter Muda)",
+    "Versi": "v1 · 2026-11-01",
+    "Lapisan": "Sejarah",
+    "Latar": "Putussibau dan hulu Kapuas",
+    "Premis": "Ekspedisi yang sudah sampai di seberang justru berbalik karena takut, dan orang yang paling dicurigai dalam rombongan adalah \"kamu\".",
+    "Benang merah": "Kecurigaan: antara orang Iban dan Kayan, antara rombongan dan orang di seberang; dan senapan yang ikut di perahu.",
+    "Asumsi": "Tugas \"kamu\" sebagai pendayung dan pemikul (peran delapan orang Iban tidak tercatat); pemimpin disebut \"kontrolir\" tanpa nama; pemuda Kayan dan momen berbagi nasi adalah dramatisasi.",
+    "Dipilih karena": "Brainstorming 2026-11-01: gabungan pilihan 1 (ekspedisi yang berbalik) dan 3 (orang Iban di tengah rombongan Kayan); alur A kronologis dengan hook di puncak; akhir momen hening plus epilog 1896."
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Putussibau",
+      "suasana": "Sunyi, lalu canggung dan curiga",
+      "palet": "Jingga senja, abu-biru kabut, cokelat sungai, hijau tua",
+      "cahaya": "Senja rendah di puncak; pagi berkabut di dermaga"
+    },
+    {
+      "babak": 2,
+      "nama": "Kapuas",
+      "suasana": "Bertenaga dan tegang",
+      "palet": "Hijau zamrud, cokelat keruh, putih buih",
+      "cahaya": "Matahari pagi menembus kabut, siang terik di jeram"
+    },
+    {
+      "babak": 3,
+      "nama": "Pegunungan",
+      "suasana": "Berat, lalu takjub",
+      "palet": "Hijau lumut tua, abu kabut, cokelat lumpur",
+      "cahaya": "Cahaya redup menembus kanopi; cahaya keemasan di punggung pegunungan"
+    },
+    {
+      "babak": 4,
+      "nama": "Berbalik",
+      "suasana": "Cemas dan getir",
+      "palet": "Abu dingin, hijau gelap, cokelat tanah",
+      "cahaya": "Pagi mendung berkabut"
+    },
+    {
+      "babak": 5,
+      "nama": "Pulang",
+      "suasana": "Lega, hening, lalu menggantung",
+      "palet": "Cokelat keemasan sungai, jingga api, biru pagi",
+      "cahaya": "Sore keemasan; api kecil di malam hening; pagi terang epilog"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Putussibau",
+    "2": "Kapuas",
+    "3": "Pegunungan",
+    "4": "Berbalik",
+    "5": "Pulang"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Putussibau",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Senja di punggung pegunungan berhutan lebat, kabut di lembah bawah. Tangan kanan \"kamu\" menggenggam tali rotan keranjang pikul di bahu, tangan kiri menyibak dahan; di bawah, sungai kecil berkilau mengalir ke arah lain.",
+      "narasiSuara": "[tense] Kamu berdiri di punggung pegunungan Borneo. [curious] Di bawah sana, air mengalir ke Mahakam... [sad] Besok pagi, kalian semua berbalik.",
+      "narasi": "Kamu berdiri di punggung pegunungan Borneo. Di bawah sana, air mengalir ke Mahakam... Besok pagi, kalian semua berbalik.",
+      "teksLayar": [
+        "Juli 1894."
+      ],
+      "suara": "Angin pegunungan, serangga senja",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Putussibau",
+      "waktu": "0:09–0:19",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pagi di tepian Kapuas, Putussibau: deretan perahu panjang ditambat, prajurit memuat peti, tiga orang Belanda (kontrolir, ahli batuan, dokter muda) berdiri di tebing. \"Kamu\" dan beberapa orang Iban berdiri agak terpisah dari kerumunan.",
+      "narasiSuara": "[calm] Sebulan sebelumnya, dua puluh empat perahu bersiap di Putussibau. [serious] Belanda ingin menembus pedalaman, dari hulu Kapuas sampai ke Mahakam.",
+      "narasi": "Sebulan sebelumnya, dua puluh empat perahu bersiap di Putussibau. Belanda ingin menembus pedalaman, dari hulu Kapuas sampai ke Mahakam.",
+      "teksLayar": [
+        "Putussibau, 15 Juni 1894."
+      ],
+      "suara": "Riuh dermaga, perahu beradu",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Putussibau",
+      "waktu": "0:19–0:31",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Tepian sungai. Kedua tangan \"kamu\" mengikat buntalan beras ke dalam perahu; para pendayung Kayan di sekitarnya membuang muka, seorang pemuda Kayan menatapmu dingin lalu berbalik.",
+      "narasiSuara": "[tense] Rombongan ini membawa delapan puluh lima orang Kayan dari Mendalam, dan delapan orang Iban. [nervous] Kamu salah satunya. [serious] Kaummu dan kaum mereka sudah lama bermusuhan.",
+      "narasi": "Rombongan ini membawa delapan puluh lima orang Kayan dari Mendalam, dan delapan orang Iban. Kamu salah satunya. Kaummu dan kaum mereka sudah lama bermusuhan.",
+      "teksLayar": [],
+      "suara": "Gumam orang, tali ditarik",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Kapuas",
+      "waktu": "0:31–0:41",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Perahu panjang mudik melawan arus Kapuas. \"Kamu\" mendayung di tengah barisan pendayung Kayan yang membelakanginya; saat jeda makan, kamu duduk sendiri di ujung perahu.",
+      "narasiSuara": "[calm] Hari demi hari, kalian mendayung melawan arus Kapuas yang deras. [tense] Di perahumu, tak seorang pun mengajakmu bicara, bahkan saat makan.",
+      "narasi": "Hari demi hari, kalian mendayung melawan arus Kapuas yang deras. Di perahumu, tak seorang pun mengajakmu bicara, bahkan saat makan.",
+      "teksLayar": [],
+      "suara": "Dayung serempak, arus",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Kapuas",
+      "waktu": "0:41–0:52",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Perahu oleng di jeram berbuih. Pemuda Kayan mencengkeram lengan \"kamu\" agar tidak jatuh; di detik berikutnya ia melepaskannya dan memalingkan wajah.",
+      "narasiSuara": "[tense] Di sebuah jeram, perahu oleng hampir terbalik. [nervous] Sebuah tangan Kayan mencengkeram lenganmu erat... [tense] lalu cepat-cepat melepaskannya, seolah tak terjadi apa-apa.",
+      "narasi": "Di sebuah jeram, perahu oleng hampir terbalik. Sebuah tangan Kayan mencengkeram lenganmu erat... lalu cepat-cepat melepaskannya, seolah tak terjadi apa-apa.",
+      "teksLayar": [],
+      "suara": "Jeram bergemuruh, teriakan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Kapuas",
+      "waktu": "0:52–1:00",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Sungai makin sempit dan berbatu. Perahu-perahu ditarik ke tepian di sebuah pangkalan; orang-orang menurunkan peti dan keranjang ke darat.",
+      "narasiSuara": "[calm] Rombongan berbelok ke Sungai Bungan, lalu Bulit, makin jauh ke hulu. [serious] Di Pangkalan Mahakam, perahu-perahu ditinggalkan.",
+      "narasi": "Rombongan berbelok ke Sungai Bungan, lalu Bulit, makin jauh ke hulu. Di Pangkalan Mahakam, perahu-perahu ditinggalkan.",
+      "teksLayar": [],
+      "suara": "Lambung perahu menggesek kerikil",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Pegunungan",
+      "waktu": "1:00–1:10",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Jalan setapak berlumpur menanjak di hutan lebat. Kedua tangan \"kamu\" mencengkeram tali rotan keranjang pikul yang berat; di depan, barisan pemikul Kayan mendaki.",
+      "narasiSuara": "[tense] Kini semua beban dipikul di punggung. [serious] Beras, peti, dan alat-alat orang Belanda, naik turun bukit berlumpur, dari pagi sampai petang.",
+      "narasi": "Kini semua beban dipikul di punggung. Beras, peti, dan alat-alat orang Belanda, naik turun bukit berlumpur, dari pagi sampai petang.",
+      "teksLayar": [],
+      "suara": "Langkah di lumpur, napas berat",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Pegunungan",
+      "waktu": "1:10–1:21",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Tebing batu di hutan. Ahli batuan Belanda mengetuk batu dengan palu, dokter muda menulis di buku catatan; \"kamu\" beristirahat di belakang mereka dengan beban di punggung.",
+      "narasiSuara": "[curious] Seorang ahli batuan Belanda berhenti di setiap tebing, mengetuk batu dengan palunya. [calm] Dokter muda di sebelahnya mencatat semua yang ia lihat.",
+      "narasi": "Seorang ahli batuan Belanda berhenti di setiap tebing, mengetuk batu dengan palunya. Dokter muda di sebelahnya mencatat semua yang ia lihat.",
+      "teksLayar": [],
+      "suara": "Palu mengetuk batu, burung",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Pegunungan",
+      "waktu": "1:21–1:31",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Punggung pegunungan berkabut. Rombongan menuruni lereng; \"kamu\" berhenti di tepi aliran kecil, menatap air yang mengalir ke arah berlawanan.",
+      "narasiSuara": "[excited] Empat belas Juli, kalian melewati punggung pegunungan. [curious] Untuk pertama kalinya, air di kakimu mengalir ke arah lain... ke Mahakam.",
+      "narasi": "Empat belas Juli, kalian melewati punggung pegunungan. Untuk pertama kalinya, air di kakimu mengalir ke arah lain... ke Mahakam.",
+      "teksLayar": [
+        "Batas air Kapuas–Mahakam."
+      ],
+      "suara": "Gemericik air, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Berbalik",
+      "waktu": "1:31–1:39",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Perkemahan pagi di lereng. Seorang utusan Kayan berlari masuk dan berbicara terengah-engah kepada kontrolir; orang-orang berhenti bekerja dan saling pandang.",
+      "narasiSuara": "[tense] Keesokan harinya, seorang utusan datang membawa kabar. [nervous] Orang-orang di seberang katanya bersiap menyambut kalian dengan permusuhan.",
+      "narasi": "Keesokan harinya, seorang utusan datang membawa kabar. Orang-orang di seberang katanya bersiap menyambut kalian dengan permusuhan.",
+      "teksLayar": [],
+      "suara": "Langkah berlari, bisik-bisik",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Berbalik",
+      "waktu": "1:39–1:48",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kontrolir menunjuk ke arah jalan pulang; dokter muda tampak kecewa, para pemikul mengangkat beban lagi dan berbalik.",
+      "narasiSuara": "[serious] Kontrolir Belanda tidak mau mengambil risiko apa pun. [resigned] Perintahnya singkat, dan tak bisa dibantah: semua berbalik pulang.",
+      "narasi": "Kontrolir Belanda tidak mau mengambil risiko apa pun. Perintahnya singkat, dan tak bisa dibantah: semua berbalik pulang.",
+      "teksLayar": [],
+      "suara": "Perintah singkat, keranjang diangkat",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Berbalik",
+      "waktu": "1:48–1:59",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari punggung pegunungan, tangan kiri \"kamu\" bertumpu pada batang pohon; lembah Mahakam yang berkabut di bawah, rombongan sudah berjalan menjauh di belakang.",
+      "narasiSuara": "[sad] Kamu menoleh ke lembah itu sekali lagi. [curious] Benarkah ada musuh di bawah sana... [sad] atau hanya kabar yang berjalan lebih cepat dari kalian?",
+      "narasi": "Kamu menoleh ke lembah itu sekali lagi. Benarkah ada musuh di bawah sana... atau hanya kabar yang berjalan lebih cepat dari kalian?",
+      "teksLayar": [],
+      "suara": "Angin, musik menipis",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "1:59–2:08",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Perahu-perahu meluncur cepat mengikuti arus menuju Putussibau: kubu kayu bertiang dengan pagar palisade, kampung Melayu di tepi kiri, deretan rumah pedagang Tionghoa di tepi kanan.",
+      "narasiSuara": "[calm] Pulang jauh lebih cepat. [calm] Arus Kapuas membawa kalian kembali ke Putussibau pada dua puluh dua Juli.",
+      "narasi": "Pulang jauh lebih cepat. Arus Kapuas membawa kalian kembali ke Putussibau pada dua puluh dua Juli.",
+      "teksLayar": [
+        "Putussibau."
+      ],
+      "suara": "Arus deras, dayung ringan",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:08–2:17",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Malam di tepian, cahaya api kecil. Pemuda Kayan menyodorkan nasi terbungkus daun; kedua tangan \"kamu\" terulur menerimanya.",
+      "narasiSuara": "[sad] [whispers] Malam itu, pemuda Kayan di perahumu menyodorkan sebungkus nasi. [whispers] Tanpa sepatah kata. [sad] [whispers] Kamu menerimanya.",
+      "narasi": "Malam itu, pemuda Kayan di perahumu menyodorkan sebungkus nasi. Tanpa sepatah kata. Kamu menerimanya.",
+      "teksLayar": [],
+      "suara": "Api kecil, jangkrik, musik turun",
+      "hening": true,
+      "epilog": false,
+      "kata": 14
+    },
+    {
+      "nomor": 15,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:17–2:27",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pagi di dermaga Putussibau, dua tahun kemudian. Dua belas perahu berangkat dengan pendayung Kayan dan dokter Belanda, tanpa prajurit bersenjata di perahu.",
+      "narasiSuara": "[calm] Dua tahun kemudian, orang Kayan berangkat lagi dari Putussibau, mengantar dokter muda itu. [serious] Kali ini dengan satu syarat: tanpa pengawal bersenjata.",
+      "narasi": "Dua tahun kemudian, orang Kayan berangkat lagi dari Putussibau, mengantar dokter muda itu. Kali ini dengan satu syarat: tanpa pengawal bersenjata.",
+      "teksLayar": [
+        "3 Juli 1896."
+      ],
+      "suara": "Dayung, sorak pelan",
+      "hening": false,
+      "epilog": true,
+      "kata": 21
+    },
+    {
+      "nomor": 16,
+      "babak": 5,
+      "namaBabak": "Pulang",
+      "waktu": "2:27–2:39",
+      "durasiCadangan": 12,
+      "bidikan": "A",
+      "visual": "Tangan kanan \"kamu\" bertumpu pada tiang tambatan di dermaga; perahu-perahu mengecil di kejauhan, menghilang di tikungan sungai.",
+      "narasiSuara": "[curious] Perahu-perahu itu menjauh. [serious] Kali ini, mereka sampai ke Mahakam... [curious] Jadi, yang dulu membuat kalian berbalik: musuh di seberang, atau senapan di perahu sendiri?",
+      "narasi": "Perahu-perahu itu menjauh. Kali ini, mereka sampai ke Mahakam... Jadi, yang dulu membuat kalian berbalik: musuh di seberang, atau senapan di perahu sendiri?",
+      "teksLayar": [],
+      "suara": "Arus, musik naik lalu menggantung",
+      "hening": false,
+      "epilog": true,
+      "kata": 23
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Pemuda Iban",
+      "prompt": "Character reference sheet of Pemuda Iban.\nPemuda Iban is an Iban man of about twenty from the Batang Lupar river region of western Borneo, in 1894, a paddler and porter on a Dutch expedition. Lean, wiry build, warm medium-brown skin, an oval face with high cheekbones, lively dark eyes, thick straight brows, a broad nose and full lips. His thick black hair is cut in a straight square fringe across the forehead and falls long and loose down his back past the shoulders; the sides are not shaved. A row of small brass rings runs along the rim of each ear. On each shoulder, just below the collarbone, sits a dark blue round tattoo shaped like an eggplant blossom with a double spiral at its centre. He is bare-chested and wears a long waistcloth of faded red cotton wound around the waist and passed between the legs, its front flap hanging to the knees; barefoot. A plain white shell bracelet circles his right wrist, and a working machete in a plain wooden sheath hangs at his left hip from a rattan belt. Quick and watchful, always half-turned toward the others.\nFull-body front, side and back views in a relaxed, natural standing pose holding a long wooden paddle, one three-quarter face portrait, one detail panel of the long hair from behind, the row of brass rings on the ear rim and the eggplant-blossom shoulder tattoo, and one first-person panel of his own hands and forearms seen from his eyes: Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late 19th-century Iban everyday dress of the Batang Lupar.\nAvoid hand or throat tattoos, hornbill feather war caps, animal-skin war coats, raised weapons, headhunting trophies, shaved sides of the head, stretched earlobes, batik parang pattern, exotic caricature, modern clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Pemuda Kayan",
+      "prompt": "Character reference sheet of Pemuda Kayan.\nPemuda Kayan is a Kayan man of about twenty from the Mendalam River in the upper Kapuas of western Borneo, in 1894, a paddler and porter on the same expedition. Sturdy, broad-shouldered build, light-brown skin, a round face, narrow serious eyes, straight brows, a flat nose and a firm mouth. His black hair is cut in a straight fringe across the forehead, the sides and crown are shaved, and the hair at the back hangs loose to the nape; a narrow band of plaited rattan circles his brow. His earlobes are stretched into long loops holding plain brass rings, and a small round wooden disc sits in the upper part of each ear. A dark blue curling dog-motif tattoo marks the front of each thigh below the waistcloth. He is bare-chested and wears a long waistcloth of plain dark blue cotton; barefoot. A plain dark hardwood bangle circles each wrist, and a sword in a plain wooden sheath hangs at his left hip from a rattan belt. Reserved and serious, slow to smile.\nFull-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, and one detail panel of the haircut from behind, the stretched earlobes with brass rings, the wooden ear discs and the thigh tattoo. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate late 19th-century Kayan everyday dress of the upper Kapuas.\nAvoid hornbill feather war caps, hornbill-beak or animal-tooth ear ornaments, animal-skin war coats, raised weapons, headhunting trophies, long loose hair at the sides, batik parang pattern, exotic caricature, modern clothing, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Kontrolir",
+      "prompt": "Character reference sheet of Kontrolir.\nKontrolir is a Dutch colonial civil officer of about thirty-five, head of the upper Kapuas district in 1894. Medium height, slightly heavy build, pale skin reddened by the sun, a square face, light grey eyes, a full brown moustache and short brown hair. He wears a white cotton jacket with a high standing collar and a single row of brass buttons, white trousers, brown leather boots and a white cloth-covered sun helmet; a leather map case hangs from a strap across his chest. Stiff and upright, used to giving orders.\nFull-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, and one detail panel of the jacket collar, brass buttons, sun helmet and map case. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1890s Dutch East Indies colonial civil servant's tropical dress.\nAvoid military medals, epaulettes, khaki or grey-green uniforms, steel helmets, modern clothing, caricature, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Dokter Muda",
+      "prompt": "Character reference sheet of Dokter Muda.\nDokter Muda is a Dutch army medical officer of about thirty, the expedition's doctor in 1894. Slim build, pale skin tanned by travel, a narrow face, attentive light eyes, a neat dark moustache and short dark hair. He wears a white cotton jacket with a high standing collar, sleeves pushed up to the forearm, white trousers, brown leather boots and a white sun helmet; a canvas satchel hangs at his hip and he carries a small notebook and pencil. Curious and restless, always looking closely at people and things.\nFull-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, and one detail panel of the satchel, notebook and sun helmet. Plain light background.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1890s Dutch East Indies European expedition dress.\nAvoid stethoscopes, red cross armbands, khaki or grey-green uniforms, steel helmets, modern clothing, caricature, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Kamu berdiri di punggung pegunungan Borneo. Di bawah sana, air mengalir ke Mahakam... Besok pagi, kalian semua berbalik.",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nMedium-wide shot at eye level from a forested mountain ridge at dusk, mist filling the valley below, a thin silver stream winding away down the far slope.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. The right hand grips the rattan shoulder strap of a heavy carrying basket; the left hand pushes aside a mossy branch.\nNo other people in view; mossy tree trunks frame the scene and the last warm light catches the ridge tops.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm orange dusk light over blue-grey mist and dark greens, historically accurate central Borneo montane forest on the Kapuas–Mahakam watershed.\nAvoid characters looking at the camera, roads, buildings, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:19",
+      "narasi": "Sebulan sebelumnya, dua puluh empat perahu bersiap di Putussibau. Belanda ingin menembus pedalaman, dari hulu Kapuas sampai ke Mahakam.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nSame character as the Kontrolir reference image.\nSame character as the Dokter Muda reference image.\nWide shot from a slightly high angle over a wide brown river landing on a misty morning, a long row of dugout boats tied along the bank, some with arched palm-leaf roofs over the middle; on the high bank, a raised wooden blockhouse behind a palisade.\nKontrolir stands on the bank pointing upriver with one arm, chin raised, giving instructions; Dokter Muda beside him writes quickly in his notebook, glancing at the boats; a bearded Dutch geologist in a light jacket and wide hat checks a wooden crate. Barefoot native soldiers in dark blue cotton jackets and trousers and black kepis carry crates down the bank; Malay porters in sarongs and headcloths load baskets. Pemuda Iban stands a little apart with a few other Iban men near the water, arms folded, eyes moving warily over the crowd of Kayan paddlers. The soldiers, porters, geologist, Iban and Kayan men are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, blue-grey morning mist, brown river water and dark greens with soft warm light, historically accurate 1894 upper Kapuas river landing at Putussibau with Kayan dugout boats.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, identical faces, khaki or grey-green uniforms, steel helmets, motorboats, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:19–0:31",
+      "narasi": "Rombongan ini membawa delapan puluh lima orang Kayan dari Mendalam, dan delapan orang Iban. Kamu salah satunya. Kaummu dan kaum mereka sudah lama bermusuhan.",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nSame character as the Pemuda Kayan reference image.\nMedium shot at eye level beside a dugout boat at the river's edge in the morning.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. Both hands pull tight a rattan cord around a bundle of rice wrapped in leaves inside the boat.\nPemuda Kayan, standing knee-deep in the water at the bow, stares at the viewer's hands for a moment with narrowed eyes and a tight jaw, then turns his shoulder away; behind him other Kayan paddlers look elsewhere or exchange quiet glances. The other paddlers are different people from Pemuda Kayan: fringe haircuts with shaved sides, dark blue, off-white or bark-cloth waistcloths, some in wide mushroom-shaped palm-leaf sun hats.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, blue-grey mist, brown water and wood browns in soft morning light, historically accurate 1894 Kayan of the Mendalam on the upper Kapuas.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pemuda Kayan's face or outfit, identical faces, raised weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:31–0:41",
+      "narasi": "Hari demi hari, kalian mendayung melawan arus Kapuas yang deras. Di perahumu, tak seorang pun mengajakmu bicara, bahkan saat makan.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nSame character as the Pemuda Kayan reference image.\nMedium-wide shot from a slightly low angle beside a long dugout boat pushing upstream on the wide Kapuas, forested banks on both sides.\nPemuda Kayan and four other Kayan paddlers sit in a row facing the bow, paddles dipping in unison, talking and laughing among themselves; Pemuda Iban sits at the stern end alone, paddling in rhythm but slightly apart, eyes on the water, a leaf packet of rice resting untouched beside him. The other paddlers are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, emerald greens and muddy brown water with morning sunlight breaking through mist, historically accurate 1894 upper Kapuas river journey by Kayan dugout.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:41–0:52",
+      "narasi": "Di sebuah jeram, perahu oleng hampir terbalik. Sebuah tangan Kayan mencengkeram lenganmu erat... lalu cepat-cepat melepaskannya, seolah tak terjadi apa-apa.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nSame character as the Pemuda Kayan reference image.\nMedium shot from a low angle at churning rapids between dark boulders.\nThe dugout tilts hard to one side; Pemuda Iban lurches toward the water, eyes wide, mouth open; Pemuda Kayan, braced with one knee on the gunwale, grips Pemuda Iban's upper arm with one hand while his other hand holds his paddle against a rock; spray bursts over the bow; behind them a paddler stands pushing a long pole against the rocks. The other paddlers are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, emerald greens, white foam and brown water in bright midday light, historically accurate 1894 Borneo river rapids crossed by Kayan dugout.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, life jackets, outboard motors, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:52–1:00",
+      "narasi": "Rombongan berbelok ke Sungai Bungan, lalu Bulit, makin jauh ke hulu. Di Pangkalan Mahakam, perahu-perahu ditinggalkan.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nMedium-wide shot at eye level on a narrow, rocky upper river in the afternoon, steep forested slopes rising close on both sides.\nDugout boats are hauled up onto a gravel bank; Kayan porters lift crates and rattan carrying baskets onto the shore; Pemuda Iban, knee-deep in the shallows, drags a boat by its rope with his whole weight, body leaning back, glancing up at the mountains ahead. The porters are different people from Pemuda Iban, with fringe haircuts and shaved sides.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep greens, grey river stones and clear brown water in warm afternoon light, historically accurate 1894 upper Kapuas headwaters landing.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pemuda Iban's face or outfit, buildings, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "1:00–1:10",
+      "narasi": "Kini semua beban dipikul di punggung. Beras, peti, dan alat-alat orang Belanda, naik turun bukit berlumpur, dari pagi sampai petang.",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nMedium shot from a low angle on a steep muddy forest footpath climbing between roots and ferns.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. Both hands grip the rattan shoulder straps of a heavy carrying basket, knuckles tight.\nAhead, a line of Kayan porters climbs bent forward under tall rattan baskets and lashed wooden crates, bare feet slipping in the mud, one reaching back to grab a root. The porters are different people from Pemuda Iban, with fringe haircuts and shaved sides.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dark moss greens, grey mist and brown mud under dim light filtering through the canopy, historically accurate central Borneo montane forest footpath.\nAvoid characters looking at the camera, roads, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:10–1:21",
+      "narasi": "Seorang ahli batuan Belanda berhenti di setiap tebing, mengetuk batu dengan palunya. Dokter muda di sebelahnya mencatat semua yang ia lihat.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nSame character as the Dokter Muda reference image.\nMedium shot at eye level beside a mossy rock face in the forest.\nA bearded Dutch geologist in a light jacket and wide hat crouches and taps the rock with a geological hammer, squinting at a chip in his palm; Dokter Muda leans in beside him, writing in his notebook, then glances back with curiosity at the porters; Pemuda Iban rests a few steps behind, basket still on his back, catching his breath, watching the Europeans with a puzzled frown. The geologist is a different person from Dokter Muda.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, dark moss greens, grey stone and soft dappled light, historically accurate 1894 Dutch scientific expedition in the Borneo highlands.\nAvoid characters looking at the camera, stiff symmetrical poses, modern equipment, khaki uniforms, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:21–1:31",
+      "narasi": "Empat belas Juli, kalian melewati punggung pegunungan. Untuk pertama kalinya, air di kakimu mengalir ke arah lain... ke Mahakam.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nMedium-wide shot from a slightly low angle on a misty ridge just past the crest, the line of porters descending into a new valley below.\nPemuda Iban kneels at a small clear stream, one hand in the water, head turned to follow the current downhill, eyes wide and lips parted in quiet wonder; behind him the porters file past under their baskets. The porters are different people from Pemuda Iban.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, golden light breaking through grey mist over dark moss greens, historically accurate central Borneo montane forest on the Mahakam side of the watershed.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying Pemuda Iban's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:31–1:39",
+      "narasi": "Keesokan harinya, seorang utusan datang membawa kabar. Orang-orang di seberang katanya bersiap menyambut kalian dengan permusuhan.",
+      "prompt": "Same character as the Kontrolir reference image.\nSame character as the Pemuda Iban reference image.\nMedium shot at eye level in a simple hillside camp on a grey morning, lean-to shelters of palm leaves and smoke from a cooking fire.\nA middle-aged Kayan messenger, sweating and out of breath, one hand on his knee, gestures back down the slope as he speaks; Kontrolir, still buttoning his jacket, listens with his brows pulled together and his mouth tight; porters freeze mid-task and look at one another; Pemuda Iban, crouched by the fire, slowly rises, eyes fixed on the messenger. The messenger and porters are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey mist, dark greens and earth browns in flat morning light, historically accurate 1894 expedition camp in the Borneo highlands.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, raised weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:39–1:48",
+      "narasi": "Kontrolir Belanda tidak mau mengambil risiko apa pun. Perintahnya singkat, dan tak bisa dibantah: semua berbalik pulang.",
+      "prompt": "Same character as the Kontrolir reference image.\nSame character as the Dokter Muda reference image.\nSame character as the Pemuda Iban reference image.\nMedium-wide shot from a slightly low angle in the misty hillside camp.\nKontrolir points firmly back up the path they came by, jaw set; Dokter Muda turns away with his notebook pressed to his chest, shoulders dropped, staring down toward the hidden valley in disappointment; porters heave baskets onto their backs and begin to turn; Pemuda Iban lifts his basket by one strap, looking over his shoulder at the valley. The porters are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey mist, dark greens and earth browns in flat morning light, historically accurate 1894 Dutch expedition in the Borneo highlands.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, raised weapons, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:48–1:59",
+      "narasi": "Kamu menoleh ke lembah itu sekali lagi. Benarkah ada musuh di bawah sana... atau hanya kabar yang berjalan lebih cepat dari kalian?",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nMedium-wide shot at eye level from the ridge looking down into a valley filled with grey mist, the forest below silent and unreadable.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. The left hand rests flat on a mossy tree trunk; the right hand holds the basket strap at the shoulder.\nNo people below; at the edge of the frame the last porters disappear up the path.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, cold grey mist and dark greens with a faint pale light, historically accurate central Borneo montane valley of the upper Mahakam.\nAvoid characters looking at the camera, villages, smoke columns, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:59–2:08",
+      "narasi": "Pulang jauh lebih cepat. Arus Kapuas membawa kalian kembali ke Putussibau pada dua puluh dua Juli.",
+      "prompt": "Same character as the Pemuda Iban reference image.\nSame character as the Pemuda Kayan reference image.\nWide shot at eye level from the river as dugout boats glide fast downstream toward Putussibau in the late afternoon: on the left bank a low row of Malay houses on stilts, on the higher right bank a row of Chinese traders' houses joined under one long roof with a gallery, and a raised wooden blockhouse behind a palisade.\nIn the nearest boat, Pemuda Kayan steers with long easy strokes, face relaxed for the first time; Pemuda Iban sits mid-boat with his paddle across his knees, looking toward the town. Townspeople on the bank turn to watch. The townspeople and other paddlers are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, golden-brown river light, warm wood and green banks, historically accurate 1890s upper Kapuas trading settlement.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, motorboats, electric poles, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:08–2:17",
+      "narasi": "Malam itu, pemuda Kayan di perahumu menyodorkan sebungkus nasi. Tanpa sepatah kata. Kamu menerimanya.",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nSame character as the Pemuda Kayan reference image.\nMedium shot at eye level on the riverbank at night beside a small fire, boats dark shapes behind.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. Both hands reach forward, palms up, to receive a packet of rice wrapped in a green leaf.\nPemuda Kayan, sitting on his heels across the fire, holds the leaf packet out with one hand, his face calm and unsmiling, eyes lowered to the packet rather than to the viewer; firelight on his face and brass ear rings.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, a single warm orange firelight against deep blue darkness, historically accurate 1894 Kayan and Iban men on the upper Kapuas.\nAvoid characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:17–2:27",
+      "narasi": "Dua tahun kemudian, orang Kayan berangkat lagi dari Putussibau, mengantar dokter muda itu. Kali ini dengan satu syarat: tanpa pengawal bersenjata.",
+      "prompt": "Same character as the Dokter Muda reference image.\nSame character as the Pemuda Kayan reference image.\nWide shot from a slightly high angle over the Putussibau river landing on a clear morning, twelve dugout boats pushing off into the current.\nDokter Muda, two years older, sits in the roofed middle of the lead boat, one hand raised in a short farewell, face eager; Pemuda Kayan paddles at the bow with a calm, steady expression; Kayan paddlers fill the boats; on the bank, townspeople watch. There are no soldiers and no rifles anywhere in the boats. The paddlers and townspeople are different people from the main characters.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright blue morning sky, brown river and fresh greens, historically accurate 1896 Kayan dugout expedition leaving the upper Kapuas.\nAvoid characters looking at the camera, stiff symmetrical poses, background figures copying the main characters' faces or outfits, soldiers, guns, motorboats, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:27–2:39",
+      "narasi": "Perahu-perahu itu menjauh. Kali ini, mereka sampai ke Mahakam... Jadi, yang dulu membuat kalian berbalik: musuh di seberang, atau senapan di perahu sendiri?",
+      "prompt": "The viewer is Pemuda Iban: the hands and forearms in the foreground match the first-person panel of the Pemuda Iban reference image.\nMedium shot at eye level from the wooden landing at Putussibau as the boats shrink into the distance and round a bend of the river.\nFirst-person point of view. Young man's lean hands with warm medium-brown skin, calloused palms from paddling, short nails, bare forearms with no tattoos, a plain white shell bracelet on the right wrist. The right hand rests on a worn wooden mooring post; the left hand hangs loose at the side.\nNo other people close by; the river is wide and quiet, the last boat a small dark shape against the bright water.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, bright morning light softening to warm gold on the water, historically accurate 1896 upper Kapuas river at Putussibau.\nAvoid characters looking at the camera, motorboats, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pakai voice yang sama dengan video Kutai Barat bila ingin terasa satu seri jalur Kapuas–Mahakam; voice menentukan lebih dari tag.\n\n- Babak 1: hook pelan dan sedih, lalu tenang; tegang dan tertahan di \"sudah lama bermusuhan\".\n- Babak 2: tenang lalu tegang; tempo naik di jeram, jeda kecil sebelum \"lalu cepat-cepat melepaskannya\".\n- Babak 3: berat dan lambat saat memikul, ingin tahu di adegan ahli batuan, lalu takjub dan terangkat di batas air.\n- Babak 4: cemas, lalu pasrah; kalimat terakhir babak ini pelan seperti bertanya pada diri sendiri.\n- Babak 5: tenang, lalu adegan 14 berbisik penuh; kalimat terakhir pelan dan dibiarkan menggantung sebagai pertanyaan.",
+    "arahanBabak": {
+      "1": "hook pelan dan sedih, lalu tenang; tegang dan tertahan di \"sudah lama bermusuhan\".",
+      "2": "tenang lalu tegang; tempo naik di jeram, jeda kecil sebelum \"lalu cepat-cepat melepaskannya\".",
+      "3": "berat dan lambat saat memikul, ingin tahu di adegan ahli batuan, lalu takjub dan terangkat di batas air.",
+      "4": "cemas, lalu pasrah; kalimat terakhir babak ini pelan seperti bertanya pada diri sendiri.",
+      "5": "tenang, lalu adegan 14 berbisik penuh; kalimat terakhir pelan dan dibiarkan menggantung sebagai pertanyaan."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu berdiri di punggung pegunungan Borneo. [curious] Di bawah sana, air mengalir ke Mahakam... [sad] Besok pagi, kalian semua berbalik...\n\n[calm] Sebulan sebelumnya, dua puluh empat perahu bersiap di Putussibau. [serious] Belanda ingin menembus pedalaman, dari hulu Kapuas sampai ke Mahakam...\n\n[tense] Rombongan ini membawa delapan puluh lima orang Kayan dari Mendalam, dan delapan orang Iban. [nervous] Kamu salah satunya. [serious] Kaummu dan kaum mereka sudah lama bermusuhan...",
+    "2": "[calm] Hari demi hari, kalian mendayung melawan arus Kapuas yang deras. [tense] Di perahumu, tak seorang pun mengajakmu bicara, bahkan saat makan...\n\n[tense] Di sebuah jeram, perahu oleng hampir terbalik. [nervous] Sebuah tangan Kayan mencengkeram lenganmu erat... [tense] lalu cepat-cepat melepaskannya, seolah tak terjadi apa-apa...\n\n[calm] Rombongan berbelok ke Sungai Bungan, lalu Bulit, makin jauh ke hulu. [serious] Di Pangkalan Mahakam, perahu-perahu ditinggalkan...",
+    "3": "[tense] Kini semua beban dipikul di punggung. [serious] Beras, peti, dan alat-alat orang Belanda, naik turun bukit berlumpur, dari pagi sampai petang...\n\n[curious] Seorang ahli batuan Belanda berhenti di setiap tebing, mengetuk batu dengan palunya. [calm] Dokter muda di sebelahnya mencatat semua yang ia lihat...\n\n[excited] Empat belas Juli, kalian melewati punggung pegunungan. [curious] Untuk pertama kalinya, air di kakimu mengalir ke arah lain... ke Mahakam...",
+    "4": "[tense] Keesokan harinya, seorang utusan datang membawa kabar. [nervous] Orang-orang di seberang katanya bersiap menyambut kalian dengan permusuhan...\n\n[serious] Kontrolir Belanda tidak mau mengambil risiko apa pun. [resigned] Perintahnya singkat, dan tak bisa dibantah: semua berbalik pulang...\n\n[sad] Kamu menoleh ke lembah itu sekali lagi. [curious] Benarkah ada musuh di bawah sana... [sad] atau hanya kabar yang berjalan lebih cepat dari kalian?...",
+    "5": "[calm] Pulang jauh lebih cepat. [calm] Arus Kapuas membawa kalian kembali ke Putussibau pada dua puluh dua Juli...\n\n[sad] [whispers] Malam itu, pemuda Kayan di perahumu menyodorkan sebungkus nasi. [whispers] Tanpa sepatah kata. [sad] [whispers] Kamu menerimanya...\n\n[calm] Dua tahun kemudian, orang Kayan berangkat lagi dari Putussibau, mengantar dokter muda itu. [serious] Kali ini dengan satu syarat: tanpa pengawal bersenjata...\n\n[curious] Perahu-perahu itu menjauh. [serious] Kali ini, mereka sampai ke Mahakam... [curious] Jadi, yang dulu membuat kalian berbalik: musuh di seberang, atau senapan di perahu sendiri?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Mudik",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Sunyi dan sedih di hook, lalu canggung, tegang, dan bertenaga di jeram",
+      "style": "Cinematic Borneo folk ambient, a lonely plucked sape lute phrase over a low drone, then a soft distant brass gong-chime pattern in the style of the Iban engkerumong answering it, uneasy and searching, building into driving hand drums and rushing strings like a river in rapids, fades out at the end, about 65 seconds long (1:05), with a clear ending, 88 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, rock drums, trap"
+    },
+    {
+      "nomor": 2,
+      "nama": "Batas Air",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:05",
+      "suasana": "Berat dan lambat, terangkat takjub di puncak, lalu jatuh cemas dan getir",
+      "style": "Slow cinematic underscore, heavy low strings and a deep frame drum like labouring footsteps, a rising sape melody that opens into a brief bright, awed swell, then a sudden drop to tense pizzicato and a single low gong, uncertain and bitter, fades out at the end, about 65 seconds long (1:05), with a clear ending, 70 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, triumphant brass, upbeat pop"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pulang",
+      "babakAwal": 5,
+      "babakAkhir": 5,
+      "durasiTarget": "0:45",
+      "suasana": "Lega, hening di api kecil, lalu menggantung",
+      "style": "Intimate Borneo folk lullaby, a quiet sape melody and the soft brass gong-chime motif from the first cue finally playing together, warm and tender, then thinning to one held note left unresolved, reflective and open, fades out at the end, about 45 seconds long (0:45), with a clear ending, 64 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, triumphant brass, anthem"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Angin pegunungan dan serangga senja",
+      "kataKunci": "mountain wind dusk insects",
+      "prompt": "Cool wind over a forested mountain ridge at dusk, cicadas and distant birds settling"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Riuh dermaga dan perahu kayu",
+      "kataKunci": "river landing crowd, wooden boats knock",
+      "prompt": "Busy riverbank in the morning, voices calling, wooden canoes knocking together, crates being set down"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Tali rotan ditarik",
+      "kataKunci": "rope tighten, rattan creak",
+      "prompt": "Rattan cord pulled tight around a bundle, creaking fibres, quiet murmuring nearby"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Dayung serempak",
+      "kataKunci": "paddling rhythm canoe river",
+      "prompt": "Several wooden paddles dipping in unison into a strong river current, steady splashes, low laughter"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Jeram",
+      "kataKunci": "river rapids roaring",
+      "prompt": "Roaring river rapids crashing over boulders, a wooden boat scraping rock, men shouting"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Perahu ditarik ke kerikil",
+      "kataKunci": "boat dragged gravel",
+      "prompt": "A wooden canoe dragged onto a gravel bank, stones grinding, shallow water lapping"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Langkah di lumpur",
+      "kataKunci": "footsteps mud forest, heavy breathing",
+      "prompt": "Bare feet squelching up a muddy forest slope, heavy breathing, a basket creaking under load"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Palu mengetuk batu",
+      "kataKunci": "geology hammer rock tapping",
+      "prompt": "A small hammer tapping on rock in a quiet forest, a pencil scratching on paper, birds"
+    },
+    {
+      "nomor": 9,
+      "adegan": 9,
+      "bunyi": "Gemericik air pegunungan",
+      "kataKunci": "mountain stream trickle",
+      "prompt": "A clear small mountain stream trickling over stones, soft wind, distant hornbill call"
+    },
+    {
+      "nomor": 10,
+      "adegan": 10,
+      "bunyi": "Langkah berlari dan bisik",
+      "kataKunci": "running footsteps, crowd murmur",
+      "prompt": "Hurried footsteps arriving in a quiet camp, panting, voices dropping to worried whispers"
+    },
+    {
+      "nomor": 11,
+      "adegan": 11,
+      "bunyi": "Keranjang diangkat",
+      "kataKunci": "baskets lifted, camp breaking",
+      "prompt": "Rattan baskets swung onto backs, a short sharp command, feet turning on wet ground"
+    },
+    {
+      "nomor": 12,
+      "adegan": 13,
+      "bunyi": "Arus deras dan dayung ringan",
+      "kataKunci": "river current fast canoe",
+      "prompt": "Fast river current carrying canoes downstream, light easy paddle strokes, distant village sounds"
+    },
+    {
+      "nomor": 13,
+      "adegan": 14,
+      "bunyi": "Api kecil dan jangkrik",
+      "kataKunci": "small campfire night crickets",
+      "prompt": "Small campfire crackling by a river at night, crickets, water lapping softly"
+    },
+    {
+      "nomor": 14,
+      "adegan": 15,
+      "bunyi": "Dermaga pagi dan dayung",
+      "kataKunci": "river departure morning",
+      "prompt": "Morning river landing, many paddles pushing off, a few soft farewells, birds over the water"
+    },
+    {
+      "nomor": 15,
+      "adegan": 16,
+      "bunyi": "Arus tenang",
+      "kataKunci": "calm wide river ambience",
+      "prompt": "Wide calm river in the morning, gentle current against a wooden post, distant birds"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Kabar permusuhan itu kemungkinan digerakkan Belare', kepala Aoheng di hulu Mahakam.",
+    "sumber": "Bernard Sellato, A.W. Nieuwenhuis Across Borneo (1994)",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Orang Iban di Ekspedisi Putussibau, 1894",
+      "catatan": "Alternatif judul: POV: Kamu Satu dari 8 Orang Iban di Ekspedisi Belanda, 1894 / POV: Kamu Sudah Sampai di Mahakam, Lalu Disuruh Pulang",
+      "caption": "Sudah sampai di seberang gunung, lalu berbalik karena sebuah kabar.\n\nPada 15 Juni 1894 sebuah ekspedisi Belanda berangkat dari Putussibau, kini ibu kota Kabupaten Kapuas Hulu, dengan 85 orang Kayan dari Mendalam dan 8 orang Iban. Pada 14 Juli mereka melewati batas air ke lembah Mahakam, lalu berbalik keesokan harinya. Dua tahun kemudian, orang Kayan memandu dokter Nieuwenhuis menyeberang lagi, kali ini tanpa pengawal bersenjata.\n\nKalau kamu di posisinya, kamu percaya kabar itu, atau terus turun ke Mahakam?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Bernard Sellato, A.W. Nieuwenhuis Across Borneo (1994); A.W. Nieuwenhuis, Quer durch Borneo (1904).\n\n#UlikSilam #sejarahindonesia #putussibau #kapuashulu"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Orang Iban di Ekspedisi Putussibau, 1894",
+      "catatan": "",
+      "caption": "Sudah sampai di seberang gunung, lalu berbalik karena sebuah kabar.\n\nPada 15 Juni 1894 sebuah ekspedisi Belanda berangkat dari Putussibau, kini ibu kota Kabupaten Kapuas Hulu, dengan 85 orang Kayan dari Mendalam dan 8 orang Iban. Pada 14 Juli mereka melewati batas air ke lembah Mahakam, lalu berbalik keesokan harinya. Dua tahun kemudian, orang Kayan memandu dokter Nieuwenhuis menyeberang lagi, kali ini tanpa pengawal bersenjata.\n\nKalau kamu di posisinya, kamu percaya kabar itu, atau terus turun ke Mahakam?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Bernard Sellato, A.W. Nieuwenhuis Across Borneo (1994); A.W. Nieuwenhuis, Quer durch Borneo (1904).\n\n#UlikSilam #sejarahindonesia #putussibau #kapuashulu #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 16,
+    "jumlahBabak": 5,
+    "totalKata": 306,
+    "kataPerBabak": {
+      "1": 61,
+      "2": 56,
+      "3": 60,
+      "4": 55,
+      "5": 74
+    },
+    "karakterPerBabak": {
+      "1": 494,
+      "2": 476,
+      "3": 468,
+      "4": 455,
+      "5": 625
+    },
+    "jedaBunyi": 5,
+    "perkiraanDetik130": {
+      "narasi": 159.6,
+      "denganMerek": 164.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 154.4,
+      "denganMerek": 159.4
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

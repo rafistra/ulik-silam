@@ -1,0 +1,4 @@
+# Samakan akhir baris di Windows, macOS, dan Linux
+* text=auto eol=lf
+*.woff2 binary
+*.svg text

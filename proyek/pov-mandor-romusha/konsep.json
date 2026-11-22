@@ -1,0 +1,662 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-18T07:17:19.134Z",
+  "judulDokumen": "Mandor Romusha di Jalur Saketi–Bayah",
+  "judul": "POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943",
+  "slug": "pov-mandor-romusha",
+  "versi": "v6 · 2026-10-18",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Laki-laki pribumi dari desa di Jawa Tengah, ditunjuk lurah menjadi mandor regu romusha yang semuanya orang sekampungnya",
+  "ringkasan": {
+    "Judul": "POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943",
+    "Slug": "pov-mandor-romusha",
+    "Versi": "v6 · 2026-10-18",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Laki-laki pribumi dari desa di Jawa Tengah, ditunjuk lurah menjadi mandor regu romusha yang semuanya orang sekampungnya",
+    "Jumlah ilustrasi": "20 (17 adegan + 3 lembar karakter: kamu, Slamet, pengawas Jepang)",
+    "Latar": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+    "Nada": "Kelam dan intim: hangat sebentar di desa, sesak di Bayah, sunyi di akhir",
+    "Generator dan perakit": "Gemini (detailed vector art), Suno, narator AI, Remotion",
+    "Dipilih karena": "Gabungan mandor rel Saketi–Bayah dan mandor-perekrut desa; alur hitung mundur dengan pembuka desa dan akhir pulang sendirian, dipilih karena paling dramatis dan paling menggambarkan penderitaan rakyat",
+    "Lapisan": "Sejarah"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Desa",
+      "suasana": "Hangat tapi rapuh",
+      "palet": "Oker pudar, kuning jerami, hijau sawah redup",
+      "cahaya": "Pagi keemasan, lembut"
+    },
+    {
+      "babak": 2,
+      "nama": "Hutan Banten",
+      "suasana": "Keras dan menekan",
+      "palet": "Hijau hutan pekat, tanah merah kecokelatan, khaki",
+      "cahaya": "Siang putih menyilaukan, bayangan tajam"
+    },
+    {
+      "babak": 3,
+      "nama": "Menyusut",
+      "suasana": "Sakit dan basah",
+      "palet": "Hijau keabuan, cokelat lumpur, kuning pucat",
+      "cahaya": "Mendung, hujan, subuh kelabu"
+    },
+    {
+      "babak": 4,
+      "nama": "Kamera datang",
+      "suasana": "Palsu lalu duka",
+      "palet": "Sepia pudar, khaki pucat; adegan 12 indigo gelap",
+      "cahaya": "Siang datar menyilaukan; adegan 12 satu pelita"
+    },
+    {
+      "babak": 5,
+      "nama": "Surat ke lurah",
+      "suasana": "Sunyi, bersalah",
+      "palet": "Indigo hampir hitam, arang, satu cahaya amber; adegan 14 pagi pucat",
+      "cahaya": "Pelita minyak; pagi pucat"
+    },
+    {
+      "babak": 6,
+      "nama": "Kereta dan pulang",
+      "suasana": "Hampa",
+      "palet": "Abu-abu abu, putih asap batubara, amber berdebu",
+      "cahaya": "Senja berdebu"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Desa",
+    "2": "Hutan Banten",
+    "3": "Menyusut",
+    "4": "Kamera datang",
+    "5": "Surat ke lurah",
+    "6": "Kereta pertama dan pulang"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Desa",
+      "waktu": "0:00–0:06",
+      "durasiCadangan": 6,
+      "bidikan": "A",
+      "visual": "Tangan kamu memegang buku daftar nama dan pensil di tepi bawah; di depan, puluhan romusha bertelanjang dada mengayun cangkul di jalur tanah yang membelah hutan lebat; seorang pengawas Jepang berdiri di gundukan tanah",
+      "narasiSuara": "[serious] Kamu bukan romusha. [serious] Kamu orang yang memastikan mereka tidak berhenti mengayun cangkul.",
+      "narasi": "Kamu bukan romusha. Kamu orang yang memastikan mereka tidak berhenti mengayun cangkul.",
+      "teksLayar": [
+        "Jalur Saketi–Bayah, 1943"
+      ],
+      "suara": "Denting cangkul berirama, serangga hutan",
+      "hening": false,
+      "epilog": false,
+      "kata": 12
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Desa",
+      "waktu": "0:06–0:17",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Kamu berdiri di depan lumbung desa yang pintunya terbuka dan kosong; lurah tua menyerahkan selembar daftar kepadamu; anak-anak kurus menonton dari pagar bambu",
+      "narasiSuara": "[calm] Padi desamu sudah disetor ke Jepang. [sad] Lumbung kosong. [calm] Lalu lurah memanggilmu. [calm] Kamu bisa membaca, kamu kenal semua orang. [serious] Mulai hari ini, kamu mandor.",
+      "narasi": "Padi desamu sudah disetor ke Jepang. Lumbung kosong. Lalu lurah memanggilmu. Kamu bisa membaca, kamu kenal semua orang. Mulai hari ini, kamu mandor.",
+      "teksLayar": [
+        "Sebuah desa di Jawa Tengah"
+      ],
+      "suara": "Ayam, angin, pintu kayu berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 23
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Desa",
+      "waktu": "0:17–0:28",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Kamu berbicara di halaman balai desa di depan warga; para ibu berkain lusuh memegang lengan anak lelaki mereka; Slamet, pemuda kurus yang tersenyum, mengangkat tangan paling dulu",
+      "narasiSuara": "[hesitant] Kamu sampaikan janjinya: upah dan makan yang layak. [hesitant] Para ibu melepas anaknya karena yang bicara kamu. [sad] Slamet, sepupumu, mendaftar paling dulu.",
+      "narasi": "Kamu sampaikan janjinya: upah dan makan yang layak. Para ibu melepas anaknya karena yang bicara kamu. Slamet, sepupumu, mendaftar paling dulu.",
+      "teksLayar": [],
+      "suara": "Gumam warga, tangis tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Hutan Banten",
+      "waktu": "0:28–0:38",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dari sudut pandangmu: patok kayu dan tali menandai jalur rel yang menembus hutan dan bukit; pengawas Jepang berseragam dan bertopi lapangan mengacungkan satu jari ke arahmu",
+      "narasiSuara": "[tense] Delapan puluh sembilan kilometer rel, menembus hutan dan bukit, menuju batubara Bayah. [tense] Pengawas Jepang memberimu satu angka: target hari ini.",
+      "narasi": "Delapan puluh sembilan kilometer rel, menembus hutan dan bukit, menuju batubara Bayah. Pengawas Jepang memberimu satu angka: target hari ini.",
+      "teksLayar": [],
+      "suara": "Kapak menebang pohon, perintah singkat berbahasa Jepang",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Hutan Banten",
+      "waktu": "0:38–0:47",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Barisan romusha mengangkut tanah dengan keranjang bambu dan cangkul, hampir tanpa mesin; kamu berdiri di pinggir dengan buku daftar, menghitung kepala",
+      "narasiSuara": "[serious] Hampir tanpa mesin. [serious] Hanya cangkul, keranjang, dan punggung orang-orang desamu. [tired] Setiap pagi kamu menghitung kepala. [tired] Setiap sore kamu melapor.",
+      "narasi": "Hampir tanpa mesin. Hanya cangkul, keranjang, dan punggung orang-orang desamu. Setiap pagi kamu menghitung kepala. Setiap sore kamu melapor.",
+      "teksLayar": [],
+      "suara": "Tanah jatuh dari keranjang, napas berat",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Hutan Banten",
+      "waktu": "0:47–0:58",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Pengawas Jepang memukul punggung seorang romusha yang berlutut dengan tongkat kayu, bidikan setengah badan; bekas pukulan memerah di punggung; kamu terpaku di latar belakang, tangan mengepal",
+      "narasiSuara": "[tense] Seorang anak buahmu berhenti untuk minum. [tense] Tongkat pengawas menghantam punggungnya, lagi dan lagi. [whispers] Kamu tidak bergerak. [whispers] Kalau kamu bergerak, kamu berikutnya.",
+      "narasi": "Seorang anak buahmu berhenti untuk minum. Tongkat pengawas menghantam punggungnya, lagi dan lagi. Kamu tidak bergerak. Kalau kamu bergerak, kamu berikutnya.",
+      "teksLayar": [],
+      "suara": "Pukulan kayu, rintihan, lalu sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Menyusut",
+      "waktu": "0:58–1:09",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Barak bambu beratap daun di waktu subuh; romusha bercelana karung goni, tubuh kurus dengan tulang rusuk menonjol, kaki penuh borok terbuka; kamu membangunkan mereka dengan menepuk tiang",
+      "narasiSuara": "[tired] Jatah beras makin sedikit. [tired] Baju mereka berganti karung goni. [tired] Badan mengecil, kaki penuh borok. [sad] Dan setiap subuh, kamu tetap yang membangunkan mereka.",
+      "narasi": "Jatah beras makin sedikit. Baju mereka berganti karung goni. Badan mengecil, kaki penuh borok. Dan setiap subuh, kamu tetap yang membangunkan mereka.",
+      "teksLayar": [],
+      "suara": "Hujan di atap daun, batuk",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Menyusut",
+      "waktu": "1:09–1:19",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Barisan apel pagi; kamu berdiri tepat di depan Slamet yang pucat, menggigil, dan berkeringat; pengawas Jepang berjalan menyusuri barisan",
+      "narasiSuara": "[sad] Slamet menggigil karena malaria. [sad] Tidak ada mantri, tidak ada obat. [nervous] Saat apel, kamu berdiri di depannya dan bilang dia sehat.",
+      "narasi": "Slamet menggigil karena malaria. Tidak ada mantri, tidak ada obat. Saat apel, kamu berdiri di depannya dan bilang dia sehat.",
+      "teksLayar": [],
+      "suara": "Langkah sepatu bot, gigi gemeletuk",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 3,
+      "namaBabak": "Menyusut",
+      "waktu": "1:19–1:28",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Dua romusha mengusung jenazah terbungkus tikar menuju lubang kubur bersama di pinggir hutan; beberapa bungkusan tikar lain sudah di dalam lubang; kamu memegang cangkul di tepi lubang",
+      "narasiSuara": "[sad] Setiap pagi ada yang tidak bangun. [sad] Kamu sendiri yang membungkusnya dengan tikar. [sad] Lubang di pinggir hutan itu makin lebar.",
+      "narasi": "Setiap pagi ada yang tidak bangun. Kamu sendiri yang membungkusnya dengan tikar. Lubang di pinggir hutan itu makin lebar.",
+      "teksLayar": [],
+      "suara": "Tanah dicangkul, burung gagak",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Kamera datang",
+      "waktu": "1:28–1:39",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Juru kamera Jepang memasang kamera film bertripod di tepi jalur; romusha yang paling sehat disuruh berbaris dan tersenyum; spanduk bertulisan Jepang di belakang",
+      "narasiSuara": "[serious] Suatu hari, juru kamera propaganda Jepang datang ke proyek. [bitter] Film tentang romusha akan diputar keliling desa, untuk memanggil lebih banyak orang.",
+      "narasi": "Suatu hari, juru kamera propaganda Jepang datang ke proyek. Film tentang romusha akan diputar keliling desa, untuk memanggil lebih banyak orang.",
+      "teksLayar": [],
+      "suara": "Gulungan film berputar, aba-aba",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Kamera datang",
+      "waktu": "1:39–1:50",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Dari balik dinding barak bambu, tanganmu menahan bahu Slamet yang terbaring lemah; lewat celah bambu terlihat kamera merekam romusha yang mencangkul sambil tersenyum",
+      "narasiSuara": "[bitter] Perintah untukmu cuma satu: yang sakit jangan sampai masuk gambar. [bitter] Hari itu regumu harus terlihat kuat dan bersemangat. [nervous] Kamu sembunyikan Slamet di balik barak.",
+      "narasi": "Perintah untukmu cuma satu: yang sakit jangan sampai masuk gambar. Hari itu regumu harus terlihat kuat dan bersemangat. Kamu sembunyikan Slamet di balik barak.",
+      "teksLayar": [],
+      "suara": "Suara kamera dari jauh, napas Slamet",
+      "hening": false,
+      "epilog": false,
+      "kata": 24
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Kamera datang",
+      "waktu": "1:50–1:58",
+      "durasiCadangan": 8,
+      "bidikan": "B",
+      "visual": "Malam di barak, pelita minyak; kamu duduk di samping tikar Slamet yang diam, matanya tertutup; sandal jepitnya di lantai tanah",
+      "narasiSuara": "[bitter] Kamera pergi sore itu, membawa gambar romusha yang tersenyum... [sad] [whispers] Slamet pergi malam harinya, di tikar sebelahmu.",
+      "narasi": "Kamera pergi sore itu, membawa gambar romusha yang tersenyum... Slamet pergi malam harinya, di tikar sebelahmu.",
+      "teksLayar": [],
+      "suara": "Jangkrik, nyala pelita",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Surat ke lurah",
+      "waktu": "1:58–2:08",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Tanganmu menulis surat di atas papan kayu di bawah pelita; di tepi kertas, daftar nama dengan banyak coretan",
+      "narasiSuara": "[whispers] Regumu tidak lagi memenuhi target. [whispers] Pengawas menunggu jawabanmu. [sighs] [whispers] Malam itu, kamu menulis surat ke lurah.",
+      "narasi": "Regumu tidak lagi memenuhi target. Pengawas menunggu jawabanmu. Malam itu, kamu menulis surat ke lurah.",
+      "teksLayar": [],
+      "suara": "Goresan pensil, lalu hening",
+      "hening": true,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Surat ke lurah",
+      "waktu": "2:08–2:19",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Rombongan pemuda desa yang masih segar turun di ujung jalur, membawa buntelan kain; mereka melambai dan tersenyum ke arahmu; kamu tidak membalas",
+      "narasiSuara": "[calm] Dua minggu kemudian, rombongan baru datang. [sad] Anak-anak tetanggamu, sebagian belum pernah keluar desa. [sad] Mereka tersenyum melihatmu. [quietly] Mereka datang karena kamu yang memanggil.",
+      "narasi": "Dua minggu kemudian, rombongan baru datang. Anak-anak tetanggamu, sebagian belum pernah keluar desa. Mereka tersenyum melihatmu. Mereka datang karena kamu yang memanggil.",
+      "teksLayar": [],
+      "suara": "Langkah kaki banyak, tawa muda",
+      "hening": false,
+      "epilog": false,
+      "kata": 22
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Kereta pertama dan pulang",
+      "waktu": "2:19–2:29",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Lokomotif uap pertama melintas di rel baru dengan bendera Jepang; pejabat militer Jepang bertepuk tangan di peron sederhana; di kejauhan, gundukan tanah kuburan di pinggir hutan",
+      "narasiSuara": "[resigned] Satu April 1944. [resigned] Jalur Saketi–Bayah dibuka. [bitter] Pejabat Jepang bertepuk tangan. [resigned] Kereta pertama melintas di samping lubang-lubang di pinggir hutan.",
+      "narasi": "Satu April 1944. Jalur Saketi–Bayah dibuka. Pejabat Jepang bertepuk tangan. Kereta pertama melintas di samping lubang-lubang di pinggir hutan.",
+      "teksLayar": [
+        "1 April 1944"
+      ],
+      "suara": "Peluit kereta, tepuk tangan",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Kereta pertama dan pulang",
+      "waktu": "2:29–2:37",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Tanganmu membuka buku daftar: 44 nama, sebagian besar dicoret; di depan, sisa regu berdiri goyah di samping rel",
+      "narasiSuara": "[resigned] Kamu menghitung untuk terakhir kalinya. [resigned] Empat puluh empat nama pernah kamu catat. [sad] Sembilan belas yang masih berdiri.",
+      "narasi": "Kamu menghitung untuk terakhir kalinya. Empat puluh empat nama pernah kamu catat. Sembilan belas yang masih berdiri.",
+      "teksLayar": [],
+      "suara": "Kereta menjauh, angin",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Kereta pertama dan pulang",
+      "waktu": "2:37–2:48",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Kamu berjalan di jalan tanah menuju desa, diikuti beberapa orang kurus; para ibu berdiri di ujung jalan, menatap barisan di belakangmu",
+      "narasiSuara": "[softly] Kamu pulang. [softly] Para ibu sudah menunggu di ujung jalan desa. [sad] Mereka tidak bertanya apa-apa. [whispers] Mereka hanya menghitung siapa yang berjalan di belakangmu.",
+      "narasi": "Kamu pulang. Para ibu sudah menunggu di ujung jalan desa. Mereka tidak bertanya apa-apa. Mereka hanya menghitung siapa yang berjalan di belakangmu.",
+      "teksLayar": [
+        "Jalur ini ditutup tahun 1951, lalu relnya dibongkar."
+      ],
+      "suara": "Angin desa, langkah pelan, musik menghilang",
+      "hening": false,
+      "epilog": true,
+      "kata": 22
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Mandor",
+      "prompt": "Character reference sheet of the main character: a Javanese man in his early 30s, lean build, short black hair under a black peci cap, thin mustache, weary eyes; faded off-white long-sleeved cotton shirt with sleeves rolled to the elbow, patched dark knee-length cotton trousers, barefoot; a small cloth-bound notebook and a pencil in his shirt pocket. Three full-body views side by side: front, side and back, standing in a neutral pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate Java, 1943. Vertical 9:16 aspect ratio. Avoid text, labels, watermarks, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Slamet",
+      "prompt": "Character reference sheet: a Javanese young man about 19 years old, slim, short-cropped black hair, open friendly face with a shy smile, bare-chested, knee-length trousers of rough brown burlap sack cloth tied with a rope belt, barefoot. Three full-body views side by side: front, side and back, standing in a neutral pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate Java, 1943. Vertical 9:16 aspect ratio. Avoid text, labels, watermarks, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Pengawas Jepang",
+      "prompt": "Character reference sheet: an Imperial Japanese Army sergeant in his 30s, stern but human expression, realistic proportions, not a caricature; light khaki tropical cotton uniform shirt, khaki trousers with wrapped puttees, brown leather ankle boots, khaki peaked field cap with a four-panel cloth neck flap, holding a long wooden stick. Three full-body views side by side: front, side and back, standing in a neutral pose, plain light grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate Java, 1943. Vertical 9:16 aspect ratio. Avoid text, labels, watermarks, caricature.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:06",
+      "narasi": "Kamu bukan romusha. Kamu orang yang memastikan mereka tidak berhenti mengayun cangkul.",
+      "prompt": "Same character as the Pengawas Jepang reference image. First-person point of view of a native Javanese foreman: his own hands and the rolled sleeves of his faded off-white shirt are visible at the bottom edge of the middle third, holding an open cloth-bound notebook with a list of names and a pencil. Ahead, dozens of thin bare-chested Javanese forced laborers in burlap sack trousers swing hoes along a raw earth railway cutting through dense tropical forest in South Banten. In the background, the Japanese overseer stands on a mound of dirt, watching. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep jungle greens, raw red-brown earth, khaki, harsh white midday sunlight with hard shadows. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:06–0:17",
+      "narasi": "Padi desamu sudah disetor ke Jepang. Lumbung kosong. Lalu lurah memanggilmu. Kamu bisa membaca, kamu kenal semua orang. Mulai hari ini, kamu mandor.",
+      "prompt": "Same character as the Mandor reference image. He stands in front of an empty village rice barn with bamboo walls and a thatched roof, its door open to a bare floor. An old village head in a black peci and a worn batik shirt hands him a sheet of paper. Thin children watch from behind a bamboo fence. A village in Central Java, 1943. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: warm faded ochre, dusty straw yellow, muted rice-field green, soft golden morning light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:17–0:28",
+      "narasi": "Kamu sampaikan janjinya: upah dan makan yang layak. Para ibu melepas anaknya karena yang bicara kamu. Slamet, sepupumu, mendaftar paling dulu.",
+      "prompt": "Same character as the Mandor reference image. Same character as the Slamet reference image. The foreman speaks to villagers in the yard of a village hall with a pendopo-style roof. Mothers in faded, worn kain and kebaya hold the arms of their teenage and young adult sons. Slamet, smiling, raises his hand first. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: warm faded ochre, dusty straw yellow, muted rice-field green, soft golden morning light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:38",
+      "narasi": "Delapan puluh sembilan kilometer rel, menembus hutan dan bukit, menuju batubara Bayah. Pengawas Jepang memberimu satu angka: target hari ini.",
+      "prompt": "Same character as the Pengawas Jepang reference image. First-person point of view of a native Javanese foreman: his own hands and the rolled sleeves of his faded off-white shirt are visible at the bottom edge of the middle third, holding the notebook. Ahead, wooden stakes and string mark the route of a future railway through dense jungle and hills, with felled tree trunks along the line. The Japanese overseer faces the viewer and raises one finger toward him. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep jungle greens, raw red-brown earth, khaki, harsh white midday sunlight with hard shadows. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:38–0:47",
+      "narasi": "Hampir tanpa mesin. Hanya cangkul, keranjang, dan punggung orang-orang desamu. Setiap pagi kamu menghitung kepala. Setiap sore kamu melapor.",
+      "prompt": "Same character as the Mandor reference image. A long line of thin Javanese laborers carry earth in bamboo baskets on shoulder poles and dig with hoes along a railway embankment; almost no machines, only one small hand-pushed lorry on narrow temporary rails. The foreman stands at the side counting heads in his notebook. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep jungle greens, raw red-brown earth, khaki, harsh white midday sunlight with hard shadows. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:47–0:58",
+      "narasi": "Seorang anak buahmu berhenti untuk minum. Tongkat pengawas menghantam punggungnya, lagi dan lagi. Kamu tidak bergerak. Kalau kamu bergerak, kamu berikutnya.",
+      "prompt": "Same character as the Mandor reference image. Same character as the Pengawas Jepang reference image. Medium waist-up shot: the Japanese overseer strikes the back of a kneeling Javanese laborer with a long wooden stick; red welts across the laborer's bare back, a dropped water gourd beside him. In the background the foreman stands frozen, fists clenched. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep jungle greens, raw red-brown earth, khaki, harsh white midday sunlight with hard shadows. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:58–1:09",
+      "narasi": "Jatah beras makin sedikit. Baju mereka berganti karung goni. Badan mengecil, kaki penuh borok. Dan setiap subuh, kamu tetap yang membangunkan mereka.",
+      "prompt": "Same character as the Mandor reference image. Same character as the Slamet reference image. Dawn inside a long bamboo barrack with a leaf-thatched roof, rain dripping through. Emaciated laborers with visible ribs, wearing ragged burlap sack trousers, with open sores on their legs, lie on woven mats. The foreman taps a bamboo pole to wake them; Slamet is among them, thinner than before. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: desaturated grey-green, mud brown, sickly pale yellow, overcast rainy light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:09–1:19",
+      "narasi": "Slamet menggigil karena malaria. Tidak ada mantri, tidak ada obat. Saat apel, kamu berdiri di depannya dan bilang dia sehat.",
+      "prompt": "Same character as the Mandor reference image. Same character as the Slamet reference image. Same character as the Pengawas Jepang reference image. Morning roll call in a muddy clearing: the foreman stands directly in front of Slamet, who is pale, sweating and shivering with fever. The Japanese overseer walks along the line of thin laborers, inspecting them. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: desaturated grey-green, mud brown, sickly pale yellow, overcast rainy light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:19–1:28",
+      "narasi": "Setiap pagi ada yang tidak bangun. Kamu sendiri yang membungkusnya dengan tikar. Lubang di pinggir hutan itu makin lebar.",
+      "prompt": "Same character as the Mandor reference image. Two thin laborers carry a body wrapped in a woven pandan mat toward a wide communal grave at the edge of the jungle; several other mat-wrapped bodies already lie in the pit, no faces visible. The foreman stands at the edge holding a hoe, head lowered. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: desaturated grey-green, mud brown, sickly pale yellow, overcast rainy light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:28–1:39",
+      "narasi": "Suatu hari, juru kamera propaganda Jepang datang ke proyek. Film tentang romusha akan diputar keliling desa, untuk memanggil lebih banyak orang.",
+      "prompt": "A Japanese newsreel cameraman in a khaki uniform sets up a 1940s 35mm film camera on a wooden tripod beside the railway cutting. The healthiest-looking laborers are lined up and told to smile. Behind them hangs a cloth banner with a red rising sun emblem and blurred, illegible Japanese characters. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: washed-out sepia, bleached khaki, flat glaring noon light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:39–1:50",
+      "narasi": "Perintah untukmu cuma satu: yang sakit jangan sampai masuk gambar. Hari itu regumu harus terlihat kuat dan bersemangat. Kamu sembunyikan Slamet di balik barak.",
+      "prompt": "Same character as the Slamet reference image. First-person point of view of a native Javanese foreman: his own hands and the rolled sleeves of his faded off-white shirt are visible at the bottom edge of the middle third, his hand resting on the shoulder of Slamet, who lies weak and feverish on a mat inside a dim bamboo barrack. Through gaps between the bamboo slats, in the bright distance, the film camera on its tripod records laborers hoeing and smiling. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: washed-out sepia, bleached khaki, flat glaring noon light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:50–1:58",
+      "narasi": "Kamera pergi sore itu, membawa gambar romusha yang tersenyum... Slamet pergi malam harinya, di tikar sebelahmu.",
+      "prompt": "Same character as the Mandor reference image. Same character as the Slamet reference image. Night inside the bamboo barrack lit by a small oil lamp: the foreman sits beside Slamet, who lies still on his mat with eyes closed; a pair of worn sandals on the dirt floor. Quiet and mournful. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: near-black indigo and charcoal, a single small warm amber oil-lamp glow. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:58–2:08",
+      "narasi": "Regumu tidak lagi memenuhi target. Pengawas menunggu jawabanmu. Malam itu, kamu menulis surat ke lurah.",
+      "prompt": "First-person point of view of a native Javanese foreman: his own hands and the rolled sleeves of his faded off-white shirt are visible at the bottom edge of the middle third, writing a letter in pencil on a sheet of paper resting on a wooden board, under a small flickering oil lamp; the handwriting is not legible. Beside it lies the notebook, open to a list of names with many crossed out. Darkness all around. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: near-black indigo and charcoal, a single small warm amber oil-lamp glow. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:08–2:19",
+      "narasi": "Dua minggu kemudian, rombongan baru datang. Anak-anak tetanggamu, sebagian belum pernah keluar desa. Mereka tersenyum melihatmu. Mereka datang karena kamu yang memanggil.",
+      "prompt": "Same character as the Mandor reference image. A group of healthy young village men, some barely past their teens, arrive at the end of the railway works carrying cloth bundles over their shoulders; they wave and smile toward the foreman, who stands still and does not wave back. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: pale washed-out morning colors, faded greens and greys, soft diffuse light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:19–2:29",
+      "narasi": "Satu April 1944. Jalur Saketi–Bayah dibuka. Pejabat Jepang bertepuk tangan. Kereta pertama melintas di samping lubang-lubang di pinggir hutan.",
+      "prompt": "A 1940s black steam locomotive pulling coal wagons crosses a newly built single narrow-gauge track decorated with small Japanese rising sun flags. Japanese military officers in khaki clap on a simple wooden platform. In the distance, mounds of freshly dug earth mark graves at the edge of the forest. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: pale ash grey, coal-smoke white, dusty amber dusk light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:29–2:37",
+      "narasi": "Kamu menghitung untuk terakhir kalinya. Empat puluh empat nama pernah kamu catat. Sembilan belas yang masih berdiri.",
+      "prompt": "First-person point of view of a native Javanese foreman: his own hands and the rolled sleeves of his faded off-white shirt are visible at the bottom edge of the middle third, holding the open notebook with a long list of names, most of them crossed out, not legible. Ahead, the few remaining emaciated laborers stand unsteadily beside the railway track as the train disappears into its own smoke. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: pale ash grey, coal-smoke white, dusty amber dusk light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:37–2:48",
+      "narasi": "Kamu pulang. Para ibu sudah menunggu di ujung jalan desa. Mereka tidak bertanya apa-apa. Mereka hanya menghitung siapa yang berjalan di belakangmu.",
+      "prompt": "Same character as the Mandor reference image. Seen from behind at dusk, the foreman walks along a dirt road toward a Central Java village, followed by a few thin men. At the end of the road a group of mothers in worn kain and kebaya stand waiting, looking past him at the men behind. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: pale ash grey, coal-smoke white, dusty amber dusk light. Historically accurate Java under Japanese occupation, 1943–1944. Vertical 9:16 aspect ratio, main subject in the middle third, empty space in the top third. Avoid gore close-ups, exposed organs, severed body parts, close-up pools of blood, caricatured or exaggerated Japanese faces, readable text, watermarks, modern objects.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Arahan per babak (generate per babak di ElevenLabs):\n\n- Babak 1: rendah dan tenang, sedikit ragu di adegan 3.\n- Babak 2: tegang dan datar, berbisik di kalimat terakhir adegan 6.\n- Babak 3: lelah dan berat, tempo sedikit lebih lambat.\n- Babak 4: getir di adegan 10, berbisik dan patah di akhir adegan 12.\n- Babak 5: hampir berbisik di adegan 13, lirih di akhir adegan 14.\n- Babak 6: hampa di adegan 15 dan 16, paling lambat dan lembut di adegan 17.\n\n* Suara laki-laki 30–40-an, Bahasa Indonesia baku, sedikit serak, nada rendah dan tertahan; emosi terasa, tetapi tidak meratap.\n* Tempo 130–135 kata per menit. Beri jeda sekitar setengah detik sesudah kalimat menohok: \"Kalau kamu bergerak, kamu berikutnya.\", \"Slamet pergi malam harinya, di tikar sebelahmu.\", dan \"Mereka datang karena kamu yang memanggil.\"\n* Adegan 13 dibaca hampir berbisik. Adegan 17 dibaca paling lambat.\n* Lafalkan \"Saketi\" sa-KE-ti dan \"Bayah\" BA-yah.\n* Setiap kalimat narasi diawali tag emosi Eleven v3; dengan Stability Robust tag kurang ditanggapi, dan pilihan voice tetap paling menentukan.",
+    "arahanBabak": {}
+  },
+  "narasiLengkap": {
+    "1": "[serious] Kamu bukan romusha. [serious] Kamu orang yang memastikan mereka tidak berhenti mengayun cangkul....\n\n[calm] Padi desamu sudah disetor ke Jepang. [sad] Lumbung kosong. [calm] Lalu lurah memanggilmu. [calm] Kamu bisa membaca, kamu kenal semua orang. [serious] Mulai hari ini, kamu mandor....\n\n[hesitant] Kamu sampaikan janjinya: upah dan makan yang layak. [hesitant] Para ibu melepas anaknya karena yang bicara kamu. [sad] Slamet, sepupumu, mendaftar paling dulu....",
+    "2": "[tense] Delapan puluh sembilan kilometer rel, menembus hutan dan bukit, menuju batubara Bayah. [tense] Pengawas Jepang memberimu satu angka: target hari ini....\n\n[serious] Hampir tanpa mesin. [serious] Hanya cangkul, keranjang, dan punggung orang-orang desamu. [tired] Setiap pagi kamu menghitung kepala. [tired] Setiap sore kamu melapor....\n\n[tense] Seorang anak buahmu berhenti untuk minum. [tense] Tongkat pengawas menghantam punggungnya, lagi dan lagi. [whispers] Kamu tidak bergerak. [whispers] Kalau kamu bergerak, kamu berikutnya....",
+    "3": "[tired] Jatah beras makin sedikit. [tired] Baju mereka berganti karung goni. [tired] Badan mengecil, kaki penuh borok. [sad] Dan setiap subuh, kamu tetap yang membangunkan mereka....\n\n[sad] Slamet menggigil karena malaria. [sad] Tidak ada mantri, tidak ada obat. [nervous] Saat apel, kamu berdiri di depannya dan bilang dia sehat....\n\n[sad] Setiap pagi ada yang tidak bangun. [sad] Kamu sendiri yang membungkusnya dengan tikar. [sad] Lubang di pinggir hutan itu makin lebar....",
+    "4": "[serious] Suatu hari, juru kamera propaganda Jepang datang ke proyek. [bitter] Film tentang romusha akan diputar keliling desa, untuk memanggil lebih banyak orang....\n\n[bitter] Perintah untukmu cuma satu: yang sakit jangan sampai masuk gambar. [bitter] Hari itu regumu harus terlihat kuat dan bersemangat. [nervous] Kamu sembunyikan Slamet di balik barak....\n\n[bitter] Kamera pergi sore itu, membawa gambar romusha yang tersenyum... [sad] [whispers] Slamet pergi malam harinya, di tikar sebelahmu....",
+    "5": "[whispers] Regumu tidak lagi memenuhi target. [whispers] Pengawas menunggu jawabanmu. [sighs] [whispers] Malam itu, kamu menulis surat ke lurah....\n\n[calm] Dua minggu kemudian, rombongan baru datang. [sad] Anak-anak tetanggamu, sebagian belum pernah keluar desa. [sad] Mereka tersenyum melihatmu. [quietly] Mereka datang karena kamu yang memanggil....",
+    "6": "[resigned] Satu April 1944. [resigned] Jalur Saketi–Bayah dibuka. [bitter] Pejabat Jepang bertepuk tangan. [resigned] Kereta pertama melintas di samping lubang-lubang di pinggir hutan....\n\n[resigned] Kamu menghitung untuk terakhir kalinya. [resigned] Empat puluh empat nama pernah kamu catat. [sad] Sembilan belas yang masih berdiri....\n\n[softly] Kamu pulang. [softly] Para ibu sudah menunggu di ujung jalan desa. [sad] Mereka tidak bertanya apa-apa. [whispers] Mereka hanya menghitung siapa yang berjalan di belakangmu...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Desa ke hutan",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "0:58",
+      "suasana": "Hangat dan rapuh, lalu tegang",
+      "style": "Central Javanese gamelan slendro, sparse saron and gender, bamboo suling flute, soft kendang; starts warm, gentle and pastoral, gradually darkens with low drones and tense muted percussion; cinematic, 70 BPM, no vocals",
+      "exclude": "vocals, pop, EDM, electric guitar, drum kit"
+    },
+    {
+      "nomor": 2,
+      "nama": "Menyusut",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:00",
+      "suasana": "Berat, sakit, gelisah",
+      "style": "Dark cinematic ambient, low cello drones, slow heartbeat-like frame drum, distant detuned gamelan gong, creaking textures; starts sparse and heavy, builds unease, ends on a thin fading drone; 60 BPM, no vocals",
+      "exclude": "vocals, upbeat, synth pop, drum kit, heroic orchestra"
+    },
+    {
+      "nomor": 3,
+      "nama": "Surat dan pulang",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "0:50",
+      "suasana": "Sunyi, duka, hampa",
+      "style": "Mournful solo rebab and bamboo suling, very sparse Javanese melody in slendro, soft low piano notes, long silences between phrases; swells once briefly then fades to silence; 56 BPM, no vocals",
+      "exclude": "vocals, drums, percussion, epic orchestra, uplifting"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Banyak cangkul menghantam tanah berirama",
+      "kataKunci": "hoe digging soil, shovel dirt",
+      "prompt": "Rhythmic metal hoes striking hard soil, many workers at once, tropical jungle insects in background"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Pintu kayu lumbung berderit",
+      "kataKunci": "wooden door creak, barn door",
+      "prompt": "Old wooden barn door creaking open slowly, rural morning, distant chickens"
+    },
+    {
+      "nomor": 3,
+      "adegan": 4,
+      "bunyi": "Kapak menebang pohon",
+      "kataKunci": "axe chopping tree, tree fall",
+      "prompt": "Several axes chopping hardwood trees in a dense jungle, distant tree falling"
+    },
+    {
+      "nomor": 4,
+      "adegan": 5,
+      "bunyi": "Tanah jatuh dari keranjang",
+      "kataKunci": "dirt pour, gravel pour",
+      "prompt": "Loose soil poured from bamboo baskets onto a dirt embankment, heavy breathing"
+    },
+    {
+      "nomor": 5,
+      "adegan": 6,
+      "bunyi": "Pukulan tongkat kayu",
+      "kataKunci": "stick hit, body punch thud",
+      "prompt": "Three dull heavy thuds of a wooden stick striking a back, muffled, no voices"
+    },
+    {
+      "nomor": 6,
+      "adegan": 7,
+      "bunyi": "Hujan di atap daun",
+      "kataKunci": "rain on thatch roof",
+      "prompt": "Steady tropical rain on a leaf-thatched roof, drips falling into puddles inside a hut"
+    },
+    {
+      "nomor": 7,
+      "adegan": 8,
+      "bunyi": "Langkah sepatu bot di lumpur",
+      "kataKunci": "boots mud footsteps",
+      "prompt": "Slow leather boot footsteps squelching through mud, one person walking"
+    },
+    {
+      "nomor": 8,
+      "adegan": 9,
+      "bunyi": "Gagak",
+      "kataKunci": "crow caw",
+      "prompt": "Two crows cawing at the edge of a quiet forest, light wind"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Kamera film tua berputar",
+      "kataKunci": "vintage film camera, film projector",
+      "prompt": "Hand-cranked 1940s film camera running, mechanical clicking whir, outdoors"
+    },
+    {
+      "nomor": 10,
+      "adegan": 13,
+      "bunyi": "Goresan pensil di kertas",
+      "kataKunci": "pencil writing paper",
+      "prompt": "Pencil writing slowly on rough paper at night, crickets very faint"
+    },
+    {
+      "nomor": 11,
+      "adegan": 15,
+      "bunyi": "Peluit dan derap kereta uap",
+      "kataKunci": "steam train whistle, steam locomotive",
+      "prompt": "Old steam locomotive whistle, then chugging and wheels on rails passing by"
+    },
+    {
+      "nomor": 12,
+      "adegan": 17,
+      "bunyi": "Angin desa sore",
+      "kataKunci": "evening wind countryside",
+      "prompt": "Gentle evening wind in a rural village, rustling bamboo, slow footsteps on a dirt road"
+    }
+  ],
+  "adeganHening": [
+    13
+  ],
+  "ulikan": {
+    "teks": "Tugu Romusha di Bayah, penanda kuburan massal, roboh pada Januari 2024.",
+    "sumber": "Historia, GNFI",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943",
+      "catatan": "**Judul di layar sampul:** POV: Kamu Mandor Romusha, 1943\nAlternatif judul: POV: Kamu Mandor Romusha yang Memanggil Tetanggamu Sendiri / POV: Kamu Mandor Romusha di Banten Selatan, 1943",
+      "caption": "Kamu yang menjanjikan mereka upah. Kamu juga yang menghitung siapa yang tersisa.\n\nJalur rel Saketi–Bayah sepanjang sekitar 89 km dibangun dengan tenaga romusha pada masa pendudukan Jepang dan dibuka 1 April 1944. Romusha di Bayah diupah sekitar 40 sen sehari dengan jatah beras kira-kira 250 gram.\n\nKalau kamu yang ditunjuk jadi mandor, kamu menolak?\n\nDramatisasi berdasarkan catatan sejarah; semua tokoh fiktif. Sumber utama: Historia, Wikipedia (Saketi–Bayah railway).\n\n#UlikSilam #sejarahindonesia #romusha #pendudukanjepang #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943",
+      "catatan": "",
+      "caption": "Jepang minta tambahan orang. Kamu yang menulis surat ke desamu sendiri.\n\nJalur rel Saketi–Bayah sepanjang sekitar 89 km dibangun dengan tenaga romusha pada masa pendudukan Jepang dan dibuka 1 April 1944. Romusha di Bayah diupah sekitar 40 sen sehari dengan jatah beras kira-kira 250 gram.\n\nKalau kamu yang ditunjuk jadi mandor, kamu menolak?\n\nDramatisasi berdasarkan catatan sejarah; semua tokoh fiktif. Sumber utama: Historia, Wikipedia (Saketi–Bayah railway).\n\n#UlikSilam #sejarahindonesia #romusha #pendudukanjepang #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 334,
+    "kataPerBabak": {
+      "1": 56,
+      "2": 60,
+      "3": 61,
+      "4": 61,
+      "5": 37,
+      "6": 59
+    },
+    "karakterPerBabak": {
+      "1": 474,
+      "2": 540,
+      "3": 477,
+      "4": 500,
+      "5": 351,
+      "6": 523
+    },
+    "jedaBunyi": 2,
+    "perkiraanDetik130": {
+      "narasi": 172,
+      "denganMerek": 177
+    },
+    "perkiraanDetik135": {
+      "narasi": 166.2,
+      "denganMerek": 171.2
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

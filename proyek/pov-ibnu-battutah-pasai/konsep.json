@@ -1,0 +1,697 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-11-16T10:57:24.403Z",
+  "judulDokumen": "Ibnu Battutah di Samudera Pasai",
+  "judul": "POV: Kamu Ibnu Battutah di Samudera Pasai",
+  "slug": "pov-ibnu-battutah-pasai",
+  "versi": "v2 · 2026-11-16",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Samudera Pasai, Aceh",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Ibnu Battutah (tokoh nyata), pengembara asal Tanger, Maroko, sekitar 41 tahun, bekas kadi di Delhi dan Maladewa, yang singgah lima belas hari sebagai tamu Sultan Samudera Pasai pada 1345 dalam perjalanan ke Tiongkok, lalu singgah lagi dalam perjalanan pulang",
+  "ringkasan": {
+    "Judul": "POV: Kamu Ibnu Battutah di Samudera Pasai",
+    "Slug": "pov-ibnu-battutah-pasai",
+    "Versi": "v2 · 2026-11-16",
+    "Lapisan": "Sejarah",
+    "Latar": "Samudera Pasai, Aceh",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Ibnu Battutah (tokoh nyata), pengembara asal Tanger, Maroko, sekitar 41 tahun, bekas kadi di Delhi dan Maladewa, yang singgah lima belas hari sebagai tamu Sultan Samudera Pasai pada 1345 dalam perjalanan ke Tiongkok, lalu singgah lagi dalam perjalanan pulang",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter)",
+    "Generator": "Gemini (gambar), Suno (musik), ElevenLabs Eleven v3 (narasi), dirakit pov-produksi",
+    "Premis": "Kamu, utusan yang hadiah sultannya tenggelam, tiba di ujung timur dunia Islam dan bertemu raja yang berjalan kaki ke masjid berjubah ahli fikih, lalu pulang naik gajah di bawah payung emas.",
+    "Benang merah": "Dua wajah kekuasaan: kerendahan hati dan kemegahan dalam satu raja, kesalehan dan perang dalam satu kerajaan; dan tamu yang datang hampir tanpa apa-apa, yang akhirnya meninggalkan catatan yang lebih awet daripada kota kayunya.",
+    "Nada": "Takjub dan hangat di awal, khidmat di masjid, megah di arak-arakan, sunyi di laut, getir dan reflektif di akhir",
+    "Akhir": "Penutup reflektif: kota kayu yang lenyap, nisan dan catatan yang bertahan; caption memancing komentar tentang dua wajah sultan",
+    "Hindari": "Motif batik parang (masuk kalimat Avoid di semua prompt); busana Aceh modern atau abad ke-19 (kupiah meukeutop, rencong) tanpa sumber era; kubah bawang dan menara tinggi; kutipan bertanda kutip yang tidak dari terjemahan yang dibuka; episode rukh dan Mul Jawa di narasi; penggambaran tawanan secara merendahkan atau kekerasan eksplisit; kata \"kafir\" di narasi",
+    "Asumsi": "Diambil tanpa konfirmasi Rafi: (1) tahun kunjungan pertama ditulis \"sekitar 1345\" karena Yule memakai 1346; (2) sultan disebut dengan gelarnya, Malik az-Zahir, karena nama pribadinya diperdebatkan (Mahmud menurut NU Online dan Wikipedia ID, Ahmad menurut Hamka); (3) wajah sultan, Amir Daulasah, dan Ibnu Battutah rekaan karena tidak ada potret sezaman; (4) busana Ibnu Battutah memakai sorban dan jubah wol yang dihadiahkan sultan (Rihla), dengan potongan tafsir; (5) masjid digambar sebagai masjid kayu beratap tumpang (tafsir), bukan berkubah; (6) jung sultan digambar sebagai jung besar berlayar anyaman bambu sesuai gambaran Ibnu Battutah tentang jung Tiongkok (tafsir); (7) kunjungan kedua tidak diberi tahun di layar; (8) Voice belum dipilih"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Ujung timur",
+      "suasana": "Takjub, letih, kilas balik badai",
+      "palet": "Hijau laut, hijau kelapa, emas matahari rendah; kilas balik kelabu badai",
+      "cahaya": "Matahari pagi rendah; kilas balik satu lentera di senja badai"
+    },
+    {
+      "babak": 2,
+      "nama": "Kota berpagar kayu",
+      "suasana": "Hangat, asing, penuh adat",
+      "palet": "Oker kayu, hijau kelapa, aksen merah sirih",
+      "cahaya": "Matahari sore rendah, bayangan panjang"
+    },
+    {
+      "babak": 3,
+      "nama": "Tiga hari menunggu",
+      "suasana": "Sabar, penasaran, khidmat",
+      "palet": "Amber pelita, cokelat kayu, emas pagi",
+      "cahaya": "Pelita di rumah kayu; cahaya Jumat pagi yang lembut"
+    },
+    {
+      "babak": 4,
+      "nama": "Dua pakaian sultan",
+      "suasana": "Khidmat lalu megah",
+      "palet": "Putih jubah di bayang kayu menuju emas dan merah tua sutra",
+      "cahaya": "Cahaya sore lewat kisi, lalu matahari rendah dan obor"
+    },
+    {
+      "babak": 5,
+      "nama": "Ujung Dar al-Islam",
+      "suasana": "Sunyi, haru",
+      "palet": "Nila senja laut, satu cahaya amber",
+      "cahaya": "Satu lentera hangat di geladak"
+    },
+    {
+      "babak": 6,
+      "nama": "Kembali ke Samudera",
+      "suasana": "Meriah tapi getir; epilog reflektif",
+      "palet": "Emas dan merah tua pesta; epilog amber senja",
+      "cahaya": "Siang terang hangat; epilog matahari terbenam"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Ujung timur",
+    "2": "Kota berpagar kayu",
+    "3": "Tiga hari menunggu",
+    "4": "Dua pakaian sultan",
+    "5": "Ujung Dar al-Islam",
+    "6": "Kembali ke Samudera"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Ujung timur",
+      "waktu": "0:00–0:09",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Pagi, geladak jung. Tangan kanan \"kamu\" mencengkeram pagar geladak kayu; tangan kiri memegang tasbih kayu. Di depan, pantai hijau penuh pohon kelapa dan pinang, perahu-perahu kecil mendekat.",
+      "narasiSuara": "[tense] Kamu sudah melintasi separuh dunia, dan kehilangan hampir segalanya. [curious] Di negeri hijau ini, sultannya berjalan kaki ke masjid.",
+      "narasi": "Kamu sudah melintasi separuh dunia, dan kehilangan hampir segalanya. Di negeri hijau ini, sultannya berjalan kaki ke masjid.",
+      "teksLayar": [
+        "Samudera, Sumatra. Sekitar 1345."
+      ],
+      "suara": "Ombak memecah di lambung kapal, derit kayu, camar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Ujung timur",
+      "waktu": "0:09–0:18",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kilas balik: senja badai di pantai Kalikut. Ibnu Battutah berdiri di pasir, jubah dan ekor sorban dikibas angin, menatap sebuah jung besar yang patah dihantam ombak; seorang kuli memegang lentera di sampingnya.",
+      "narasiSuara": "[sad] Kamu Ibnu Battutah, kadi asal Maroko, utusan Sultan Delhi ke Tiongkok. [sad] Tapi jung pembawa hadiahnya karam di Kalikut.",
+      "narasi": "Kamu Ibnu Battutah, kadi asal Maroko, utusan Sultan Delhi ke Tiongkok. Tapi jung pembawa hadiahnya karam di Kalikut.",
+      "teksLayar": [
+        "Kalikut, beberapa tahun sebelumnya."
+      ],
+      "suara": "Badai, papan kapal patah, teriakan samar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Ujung timur",
+      "waktu": "0:18–0:28",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Geladak jung. Tangan kiri \"kamu\" menerima buah kelapa dari perahu lesung di bawah pagar; di dekatnya wakil laksamana pelabuhan berlutut menulis surat di atas papan kecil.",
+      "narasiSuara": "[calm] Perahu-perahu kecil menyambut kapalmu dengan kelapa, pisang, dan ikan. [curious] Lalu wakil laksamana menulis surat kepada sultan... tentang dirimu.",
+      "narasi": "Perahu-perahu kecil menyambut kapalmu dengan kelapa, pisang, dan ikan. Lalu wakil laksamana menulis surat kepada sultan... tentang dirimu.",
+      "teksLayar": [],
+      "suara": "Dayung memukul air, tawar-menawar riuh, gores kalam di kertas.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Kota berpagar kayu",
+      "waktu": "0:28–0:38",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pantai kampung pelabuhan Sarha. Ibnu Battutah baru turun dari papan perahu, menoleh kaget lalu tersenyum; Amir Daulasah berjalan ke arahnya sambil menuntun kuda berpelana, menatapnya dengan tangan terbuka; kadi Persia tua dan seorang ahli fikih di belakang.",
+      "narasiSuara": "[excited] Utusan sultan ternyata wajah yang kamu kenal. [calm] Amir Daulasah, bekas duta Pasai di Delhi, membawakanmu kuda dari kandang sultan.",
+      "narasi": "Utusan sultan ternyata wajah yang kamu kenal. Amir Daulasah, bekas duta Pasai di Delhi, membawakanmu kuda dari kandang sultan.",
+      "teksLayar": [],
+      "suara": "Ringkik kuda, ombak kecil, sapaan \"assalamu'alaikum\" samar.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Kota berpagar kayu",
+      "waktu": "0:38–0:46",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Dari atas punggung kuda, sore. Kedua tangan \"kamu\" memegang tali kekang; di depan, pagar kayu tinggi kota dengan menara-menara kayu dan gerbang; tombak-tombak tertancap berjajar di kiri-kanan jalan menuju istana.",
+      "narasiSuara": "[calm] Kota sultan berpagar dan bermenara kayu. [serious] Di depan istana, tombak-tombak tertancap: di sini, semua penunggang turun.",
+      "narasi": "Kota sultan berpagar dan bermenara kayu. Di depan istana, tombak-tombak tertancap: di sini, semua penunggang turun.",
+      "teksLayar": [],
+      "suara": "Derap kuda di jalan tanah, gerbang kayu berderit.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 6,
+      "babak": 2,
+      "namaBabak": "Kota berpagar kayu",
+      "waktu": "0:46–0:57",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Bilik kayu di samping balai penghadapan. Wakil sultan membentangkan kain sutra dari buntelan; seorang pelayan menyodorkan baki sirih dan pinang; tangan kanan \"kamu\" mengambil selembar daun sirih.",
+      "narasiSuara": "[curious] Wakil sultan menghadiahimu sutra, jubah wol, dan sorban. [serious] Lalu sirih disuguhkan, tanda tamu harus pamit... padahal sultan belum kamu lihat.",
+      "narasi": "Wakil sultan menghadiahimu sutra, jubah wol, dan sorban. Lalu sirih disuguhkan, tanda tamu harus pamit... padahal sultan belum kamu lihat.",
+      "teksLayar": [],
+      "suara": "Kain sutra berdesir, baki logam diletakkan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Tiga hari menunggu",
+      "waktu": "0:57–1:07",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Malam, rumah kayu di tengah taman berpagar kayu, lantai beralas permadani katun berbulu, ranjang bambu berselimut sutra. Amir Daulasah duduk bersila, satu tangan terangkat sambil menyampaikan pesan, menatap lurus ke \"kamu\"; tangan kanan \"kamu\" menyentuh dada sebagai tanda hormat.",
+      "narasiSuara": "[curious] Hadiah berikutnya datang bersama pesan ganjil. [calm] Hadiah ini sesuai kemampuan sultan, bukan kemampuan Sultan Delhi. [calm] Tiga hari lagi, kamu boleh menghadap.",
+      "narasi": "Hadiah berikutnya datang bersama pesan ganjil. Hadiah ini sesuai kemampuan sultan, bukan kemampuan Sultan Delhi. Tiga hari lagi, kamu boleh menghadap.",
+      "teksLayar": [],
+      "suara": "Jangkrik, desis pelita, suara pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Tiga hari menunggu",
+      "waktu": "1:07–1:17",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Jumat pagi di depan masjid kayu beratap tumpang. Kedua tangan \"kamu\" memegang sandal kulit yang baru dilepas; di jalan setapak, sultan berjalan kaki berjubah putih ahli fikih, orang-orang menyingkir dan menunduk.",
+      "narasiSuara": "[curious] Hari keempat, hari Jumat. [excited] Sultan datang ke masjid berjalan kaki, berjubah ahli fikih. [whispers] Sore nanti, ia pulang dengan cara berbeda.",
+      "narasi": "Hari keempat, hari Jumat. Sultan datang ke masjid berjalan kaki, berjubah ahli fikih. Sore nanti, ia pulang dengan cara berbeda.",
+      "teksLayar": [],
+      "suara": "Langkah kaki di tanah, gumam jamaah, burung pagi.",
+      "hening": false,
+      "epilog": false,
+      "kata": 20
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "Dua pakaian sultan",
+      "waktu": "1:17–1:27",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Bilik berkisi kayu (maqsura) di dalam masjid. Sultan berjubah putih menggenggam tangan kanan \"kamu\" dengan kedua tangannya dan menatap lurus ke \"kamu\"; kadi dan para ulama duduk di kanan-kirinya.",
+      "narasiSuara": "[tense] Di bilik berkisi masjid, sultan menjabat tanganmu... lalu menanyakan Sultan Delhi. [serious] Tuanmu, yang hadiahnya tenggelam di Kalikut.",
+      "narasi": "Di bilik berkisi masjid, sultan menjabat tanganmu... lalu menanyakan Sultan Delhi. Tuanmu, yang hadiahnya tenggelam di Kalikut.",
+      "teksLayar": [],
+      "suara": "Gumam jamaah bubar, langkah di lantai kayu.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Dua pakaian sultan",
+      "waktu": "1:27–1:36",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Sore di dalam maqsura. Sultan mencondongkan badan, satu tangan menunjuk halaman kitab terbuka, berdebat dengan seorang ulama; Ibnu Battutah duduk di sebelah kirinya, mendengarkan; cahaya sore menembus kisi.",
+      "narasiSuara": "[calm] Lalu ia kembali berdebat fikih Syafi'i dengan para ulama sampai asar. [curious] Sesudahnya, jubah ahli fikih itu berganti sutra raja.",
+      "narasi": "Lalu ia kembali berdebat fikih Syafi'i dengan para ulama sampai asar. Sesudahnya, jubah ahli fikih itu berganti sutra raja.",
+      "teksLayar": [],
+      "suara": "Halaman kitab dibalik, suara debat pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Dua pakaian sultan",
+      "waktu": "1:36–1:46",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Pintu masjid, matahari rendah. Sultan kini bertunik sutra merah tua bertepi emas, naik ke tempat duduk berkanopi di punggung gajah berhias; payung bertatah emas dan permata diangkat di atasnya; gajah-gajah lain berjajar; Ibnu Battutah di atas kuda, tampak tiga perempat dari belakang.",
+      "narasiSuara": "[excited] Di pintu masjid, gajah-gajah sudah menunggu. [excited] Sultan yang tadi berjalan kaki kini naik gajah, di bawah payung bertatah emas.",
+      "narasi": "Di pintu masjid, gajah-gajah sudah menunggu. Sultan yang tadi berjalan kaki kini naik gajah, di bawah payung bertatah emas.",
+      "teksLayar": [],
+      "suara": "Lenguh gajah, gemerincing hiasan, kerumunan bersorak pelan.",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Dua pakaian sultan",
+      "waktu": "1:46–1:55",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Balairung berkubah kayu menjelang senja, obor menyala. Kuda-kuda berselubung sutra, bergelang emas di kaki, berjingkrak menari; sultan di atas gajah menghadap kubah; para pemusik bernyanyi.",
+      "narasiSuara": "[calm] Di balairung, kuda-kuda berselubung sutra menari di hadapannya. [serious] Tapi musim berlayar ke Tiongkok... tak menunggu siapa pun.",
+      "narasi": "Di balairung, kuda-kuda berselubung sutra menari di hadapannya. Tapi musim berlayar ke Tiongkok... tak menunggu siapa pun.",
+      "teksLayar": [],
+      "suara": "Rebana dan gendang, derap kuda menari, nyanyian lelaki.",
+      "hening": false,
+      "epilog": false,
+      "kata": 17
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Ujung Dar al-Islam",
+      "waktu": "1:55–2:04",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Pelabuhan Sarha, pagi. Seorang pegawai istana menyerahkan buntelan bekal berbungkus kain; kedua tangan \"kamu\" menerimanya. Di belakang, jung besar sultan berlayar anyaman bambu sedang dimuati karung dan tempayan.",
+      "narasiSuara": "[serious] Hari kelima belas, musim itu tiba. [calm] Sultan menyiapkan sebuah jung untukmu, lengkap dengan bekal dan hadiah.",
+      "narasi": "Hari kelima belas, musim itu tiba. Sultan menyiapkan sebuah jung untukmu, lengkap dengan bekal dan hadiah.",
+      "teksLayar": [],
+      "suara": "Tali tambang ditarik, teriakan awak kapal, ombak.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Ujung Dar al-Islam",
+      "waktu": "2:04–2:15",
+      "durasiCadangan": 11,
+      "bidikan": "A",
+      "visual": "Senja di geladak jung. Tangan kanan \"kamu\" bertumpu di pagar geladak, tangan kiri menggenggam tasbih yang sama; pantai hijau Sumatra menjadi garis gelap tipis di belakang; satu lentera menyala.",
+      "narasiSuara": "[sad] Pantai hijau itu mengecil. [whispers] Di depan, tak ada lagi raja Muslim. [whispers] Kelak, jung milik sultan yang sama... membawamu kembali.",
+      "narasi": "Pantai hijau itu mengecil. Di depan, tak ada lagi raja Muslim. Kelak, jung milik sultan yang sama... membawamu kembali.",
+      "teksLayar": [],
+      "suara": "Hening; ombak pelan, layar bambu berderak sekali; musik turun.",
+      "hening": true,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Kembali ke Samudera",
+      "waktu": "2:15–2:24",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Siang di depan pagar kayu istana. Sultan bertunik sutra merah tua turun dari gajah, pasukan bertombak dan berperisai di belakangnya; di kejauhan, barisan kecil tawanan berjalan menunduk dijaga prajurit; Ibnu Battutah berdiri di depan, tampak samping, wajah gamang.",
+      "narasiSuara": "[tense] Sultan yang saleh itu baru pulang berperang saat kamu kembali. [serious] Dari banyak tawanannya, empat dikirim kepadamu sebagai hadiah.",
+      "narasi": "Sultan yang saleh itu baru pulang berperang saat kamu kembali. Dari banyak tawanannya, empat dikirim kepadamu sebagai hadiah.",
+      "teksLayar": [
+        "Perjalanan pulang dari Tiongkok."
+      ],
+      "suara": "Genderang perang dari jauh, derap gajah.",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Kembali ke Samudera",
+      "waktu": "2:24–2:33",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Halaman balairung. Putra sultan bermahkota duduk di tempat duduk berkanopi di atas gajah berhias, diapit pemuda berkuda berbaju putih; koin emas dan perak ditabur ke kerumunan; pengantin perempuan berdiri di panggung berlapis sutra tanpa cadar, dikelilingi dayang; Ibnu Battutah dari belakang di antara penonton.",
+      "narasiSuara": "[calm] Kamu menyaksikan putranya menikah. [excited] Ia datang bermahkota di atas gajah, sementara koin emas dan perak ditabur.",
+      "narasi": "Kamu menyaksikan putranya menikah. Ia datang bermahkota di atas gajah, sementara koin emas dan perak ditabur.",
+      "teksLayar": [],
+      "suara": "Sorak kerumunan, gemerincing koin, musik pesta.",
+      "hening": false,
+      "epilog": false,
+      "kata": 16
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Kembali ke Samudera",
+      "waktu": "2:33–2:44",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Masa kini, senja di Aceh Utara. Sekelompok batu nisan berukir kaligrafi Arab di bawah cungkup sederhana, sawah dan pohon kelapa di belakang; tidak ada orang.",
+      "narasiSuara": "[calm] Sekitar sepuluh tahun kemudian, di Maroko, kamu mendiktekannya menjadi Rihla. [sad] Kota kayunya sudah lenyap. [whispers] Yang bertahan, nisan para sultannya... dan catatanmu.",
+      "narasi": "Sekitar sepuluh tahun kemudian, di Maroko, kamu mendiktekannya menjadi Rihla. Kota kayunya sudah lenyap. Yang bertahan, nisan para sultannya... dan catatanmu.",
+      "teksLayar": [
+        "Aceh Utara, hari ini."
+      ],
+      "suara": "Angin senja, jangkrik; musik menutup.",
+      "hening": false,
+      "epilog": true,
+      "kata": 21
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Ibnu Battutah",
+      "prompt": "Character reference sheet of Ibnu Battutah.\nIbnu Battutah, the Moroccan traveller and former qadi of Delhi and the Maldives, about 41 years old, an Arabised Berber from Tangier, in Sumatra in 1345. Medium height, lean and travel-hardened, sun-darkened light olive-tan skin, a long oval face with high cheekbones, deep-set dark brown eyes with fine crow's feet, thick dark eyebrows, a straight prominent nose, a full dark-brown beard trimmed to fist length with the first grey hairs at the chin. A white cotton turban wound over a small white skullcap, its short tail hanging behind the left shoulder; an ankle-length plain white cotton robe with long wide sleeves; over it an open knee-length cream woollen mantle; a brown cotton sash at the waist; worn brown leather slippers. A string of dark wooden prayer beads; no rings on any finger. Alert, curious eyes and a slightly tilted head, as if memorising every detail.\nFull-body front view, side view and back view in a relaxed natural standing pose, one three-quarter portrait of the face, one detail panel of the turban tail, the cream woollen mantle edge and the wooden prayer beads, and one first-person panel showing only his two hands and forearms from his own point of view, raised at chest height and holding the prayer beads: Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 14th-century North African Muslim scholar and traveller: plain white cotton turban over a skullcap, long white cotton robe, open woollen mantle, leather slippers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, finger rings, embroidered gold robes, a curved sword, a portrait copied from modern statues or paintings, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Sultan Malik az-Zahir",
+      "prompt": "Character reference sheet of Sultan Malik az-Zahir.\nSultan Malik az-Zahir, the Muslim ruler of Samudera Pasai on the north coast of Sumatra, a Malay jurist-king of about 45 in 1345. Sturdy medium build, warm medium-brown skin, a broad calm face with a high forehead, dark brown almond-shaped eyes, straight thick eyebrows, a short neat black beard and moustache, lips faintly reddened by betel. His Friday jurist dress: a plain white cotton turban, an ankle-length plain white cotton robe with long sleeves, an off-white cotton cloth wrapped around the hips beneath it instead of trousers, and simple leather sandals. His royal dress: a deep crimson silk tunic with a narrow gold border over a cream cotton under-tunic, a dark green silk hip-wrap with a gold border, and a white silk turban with a thin gold band. One plain gold ring on the right hand, no weapon. Calm and attentive, he leans slightly forward when he listens.\nTwo full-body front views side by side in a relaxed natural standing pose, one in the white Friday jurist dress and one in the crimson royal silk dress, plus one side view and one back view in the royal dress, one three-quarter portrait of the face with the white silk turban, and one detail panel of the gold-bordered silk hip-wrap, the gold turban band and the gold ring.\nPlain light background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 14th-century Muslim ruler of northern Sumatra: wrapped hip-cloth instead of trousers, cotton and silk tunics, plain turban.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, a jewelled crown on the sultan, a sword or dagger at the waist, text, labels, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:09",
+      "narasi": "Kamu sudah melintasi separuh dunia, dan kehilangan hampir segalanya. Di negeri hijau ini, sultannya berjalan kaki ke masjid.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at chest height on the timber deck of a large sea-going junk, early morning, a wide pale-gold sky above a long green coastline.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The right hand grips the weathered wooden deck rail, knuckles tight; the left hand holds a string of dark wooden prayer beads mid-count, two beads pinched between thumb and finger.\nAhead, a green shore of dense coconut and slender areca palms rises behind a strip of pale sand, thin cooking smoke drifting above the trees; three small dugout canoes paddle out toward the ship, their paddles caught mid-stroke and splashing. The canoe men are tiny distant figures, bare-chested in plain cotton hip-wraps. A stiff mat sail of plaited bamboo creaks at the edge of the frame.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft dawn palette of sea-teal, palm green and low gold sun with deep warm shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:09–0:18",
+      "narasi": "Kamu Ibnu Battutah, kadi asal Maroko, utusan Sultan Delhi ke Tiongkok. Tapi jung pembawa hadiahnya karam di Kalikut.",
+      "prompt": "Same character as the Ibnu Battutah reference image.\nMedium-wide shot from a low angle on a storm-lashed beach at Calicut, India, at dusk, a dark churning sky with a sliver of last orange light above the sea.\nIbnu Battutah stands on the wet sand leaning into the wind, the tail of his white turban and the hem of his cream woollen mantle whipping sideways, one arm half raised toward the sea as if to stop it, his other hand clenched at his chest; brows drawn up and together, eyes wide and fixed on the wreck, mouth open in a silent cry. Out in the surf a large junk with mat sails heels over, its mast snapping and planks breaking apart under a towering wave.\nBeside him a thin young porter with a bare chest and a plain white hip-cloth holds up a swinging lantern and stares at the sea in shock; he is a different person from Ibnu Battutah, with no turban and no mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, stormy slate-grey palette with a single warm lantern glow and the last orange light of dusk, historically accurate 14th-century Malabar coast harbour at Calicut with coconut palms bending in the wind.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, stiff symmetrical poses, background figures copying Ibnu Battutah's face or outfit, gore, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:18–0:28",
+      "narasi": "Perahu-perahu kecil menyambut kapalmu dengan kelapa, pisang, dan ikan. Lalu wakil laksamana menulis surat kepada sultan... tentang dirimu.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at chest height leaning over the deck rail of the junk, bright morning, the green coast and a wide sky behind.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The left hand reaches down over the rail and closes around a green coconut being lifted up; the right hand rests on the rail, the prayer beads looped around the wrist.\nBelow the rail, a wiry islander in a dugout canoe, bare-chested with a faded red headcloth, a plain checked cotton hip-wrap and betel-reddened lips, stretches up holding the coconut with both hands, grinning, eyes on the coconut; behind him another canoe is heaped with bananas, mangoes and silver fish, and an old woman with a cloth over her hair holds up a bunch of bananas toward other passengers. On the deck beside the viewer, a middle-aged port official with a dark headcloth and a long grey cotton tunic kneels over a small writing board, writing a letter with a reed pen, eyes on the paper, brow furrowed in concentration. The islanders and the official are different people from Ibnu Battutah, with no white turban and no cream mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, soft dawn palette of sea-teal, palm green and low gold sun with deep warm shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, background figures copying Ibnu Battutah's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:28–0:38",
+      "narasi": "Utusan sultan ternyata wajah yang kamu kenal. Amir Daulasah, bekas duta Pasai di Delhi, membawakanmu kuda dari kandang sultan.",
+      "prompt": "Same character as the Ibnu Battutah reference image.\nMedium-wide shot at eye level on the sandy shore of the harbour village of Sarha, afternoon, raised timber houses with palm-thatch roofs and coconut palms behind, a wide warm sky above.\nIbnu Battutah has just stepped off a gangplank onto the sand, mid-stride, turning sharply toward the newcomer; his eyebrows shoot up in surprise and a broad smile breaks across his face, one hand rising toward his chest. Walking toward him with arms opening in welcome is Amir Daulasah, a different person from Ibnu Battutah and the Sultan: a Sumatran court noble in his fifties, stocky with a round face, a short grey-streaked beard, betel-reddened lips, a dark indigo cotton headcloth tied in a low wrap, a knee-length indigo cotton tunic over a brown-and-cream checked cotton hip-wrap, no weapon; he looks straight at Ibnu Battutah, laughing, while leading by the reins a saddled bay horse with a fringed red saddle-cloth from the sultan's stables. Behind them follow an old thin Persian qadi with a long white beard, a large white turban and a pale grey robe, and a younger jurist in a plain beige robe, both watching the reunion with mild curiosity. All of them are different people from Ibnu Battutah, with no cream woollen mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm afternoon palette of ochre timber, palm green and betel red accents with long shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, background figures copying Ibnu Battutah's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:38–0:46",
+      "narasi": "Kota sultan berpagar dan bermenara kayu. Di depan istana, tombak-tombak tertancap: di sini, semua penunggang turun.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium-wide shot from horseback at rider's eye level, a straight packed-earth road in late afternoon leading to a tall timber palisade with square timber watchtowers and a heavy wooden gate, a wide sky above the towers.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. Both hands hold the leather reins low over the horse's neck, the right hand pulling back slightly; the bay horse's ears and red fringed saddle-cloth edge are visible at the bottom of the view.\nOn both sides of the road, long spears are planted upright in the ground in two neat rows marking the place where riders dismount. Near the gate a guard with a plain brown headcloth and a checked hip-wrap raises one hand, signalling the riders to stop, eyes on the horse; a boy carrying a basket of areca nuts stops to stare at the strangers. They are different people from Ibnu Battutah, with no white turban and no cream mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm afternoon palette of ochre timber, palm green and betel red accents with long shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, stone city walls, stone castles, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:46–0:57",
+      "narasi": "Wakil sultan menghadiahimu sutra, jubah wol, dan sorban. Lalu sirih disuguhkan, tanda tamu harus pamit... padahal sultan belum kamu lihat.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at seated knee height inside a small timber room beside the audience hall, late afternoon light slanting through the plank walls, a high dark wooden ceiling above.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The right hand reaches forward and takes a single glossy green betel leaf from a brass tray; the left hand rests on a folded length of shimmering silk on the viewer's lap.\nAcross the mat, the sultan's deputy, a thin middle-aged Malay man with a thin moustache, a brown cotton headcloth and a cream cotton tunic, unfolds a bundle and lifts a length of pale gold silk with both hands, presenting it with a polite smile and looking straight at the viewer; beside him lie a folded white woollen mantle and three rolled white turban cloths. A young servant in a plain indigo hip-wrap kneels holding out the brass tray of betel leaves and sliced areca nut, eyes lowered. They are different people from Ibnu Battutah, with no white turban and no cream mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm afternoon palette of ochre timber, palm green and betel red accents with long shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, stiff symmetrical poses, background figures copying Ibnu Battutah's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:57–1:07",
+      "narasi": "Hadiah berikutnya datang bersama pesan ganjil. Hadiah ini sesuai kemampuan sultan, bukan kemampuan Sultan Delhi. Tiga hari lagi, kamu boleh menghadap.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at seated eye level inside a timber guest house in a walled garden at night, lit by a single clay oil lamp, dark rafters above.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The right hand is laid flat on the viewer's chest in a gesture of respect; the left hand rests on a soft pile cotton rug.\nSitting cross-legged opposite on the rug is Amir Daulasah, a different person from Ibnu Battutah and the Sultan: a Sumatran court noble in his fifties, stocky with a round face, a short grey-streaked beard, betel-reddened lips, a dark indigo cotton headcloth tied in a low wrap, a knee-length indigo cotton tunic over a brown-and-cream checked cotton hip-wrap, no weapon; he raises one open palm as he delivers the sultan's message, head slightly bowed, eyebrows lifted apologetically, a small rueful smile, looking straight at the viewer. Behind him stand low bamboo beds covered with silk-stitched quilts and cushions, and the floor is covered with pile cotton rugs, some dyed red and some undyed.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm amber lamplight and soft gold Friday morning light on dark brown timber, deep shadows, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:07–1:17",
+      "narasi": "Hari keempat, hari Jumat. Sultan datang ke masjid berjalan kaki, berjubah ahli fikih. Sore nanti, ia pulang dengan cara berbeda.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nThe viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium-wide shot at standing eye level at the threshold of a large timber mosque with a stacked three-tier pyramidal roof on a raised plinth, Friday morning, a soft gold sky above the roof.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. Both hands hold a pair of worn brown leather slippers just taken off, held together at chest height.\nOn the packed-earth path toward the mosque, Sultan Malik az-Zahir walks on foot in his white Friday jurist dress, mid-stride, hands loosely clasped in front, eyes lowered humbly toward the mosque steps, a calm faint smile. People step aside along the path: an old man in a brown hip-wrap bows deeply, a woman with a cloth over her hair pulls a child back, two jurists in grey robes lower their heads; nobody rides. They are different people from Sultan Malik az-Zahir, wearing plain cotton, no crimson silk.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm amber lamplight and soft gold Friday morning light on dark brown timber, deep shadows, historically accurate 14th-century northern Sumatran timber mosque with a three-tier pyramidal roof, no dome, coconut palms and a sandy forecourt.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, background figures copying Sultan Malik az-Zahir's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:17–1:27",
+      "narasi": "Di bilik berkisi masjid, sultan menjabat tanganmu... lalu menanyakan Sultan Delhi. Tuanmu, yang hadiahnya tenggelam di Kalikut.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nThe viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at seated eye level inside a latticed wooden enclosure in the mosque, shafts of light falling through a carved wooden screen high above.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The right hand is clasped in a handshake; the left hand rests on the viewer's knee holding the prayer beads.\nSultan Malik az-Zahir, in his white Friday jurist dress, holds the viewer's right hand in both of his, leaning forward, and looks straight at the viewer; brows slightly raised in a searching question, lips parted mid-word, his gaze warm but probing. On his right sits an old thin Persian qadi with a long white beard and a large white turban; on both sides other jurists in grey and beige robes look at the sultan, one with an open book on his knees. They are different people from Sultan Malik az-Zahir and Ibnu Battutah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, white robes in shadowed timber interiors warming to gold and crimson silk under low late-afternoon sun and torchlight, historically accurate 14th-century timber mosque interior with a latticed wooden royal enclosure, woven mats on the floor.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, stiff symmetrical poses, background figures copying Sultan Malik az-Zahir's face or outfit, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:27–1:36",
+      "narasi": "Lalu ia kembali berdebat fikih Syafi'i dengan para ulama sampai asar. Sesudahnya, jubah ahli fikih itu berganti sutra raja.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nSame character as the Ibnu Battutah reference image.\nMedium shot at a slightly high angle inside the latticed wooden enclosure of the mosque, late afternoon, warm light falling in diamond patterns through the carved screen.\nSultan Malik az-Zahir, in his white Friday jurist dress, leans eagerly forward on one hand, the index finger of his other hand pressing a line in an open book, eyebrows raised in challenge, mouth open mid-argument, eyes on the jurist opposite. Ibnu Battutah sits at the sultan's left, chin resting on his fingers, head tilted, eyes moving between the two speakers with keen interest.\nOpposite them a broad-faced middle-aged jurist in a beige robe and plain white turban raises a hand to object, frowning thoughtfully, eyes on the sultan; an old Persian qadi with a long white beard strokes his beard and suppresses a smile. They are different people from Sultan Malik az-Zahir and Ibnu Battutah.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, white robes in shadowed timber interiors warming to gold and crimson silk under low late-afternoon sun and torchlight, historically accurate 14th-century timber mosque interior with a latticed wooden royal enclosure, woven mats and bound manuscripts.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, background figures copying the faces or outfits of Sultan Malik az-Zahir or Ibnu Battutah, legible writing, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:46",
+      "narasi": "Di pintu masjid, gajah-gajah sudah menunggu. Sultan yang tadi berjalan kaki kini naik gajah, di bawah payung bertatah emas.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nSame character as the Ibnu Battutah reference image.\nMedium-wide shot from a low angle just behind Ibnu Battutah's shoulder at the mosque gate, low late-afternoon sun, a wide golden sky above.\nSultan Malik az-Zahir, now in his crimson royal silk dress and white silk turban with a gold band, settles into a canopied seat on the back of a large decorated elephant, one hand gripping the canopy pole, chin lifted, eyes forward over the crowd. An attendant holds over him a tall parasol inlaid with gold and coloured gems that flashes in the sun. The elephant wears a heavy silk caparison and lifts one foot mid-step. Ibnu Battutah sits on a bay horse in the foreground, seen three-quarters from behind, head tilted up toward the sultan.\nBehind, more decorated elephants and saddled horses stand in rows; attendants in plain hip-wraps hold the reins, and onlookers crane their necks. They are different people from Sultan Malik az-Zahir and Ibnu Battutah, with no crimson silk and no white turban with a tail.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, white robes in shadowed timber interiors warming to gold and crimson silk under low late-afternoon sun and torchlight, historically accurate 14th-century Samudera Pasai royal procession with Asian elephants in silk trappings, a timber mosque with a tiered roof behind.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, Indian Mughal elephant howdahs with domes, characters looking at the camera, background figures copying the faces or outfits of Sultan Malik az-Zahir or Ibnu Battutah, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:46–1:55",
+      "narasi": "Di balairung, kuda-kuda berselubung sutra menari di hadapannya. Tapi musim berlayar ke Tiongkok... tak menunggu siapa pun.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nWide shot from a low angle inside a large open timber audience hall with a wooden dome at dusk, torches burning on tall stands, the dark dome high above.\nTwo horses draped in silk caparisons, with gold rings around their legs and halters of gold brocade, rear and prance in a dance at the centre, manes flying and hooves raised mid-step, their grooms skipping alongside with the reins. Sultan Malik az-Zahir, in his crimson royal silk dress, sits on his decorated elephant facing the dome, leaning slightly forward, eyes on the dancing horses, a pleased half-smile. In front of him a row of male musicians with frame drums sing with heads thrown back; ministers and commanders in rows of plain and coloured cotton tunics watch, some smiling, some whispering to each other. They are different people from Sultan Malik az-Zahir, with no crimson silk.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, white robes in shadowed timber interiors warming to gold and crimson silk under low late-afternoon sun and torchlight, historically accurate 14th-century Samudera Pasai audience hall built of timber with rows of officials, torchlit.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, background figures copying Sultan Malik az-Zahir's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:55–2:04",
+      "narasi": "Hari kelima belas, musim itu tiba. Sultan menyiapkan sebuah jung untukmu, lengkap dengan bekal dan hadiah.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at chest height on a timber jetty at the harbour of Sarha, morning, a wide bright sky above tall mat sails.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. Both hands receive a heavy cloth-wrapped bundle of provisions tied with cord, the fingers sinking into the cloth.\nHanding it over is a young palace official with a neat black moustache, an indigo headcloth and a cream cotton tunic, bowing slightly, eyes on the bundle, a respectful smile. Behind him a large ocean-going junk with a high square stern and several stiff mat sails of plaited bamboo is being loaded: bare-chested porters in plain hip-wraps carry sacks and clay jars up a plank, one straining under a jar, another shouting to the deck. They are different people from Ibnu Battutah, with no white turban and no cream mantle.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm afternoon palette of ochre timber, palm green and betel red accents with long shadows, historically accurate 14th-century Indian Ocean junk with plaited bamboo mat sails and a wooden hull, at a northern Sumatran harbour village.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:04–2:15",
+      "narasi": "Pantai hijau itu mengecil. Di depan, tak ada lagi raja Muslim. Kelak, jung milik sultan yang sama... membawamu kembali.",
+      "prompt": "The viewer is Ibnu Battutah: the hands and forearms in the foreground match the first-person panel of the Ibnu Battutah reference image.\nMedium shot at chest height on the deck of the junk at dusk, open sea, the last band of the green Sumatran coast a thin dark line on the horizon behind, a deep indigo sky above.\nFirst-person point of view. Hands and forearms of a Berber man in his early forties: sun-darkened light olive-tan skin, lean wrists with visible tendons, a few dark hairs on the forearms, long slender fingers with neatly trimmed nails and a faint ink stain on the right middle finger, no rings on any finger, long wide sleeves of a plain white cotton robe under the edge of an open cream woollen mantle. The right hand rests on the worn wooden rail; the left hand holds the same dark wooden prayer beads loosely, the thumb resting on one bead. A single clay lantern hangs from a post beside the rail, its warm flame steady.\nThe sea is calm with long slow swells; a mat sail edge stirs above. Nobody else is visible.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, deep indigo dusk sea with a single warm amber lantern glow, historically accurate 14th-century Indian Ocean junk deck with plaited bamboo mat sails.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, characters looking at the camera, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:15–2:24",
+      "narasi": "Sultan yang saleh itu baru pulang berperang saat kamu kembali. Dari banyak tawanannya, empat dikirim kepadamu sebagai hadiah.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nSame character as the Ibnu Battutah reference image.\nMedium-wide shot at eye level outside the timber palisade of the palace at midday, timber towers and a hard bright sky above.\nSultan Malik az-Zahir, in his crimson royal silk dress, swings down from a kneeling elephant, one hand on an attendant's shoulder, his face tired and stern, eyes on the gate. Ibnu Battutah stands in the foreground seen from the side, holding a bundle against his chest, brows drawn together, lips pressed thin, his gaze drifting uneasily past the sultan to the distance.\nBehind the sultan returning warriors with spears, round shields and plain cotton hip-wraps, dusty and weary; far in the background a small line of captive men and women walks with lowered heads between spearmen, seen only as small distant figures, no chains, no wounds. All of them are different people from Sultan Malik az-Zahir and Ibnu Battutah, with no crimson silk and no white turban with a tail.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, festive gold and crimson daylight with warm earthy shadows; the epilogue in soft amber sunset light, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, gore, blood, chains, humiliating depictions of captives, characters looking at the camera, background figures copying the faces or outfits of Sultan Malik az-Zahir or Ibnu Battutah, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:24–2:33",
+      "narasi": "Kamu menyaksikan putranya menikah. Ia datang bermahkota di atas gajah, sementara koin emas dan perak ditabur.",
+      "prompt": "Same character as the Sultan Malik az-Zahir reference image.\nSame character as the Ibnu Battutah reference image.\nWide shot from a slightly high angle over the crowd in the courtyard of the audience hall, festive daylight, coloured silk streamers above.\nThe sultan's son, a beardless young man of about eighteen, a different person from Sultan Malik az-Zahir with a slimmer face and no beard, wears a simple gold circlet crown with small pointed leaves and a white silk tunic, sitting in a canopied seat on a decorated elephant, smiling shyly, eyes on the silk-covered platform ahead. Around him ride young beardless horsemen in white with jewelled caps; attendants fling handfuls of gold and silver coins that sparkle in the air as the crowd reaches up laughing. On the platform the bride stands unveiled in a green and gold silk wrap and a long silk tunic, gold earrings, surrounded by about a dozen unveiled ladies holding up the hem of her robe. Sultan Malik az-Zahir, in his crimson royal silk dress, watches from a raised timber stand, eyes on his son. Ibnu Battutah stands among the onlookers in the foreground, seen from behind, head turned toward the elephant.\nThe onlookers are different people from Sultan Malik az-Zahir and Ibnu Battutah, in plain and checked cotton hip-wraps.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, festive gold and crimson daylight with warm earthy shadows; the epilogue in soft amber sunset light, historically accurate 14th-century Samudera Pasai, north coast of Sumatra: a timber palisade with timber towers, raised timber houses with palm-thatch roofs, coconut and areca palms, clove and mango trees, people in wrapped cotton and silk hip-cloths instead of trousers.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, Javanese bridal crowns, modern Acehnese wedding costume, characters looking at the camera, background figures copying the faces or outfits of Sultan Malik az-Zahir or Ibnu Battutah, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:33–2:44",
+      "narasi": "Sekitar sepuluh tahun kemudian, di Maroko, kamu mendiktekannya menjadi Rihla. Kota kayunya sudah lenyap. Yang bertahan, nisan para sultannya... dan catatanmu.",
+      "prompt": "Medium shot at eye level, present-day North Aceh at sunset, a wide amber sky fading to deep blue above coconut palms and green rice fields.\nA small cluster of old carved stone gravestones stands on a low raised platform under a simple open roof shelter on four posts: tall pillar-shaped and flat winged headstones of weathered grey stone, carved with bands of flowing Arabic calligraphy, hanging-lamp motifs and leaf scrolls, softened by centuries of rain; long shadows stretch across the grass. A single warm glow of the setting sun touches the tallest stone. No people.\nDetailed vector art illustration, clean crisp outlines, flat colors with subtle shading, festive gold and crimson daylight with warm earthy shadows; the epilogue in soft amber sunset light, historically accurate Samudera Pasai royal gravestones in Aceh Utara, carved andesite and grey stone with Arabic inscriptions and plant ornaments, under a modest modern shelter.\nAvoid parang batik pattern, batik motifs of any kind, Acehnese kupiah meukeutop hats, 19th-century Acehnese court costume, rencong daggers, Ottoman fez or tarboosh, Mughal-style jama robes and plumed turbans, Arab keffiyeh with agal, onion domes, tall minarets, Majapahit-style Javanese crowns, European galleons, red bat-wing tourist junk sails, modern clothing, legible inscriptions, modern domed mausoleums, tourist signboards, characters looking at the camera, text, watermarks.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice lelaki dewasa bernada hangat, sedikit berat, yang nyaman bercerita pelan dan berbisik; pilihan voice paling menentukan, tag tidak bisa memaksa voice yang lembut menjadi megah (adegan 11 dan 16 butuh sedikit semangat).\n\n- Babak 1: tegang dan letih di hook, sedih di kilas balik Kalikut, penasaran di akhir.\n- Babak 2: hangat dan takjub, tempo sedang, sedikit menggantung di kalimat sirih.\n- Babak 3: sabar dan ingin tahu, bersemangat saat sultan berjalan kaki, berbisik di akhir.\n- Babak 4: tegang di jabat tangan, tenang di debat fikih, megah di gajah dan kuda menari, serius di akhir.\n- Babak 5: pelan dan sunyi, jeda panjang di momen hening, bisikan di dua kalimat terakhir.\n- Babak 6: tegang dan getir saat tawanan disebut, cerah singkat di pernikahan, epilog datar dan hangat, kalimat terakhir berbisik.",
+    "arahanBabak": {
+      "1": "tegang dan letih di hook, sedih di kilas balik Kalikut, penasaran di akhir.",
+      "2": "hangat dan takjub, tempo sedang, sedikit menggantung di kalimat sirih.",
+      "3": "sabar dan ingin tahu, bersemangat saat sultan berjalan kaki, berbisik di akhir.",
+      "4": "tegang di jabat tangan, tenang di debat fikih, megah di gajah dan kuda menari, serius di akhir.",
+      "5": "pelan dan sunyi, jeda panjang di momen hening, bisikan di dua kalimat terakhir.",
+      "6": "tegang dan getir saat tawanan disebut, cerah singkat di pernikahan, epilog datar dan hangat, kalimat terakhir berbisik."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[tense] Kamu sudah melintasi separuh dunia, dan kehilangan hampir segalanya. [curious] Di negeri hijau ini, sultannya berjalan kaki ke masjid....\n\n[sad] Kamu Ibnu Battutah, kadi asal Maroko, utusan Sultan Delhi ke Tiongkok. [sad] Tapi jung pembawa hadiahnya karam di Kalikut....\n\n[calm] Perahu-perahu kecil menyambut kapalmu dengan kelapa, pisang, dan ikan. [curious] Lalu wakil laksamana menulis surat kepada sultan... tentang dirimu....",
+    "2": "[excited] Utusan sultan ternyata wajah yang kamu kenal. [calm] Amir Daulasah, bekas duta Pasai di Delhi, membawakanmu kuda dari kandang sultan....\n\n[calm] Kota sultan berpagar dan bermenara kayu. [serious] Di depan istana, tombak-tombak tertancap: di sini, semua penunggang turun....\n\n[curious] Wakil sultan menghadiahimu sutra, jubah wol, dan sorban. [serious] Lalu sirih disuguhkan, tanda tamu harus pamit... padahal sultan belum kamu lihat....",
+    "3": "[curious] Hadiah berikutnya datang bersama pesan ganjil. [calm] Hadiah ini sesuai kemampuan sultan, bukan kemampuan Sultan Delhi. [calm] Tiga hari lagi, kamu boleh menghadap....\n\n[curious] Hari keempat, hari Jumat. [excited] Sultan datang ke masjid berjalan kaki, berjubah ahli fikih. [whispers] Sore nanti, ia pulang dengan cara berbeda....",
+    "4": "[tense] Di bilik berkisi masjid, sultan menjabat tanganmu... lalu menanyakan Sultan Delhi. [serious] Tuanmu, yang hadiahnya tenggelam di Kalikut....\n\n[calm] Lalu ia kembali berdebat fikih Syafi'i dengan para ulama sampai asar. [curious] Sesudahnya, jubah ahli fikih itu berganti sutra raja....\n\n[excited] Di pintu masjid, gajah-gajah sudah menunggu. [excited] Sultan yang tadi berjalan kaki kini naik gajah, di bawah payung bertatah emas....\n\n[calm] Di balairung, kuda-kuda berselubung sutra menari di hadapannya. [serious] Tapi musim berlayar ke Tiongkok... tak menunggu siapa pun....",
+    "5": "[serious] Hari kelima belas, musim itu tiba. [calm] Sultan menyiapkan sebuah jung untukmu, lengkap dengan bekal dan hadiah....\n\n[sad] Pantai hijau itu mengecil. [whispers] Di depan, tak ada lagi raja Muslim. [whispers] Kelak, jung milik sultan yang sama... membawamu kembali....",
+    "6": "[tense] Sultan yang saleh itu baru pulang berperang saat kamu kembali. [serious] Dari banyak tawanannya, empat dikirim kepadamu sebagai hadiah....\n\n[calm] Kamu menyaksikan putranya menikah. [excited] Ia datang bermahkota di atas gajah, sementara koin emas dan perak ditabur....\n\n[calm] Sekitar sepuluh tahun kemudian, di Maroko, kamu mendiktekannya menjadi Rihla. [sad] Kota kayunya sudah lenyap. [whispers] Yang bertahan, nisan para sultannya... dan catatanmu...."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Angin ke timur",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "1:05",
+      "suasana": "Laut terbuka, letih, lalu takjub di kota kayu",
+      "style": "cinematic Indian Ocean ambient, slow solo oud and soft ney flute over a low string drone and gentle frame-drum pulse, weary and wondering, starts sparse with the sound of open sea, briefly darker and stormy in the middle, then warms with plucked lute and light hand percussion, fades out at the end, about 65 seconds long (1:05), with a clear ending, 72 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, trap, electric guitar, rock drums"
+    },
+    {
+      "nomor": 2,
+      "nama": "Dua pakaian sultan",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "1:05",
+      "suasana": "Khidmat dan hangat, lalu megah dan bersukacita",
+      "style": "devotional cinematic ambient with soft frame drums, low gongs and a warm oud melody, calm and reverent at first, then builds into a stately royal procession with rebana-like frame drums, bronze gong accents and a bright bamboo flute line, majestic but not martial, ends on a held gong, about 65 seconds long (1:05), with a clear ending, 80 BPM rising to 96 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, orchestral brass fanfare, electric guitar, synth lead"
+    },
+    {
+      "nomor": 3,
+      "nama": "Ujung dan pulang",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "0:55",
+      "suasana": "Sunyi di laut, getir, hangat reflektif di epilog",
+      "style": "slow mournful solo ney flute and sparse plucked oud over a soft low string pad and the hush of waves, lonely and reflective, nearly silent in the middle, a brief bright festive frame-drum swell, then a warm gentle closing for the epilogue, fades out at the end, about 55 seconds long (0:55), with a clear ending, 60 BPM, instrumental, no vocals",
+      "exclude": "vocals, choir, EDM, piano pop, heavy drums"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Ombak di lambung kapal kayu dan camar",
+      "kataKunci": "wooden ship creak, waves hull, seagulls",
+      "prompt": "waves slapping against a large wooden ship hull, timber creaking, distant seagulls, calm morning sea"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Badai dan papan kapal patah",
+      "kataKunci": "storm surf, ship breaking, wood crack",
+      "prompt": "violent storm surf on a beach, heavy wind, a wooden ship's mast cracking and planks breaking, distant shouts"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Dayung perahu dan riuh tawar-menawar",
+      "kataKunci": "canoe paddle splash, market chatter",
+      "prompt": "small wooden paddles splashing beside a ship, cheerful voices calling from canoes, gentle waves"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Ringkik kuda dan ombak kecil",
+      "kataKunci": "horse whinny, beach waves",
+      "prompt": "a horse snorting and whinnying on a sandy beach, small waves, light wind"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Derap kuda dan gerbang kayu",
+      "kataKunci": "horse hooves dirt road, wooden gate creak",
+      "prompt": "horses walking on a packed earth road, a heavy wooden gate creaking open"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Kain sutra berdesir",
+      "kataKunci": "silk fabric rustle, metal tray",
+      "prompt": "silk cloth being unfolded and rustling, a small brass tray set down on a mat, quiet room"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Jangkrik malam dan desis pelita",
+      "kataKunci": "night crickets, oil lamp flicker",
+      "prompt": "tropical night crickets outside a wooden house, a small oil lamp flame flickering, quiet"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Langkah kaki dan gumam jamaah",
+      "kataKunci": "crowd murmur outdoor, footsteps dirt",
+      "prompt": "many people walking softly on earth and murmuring outside a mosque in the morning, birds"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Halaman kitab dan debat pelan",
+      "kataKunci": "book pages turning, quiet discussion",
+      "prompt": "old paper pages turning, two men debating softly in a wooden hall, light reverb"
+    },
+    {
+      "nomor": 10,
+      "adegan": 11,
+      "bunyi": "Lenguh gajah dan gemerincing hiasan",
+      "kataKunci": "elephant trumpet, bells jingling",
+      "prompt": "an elephant rumbling and trumpeting softly, small metal ornaments jingling, crowd murmur"
+    },
+    {
+      "nomor": 11,
+      "adegan": 12,
+      "bunyi": "Kuda menari diiringi gendang",
+      "kataKunci": "horse hooves rhythmic, frame drum",
+      "prompt": "horses stepping rhythmically on a wooden floor, frame drums and male voices singing, torches crackling"
+    },
+    {
+      "nomor": 12,
+      "adegan": 13,
+      "bunyi": "Tali tambang dan awak kapal",
+      "kataKunci": "ship rope creak, sailors shouting",
+      "prompt": "ropes creaking on a wooden ship, porters shouting, sacks dropped on deck, harbour waves"
+    },
+    {
+      "nomor": 13,
+      "adegan": 14,
+      "bunyi": "Ombak pelan di laut sunyi",
+      "kataKunci": "calm sea night, gentle waves",
+      "prompt": "calm open sea at dusk, slow gentle waves against a wooden hull, a mat sail creaking once"
+    },
+    {
+      "nomor": 14,
+      "adegan": 15,
+      "bunyi": "Genderang perang dari jauh",
+      "kataKunci": "distant war drums, elephant footsteps",
+      "prompt": "distant war drums and a slow column of marching feet, an elephant's heavy footsteps"
+    },
+    {
+      "nomor": 15,
+      "adegan": 16,
+      "bunyi": "Sorak dan gemerincing koin",
+      "kataKunci": "crowd cheering, coins jingle",
+      "prompt": "a festive crowd cheering, handfuls of coins falling and jingling on the ground, joyful drums"
+    },
+    {
+      "nomor": 16,
+      "adegan": 17,
+      "bunyi": "Angin senja dan jangkrik",
+      "kataKunci": "evening wind, crickets rice field",
+      "prompt": "soft evening wind over rice fields, crickets, distant birds settling"
+    }
+  ],
+  "adeganHening": [
+    14
+  ],
+  "ulikan": {
+    "teks": "Kata benzoin, nama Inggris kemenyan, berasal dari bahasa Arab lubān jāwī.",
+    "sumber": "Wikipedia \"Benzoin resin\"; Rihla terj. Defrémery-Sanguinetti, jilid 4, h. 240",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Ibnu Battutah di Samudera Pasai",
+      "catatan": "Alternatif judul: POV: Kamu Tamu Sultan di Ujung Dunia Islam / POV: Kamu Ibnu Battutah, Tamu Sultan Pasai",
+      "caption": "Sultan ini berjalan kaki ke masjid, lalu pulang naik gajah di bawah payung emas.\n\nSamudera Pasai, sekitar 1345: Ibnu Battutah, pengembara asal Maroko, lima belas hari menjadi tamu Sultan Malik az-Zahir. Ia mencatat Pasai sebagai negeri Muslim terakhir di timur, dengan sultan bermazhab Syafi'i yang gemar berdebat fikih bersama para ulama.\n\nMenurutmu, mana wajah asli sultan ini: yang berjalan kaki atau yang naik gajah?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Rihla Ibnu Battutah (terj. Defrémery-Sanguinetti); NU Online.\n\n#UlikSilam #sejarahindonesia #ibnubatutah #samuderapasai"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Ibnu Battutah di Samudera Pasai",
+      "catatan": "",
+      "caption": "Hadiah Sultan Delhi tenggelam. Kamu tiba di ujung timur dunia Islam hampir tanpa apa-apa.\n\nSamudera Pasai, sekitar 1345: Ibnu Battutah singgah lima belas hari, lalu diberangkatkan ke Tiongkok dengan jung milik sultan. Dalam perjalanan pulang ia singgah lagi dan menyaksikan pernikahan putra sultan.\n\nKalau kamu tamu sultan, kamu pilih tinggal di Pasai atau terus berlayar?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Rihla Ibnu Battutah (terj. Defrémery-Sanguinetti); NU Online.\n\n#UlikSilam #sejarahindonesia #ibnubatutah #samuderapasai #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 312,
+    "kataPerBabak": {
+      "1": 54,
+      "2": 55,
+      "3": 41,
+      "4": 72,
+      "5": 35,
+      "6": 55
+    },
+    "karakterPerBabak": {
+      "1": 438,
+      "2": 446,
+      "3": 341,
+      "4": 585,
+      "5": 278,
+      "6": 464
+    },
+    "jedaBunyi": 6,
+    "perkiraanDetik130": {
+      "narasi": 163.8,
+      "denganMerek": 168.8
+    },
+    "perkiraanDetik135": {
+      "narasi": 158.5,
+      "denganMerek": 163.5
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

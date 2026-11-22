@@ -1,0 +1,21 @@
+judul: "POV: Kamu Seorang Nyai (Part 2: Nama yang Tak Tercatat)"
+slug: pov-nyai-2-nama-yang-tak-tercatat
+format: POV
+lapisan: ["Sejarah"]
+latar: "Semarang, masa Hindia Belanda"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-10-24"
+merek: pra-repo
+adegan: 12
+lembar_karakter: ["Nyai", "Tuan", "Anak", "Anak Besar"]
+aset: {ilustrasi: 12, narasi: 16, musik: 3, sfx: 0}
+render: "out/pov-nyai-2-nama-yang-tak-tercatat.mp4"
+tanggal_render: 2026-10-24
+tautan: {"shorts": "https://youtube.com/shorts/Iau11e6SgpI", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7703028103701925127"}
+arsip_lama: "pov/pov-nyai-2-nama-yang-tak-tercatat"
+catatan: ""
+metrik_shorts: {"views": 3078, "jam_tonton": 35.9, "rata_tonton_detik": 42.0, "durasi_detik": 118, "persen_ditonton": 35.6, "subscriber": 7, "impresi": 4012, "ctr": 2.19, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 611467, "suka": 58666, "komentar": 110, "bagikan": 2482, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-25", "tiktok": "2026-11-02"}

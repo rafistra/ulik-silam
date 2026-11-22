@@ -1,0 +1,674 @@
+{
+  "sumber": "KONSEP.md",
+  "diurai": "2026-10-19T13:45:50.633Z",
+  "judulDokumen": "Shodancho Supriyadi",
+  "judul": "POV: Kamu Shodancho Supriyadi di Malam Pemberontakan PETA Blitar",
+  "slug": "pov-supriyadi-peta-blitar",
+  "versi": "v2 · 2026-10-19",
+  "lapisan": [
+    "Sejarah"
+  ],
+  "latar": "Blitar",
+  "durasiMaksDetik": 180,
+  "durasiTargetDetik": 170,
+  "rasio": "9:16",
+  "platform": "TikTok, YouTube Shorts",
+  "posisiKamu": "Supriyadi (tokoh nyata), shodancho atau komandan peleton PETA di Blitar, 21 tahun",
+  "ringkasan": {
+    "Judul": "POV: Kamu Shodancho Supriyadi di Malam Pemberontakan PETA Blitar",
+    "Slug": "pov-supriyadi-peta-blitar",
+    "Durasi": "3:00 maksimum, target ±2:50",
+    "Rasio": "9:16",
+    "Platform": "TikTok, YouTube Shorts",
+    "Posisi \"kamu\"": "Supriyadi (tokoh nyata), shodancho atau komandan peleton PETA di Blitar, 21 tahun",
+    "Jumlah ilustrasi": "19 (17 adegan + 2 lembar karakter: Supriyadi, Muradi)",
+    "Lapisan": "Sejarah",
+    "Latar": "Blitar",
+    "Premis": "Kamu memimpin pemberontakan melawan tentara yang membentukmu; serangan pukul tiga menghantam gedung kosong, dan pagi itu kamu lenyap dari catatan.",
+    "Benang merah": "Hormat yang dipaksakan berubah jadi perlawanan, lalu jadi kekosongan: gedung kosong, kursi kosong.",
+    "Dipilih karena": "Dari brainstorming: hook paling langsung, tokoh berulang sedikit, dan akhir misteri memancing komentar (alur A, akhir 1).",
+    "Asumsi": "Durasi default 3:00. Epilog memuat satu kalimat tentang kawan yang diadili. Nasib Supriyadi dibiarkan terbuka.",
+    "Alat": "Gemini, Suno, ElevenLabs v3, Remotion",
+    "Versi": "v2 · 2026-10-19"
+  },
+  "palet": [
+    {
+      "babak": 1,
+      "nama": "Rapat terakhir",
+      "suasana": "Tegang, berbisik",
+      "palet": "Cokelat tanah gelap, oker, hitam pekat, aksen kuning pelita",
+      "cahaya": "Satu pelita di meja, bayangan dalam"
+    },
+    {
+      "babak": 2,
+      "nama": "Menunggu pukul tiga",
+      "suasana": "Menahan napas",
+      "palet": "Khaki zaitun, cokelat tua, biru malam pudar",
+      "cahaya": "Lentera kecil yang rendah dan hangat"
+    },
+    {
+      "babak": 3,
+      "nama": "Gedung kosong",
+      "suasana": "Meledak, lalu hampa",
+      "palet": "Jingga api, merah bata, merah-putih bendera, abu asap",
+      "cahaya": "Kilatan mortir dan cahaya api; lorong hotel diterangi satu lentera"
+    },
+    {
+      "babak": 4,
+      "nama": "Saudara di seberang laras",
+      "suasana": "Ragu dan getir",
+      "palet": "Hijau sawah redup, khaki, kelabu fajar",
+      "cahaya": "Cahaya fajar rendah keemasan yang pucat, kabut tipis"
+    },
+    {
+      "babak": 5,
+      "nama": "Kabut",
+      "suasana": "Sunyi, menghilang",
+      "palet": "Putih kabut, hijau tua, cokelat tanah",
+      "cahaya": "Cahaya pagi tersebar dari matahari rendah di balik kabut"
+    },
+    {
+      "babak": 6,
+      "nama": "Kursi kosong",
+      "suasana": "Getir, menggantung",
+      "palet": "Cokelat kayu, krem dinding, hitam",
+      "cahaya": "Satu lampu meja atau pelita hangat, sisanya gelap"
+    }
+  ],
+  "penutupPrompt": "Style: detailed vector art\nAspect ratio: 9:16",
+  "namaBabak": {
+    "1": "Rapat terakhir",
+    "2": "Menunggu pukul tiga",
+    "3": "Gedung kosong",
+    "4": "Saudara di seberang laras",
+    "5": "Kabut",
+    "6": "Kursi kosong"
+  },
+  "adegan": [
+    {
+      "nomor": 1,
+      "babak": 1,
+      "namaBabak": "Rapat terakhir",
+      "waktu": "0:00–0:10",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Orang pertama di ruang gelap: tanganmu berlengan seragam PETA menekan denah kota Blitar di atas meja kayu, diterangi satu pelita; di seberang meja, bayangan para perwira muda.",
+      "narasiSuara": "[serious] Kamu perwira PETA, 21 tahun. [tense] Tapi serdadu Jepang terendah pun wajib kamu hormati. [whispers] Malam ini, kamu akan menembaki mereka.",
+      "narasi": "Kamu perwira PETA, 21 tahun. Tapi serdadu Jepang terendah pun wajib kamu hormati. Malam ini, kamu akan menembaki mereka.",
+      "teksLayar": [
+        "Blitar, 13 Februari 1945"
+      ],
+      "suara": "Jangkrik, desis nyala pelita",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 2,
+      "babak": 1,
+      "namaBabak": "Rapat terakhir",
+      "waktu": "0:10–0:21",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Supriyadi di tengah lingkaran perwira PETA yang duduk merapat di dapur umum markas, wajah diterangi pelita; Muradi di sampingnya.",
+      "narasiSuara": "[calm] Ini rapat rahasia keenam sejak September. [tense] Kempeitai mulai mencium rencana kalian. [serious] Malam ini juga, kalian putuskan menyerang kota dalam empat kelompok.",
+      "narasi": "Ini rapat rahasia keenam sejak September. Kempeitai mulai mencium rencana kalian. Malam ini juga, kalian putuskan menyerang kota dalam empat kelompok.",
+      "teksLayar": [],
+      "suara": "Bisik-bisik, kursi berderit",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 3,
+      "babak": 1,
+      "namaBabak": "Rapat terakhir",
+      "waktu": "0:21–0:30",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Kilas balik: Supriyadi berdiri di pantai selatan yang berangin, menatap barisan romusha kurus memikul batu di bawah terik.",
+      "narasiSuara": "[sad] Kamu pernah mengawasi romusha di pantai selatan. [sad] Kamu melihat mereka bekerja sampai tumbang. [serious] Itulah yang membawamu ke ruangan ini.",
+      "narasi": "Kamu pernah mengawasi romusha di pantai selatan. Kamu melihat mereka bekerja sampai tumbang. Itulah yang membawamu ke ruangan ini.",
+      "teksLayar": [],
+      "suara": "Ombak, denting cangkul",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 4,
+      "babak": 2,
+      "namaBabak": "Menunggu pukul tiga",
+      "waktu": "0:30–0:40",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Orang pertama di gudang senjata: tanganmu menyerahkan senapan kepada prajurit muda; peti granat dan tabung mortir di lantai, cahaya lentera kecil.",
+      "narasiSuara": "[tense] Senapan, granat, dan mortir dibagikan dalam diam. [serious] Perintahmu jelas: bunuh setiap serdadu Jepang. [serious] Tapi jangan lukai sesama PETA.",
+      "narasi": "Senapan, granat, dan mortir dibagikan dalam diam. Perintahmu jelas: bunuh setiap serdadu Jepang. Tapi jangan lukai sesama PETA.",
+      "teksLayar": [],
+      "suara": "Logam beradu pelan",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 5,
+      "babak": 2,
+      "namaBabak": "Menunggu pukul tiga",
+      "waktu": "0:40–0:49",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Supriyadi dan Muradi berdiri bahu-membahu di balik dinding markas dalam gelap, keduanya menatap arloji saku di tangan Supriyadi.",
+      "narasiSuara": "[calm] Muradi, kawanmu sejak pendidikan perwira di Bogor, berdiri di sampingmu. [nervous] Kalian menatap jarum jam yang sama. [whispers] Sebentar lagi...",
+      "narasi": "Muradi, kawanmu sejak pendidikan perwira di Bogor, berdiri di sampingmu. Kalian menatap jarum jam yang sama. Sebentar lagi...",
+      "teksLayar": [],
+      "suara": "Detak jam",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 6,
+      "babak": 3,
+      "namaBabak": "Gedung kosong",
+      "waktu": "0:49–0:58",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Orang pertama dari halaman markas: tanganmu terangkat memberi isyarat; kilatan mortir melesat ke arah bangunan hotel bergaya kolonial di kejauhan.",
+      "narasiSuara": "[shouting] Pukul tiga! [tense] Mortir meluncur ke Hotel Sakura, tempat para perwira Jepang menginap. [tense] Senapan mesin menyalak ke markas Kempeitai.",
+      "narasi": "Pukul tiga! Mortir meluncur ke Hotel Sakura, tempat para perwira Jepang menginap. Senapan mesin menyalak ke markas Kempeitai.",
+      "teksLayar": [
+        "14 Februari 1945, pukul 03.00"
+      ],
+      "suara": "Dentum mortir, rentetan senapan mesin",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 7,
+      "babak": 3,
+      "namaBabak": "Gedung kosong",
+      "waktu": "0:58–1:09",
+      "durasiCadangan": 11,
+      "bidikan": "B",
+      "visual": "Partohardjono mengibarkan merah putih di tiang lapangan depan markas, siluetnya diterangi cahaya api dari kota; Supriyadi menatap dari kejauhan.",
+      "narasiSuara": "[excited] Di lapangan depan markas, Partohardjono mengibarkan merah putih. [excited] Kainnya disembunyikan dari mata Jepang sampai malam ini. [calm] Untuk sesaat, Blitar terasa merdeka.",
+      "narasi": "Di lapangan depan markas, Partohardjono mengibarkan merah putih. Kainnya disembunyikan dari mata Jepang sampai malam ini. Untuk sesaat, Blitar terasa merdeka.",
+      "teksLayar": [],
+      "suara": "Kain dikibas angin, sorak tertahan",
+      "hening": false,
+      "epilog": false,
+      "kata": 21
+    },
+    {
+      "nomor": 8,
+      "babak": 3,
+      "namaBabak": "Gedung kosong",
+      "waktu": "1:09–1:17",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Orang pertama di lorong hotel: lentera di tanganmu menerangi kamar-kamar kosong, ranjang rapi tak tersentuh.",
+      "narasiSuara": "[curious] Tapi dari Hotel Sakura, tak terdengar satu teriakan pun. [tense] Gedung itu kosong. [whispers] Mereka sudah tahu...",
+      "narasi": "Tapi dari Hotel Sakura, tak terdengar satu teriakan pun. Gedung itu kosong. Mereka sudah tahu...",
+      "teksLayar": [],
+      "suara": "Langkah sepatu bergema, lalu sunyi",
+      "hening": false,
+      "epilog": false,
+      "kata": 15
+    },
+    {
+      "nomor": 9,
+      "babak": 4,
+      "namaBabak": "Saudara di seberang laras",
+      "waktu": "1:17–1:27",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Barisan pemberontak PETA meninggalkan kota lewat jalan desa di antara sawah, Supriyadi di depan, langit mulai kelabu.",
+      "narasiSuara": "[serious] Kalian keluar kota untuk menyusun kekuatan dan menyerang lagi. [tense] Tapi Jepang bergerak lebih cepat. [tense] Jalan-jalan keluar Blitar dijaga.",
+      "narasi": "Kalian keluar kota untuk menyusun kekuatan dan menyerang lagi. Tapi Jepang bergerak lebih cepat. Jalan-jalan keluar Blitar dijaga.",
+      "teksLayar": [],
+      "suara": "Langkah tergesa, napas terengah",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 10,
+      "babak": 4,
+      "namaBabak": "Saudara di seberang laras",
+      "waktu": "1:27–1:36",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Orang pertama dari balik pematang sawah: di ujung jalan, barisan prajurit berseragam PETA yang sama mengangkat senapan.",
+      "narasiSuara": "[nervous] Lalu sebuah barisan muncul di ujung jalan. [tense] Seragamnya sama dengan seragammu. [sad] Jepang mengirim sesama PETA untuk menghadang kalian.",
+      "narasi": "Lalu sebuah barisan muncul di ujung jalan. Seragamnya sama dengan seragammu. Jepang mengirim sesama PETA untuk menghadang kalian.",
+      "teksLayar": [],
+      "suara": "Aba-aba berteriak dari jauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 11,
+      "babak": 4,
+      "namaBabak": "Saudara di seberang laras",
+      "waktu": "1:36–1:44",
+      "durasiCadangan": 8,
+      "bidikan": "A",
+      "visual": "Orang pertama membidik: laras senapan di tanganmu, di ujungnya wajah pemuda PETA seusiamu yang sama-sama ragu.",
+      "narasiSuara": "[sad] [whispers] Kamu sendiri yang memerintahkannya: jangan lukai sesama PETA... [sad] Jarimu diam di pelatuk.",
+      "narasi": "Kamu sendiri yang memerintahkannya: jangan lukai sesama PETA... Jarimu diam di pelatuk.",
+      "teksLayar": [],
+      "suara": "Musik turun, napas, angin",
+      "hening": true,
+      "epilog": false,
+      "kata": 12
+    },
+    {
+      "nomor": 12,
+      "babak": 4,
+      "namaBabak": "Saudara di seberang laras",
+      "waktu": "1:44–1:53",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Di persimpangan jalan tanah, Supriyadi dan Muradi saling menatap sebelum berpisah; pasukan terbelah ke dua arah.",
+      "narasiSuara": "[resigned] Pasukan kalian tercerai-berai. [sad] Muradi membawa sebagian anak buah ke arah lain. [sad] Kalian berpisah tanpa sempat berjanji bertemu lagi.",
+      "narasi": "Pasukan kalian tercerai-berai. Muradi membawa sebagian anak buah ke arah lain. Kalian berpisah tanpa sempat berjanji bertemu lagi.",
+      "teksLayar": [],
+      "suara": "Langkah menjauh",
+      "hening": false,
+      "epilog": false,
+      "kata": 18
+    },
+    {
+      "nomor": 13,
+      "babak": 5,
+      "namaBabak": "Kabut",
+      "waktu": "1:53–2:03",
+      "durasiCadangan": 10,
+      "bidikan": "B",
+      "visual": "Dari belakang: Supriyadi berjalan menjauh di jalan setapak berkabut; di kejauhan asap tipis mengambang di atas kota Blitar.",
+      "narasiSuara": "[calm] Kamu berjalan menjauh dari kota yang semalam kalian guncang. [sad] Di belakangmu, Blitar kembali dikuasai Jepang. [sad] Kamu tidak menoleh lagi.",
+      "narasi": "Kamu berjalan menjauh dari kota yang semalam kalian guncang. Di belakangmu, Blitar kembali dikuasai Jepang. Kamu tidak menoleh lagi.",
+      "teksLayar": [],
+      "suara": "Angin, burung pagi",
+      "hening": false,
+      "epilog": false,
+      "kata": 19
+    },
+    {
+      "nomor": 14,
+      "babak": 5,
+      "namaBabak": "Kabut",
+      "waktu": "2:03–2:12",
+      "durasiCadangan": 9,
+      "bidikan": "A",
+      "visual": "Jejak sepatu di tanah basah yang memudar ke dalam kabut putih; tak ada sosok.",
+      "narasiSuara": "[whispers] Kabut menelan langkahmu... [serious] Sejak hari itu, jejakmu hilang. [serious] Namamu tak muncul di daftar tangkapan mana pun.",
+      "narasi": "Kabut menelan langkahmu... Sejak hari itu, jejakmu hilang. Namamu tak muncul di daftar tangkapan mana pun.",
+      "teksLayar": [],
+      "suara": "Angin, hening",
+      "hening": false,
+      "epilog": true,
+      "kata": 16
+    },
+    {
+      "nomor": 15,
+      "babak": 6,
+      "namaBabak": "Kursi kosong",
+      "waktu": "2:12–2:21",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ruang pengadilan militer Jepang: para perwira PETA terdakwa duduk berbaris menghadap meja hakim, Muradi di barisan depan dengan kepala tegak.",
+      "narasiSuara": "[sad] Puluhan kawanmu diadili di pengadilan militer Jepang. [sad] Enam dihukum mati di Ancol. [sad] Muradi, kawanmu sejak Bogor, salah satunya.",
+      "narasi": "Puluhan kawanmu diadili di pengadilan militer Jepang. Enam dihukum mati di Ancol. Muradi, kawanmu sejak Bogor, salah satunya.",
+      "teksLayar": [
+        "Jakarta, 1945"
+      ],
+      "suara": "Ketukan palu, vonis dibacakan samar",
+      "hening": false,
+      "epilog": true,
+      "kata": 18
+    },
+    {
+      "nomor": 16,
+      "babak": 6,
+      "namaBabak": "Kursi kosong",
+      "waktu": "2:21–2:30",
+      "durasiCadangan": 9,
+      "bidikan": "B",
+      "visual": "Ruang rapat sederhana tahun 1945: meja panjang, deretan kursi terisi siluet para menteri, satu kursi kosong dengan papan nama.",
+      "narasiSuara": "[calm] Agustus itu, Indonesia merdeka. [serious] Di kabinet pertama, namamu tercantum sebagai Menteri Keamanan Rakyat. [sad] Semua menunggu kamu datang.",
+      "narasi": "Agustus itu, Indonesia merdeka. Di kabinet pertama, namamu tercantum sebagai Menteri Keamanan Rakyat. Semua menunggu kamu datang.",
+      "teksLayar": [],
+      "suara": "Riuh rapat yang meredup",
+      "hening": false,
+      "epilog": true,
+      "kata": 17
+    },
+    {
+      "nomor": 17,
+      "babak": 6,
+      "namaBabak": "Kursi kosong",
+      "waktu": "2:30–2:40",
+      "durasiCadangan": 10,
+      "bidikan": "A",
+      "visual": "Dekat pada kursi kosong itu; nyala pelita di meja perlahan meredup.",
+      "narasiSuara": "[resigned] 20 Oktober, kursi itu diserahkan kepada orang lain. [serious] Supriyadi tak pernah ditemukan, hidup atau mati. [curious] Menurutmu, ke mana dia pergi?",
+      "narasi": "20 Oktober, kursi itu diserahkan kepada orang lain. Supriyadi tak pernah ditemukan, hidup atau mati. Menurutmu, ke mana dia pergi?",
+      "teksLayar": [
+        "20 Oktober 1945"
+      ],
+      "suara": "Musik memudar",
+      "hening": false,
+      "epilog": true,
+      "kata": 20
+    }
+  ],
+  "lembarKarakter": [
+    {
+      "nama": "Supriyadi",
+      "prompt": "Character reference sheet of Supriyadi, a 21-year-old Javanese man, slim build, oval face, short neatly cropped black hair, clean-shaven, calm and serious dark eyes, wearing a plain 1940s Indonesian PETA volunteer army officer uniform: khaki field tunic with stand collar and two buttoned chest pockets, matching trousers, brown leather belt, khaki field cap with a short visor, black leather boots, a Japanese-style officer sword in a dark scabbard at his left hip. Three full-body views side by side: front, side and back, standing in a neutral pose on a plain warm light-grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate 1945 Indonesian PETA officer appearance. Avoid caricature, text, labels, letters, watermarks, modern objects, batik parang motif.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    {
+      "nama": "Muradi",
+      "prompt": "Character reference sheet of Muradi, a Javanese man in his early 20s, medium build, slightly broader face with a square jaw, short black hair, clean-shaven, steady determined eyes, wearing a plain 1940s Indonesian PETA volunteer army officer uniform: khaki field tunic with stand collar and two buttoned chest pockets, matching trousers, brown leather belt, khaki field cap with a short visor, black leather boots, a Japanese-style officer sword at his left hip. Three full-body views side by side: front, side and back, standing in a neutral pose on a plain warm light-grey background. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Historically accurate 1945 Indonesian PETA officer appearance. Avoid caricature, text, labels, letters, watermarks, modern objects, batik parang motif.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  ],
+  "promptAdegan": {
+    "1": {
+      "waktu": "0:00–0:10",
+      "narasi": "Kamu perwira PETA, 21 tahun. Tapi serdadu Jepang terendah pun wajib kamu hormati. Malam ini, kamu akan menembaki mereka.",
+      "prompt": "First-person view looking down at a rough wooden table in a dark room at night. Your own hands, in khaki PETA uniform sleeves, press flat a hand-drawn paper map of a small Javanese town, lit by a single small clay oil lamp on the table. Across the table, the dimly lit faces and dark silhouettes of several young Indonesian officers in khaki uniforms lean in, silent and tense. Hands and map at the lower edge of the middle third, faces in the middle third, darkness above. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep earth browns, ochre, near-black shadows, one warm amber lamp glow. Historically accurate 1945 East Java setting, plain wooden furniture, paper and ink map. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "2": {
+      "waktu": "0:10–0:21",
+      "narasi": "Ini rapat rahasia keenam sejak September. Kempeitai mulai mencium rencana kalian. Malam ini juga, kalian putuskan menyerang kota dalam empat kelompok.",
+      "prompt": "Same character as the Supriyadi reference image. Same character as the Muradi reference image. Night, inside the communal kitchen of a 1940s military barracks: Supriyadi sits at the center of a tight circle of young Indonesian PETA officers on wooden benches, speaking quietly with a firm expression, his face lit by an oil lamp; Muradi sits beside him, listening intently. Clay stoves, stacked firewood and hanging pots fade into the shadows. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: deep earth browns, ochre, near-black shadows, one warm amber lamp glow. Historically accurate 1945 East Java setting, simple barracks kitchen, plain khaki PETA uniforms. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "3": {
+      "waktu": "0:21–0:30",
+      "narasi": "Kamu pernah mengawasi romusha di pantai selatan. Kamu melihat mereka bekerja sampai tumbang. Itulah yang membawamu ke ruangan ini.",
+      "prompt": "Same character as the Supriyadi reference image. A memory in harsh daylight, with soft hazy edges: Supriyadi stands on a windswept southern Java beach in three-quarter view, his face troubled, watching a long line of emaciated Indonesian forced laborers in torn shorts carrying rocks in baskets along the shore; one laborer has collapsed to his knees, others keep walking. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: sun-bleached sand, faded ochre, dusty blue sea, warm low sun, slightly desaturated like a memory. Historically accurate 1944 Java romusha forced labor scene, bamboo baskets, bare feet. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "4": {
+      "waktu": "0:30–0:40",
+      "narasi": "Senapan, granat, dan mortir dibagikan dalam diam. Perintahmu jelas: bunuh setiap serdadu Jepang. Tapi jangan lukai sesama PETA.",
+      "prompt": "First-person view inside a dim barracks armory at night: your hands, in khaki PETA uniform sleeves, pass a bolt-action rifle to a young Indonesian PETA soldier whose face is tense and solemn; open wooden crates of hand grenades and a mortar tube rest on the floor, lit by one small lantern. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: olive khaki, dark brown, faded night blue, small warm lantern light. Historically accurate 1945 East Java setting, 1940s bolt-action rifles, wooden ammunition crates. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "5": {
+      "waktu": "0:40–0:49",
+      "narasi": "Muradi, kawanmu sejak pendidikan perwira di Bogor, berdiri di sampingmu. Kalian menatap jarum jam yang sama. Sebentar lagi...",
+      "prompt": "Same character as the Supriyadi reference image. Same character as the Muradi reference image. Night: Supriyadi and Muradi stand shoulder to shoulder in the shadow of a whitewashed barracks wall, both looking down at a brass pocket watch in Supriyadi's open palm; faint lantern glow on their faces, dark night sky above. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: olive khaki, dark brown, faded night blue, small warm lantern light. Historically accurate 1945 East Java setting, colonial-era barracks wall, plain khaki PETA uniforms. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "6": {
+      "waktu": "0:49–0:58",
+      "narasi": "Pukul tiga! Mortir meluncur ke Hotel Sakura, tempat para perwira Jepang menginap. Senapan mesin menyalak ke markas Kempeitai.",
+      "prompt": "First-person view from a dark barracks yard at three in the morning: your raised hand, in a khaki PETA uniform sleeve, signals forward; a bright mortar streak arcs over the rooftops toward a two-storey Dutch colonial-style hotel building in the distance, orange flashes lighting the night sky above the town. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: fiery orange, brick red, ash-grey smoke, deep night shadows. Historically accurate 1945 East Java small town, tiled roofs, colonial buildings. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "7": {
+      "waktu": "0:58–1:09",
+      "narasi": "Di lapangan depan markas, Partohardjono mengibarkan merah putih. Kainnya disembunyikan dari mata Jepang sampai malam ini. Untuk sesaat, Blitar terasa merdeka.",
+      "prompt": "Same character as the Supriyadi reference image. Night, in the open field in front of the PETA barracks: a young Javanese PETA officer in a plain khaki uniform and field cap hoists a simple red-and-white Indonesian flag, red stripe on top and white below, up a wooden flagpole, his silhouette lit by distant orange firelight; Supriyadi watches from a short distance, half turned toward the flag, his face quietly moved. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: fiery orange, brick red, the red and white of the flag, ash-grey smoke, deep night shadows. Historically accurate 1945 East Java barracks field, plain homemade cloth flag. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid any other flag, gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "8": {
+      "waktu": "1:09–1:17",
+      "narasi": "Tapi dari Hotel Sakura, tak terdengar satu teriakan pun. Gedung itu kosong. Mereka sudah tahu...",
+      "prompt": "First-person view walking down a silent colonial hotel corridor at night: your hand, in a khaki PETA uniform sleeve, holds up a small lantern that lights open doors onto empty rooms with neatly made, untouched beds; no one is there, dust floating in the lamplight. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: dark wood, cream plaster walls, one warm lantern glow, deep shadows. Historically accurate 1940s Dutch colonial hotel interior, wooden doors, tiled floor. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "9": {
+      "waktu": "1:17–1:27",
+      "narasi": "Kalian keluar kota untuk menyusun kekuatan dan menyerang lagi. Tapi Jepang bergerak lebih cepat. Jalan-jalan keluar Blitar dijaga.",
+      "prompt": "Same character as the Supriyadi reference image. Before dawn, a column of armed Indonesian PETA rebels in plain khaki uniforms marches out of town along a dirt village road between rice fields, Supriyadi at the front with a determined face; grey pre-dawn sky, low mist over the paddies, coconut palms on the horizon. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted rice-field green, khaki, pale grey dawn, a faint warm glow at the horizon. Historically accurate 1945 East Java countryside, bolt-action rifles carried on shoulders. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "10": {
+      "waktu": "1:27–1:36",
+      "narasi": "Lalu sebuah barisan muncul di ujung jalan. Seragamnya sama dengan seragammu. Jepang mengirim sesama PETA untuk menghadang kalian.",
+      "prompt": "First-person view peeking over the low earthen dike of a rice field at dawn: your hands, in khaki PETA uniform sleeves, grip the grassy edge; at the end of the dirt road ahead, a line of Indonesian soldiers in the very same plain khaki PETA uniforms raise their rifles, small in the distance. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted rice-field green, khaki, pale grey dawn, a faint warm glow at the horizon. Historically accurate 1945 East Java countryside, rice paddies, dirt road. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "11": {
+      "waktu": "1:36–1:44",
+      "narasi": "Kamu sendiri yang memerintahkannya: jangan lukai sesama PETA... Jarimu diam di pelatuk.",
+      "prompt": "First-person view along the barrel of a bolt-action rifle held in your hands, in khaki PETA uniform sleeves, your finger resting still on the trigger guard; at the far end of the sights, the face of a young Indonesian PETA soldier your age, also hesitating, his rifle half-raised, soft pale morning light, everything still and silent. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted rice-field green, khaki, pale grey dawn, a faint warm glow at the horizon. Historically accurate 1945 East Java countryside, plain khaki PETA uniforms on both sides. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "12": {
+      "waktu": "1:44–1:53",
+      "narasi": "Pasukan kalian tercerai-berai. Muradi membawa sebagian anak buah ke arah lain. Kalian berpisah tanpa sempat berjanji bertemu lagi.",
+      "prompt": "Same character as the Supriyadi reference image. Same character as the Muradi reference image. At a crossroads of dirt paths at the edge of rice fields, Supriyadi and Muradi face each other in a silent farewell, eyes locked; behind them the rebel soldiers split into two small groups walking away in different directions, morning haze over the fields. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: muted rice-field green, khaki, pale grey dawn, a faint warm glow at the horizon. Historically accurate 1945 East Java countryside, plain khaki PETA uniforms, bolt-action rifles. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "13": {
+      "waktu": "1:53–2:03",
+      "narasi": "Kamu berjalan menjauh dari kota yang semalam kalian guncang. Di belakangmu, Blitar kembali dikuasai Jepang. Kamu tidak menoleh lagi.",
+      "prompt": "Same character as the Supriyadi reference image. Seen from behind: Supriyadi walks away alone along a misty footpath between tall teak trees, his officer sword at his hip, shoulders heavy; far behind him, beyond the fields, thin smoke rises over the small town of Blitar. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: misty white, deep green, earth brown, soft diffused low morning sun. Historically accurate 1945 East Java teak forest edge. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "14": {
+      "waktu": "2:03–2:12",
+      "narasi": "Kabut menelan langkahmu... Sejak hari itu, jejakmu hilang. Namamu tak muncul di daftar tangkapan mana pun.",
+      "prompt": "Close view of a line of boot prints pressed into wet earth on a forest footpath, the prints fading one by one into thick white mist; no person visible, fallen teak leaves on the ground. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: misty white, deep green, earth brown, soft diffused low morning sun. Historically accurate 1945 East Java forest floor. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid people, gore, blood, graphic violence, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "15": {
+      "waktu": "2:12–2:21",
+      "narasi": "Puluhan kawanmu diadili di pengadilan militer Jepang. Enam dihukum mati di Ancol. Muradi, kawanmu sejak Bogor, salah satunya.",
+      "prompt": "Same character as the Muradi reference image. Inside a 1945 military courtroom in Jakarta: rows of Indonesian PETA officers as defendants, in plain khaki uniforms without caps or swords, sit on wooden benches facing a raised judges' table where uniformed Japanese officers sit in shadow; Muradi sits in the front row, back straight, head held high, calm. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: dark wood brown, cream walls, black shadows, one warm lamp glow. Historically accurate 1945 colonial-era courtroom, wooden benches, ceiling fan. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid gore, blood, graphic violence, caricatured faces, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "16": {
+      "waktu": "2:21–2:30",
+      "narasi": "Agustus itu, Indonesia merdeka. Di kabinet pertama, namamu tercantum sebagai Menteri Keamanan Rakyat. Semua menunggu kamu datang.",
+      "prompt": "A modest 1945 Indonesian government meeting room: a long wooden table, a row of chairs occupied by dark silhouettes of ministers in suits and black peci caps, and one empty chair in the middle with a small blank nameplate in front of it, lit by a warm desk lamp; a simple red-and-white flag hangs on the wall behind, red on top. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: dark wood brown, cream walls, black shadows, one warm lamp glow. Historically accurate 1945 Jakarta government room, plain furniture. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid identifiable faces, gore, blood, graphic violence, batik parang motif, text, letters on the nameplate, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    },
+    "17": {
+      "waktu": "2:30–2:40",
+      "narasi": "20 Oktober, kursi itu diserahkan kepada orang lain. Supriyadi tak pernah ditemukan, hidup atau mati. Menurutmu, ke mana dia pergi?",
+      "prompt": "Close view of a single empty wooden chair at a long wooden table, a small clay oil lamp beside it with its flame dimming, everything around it sinking into darkness. Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading. Palette: dark wood brown, cream walls, black shadows, one warm lamp glow. Historically accurate 1945 Indonesian furniture. Vertical 9:16 aspect ratio, faces and key details in the middle third, open space in the top third, nothing important in the bottom third or near the right edge. Avoid people, gore, blood, graphic violence, batik parang motif, text, letters, watermarks, modern objects, neon or cold saturated colors.\n\nStyle: detailed vector art\nAspect ratio: 9:16"
+    }
+  },
+  "suara": {
+    "model": "Eleven v3",
+    "voice": "-",
+    "stability": "Natural",
+    "arahan": "Pilih voice pria yang hangat dan agak rendah. Voice paling menentukan, karena tag tidak bisa memaksa voice lembut untuk berteriak, padahal adegan 6 dibuka dengan teriakan.\n\n- Babak 1: pelan dan menahan, berbisik di kalimat terakhir hook.\n- Babak 2: tegang, tempo sedikit lebih lambat, jeda panjang di \"Sebentar lagi...\".\n- Babak 3: meledak di \"Pukul tiga!\", bersemangat saat bendera, lalu turun drastis jadi bisikan.\n- Babak 4: getir dan ragu; adegan 11 paling pelan, hampir tanpa suara.\n- Babak 5: tenang dan jauh, seperti menjauh dari mikrofon.\n- Babak 6: datar dan berat, pertanyaan penutup diucapkan pelan dengan rasa ingin tahu.",
+    "arahanBabak": {
+      "1": "pelan dan menahan, berbisik di kalimat terakhir hook.",
+      "2": "tegang, tempo sedikit lebih lambat, jeda panjang di \"Sebentar lagi...\".",
+      "3": "meledak di \"Pukul tiga!\", bersemangat saat bendera, lalu turun drastis jadi bisikan.",
+      "4": "getir dan ragu; adegan 11 paling pelan, hampir tanpa suara.",
+      "5": "tenang dan jauh, seperti menjauh dari mikrofon.",
+      "6": "datar dan berat, pertanyaan penutup diucapkan pelan dengan rasa ingin tahu."
+    }
+  },
+  "narasiLengkap": {
+    "1": "[serious] Kamu perwira PETA, 21 tahun. [tense] Tapi serdadu Jepang terendah pun wajib kamu hormati. [whispers] Malam ini, kamu akan menembaki mereka...\n\n[calm] Ini rapat rahasia keenam sejak September. [tense] Kempeitai mulai mencium rencana kalian. [serious] Malam ini juga, kalian putuskan menyerang kota dalam empat kelompok...\n\n[sad] Kamu pernah mengawasi romusha di pantai selatan. [sad] Kamu melihat mereka bekerja sampai tumbang. [serious] Itulah yang membawamu ke ruangan ini...",
+    "2": "[tense] Senapan, granat, dan mortir dibagikan dalam diam. [serious] Perintahmu jelas: bunuh setiap serdadu Jepang. [serious] Tapi jangan lukai sesama PETA...\n\n[calm] Muradi, kawanmu sejak pendidikan perwira di Bogor, berdiri di sampingmu. [nervous] Kalian menatap jarum jam yang sama. [whispers] Sebentar lagi...",
+    "3": "[shouting] Pukul tiga! [tense] Mortir meluncur ke Hotel Sakura, tempat para perwira Jepang menginap. [tense] Senapan mesin menyalak ke markas Kempeitai...\n\n[excited] Di lapangan depan markas, Partohardjono mengibarkan merah putih. [excited] Kainnya disembunyikan dari mata Jepang sampai malam ini. [calm] Untuk sesaat, Blitar terasa merdeka...\n\n[curious] Tapi dari Hotel Sakura, tak terdengar satu teriakan pun. [tense] Gedung itu kosong. [whispers] Mereka sudah tahu...",
+    "4": "[serious] Kalian keluar kota untuk menyusun kekuatan dan menyerang lagi. [tense] Tapi Jepang bergerak lebih cepat. [tense] Jalan-jalan keluar Blitar dijaga...\n\n[nervous] Lalu sebuah barisan muncul di ujung jalan. [tense] Seragamnya sama dengan seragammu. [sad] Jepang mengirim sesama PETA untuk menghadang kalian...\n\n[sad] [whispers] Kamu sendiri yang memerintahkannya: jangan lukai sesama PETA... [sad] Jarimu diam di pelatuk...\n\n[resigned] Pasukan kalian tercerai-berai. [sad] Muradi membawa sebagian anak buah ke arah lain. [sad] Kalian berpisah tanpa sempat berjanji bertemu lagi...",
+    "5": "[calm] Kamu berjalan menjauh dari kota yang semalam kalian guncang. [sad] Di belakangmu, Blitar kembali dikuasai Jepang. [sad] Kamu tidak menoleh lagi...\n\n[whispers] Kabut menelan langkahmu... [serious] Sejak hari itu, jejakmu hilang. [serious] Namamu tak muncul di daftar tangkapan mana pun...",
+    "6": "[sad] Puluhan kawanmu diadili di pengadilan militer Jepang. [sad] Enam dihukum mati di Ancol. [sad] Muradi, kawanmu sejak Bogor, salah satunya...\n\n[calm] Agustus itu, Indonesia merdeka. [serious] Di kabinet pertama, namamu tercantum sebagai Menteri Keamanan Rakyat. [sad] Semua menunggu kamu datang...\n\n[resigned] 20 Oktober, kursi itu diserahkan kepada orang lain. [serious] Supriyadi tak pernah ditemukan, hidup atau mati. [curious] Menurutmu, ke mana dia pergi?..."
+  },
+  "cueMusik": [
+    {
+      "nomor": 1,
+      "nama": "Rapat dan penantian",
+      "babakAwal": 1,
+      "babakAkhir": 2,
+      "durasiTarget": "±0:50",
+      "suasana": "Senyap, tegang, menahan napas",
+      "style": "dark cinematic ambient, sparse Javanese gamelan, slow distant gong, soft saron notes, low cello drone, subtle ticking pulse, tense and hushed, starts very sparse and slowly builds tension, 68 BPM, no vocals",
+      "exclude": "vocals, choir, EDM, electric guitar, trap drums, synth bass"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pukul tiga",
+      "babakAwal": 3,
+      "babakAkhir": 4,
+      "durasiTarget": "±1:05",
+      "suasana": "Meledak, lalu hampa dan getir",
+      "style": "cinematic war score, deep war drums and kendang, staccato low strings, short brass hits, urgent explosive opening, sudden drop into an eerie sparse pad, then a somber solo cello, 100 BPM, no vocals",
+      "exclude": "vocals, choir, EDM, electric guitar, trap drums, synth bass, happy, upbeat"
+    },
+    {
+      "nomor": 3,
+      "nama": "Kabut dan kursi kosong",
+      "babakAwal": 5,
+      "babakAkhir": 6,
+      "durasiTarget": "±0:55",
+      "suasana": "Sunyi, melankolis, menggantung",
+      "style": "melancholic cinematic ambient, solo bamboo suling flute, soft gamelan gong, warm string pad, slow and sparse, quiet ending that fades into silence, 60 BPM, no vocals",
+      "exclude": "vocals, choir, EDM, electric guitar, drums, synth bass"
+    }
+  ],
+  "sfx": [
+    {
+      "nomor": 1,
+      "adegan": 1,
+      "bunyi": "Jangkrik malam dan desis pelita",
+      "kataKunci": "night crickets ambience; oil lamp flame",
+      "prompt": "Night crickets outside a small room, soft oil lamp flame hiss, quiet"
+    },
+    {
+      "nomor": 2,
+      "adegan": 2,
+      "bunyi": "Bisik-bisik dan bangku kayu berderit",
+      "kataKunci": "group whispering; wooden bench creak",
+      "prompt": "Several men whispering urgently in a small room, wooden bench creaks"
+    },
+    {
+      "nomor": 3,
+      "adegan": 3,
+      "bunyi": "Ombak dan cangkul memukul batu",
+      "kataKunci": "ocean waves beach; pickaxe rock",
+      "prompt": "Waves on a beach with distant pickaxes striking rock, hot wind"
+    },
+    {
+      "nomor": 4,
+      "adegan": 4,
+      "bunyi": "Logam senjata beradu pelan",
+      "kataKunci": "rifle handling; metal clink",
+      "prompt": "Quiet handling of bolt-action rifles, soft metal clinks, wooden crate opened"
+    },
+    {
+      "nomor": 5,
+      "adegan": 5,
+      "bunyi": "Detak arloji saku",
+      "kataKunci": "pocket watch ticking",
+      "prompt": "Close pocket watch ticking in silence"
+    },
+    {
+      "nomor": 6,
+      "adegan": 6,
+      "bunyi": "Dentum mortir dan rentetan senapan mesin",
+      "kataKunci": "mortar launch; distant explosion; machine gun burst",
+      "prompt": "Mortar launch thump, distant explosion, short machine gun bursts at night"
+    },
+    {
+      "nomor": 7,
+      "adegan": 7,
+      "bunyi": "Kain bendera dikibas angin",
+      "kataKunci": "flag flapping wind",
+      "prompt": "Cloth flag flapping in night wind, distant fire crackling"
+    },
+    {
+      "nomor": 8,
+      "adegan": 8,
+      "bunyi": "Langkah sepatu di lorong kosong",
+      "kataKunci": "footsteps empty corridor reverb",
+      "prompt": "Boot footsteps echoing in an empty wooden corridor, then silence"
+    },
+    {
+      "nomor": 9,
+      "adegan": 10,
+      "bunyi": "Aba-aba dari kejauhan",
+      "kataKunci": "distant military shout",
+      "prompt": "Distant indistinct military shout across open rice fields, no words"
+    },
+    {
+      "nomor": 10,
+      "adegan": 11,
+      "bunyi": "Napas tertahan dan angin tipis",
+      "kataKunci": "breathing close; light wind",
+      "prompt": "Slow tense breathing close up with light wind, very quiet"
+    },
+    {
+      "nomor": 11,
+      "adegan": 13,
+      "bunyi": "Burung pagi dan angin",
+      "kataKunci": "morning birds; forest wind",
+      "prompt": "Morning birds in a misty teak forest, soft wind"
+    },
+    {
+      "nomor": 12,
+      "adegan": 15,
+      "bunyi": "Ketukan palu sidang",
+      "kataKunci": "gavel knock courtroom",
+      "prompt": "Single gavel knock in a quiet courtroom, faint murmur"
+    },
+    {
+      "nomor": 13,
+      "adegan": 17,
+      "bunyi": "Nyala pelita padam",
+      "kataKunci": "candle flame flicker out",
+      "prompt": "Small oil lamp flame flickering and dying out in a silent room"
+    }
+  ],
+  "adeganHening": [
+    11
+  ],
+  "ulikan": {
+    "teks": "Ia juga ditunjuk memimpin tentara republik; jabatan itu akhirnya dipegang Sudirman.",
+    "sumber": "Wikipedia (Supriyadi); The Jakarta Post, 2009",
+    "kata": 11,
+    "pertanyaan": false
+  },
+  "caption": [
+    {
+      "platform": "YouTube Shorts",
+      "judul": "POV: Kamu Shodancho Supriyadi, Blitar 1945",
+      "catatan": "Alternatif judul: POV: Kamu Supriyadi di Malam Pemberontakan PETA / POV: Kamu Shodancho Supriyadi yang Hilang Tanpa Jejak\n**Judul di layar sampul:** POV: Kamu Shodancho Supriyadi",
+      "caption": "Umurnya 21. Ia memimpin pemberontakan PETA, lalu lenyap tanpa jejak sampai hari ini.\n\n14 Februari 1945, Shodancho Supriyadi dan pasukan PETA Blitar menyerang tentara Jepang yang melatih mereka. Setelah merdeka, ia diangkat menjadi menteri, tetapi tak pernah datang. Gelar Pahlawan Nasional diberikan pada 1975, tanpa jasad yang pernah ditemukan.\n\nMenurutmu, ke mana Supriyadi pergi?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Nugroho Notosusanto (1969), Kemhan RI.\n\n#UlikSilam #sejarahindonesia #supriyadi #petablitar #pov"
+    },
+    {
+      "platform": "TikTok",
+      "judul": "POV: Kamu Shodancho Supriyadi di Malam Pemberontakan PETA Blitar",
+      "catatan": "",
+      "caption": "Umurnya 21. Ia memimpin pemberontakan PETA, lalu lenyap tanpa jejak sampai hari ini.\n\n14 Februari 1945, Shodancho Supriyadi dan pasukan PETA Blitar menyerang tentara Jepang yang melatih mereka. Setelah merdeka, ia diangkat menjadi menteri, tetapi tak pernah datang. Gelar Pahlawan Nasional diberikan pada 1975, tanpa jasad yang pernah ditemukan.\n\nMenurutmu, ke mana Supriyadi pergi?\n\nDramatisasi berdasarkan catatan sejarah. Sumber utama: Nugroho Notosusanto (1969), Kemhan RI.\n\n#UlikSilam #sejarahindonesia #supriyadi #petablitar #pov"
+    }
+  ],
+  "pemetaan": null,
+  "statistik": {
+    "jumlahAdegan": 17,
+    "jumlahBabak": 6,
+    "totalKata": 305,
+    "kataPerBabak": {
+      "1": 59,
+      "2": 36,
+      "3": 54,
+      "4": 66,
+      "5": 35,
+      "6": 55
+    },
+    "karakterPerBabak": {
+      "1": 489,
+      "2": 313,
+      "3": 472,
+      "4": 590,
+      "5": 296,
+      "6": 469
+    },
+    "jedaBunyi": 4,
+    "perkiraanDetik130": {
+      "narasi": 159.6,
+      "denganMerek": 164.6
+    },
+    "perkiraanDetik135": {
+      "narasi": 154.4,
+      "denganMerek": 159.4
+    }
+  },
+  "validasi": {
+    "masalah": [],
+    "peringatan": [],
+    "penyesuaian": [
+      "Platform TikTok: tanpa baris Judul; memakai Judul ringkasan."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+judul: "POV: Kamu Jamaah Abah Guru Sekumpul, dari Teras Rumah sampai Lautan Manusia"
+slug: pov-jamaah-sekumpul
+format: POV
+lapisan: ["Sejarah"]
+latar: "Martapura, Kalimantan Selatan"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v8 · 2026-10-24"
+merek: pra-repo
+adegan: 16
+lembar_karakter: ["Abah Guru Sekumpul", "Jamaah"]
+aset: {ilustrasi: 16, narasi: 24, musik: 3, sfx: 0}
+render: "out/pov-jamaah-sekumpul.mp4"
+tanggal_render: 2026-10-24
+tautan: {"shorts": "https://youtube.com/shorts/aTP3YZyYGe4", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7700268039324847381"}
+arsip_lama: "pov/pov-jamaah-sekumpul"
+catatan: ""
+metrik_shorts: {"views": 148143, "jam_tonton": 2545.9, "rata_tonton_detik": 61.9, "durasi_detik": 164, "persen_ditonton": 37.7, "subscriber": 482, "impresi": 17469, "ctr": 5.23, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 326453, "suka": 29135, "komentar": 127, "bagikan": 1919, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-24", "tiktok": "2026-10-25"}

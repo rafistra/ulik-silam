@@ -1,0 +1,21 @@
+judul: "POV: Kamu Petani yang Menolak Pindah dari Kedung Ombo"
+slug: pov-petani-kedung-ombo
+format: POV
+lapisan: ["Sejarah"]
+latar: "Kemusu, Boyolali"
+seri: ""
+tahap: Tayang
+platform: ["TikTok", "YouTube Shorts"]
+versi_konsep: "v1 · 2026-10-27"
+merek: pra-repo
+adegan: 17
+lembar_karakter: ["Petani Kemusu", "Anak Petani"]
+aset: {ilustrasi: 17, narasi: 22, musik: 3, sfx: 0}
+render: "out/pov-petani-kedung-ombo.mp4"
+tanggal_render: 2026-10-27
+tautan: {"shorts": "https://youtube.com/shorts/pPj3kNDsTT4", "tiktok": "https://www.tiktok.com/@ulik.silam/video/7701212385851329812"}
+arsip_lama: "pov/pov-petani-kedung-ombo"
+catatan: ""
+metrik_shorts: {"views": 4264, "jam_tonton": 73.6, "rata_tonton_detik": 62.1, "durasi_detik": 164, "persen_ditonton": 37.9, "subscriber": 9, "impresi": 4612, "ctr": 2.08, "periode": "2026-10-24..2026-11-21", "diperbarui": "2026-11-22"}
+metrik_tiktok: {"views": 74207, "suka": 2045, "komentar": 13, "bagikan": 153, "diperbarui": "2026-11-22"}
+tayang: {"shorts": "2026-10-27", "tiktok": "2026-10-27"}
