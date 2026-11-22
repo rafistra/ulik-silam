@@ -23,6 +23,17 @@ File berat (ilustrasi, narasi, musik, foto arsip, render) **tidak** masuk repo. 
 2. Salin `.env.example` menjadi `.env` (bawaan `ASET_DIR=aset`), lalu salin folder `aset/` dari device lama bila perlu.
 3. Masuk ke proyek yang mau dikerjakan, lalu jalankan `npm install` (Node 20+).
 
+## Katalog lokal
+
+```
+npm install        # sekali per device (Node 20+)
+npm run katalog    # membuka http://127.0.0.1:4174
+```
+
+Papan produksi, katalog konsep, halaman konsep (naskah, lembar karakter, audio, Ulikan dan caption, verifikasi, aset, render), dan pustaka. Katalog membaca KONSEP.md lewat `paket/urai-konsep`, mengambil berkas dari `$ASET_DIR` dan folder proyek lama (`arsip_lama`), dan memuat ulang sendiri saat berkas berubah. Yang ditulis katalog hanya `tahap`, `prioritas`, dan `catatan` di `proyek.yaml` (lalu `STATUS.md` dibuat ulang bila Python tersedia) serta `status` kartu pustaka. Commit tetap manual.
+
+`npm run urai -- --semua` memeriksa semua KONSEP.md dengan pengurai yang sama.
+
 ## Skrip
 
 | Perintah | Fungsi |

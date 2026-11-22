@@ -1,0 +1,10 @@
+{
+  "name": "urai-konsep",
+  "version": "1.5.0",
+  "private": true,
+  "description": "Pengurai KONSEP.md Ulik Silam (Kontrak v1 sampai v1.5)",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": { ".": "./index.mjs" },
+  "bin": { "urai-konsep": "./cli.mjs" }
+}

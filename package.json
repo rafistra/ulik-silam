@@ -1,0 +1,11 @@
+{
+  "name": "ulik-silam",
+  "private": true,
+  "type": "module",
+  "workspaces": ["paket/*", "aplikasi/*"],
+  "scripts": {
+    "katalog": "npm run dev -w aplikasi/katalog",
+    "urai": "node paket/urai-konsep/cli.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
