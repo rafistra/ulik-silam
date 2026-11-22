@@ -1,7 +1,18 @@
 // Plugin Vite: API katalog, berkas media (dengan Range), dan kabar perubahan (SSE).
 import fs from 'node:fs';
 import path from 'node:path';
+import { spawn } from 'node:child_process';
 import * as data from './data.mjs';
+import { siapkan } from '../../../paket/video/siapkan.mjs';
+
+const RENDER = path.join(data.AKAR, 'paket', 'video', 'render.mjs');
+
+/** Awalan URL /media untuk folder aset proyek yang dipakai komposisi. */
+function basisMedia(slug, folder) {
+  const rel = path.relative(data.asetDir(), folder);
+  if (!rel.startsWith('..') && !path.isAbsolute(rel)) return '/media/aset/' + rel.split(path.sep).map(encodeURIComponent).join('/');
+  return `/media/arsip/${encodeURIComponent(slug)}/public`;
+}
 
 const MIME = {
   '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.svg': 'image/svg+xml',
@@ -61,8 +72,50 @@ function kirimBerkas(req, res, file) {
 
 export default function katalogPlugin() {
   const pendengar = new Set();
+  const tugas = new Map(); // slug -> { jenis, status, selesai, total, pesan, keluar, log }
+  const siarkan = (peristiwa, isi) => {
+    for (const res of pendengar) res.write(`event: ${peristiwa}\ndata: ${JSON.stringify(isi)}\n\n`);
+  };
+  const mulaiRender = (slug, jenis) => {
+    const ada = tugas.get(slug);
+    if (ada && ada.status === 'jalan') throw new Error('Render proyek ini masih berjalan.');
+    const t = { slug, jenis, status: 'jalan', selesai: 0, total: 0, pesan: 'Menyiapkan...', keluar: null, log: [], mulai: Date.now() };
+    tugas.set(slug, t);
+    const args = [RENDER, slug, '--json', ...(jenis === 'sampul' ? ['--sampul'] : [])];
+    const p = spawn(process.execPath, args, { cwd: data.AKAR });
+    let sisa = '';
+    p.stdout.on('data', (b) => {
+      sisa += b.toString();
+      const baris = sisa.split(/\r?\n/);
+      sisa = baris.pop();
+      for (const l of baris) {
+        let x;
+        try {
+          x = JSON.parse(l);
+        } catch {
+          continue;
+        }
+        if (x.jenis === 'progres') Object.assign(t, { selesai: x.selesai, total: x.total, pesan: `Render ${x.selesai}/${x.total} frame` });
+        else if (x.pesan) {
+          t.pesan = x.pesan;
+          t.log.push(x.pesan);
+        }
+        if (x.keluar) t.keluar = x.keluar;
+        siarkan('render', t);
+      }
+    });
+    p.stderr.on('data', (b) => t.log.push(b.toString().slice(0, 500)));
+    p.on('close', (kode) => {
+      t.status = kode === 0 ? 'selesai' : 'gagal';
+      if (kode !== 0 && !/gagal/i.test(t.pesan)) t.pesan = `Render gagal (kode ${kode}). ${t.log.slice(-2).join(' ')}`;
+      siarkan('render', t);
+    });
+    return t;
+  };
   let tunda = null;
   const kabari = (berkas) => {
+    // Berkas simpanan dan render yang sedang ditulis tidak perlu memuat ulang halaman; kabar render dikirim terpisah.
+    if (/_cache/.test(berkas) || (/[\\/]render[\\/]/.test(berkas) && [...tugas.values()].some((t) => t.status === 'jalan'))) return;
     data.bersihkanSimpanan();
     clearTimeout(tunda);
     tunda = setTimeout(() => {
@@ -107,7 +160,23 @@ export default function katalogPlugin() {
           if (p === '/api/proyek' && req.method === 'GET') return kirimJson(res, 200, data.daftarProyek());
           if (p === '/api/pustaka' && req.method === 'GET') return kirimJson(res, 200, data.pustaka());
 
-          let m = p.match(/^\/api\/proyek\/([a-z0-9-]+)$/);
+          if (p === '/api/render' && req.method === 'GET') return kirimJson(res, 200, [...tugas.values()]);
+          let m = p.match(/^\/api\/proyek\/([a-z0-9-]+)\/(video|render|studio)$/);
+          if (m && m[2] === 'video' && req.method === 'GET') {
+            const r = siapkan(m[1], { basisFont: '/media/merek/font' });
+            r.data.basis = basisMedia(m[1], r.lokasi.aset);
+            return kirimJson(res, 200, { data: r.data, kurang: r.kurang, peringatan: r.peringatan });
+          }
+          if (m && m[2] === 'render' && req.method === 'POST') {
+            const body = await bacaBody(req);
+            return kirimJson(res, 200, mulaiRender(m[1], body.jenis === 'sampul' ? 'sampul' : 'video'));
+          }
+          if (m && m[2] === 'studio' && req.method === 'POST') {
+            const s = spawn(process.execPath, [RENDER, m[1], '--studio'], { cwd: data.AKAR, detached: true, stdio: 'ignore' });
+            s.unref();
+            return kirimJson(res, 200, { ok: true, pesan: 'Remotion Studio dibuka di jendela browser baru (port 3000).' });
+          }
+          m = p.match(/^\/api\/proyek\/([a-z0-9-]+)$/);
           if (m && req.method === 'GET') {
             const d = data.detailProyek(m[1]);
             return d ? kirimJson(res, 200, d) : kirimJson(res, 404, { galat: 'Proyek tidak ditemukan' });

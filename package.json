@@ -2,10 +2,17 @@
   "name": "ulik-silam",
   "private": true,
   "type": "module",
-  "workspaces": ["paket/*", "aplikasi/*"],
+  "workspaces": [
+    "paket/*",
+    "aplikasi/*"
+  ],
   "scripts": {
     "katalog": "npm run dev -w aplikasi/katalog",
-    "urai": "node paket/urai-konsep/cli.mjs"
+    "urai": "node paket/urai-konsep/cli.mjs",
+    "render": "node paket/video/render.mjs",
+    "alat": "node paket/video/alat.mjs"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

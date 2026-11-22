@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useRef, useState } from 'react';
 
 // ---------- data ----------
 const pendengar = new Set();
+const pendengarRender = new Set();
 let sumber = null;
 function pantau() {
   if (sumber) return;
@@ -10,6 +11,26 @@ function pantau() {
     const d = JSON.parse(e.data);
     pendengar.forEach((f) => f(d));
   });
+  sumber.addEventListener('render', (e) => {
+    const d = JSON.parse(e.data);
+    pendengarRender.forEach((f) => f(d));
+    if (d.status !== 'jalan') pendengar.forEach((f) => f(d));
+  });
+}
+
+/** Status render per proyek, diperbarui lewat kabar dari server. */
+export function useRender(slug) {
+  const [t, setT] = useState(null);
+  useEffect(() => {
+    pantau();
+    fetch('/api/render')
+      .then((r) => r.json())
+      .then((d) => setT(d.find((x) => x.slug === slug) || null));
+    const f = (d) => d.slug === slug && setT({ ...d });
+    pendengarRender.add(f);
+    return () => pendengarRender.delete(f);
+  }, [slug]);
+  return t;
 }
 
 /** Ambil JSON dan muat ulang otomatis saat berkas di repo atau ASET_DIR berubah. */

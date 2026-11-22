@@ -34,6 +34,21 @@ Papan produksi, katalog konsep, halaman konsep (naskah, lembar karakter, audio, 
 
 `npm run urai -- --semua` memeriksa semua KONSEP.md dengan pengurai yang sama.
 
+## Video (komposisi Remotion bersama)
+
+Semua video dirender dari satu komposisi, `paket/video` (VideoUlikSilam, Sampul, LembarIkon), yang diambil dari proyek Kayan part 2. Isi video berasal dari KONSEP.md, setelan per video dari `proyek/<slug>/setelan.json` (opsional; kuncinya sama dengan `paket/video/src/data/setelan.ts`), dan berkas dari `$ASET_DIR/proyek/<slug>/` atau folder proyek lama.
+
+| Perintah | Fungsi |
+| --- | --- |
+| `npm run render -- <slug>` | Render video ke `$ASET_DIR/proyek/<slug>/render/<slug>-<tanggal>-<versi>.mp4` (audio dinormalkan ke −16 LUFS) |
+| `npm run render -- <slug> --sampul` | Render sampul PNG |
+| `npm run render -- <slug> --studio` | Buka Remotion Studio dengan data proyek itu |
+| `npm run render -- <slug> --cek` | Cek kelengkapan aset |
+| `npm run alat -- potong <slug>` | Potong rekaman babak ElevenLabs menjadi narasi per adegan |
+| `npm run alat -- peta-dasar <slug>` / `peta-warna <slug>` | Data dan palet peta animasi |
+
+Tombol Render, Render sampul, dan Buka di Remotion Studio juga ada di tab Render katalog. Render pertama di device baru mengunduh Chrome Headless Shell dari Remotion.
+
 ## Skrip
 
 | Perintah | Fungsi |

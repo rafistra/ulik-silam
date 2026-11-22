@@ -9,9 +9,13 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@remotion/fonts": "4.0.535",
+    "@remotion/media-utils": "4.0.535",
+    "@remotion/player": "4.0.535",
     "marked": "^15.0.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "remotion": "4.0.535"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.0",

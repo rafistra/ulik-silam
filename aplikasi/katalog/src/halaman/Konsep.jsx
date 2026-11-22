@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { marked } from 'marked';
-import { useData, kirim, toast, DaftarLapisan, Memuat, Salin, angka, tanggal } from '../komponen.jsx';
+import { useData, useRender, kirim, toast, DaftarLapisan, Memuat, Salin, angka, tanggal } from '../komponen.jsx';
+import Pemutar from '../Pemutar.jsx';
 
 const TAB = [
   ['ringkasan', 'Ringkasan'],
@@ -23,14 +24,20 @@ export default function Konsep({ slug, tab }) {
   const { data: info } = useData('/api/info');
   const { data, galat, muatUlang } = useData(`/api/proyek/${slug}`);
   const [aktif, setAktif] = useState(1);
+  const [pilihMode, setMode] = useState(null);
   const videoRef = useRef(null);
+  const pemutarRef = useRef(null);
+  const { data: dataVideo, galat: galatVideo } = useData(`/api/proyek/${slug}/video`);
   const render = data?.aset.render.find((r) => r.jenis === 'video' && !r.mentah) || data?.aset.render.find((r) => r.jenis === 'video');
   if (!data || !info) return <Memuat galat={galat} />;
   const k = data.konsep;
   const m = data.meta;
+  // Video yang sudah tayang dibuka dengan render aslinya; pratinjau memakai komposisi bersama terbaru.
+  const mode = pilihMode ?? (render && ['Tayang', 'Evaluasi'].includes(m.tahap) ? 'render' : 'pratinjau');
 
   const lompat = (a) => {
     setAktif(a.nomor);
+    if (mode === 'pratinjau') return pemutarRef.current?.lompat(a.nomor);
     const t = detik(a.waktu);
     if (videoRef.current && t !== null) {
       videoRef.current.currentTime = t;
@@ -60,20 +67,62 @@ export default function Konsep({ slug, tab }) {
 
       <div className="konsep-atas">
         <aside className="pemutar" aria-label="Pratinjau">
-          <div className="layar">
-            {render ? (
-              <video ref={videoRef} src={render.url} controls preload="metadata" />
-            ) : gambarAktif ? (
-              <img src={gambarAktif} alt={`Ilustrasi adegan ${aktif}`} />
-            ) : (
-              <p className="redup kecil" style={{ padding: 20, textAlign: 'center' }}>
-                Belum ada ilustrasi atau render
-              </p>
-            )}
+          <div className="tab" role="tablist" style={{ borderBottom: 0 }}>
+            {[
+              ['pratinjau', 'Pratinjau'],
+              ['render', 'Render terakhir'],
+            ].map(([id, nama]) => (
+              <a
+                key={id}
+                href="#"
+                role="tab"
+                aria-selected={mode === id}
+                aria-current={mode === id ? 'page' : undefined}
+                onClick={(e) => {
+                  e.preventDefault();
+                  setMode(id);
+                }}
+              >
+                {nama}
+              </a>
+            ))}
           </div>
+          {mode === 'pratinjau' ? (
+            <div className="layar">{dataVideo ? <Pemutar ref={pemutarRef} data={dataVideo.data} /> : <Memuat galat={galatVideo} />}</div>
+          ) : (
+            <div className="layar">
+              {render ? (
+                <video ref={videoRef} src={render.url} controls preload="metadata" />
+              ) : gambarAktif ? (
+                <img src={gambarAktif} alt={`Ilustrasi adegan ${aktif}`} />
+              ) : (
+                <p className="redup kecil" style={{ padding: 20, textAlign: 'center' }}>
+                  Belum ada render
+                </p>
+              )}
+            </div>
+          )}
           <p className="redup kecil">
-            {render ? `Render: ${render.nama} · ${tanggal(render.tanggal)}. Klik adegan di tab Naskah untuk melompat (perkiraan dari kolom Waktu).` : 'Pratinjau Remotion menyusul di tahap berikutnya; sementara ini menampilkan ilustrasi adegan yang dipilih.'}
+            {mode === 'pratinjau'
+              ? `Komposisi bersama dengan aset yang ada.${render ? ' Video lama bisa sedikit berbeda dari render aslinya karena memakai komposisi terbaru.' : ''} Klik adegan di tab Naskah atau Aset untuk melompat.`
+              : render
+                ? `${render.nama} · ${tanggal(render.tanggal)}. Klik adegan untuk melompat (perkiraan dari kolom Waktu).`
+                : 'Belum ada render video.'}
           </p>
+          {dataVideo && Object.values(dataVideo.kurang).some((d) => d.length) && (
+            <details>
+              <summary>Aset yang belum ada</summary>
+              <ul className="kecil">
+                {Object.entries(dataVideo.kurang)
+                  .filter(([, d]) => d.length)
+                  .map(([j, d]) => (
+                    <li key={j}>
+                      {j}: {d.length}
+                    </li>
+                  ))}
+              </ul>
+            </details>
+          )}
         </aside>
 
         <section>
@@ -579,29 +628,78 @@ function Aset({ data, lompat }) {
 
 // ---------- Render ----------
 function Render({ data }) {
+  const t = useRender(data.slug);
   const r = data.aset.render;
-  if (!r.length) return <p className="kosong">Belum ada hasil render. Tombol Render dan pratinjau Remotion menyusul di tahap berikutnya.</p>;
+  const jalan = t?.status === 'jalan';
+  const mulai = async (jenis) => {
+    try {
+      await kirim(`/api/proyek/${data.slug}/render`, { jenis }, 'POST');
+      toast(`Render ${jenis} dimulai`);
+    } catch (e) {
+      toast(`Gagal: ${e.message}`);
+    }
+  };
+  const studio = async () => {
+    try {
+      const h = await kirim(`/api/proyek/${data.slug}/studio`, {}, 'POST');
+      toast(h.pesan);
+    } catch (e) {
+      toast(`Gagal: ${e.message}`);
+    }
+  };
   return (
-    <div className="kisi" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}>
-      {r.map((x) => (
-        <div key={x.url} className="kartu-kat" style={{ cursor: 'default' }}>
-          <div className="gbr" style={{ aspectRatio: '9 / 16', background: '#000' }}>
-            {x.jenis === 'video' ? <video src={x.url} controls preload="metadata" style={{ width: '100%', height: '100%' }} /> : <img src={x.url} alt={x.nama} />}
-          </div>
-          <div className="badan">
-            <span className="kecil" style={{ wordBreak: 'break-all' }}>
-              <b>{x.nama}</b>
-            </span>
-            <span className="redup kecil">
-              {tanggal(x.tanggal)} · {ukuran(x.ukuran)}
-              {x.mentah ? ' · mentah' : ''}
-            </span>
-            <a className="kecil" href={x.url} download>
-              Unduh
-            </a>
-          </div>
+    <>
+      <div className="blok">
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
+          <button type="button" className="utama" disabled={jalan} onClick={() => mulai('video')}>
+            Render video
+          </button>
+          <button type="button" disabled={jalan} onClick={() => mulai('sampul')}>
+            Render sampul
+          </button>
+          <button type="button" onClick={studio}>
+            Buka di Remotion Studio
+          </button>
         </div>
-      ))}
-    </div>
+        <p className="redup kecil">Hasil disimpan di aset/proyek/{data.slug}/render/ dengan tanggal dan versi konsep. Render pertama mengunduh Chrome Headless Shell (butuh internet).</p>
+        {t && (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+            <p className={`kecil ${t.status === 'gagal' ? 'status-kurang' : t.status === 'selesai' ? 'status-ada' : ''}`}>
+              {t.jenis === 'sampul' ? 'Sampul' : 'Video'}: {t.pesan}
+            </p>
+            {t.total > 0 && (
+              <div className="batang">
+                <i style={{ width: `${(100 * t.selesai) / t.total}%` }} />
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+      {!r.length ? (
+        <p className="kosong">Belum ada hasil render.</p>
+      ) : (
+        <div className="kisi" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}>
+          {r.map((x) => (
+            <div key={x.url} className="kartu-kat" style={{ cursor: 'default' }}>
+              <div className="gbr" style={{ aspectRatio: '9 / 16', background: '#000' }}>
+                {x.jenis === 'video' ? <video src={x.url} controls preload="metadata" style={{ width: '100%', height: '100%' }} /> : <img src={x.url} alt={x.nama} />}
+              </div>
+              <div className="badan">
+                <span className="kecil" style={{ wordBreak: 'break-all' }}>
+                  <b>{x.nama}</b>
+                </span>
+                <span className="redup kecil">
+                  {tanggal(x.tanggal)} · {ukuran(x.ukuran)}
+                  {x.mentah ? ' · mentah' : ''}
+                </span>
+                <a className="kecil" href={x.url} download>
+                  Unduh
+                </a>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+    </>
   );
 }
