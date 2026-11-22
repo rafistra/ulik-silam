@@ -112,8 +112,14 @@ let gagal = 0;
 if (!daftar.length) console.log('Tidak ada public/narasi/babak-N.<ext>; tidak ada yang dipotong.');
 for (const b of daftar) {
   if (pilih.length && !pilih.includes(String(b.babak))) continue;
-  // potongan lama babak ini dihapus dulu
-  for (const a of b.adegan) fs.rmSync(p('public/narasi/potongan', `adegan-${dua(a.nomor)}.wav`), { force: true });
+  // potongan lama babak ini dihapus dulu; bila folder tidak mengizinkan hapus (misalnya folder bersama di VM), berkas ditimpa ffmpeg -y
+  for (const a of b.adegan) {
+    try {
+      fs.rmSync(p('public/narasi/potongan', `adegan-${dua(a.nomor)}.wav`), { force: true });
+    } catch (e) {
+      if (e.code !== 'EPERM' && e.code !== 'EACCES') throw e;
+    }
+  }
   const r = potong(b);
   if (r.gagal) {
     gagal++;

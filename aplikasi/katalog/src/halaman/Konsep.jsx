@@ -1,7 +1,10 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { marked } from 'marked';
 import { useData, useRender, kirim, toast, DaftarLapisan, Memuat, Salin, angka, tanggal } from '../komponen.jsx';
+import { Player } from '@remotion/player';
 import Pemutar from '../Pemutar.jsx';
+import { Sampul, KANVAS } from '../../../../paket/video/src/pemutar';
+import { promptFlow, namaAsetFlow } from '../../../../paket/urai-konsep/flow.mjs';
 
 const TAB = [
   ['ringkasan', 'Ringkasan'],
@@ -142,7 +145,7 @@ export default function Konsep({ slug, tab }) {
             {k && tab === 'ulikan' && <Ulikan k={k} />}
             {k && tab === 'verifikasi' && <Verifikasi data={data} />}
             {k && tab === 'aset' && <Aset data={data} lompat={lompat} />}
-            {tab === 'render' && <Render data={data} />}
+            {tab === 'render' && <Render data={data} dataVideo={dataVideo?.data} />}
           </div>
         </section>
       </div>
@@ -318,8 +321,39 @@ function Ringkasan({ data, info, muatUlang }) {
 }
 
 // ---------- Naskah ----------
+function BlokFlow({ flow }) {
+  const lain = flow.adegan.filter((a) => a.rujukanLain);
+  return (
+    <div className="blok">
+      <h2 className="label">Prompt Google Flow</h2>
+      <p className="kecil">
+        Dibuat otomatis dari prompt Gemini di KONSEP.md: rujukan lembar karakter diganti aset Flow. Unggah lembar karakter ke proyek Flow dengan nama aset persis{' '}
+        {flow.aset.length ? flow.aset.map((a, i) => (
+          <React.Fragment key={a.aset}>
+            {i > 0 && ', '}
+            <code>{a.aset}</code>
+          </React.Fragment>
+        )) : '(tidak ada)'}
+        , lalu tempel teks batch di Flow{flow.batch.length > 1 ? ` satu per satu (Flow menerima paling banyak 12 adegan per batch, jadi konsep ini dibagi ${flow.batch.length})` : ''}. Perbaikan prompt yang ingin dipertahankan masuk ke KONSEP.md versi baru.
+      </p>
+      {lain.length > 0 && (
+        <p className="kecil status-kurang">
+          Adegan {lain.map((a) => a.nomor).join(', ')} masih merujuk gambar acuan di luar lembar karakter konsep ini (misalnya tokoh dari part lain); pasang gambarnya manual di Flow.
+        </p>
+      )}
+      <div className="baris-chip">
+        {flow.batch.map((b) => (
+          <Salin key={b.ke} teks={b.teks} label={flow.batch.length > 1 ? `Salin batch ${b.ke}: adegan ${b.dari}–${b.sampai}` : `Salin prompt Flow (${b.jumlah} adegan)`} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function Naskah({ data, aktif, lompat }) {
   const k = data.konsep;
+  const flow = useMemo(() => promptFlow(k), [k]);
+  const flowPer = useMemo(() => Object.fromEntries(flow.adegan.map((a) => [a.nomor, a])), [flow]);
   const perBabak = useMemo(() => {
     const g = {};
     k.adegan.forEach((a) => (g[a.babak] ||= []).push(a));
@@ -327,6 +361,7 @@ function Naskah({ data, aktif, lompat }) {
   }, [k]);
   return (
     <>
+      {flow.adegan.length > 0 && <BlokFlow flow={flow} />}
       {Object.entries(perBabak).map(([b, daftar]) => (
         <div key={b} style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
           <h2 className="babak-judul">
@@ -362,7 +397,7 @@ function Naskah({ data, aktif, lompat }) {
                   {a.teksLayar?.length > 0 && <p className="kecil">Teks layar: {a.teksLayar.join(' / ')}</p>}
                   {a.suara && <p className="redup kecil">Suara: {a.suara}</p>}
                   <details onClick={(e) => e.stopPropagation()}>
-                    <summary>Visual dan prompt Gemini</summary>
+                    <summary>Visual, prompt Gemini, dan prompt Flow</summary>
                     <p className="kecil" style={{ margin: '8px 0' }}>
                       {a.visual}
                     </p>
@@ -370,7 +405,8 @@ function Naskah({ data, aktif, lompat }) {
                       <>
                         <pre className="prompt">{prompt}</pre>
                         <div style={{ marginTop: 8 }}>
-                          <Salin teks={prompt} label="Salin prompt" />
+                          <Salin teks={prompt} label="Salin prompt Gemini" />{' '}
+                          {flowPer[a.nomor] && <Salin teks={flowPer[a.nomor].teks} label={`Salin prompt Flow${flowPer[a.nomor].aset.length ? ` (${flowPer[a.nomor].aset.join(', ')})` : ''}`} />}
                         </div>
                       </>
                     )}
@@ -393,6 +429,9 @@ function Lembar({ data }) {
       <div className="gbr">{l.kartu?.gambar ? <img src={l.kartu.gambar} alt={`Lembar karakter ${l.nama}`} loading="lazy" /> : 'Gambar lembar karakter belum ada di pustaka'}</div>
       <div style={{ display: 'flex', flexDirection: 'column', gap: 10, minWidth: 0 }}>
         <h2 className="serif">{l.nama}</h2>
+        <p className="kecil">
+          Nama aset Flow: <code>{namaAsetFlow(l.nama)}</code> <Salin teks={namaAsetFlow(l.nama)} label="Salin nama" />
+        </p>
         {l.kartu && (
           <p className="kecil">
             Pustaka: <a href={`#/pustaka/tokoh`}>{l.kartu.id}</a> <span className="pil">{l.kartu.status}</span>
@@ -633,7 +672,113 @@ function Aset({ data, lompat }) {
 }
 
 // ---------- Render ----------
-function Render({ data }) {
+// ---------- Pilih sampul ----------
+/** Pilihan adegan dan judul sampul, disimpan di proyek.yaml (`sampul`), dengan pratinjau langsung komposisi Sampul. */
+function PilihSampul({ data, dv, sibuk, onRender }) {
+  const s = dv.sampul || { adegan: 1, judul: dv.proyek.judulSampul, bawaan: { adegan: 1, judul: dv.proyek.judulSampul } };
+  const [adegan, setAdegan] = useState(s.adegan);
+  const [judul, setJudul] = useState(s.judul);
+  useEffect(() => {
+    setAdegan(s.adegan);
+    setJudul(s.judul);
+  }, [s.adegan, s.judul]);
+  const berubah = adegan !== s.adegan || judul.trim() !== s.judul;
+  const adaKhusus = !!data.aset.sampul || s.bawaan.adegan === 'khusus';
+  const pratinjau = useMemo(() => {
+    const d = { ...dv, proyek: { ...dv.proyek, judulSampul: judul.trim() || s.bawaan.judul } };
+    if (adegan === 'khusus') return d;
+    return { ...d, setelan: { ...dv.setelan, SAMPUL_ADEGAN: adegan }, aset: { ...dv.aset, sampul: {} } };
+  }, [dv, adegan, judul]);
+  const simpan = async () => {
+    const judulBersih = judul.trim();
+    const isi = {
+      adegan: adegan === s.bawaan.adegan ? null : adegan,
+      judul: !judulBersih || judulBersih === s.bawaan.judul ? null : judulBersih,
+    };
+    await kirim(`/api/proyek/${data.slug}`, { sampul: isi.adegan == null && isi.judul == null ? null : isi });
+  };
+  const simpanSaja = async () => {
+    try {
+      await simpan();
+      toast('Pilihan sampul disimpan di proyek.yaml');
+    } catch (e) {
+      toast(`Gagal: ${e.message}`);
+    }
+  };
+  const renderSampul = async () => {
+    try {
+      if (berubah) await simpan();
+      await onRender('sampul');
+    } catch (e) {
+      toast(`Gagal: ${e.message}`);
+    }
+  };
+  const pilihan = [...(adaKhusus ? ['khusus'] : []), ...data.konsep.adegan.map((a) => a.nomor)];
+  return (
+    <div className="blok">
+      <h2 className="label">Sampul</h2>
+      <div className="pilih-sampul">
+        <div className="layar">
+          <Player
+            component={Sampul}
+            inputProps={{ data: pratinjau, geserBawah: 0 }}
+            durationInFrames={1}
+            fps={KANVAS.fps}
+            compositionWidth={KANVAS.lebar}
+            compositionHeight={KANVAS.tinggi}
+            acknowledgeRemotionLicense
+            style={{ width: '100%', aspectRatio: '9 / 16' }}
+          />
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 14, minWidth: 0 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+            <label htmlFor="judul-sampul" className="label">
+              Judul di sampul
+            </label>
+            <textarea id="judul-sampul" value={judul} rows={2} maxLength={160} onChange={(e) => setJudul(e.target.value)} style={{ minHeight: 64, fontFamily: 'var(--serif)', fontSize: 20, lineHeight: '26px' }} />
+            <p className="redup kecil">
+              Maksimal tiga baris di sampul; yang lebih panjang terpotong. Bawaan dari KONSEP.md: “{s.bawaan.judul}”.{' '}
+              {judul.trim() !== s.bawaan.judul && (
+                <button type="button" onClick={() => setJudul(s.bawaan.judul)} style={{ minHeight: 28, padding: '0 8px' }}>
+                  Kembalikan
+                </button>
+              )}
+            </p>
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+            <span className="label" id="label-adegan-sampul">
+              Gambar
+            </span>
+            <div className="kisi-sampul" role="radiogroup" aria-labelledby="label-adegan-sampul">
+              {pilihan.map((n) => {
+                const src = n === 'khusus' ? data.aset.sampul : data.aset.adegan[n]?.ilustrasi;
+                const nama = n === 'khusus' ? 'Sampul khusus' : `Adegan ${n}`;
+                return (
+                  <button key={n} type="button" role="radio" aria-checked={adegan === n} aria-label={nama} className={`opsi-sampul${adegan === n ? ' aktif' : ''}`} onClick={() => setAdegan(n)} disabled={!src}>
+                    {src ? <img src={src} alt="" loading="lazy" /> : <span className="redup kecil">belum ada</span>}
+                    <span className="nomor">{n === 'khusus' ? 'Khusus' : n}</span>
+                  </button>
+                );
+              })}
+            </div>
+            {s.bawaan.adegan !== 'khusus' && <p className="redup kecil">Bawaan: adegan {s.bawaan.adegan}. Pilih gambar yang memperlihatkan sudut pandang tokoh, bukan wajah dari depan.</p>}
+          </div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, alignItems: 'center' }}>
+            <button type="button" className="utama" disabled={sibuk} onClick={renderSampul}>
+              {berubah ? 'Simpan dan render sampul' : 'Render sampul'}
+            </button>
+            <button type="button" disabled={!berubah} onClick={simpanSaja}>
+              Simpan pilihan
+            </button>
+            {berubah && <span className="pil pelita">Belum disimpan</span>}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Render({ data, dataVideo }) {
   const t = useRender(data.slug);
   const r = data.aset.render;
   const jalan = t?.status === 'jalan';
@@ -660,14 +805,14 @@ function Render({ data }) {
           <button type="button" className="utama" disabled={jalan} onClick={() => mulai('video')}>
             Render video
           </button>
-          <button type="button" disabled={jalan} onClick={() => mulai('sampul')}>
-            Render sampul
-          </button>
           <button type="button" onClick={studio}>
             Buka di Remotion Studio
           </button>
         </div>
         <p className="redup kecil">Hasil disimpan di aset/proyek/{data.slug}/render/ dengan tanggal dan versi konsep. Render pertama mengunduh Chrome Headless Shell (butuh internet).</p>
+        <p className="kecil">
+          Alat proyek ini: <a href={`#/alat/cek-aset/${data.slug}`}>Periksa aset</a> · <a href={`#/alat/potong/${data.slug}`}>Potong narasi</a> · <a href={`#/alat/panen/${data.slug}`}>Panen ke pustaka</a>
+        </p>
         {t && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
             <p className={`kecil ${t.status === 'gagal' ? 'status-kurang' : t.status === 'selesai' ? 'status-ada' : ''}`}>
@@ -681,6 +826,7 @@ function Render({ data }) {
           </div>
         )}
       </div>
+      {dataVideo && data.konsep && <PilihSampul data={data} dv={dataVideo} sibuk={jalan} onRender={mulai} />}
       {!r.length ? (
         <p className="kosong">Belum ada hasil render.</p>
       ) : (

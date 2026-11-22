@@ -8,6 +8,7 @@ import { Ilustrasi } from './komponen/Ilustrasi';
 import { LabelLapisan } from './komponen/LabelLapisan';
 import { Tanda } from './komponen/Tanda';
 import { ASET } from './lib/data';
+import { muatFont } from './lib/font';
 import { TIPE, WARNA, ZONA } from './lib/merek';
 
 /**
@@ -17,6 +18,8 @@ import { TIPE, WARNA, ZONA } from './lib/merek';
 /** `geserBawah` (px): gambar digeser ke bawah untuk versi sampul yang dipotong 3:4 (grid profil TikTok); celah di atas diisi gambar yang sama diburamkan. */
 export const Sampul: React.FC<{ data: DataVideo; geserBawah?: number }> = ({ data, geserBawah = 0 }) => {
   pasangData(data);
+  // Font dimuat di halaman render itu sendiri (calculateMetadata berjalan di halaman lain saat render still).
+  muatFont(data.basisFont);
   const a = DAFTAR_ADEGAN.find((x) => x.nomor === SAMPUL_ADEGAN) ?? DAFTAR_ADEGAN[0];
   return (
     <AbsoluteFill style={{ background: WARNA.latar }}>

@@ -216,7 +216,7 @@ export function ubahStatusPustaka(jenis, id, status) {
 }
 
 // ---------- ringkasan dan detail proyek ----------
-function slugProyek() {
+export function slugProyek() {
   const dir = path.join(AKAR, 'proyek');
   return fs.readdirSync(dir).filter((s) => fs.existsSync(path.join(dir, s, 'proyek.yaml'))).sort();
 }

@@ -3,6 +3,14 @@ import React, { useCallback, useEffect, useRef, useState } from 'react';
 // ---------- data ----------
 const pendengar = new Set();
 const pendengarRender = new Set();
+const pendengarAlat = new Set();
+
+/** Dengarkan kabar keluaran alat dari server; kembalikan fungsi untuk berhenti. */
+export function dengarAlat(f) {
+  pantau();
+  pendengarAlat.add(f);
+  return () => pendengarAlat.delete(f);
+}
 let sumber = null;
 function pantau() {
   if (sumber) return;
@@ -10,6 +18,10 @@ function pantau() {
   sumber.addEventListener('ubah', (e) => {
     const d = JSON.parse(e.data);
     pendengar.forEach((f) => f(d));
+  });
+  sumber.addEventListener('alat', (e) => {
+    const d = JSON.parse(e.data);
+    pendengarAlat.forEach((f) => f(d));
   });
   sumber.addEventListener('render', (e) => {
     const d = JSON.parse(e.data);
@@ -111,6 +123,7 @@ export function Kepala({ aktif, cari, onCari }) {
         {link('#/papan', 'Papan', 'papan')}
         {link('#/katalog', 'Katalog', 'katalog')}
         {link('#/pustaka', 'Pustaka', 'pustaka')}
+        {link('#/alat', 'Alat', 'alat')}
         {link('#/identitas', 'Identitas', 'identitas')}
       </nav>
       <div style={{ flex: '1 1 40px' }} />

@@ -299,6 +299,19 @@ export function siapkan(slug, { basis = null, basisFont = null } = {}) {
   const fileSetelan = path.join(folder, 'setelan.json');
   const setelan = fs.existsSync(fileSetelan) ? JSON.parse(fs.readFileSync(fileSetelan, 'utf8')) : {};
 
-  const data = { ...d, warnaPeta, setelan, aset, jeda, petaTerbangun, basis, basisFont };
+  // Pilihan sampul dari katalog (proyek.yaml `sampul: {"adegan": n|"khusus", "judul": "..."}`) mengalahkan bawaan.
+  // Bawaan: ilustrasi/sampul.* bila ada, selain itu SAMPUL_ADEGAN di setelan.json (atau adegan 1); judul dari KONSEP.md.
+  const bawaan = { adegan: aset.sampul.gambar ? 'khusus' : setelan.SAMPUL_ADEGAN ?? 1, judul: d.proyek.judulSampul };
+  const pilih = bacaYaml(path.join(folder, 'proyek.yaml')).sampul || {};
+  const adeganSampul = pilih.adegan === 'khusus' && !aset.sampul.gambar ? bawaan.adegan : pilih.adegan ?? bawaan.adegan;
+  const judulSampul = typeof pilih.judul === 'string' && pilih.judul.trim() ? pilih.judul.trim() : bawaan.judul;
+  if (adeganSampul !== 'khusus') {
+    setelan.SAMPUL_ADEGAN = adeganSampul;
+    aset.sampul = {};
+  }
+  d.proyek.judulSampul = judulSampul;
+  const sampul = { adegan: adeganSampul, judul: judulSampul, bawaan, adaKhusus: bawaan.adegan === 'khusus' };
+
+  const data = { ...d, warnaPeta, setelan, aset, jeda, petaTerbangun, basis, basisFont, sampul };
   return { data, kurang, peringatan, lokasi, konsep: k };
 }

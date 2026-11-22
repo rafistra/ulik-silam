@@ -12,6 +12,7 @@ import { LabelLapisan } from './komponen/LabelLapisan';
 import { Subtitle } from './komponen/Subtitle';
 import { TeksLayar } from './komponen/TeksLayar';
 import { ASET, JEDA_NARASI } from './lib/data';
+import { muatFont } from './lib/font';
 import { hitungLini, jedaTerakhir, keWaktuNarasi, type AdeganLini } from './lib/lini';
 import { ADEGAN, KANVAS, KARTU_ULIKAN, LABEL_LAPISAN, WARNA } from './lib/merek';
 import { kunciPerPotongan, pecahSubtitle, samarkan, waktuDariFrasa, waktuSubtitle } from './lib/subtitle';
@@ -126,6 +127,8 @@ const Label: React.FC = () => {
 
 export const Video: React.FC<PropsVideo> = ({ data, durasiNarasi }) => {
   pasangData(data);
+  // Font dimuat di setiap halaman render; calculateMetadata tidak berjalan di tab render.
+  muatFont(data.basisFont);
   const lini = useMemo(() => hitungLini(durasiNarasi), [data, durasiNarasi]);
   const terakhir = lini.adegan[lini.adegan.length - 1];
   return (

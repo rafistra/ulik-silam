@@ -30,7 +30,11 @@ const { data, kurang, peringatan, lokasi } = siapkan(slug);
 for (const p of peringatan) lapor('peringatan', { pesan: `PERINGATAN: ${p}` });
 const ringkas = Object.entries(kurang).filter(([, d]) => d.length);
 for (const [j, d] of ringkas) lapor('kurang', { aset: j, daftar: d, pesan: `Belum ada ${j}: ${d.slice(0, 6).join(', ')}${d.length > 6 ? ` (+${d.length - 6})` : ''}` });
-if (opsi.cek) process.exit(0);
+if (opsi.cek) {
+  const n = data.adegan.length;
+  if (!ringkas.length) lapor('lengkap', { pesan: `Semua aset wajib lengkap: ${n} adegan (ilustrasi, narasi, musik, SFX, merek). Aset di ${lokasi.aset}` });
+  process.exit(0);
+}
 
 fs.mkdirSync(lokasi.cache, { recursive: true });
 const fileProps = path.join(lokasi.cache, 'props.json');

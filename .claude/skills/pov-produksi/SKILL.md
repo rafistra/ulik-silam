@@ -156,7 +156,7 @@ Contoh: `{ "SETELAN_ADEGAN": { "6": { "kenBurns": { "skala": [1.14, 1.1], "geser
 
 ### 2.5 Bahan untuk Rafi
 
-Semua bahan dibaca langsung dari KONSEP.md di halaman konsep katalog, dengan tombol salin: prompt lembar karakter dan adegan (tab Lembar karakter dan Naskah), teks ElevenLabs per babak dan arahan suara (tab Audio), Style of Music dan Exclude Styles per cue, daftar SFX dengan prompt, serta judul dan caption per platform. Tidak perlu membuat folder `bahan/`. Bila teks satu babak melebihi batas karakter ElevenLabs (± 3.000), sarankan membaginya di batas adegan menjadi `babak-N-a` dan `babak-N-b`.
+Semua bahan dibaca langsung dari KONSEP.md di halaman konsep katalog, dengan tombol salin: prompt lembar karakter dan adegan (tab Lembar karakter dan Naskah), prompt batch Google Flow beserta nama aset Flow tiap tokoh (tab Naskah dan Lembar karakter; paling banyak 12 adegan per batch, dipotong di batas babak bila bisa; dibuat otomatis oleh `paket/urai-konsep/flow.mjs`, juga `npm run urai -- <KONSEP.md> --flow`, dan tidak disimpan sebagai berkas), teks ElevenLabs per babak dan arahan suara (tab Audio), Style of Music dan Exclude Styles per cue, daftar SFX dengan prompt, serta judul dan caption per platform. Tidak perlu membuat folder `bahan/`. Bila teks satu babak melebihi batas karakter ElevenLabs (± 3.000), sarankan membaginya di batas adegan menjadi `babak-N-a` dan `babak-N-b`.
 
 Serahkan urutan produksi untuk Rafi:
 
@@ -187,7 +187,7 @@ Laporkan hasilnya, ubah `tahap` menjadi `Rakit & render`, dan akhiri dengan "Ren
 
 ## Tahap 4: Render final
 
-- Render video dan sampul dari tab Render di katalog (tombol Render video dan Render sampul), atau `npm run render -- <slug>` dan `npm run render -- <slug> --sampul`. Hasil: `$ASET_DIR/proyek/<slug>/render/<slug>-<tanggal>-<versi>.mp4` (audio dinormalkan ke −16 LUFS, puncak −1,5 dBTP), rekaman sebelum normalisasi `...-mentah.mp4`, dan `...-sampul.png`.
+- Render video dan sampul dari tab Render di katalog (tombol Render video dan Render sampul; gambar dan judul sampul dipilih di blok Sampul dengan pratinjau langsung dan disimpan di proyek.yaml `sampul: {"adegan": n|"khusus", "judul": "..."}`, bawaannya adegan 1 atau `ilustrasi/sampul.*` dan judul dari KONSEP.md), atau `npm run render -- <slug>` dan `npm run render -- <slug> --sampul`. Hasil: `$ASET_DIR/proyek/<slug>/render/<slug>-<tanggal>-<versi>.mp4` (audio dinormalkan ke −16 LUFS, puncak −1,5 dBTP), rekaman sebelum normalisasi `...-mentah.mp4`, dan `...-sampul.png`.
 - Laporkan durasi dan ukuran berkas, isi `render` dan `tanggal_render` di proyek.yaml.
 - Ingatkan Rafi menonton di ponsel dengan dan tanpa suara sebelum unggah (subtitle dan label tidak tertutup antarmuka TikTok dan Shorts), dan memakai judul serta caption dari tab Kartu Ulikan dan caption (termasuk penanda dari skill genre dan penegasan rekaan untuk lapisan Rekaan).
 - Setelah tayang: ubah `tahap` menjadi `Tayang`, lalu tawarkan memanen aset baru ke pustaka dengan `python3 scripts/panen-pustaka.py <slug> --tulis` (kartu draf, disetujui Rafi di halaman Pustaka) dan `python3 scripts/salin-pustaka.py --status disetujui --tulis`. Metrik masuk lewat `scripts/impor-metrik.py` setelah ekspor berikutnya.

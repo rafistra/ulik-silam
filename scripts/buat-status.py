@@ -29,7 +29,7 @@ def baca(path):
                 continue
             except ValueError:
                 pass
-        data[k] = None if v == "null" else v
+        data[k] = None if v == "null" else int(v) if re.fullmatch(r"-?\d+", v) else v
     return data
 
 
@@ -54,14 +54,17 @@ def main():
         isi = [p for p in proyek if p.get("tahap") == t]
         if not isi:
             continue
-        isi.sort(key=lambda p: p.get("tanggal_render") or "", reverse=True)
+        isi.sort(key=lambda p: str(p.get("tanggal_render") or ""), reverse=True)
+        isi.sort(key=lambda p: p.get("prioritas") if isinstance(p.get("prioritas"), int) else 99)
         out += ["", f"## {t}", "", "| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |", "| --- | --- | --- | --- | --- | --- | --- |"]
         for p in isi:
             lap = ", ".join(p.get("lapisan") or [])
             vt = (p.get("metrik_tiktok") or {}).get("views") if isinstance(p.get("metrik_tiktok"), dict) else None
             vs = (p.get("metrik_shorts") or {}).get("views") if isinstance(p.get("metrik_shorts"), dict) else None
             f = lambda v: f"{v:,}".replace(",", ".") if isinstance(v, int) else "-"
-            out.append(f"| {p.get('slug')} | {p.get('judul')} | {p.get('format')} | {lap} | {p.get('tanggal_render') or '-'} | {f(vt)} | {f(vs)} |")
+            pr = p.get("prioritas")
+            judul = f"{p.get('judul')} (prioritas {pr})" if isinstance(pr, int) else p.get("judul")
+            out.append(f"| {p.get('slug')} | {judul} | {p.get('format')} | {lap} | {p.get('tanggal_render') or '-'} | {f(vt)} | {f(vs)} |")
     open(os.path.join(akar, "STATUS.md"), "w", encoding="utf-8", newline="\n").write("\n".join(out) + "\n")
     print(f"STATUS.md: {len(proyek)} proyek")
 

@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 import * as data from './data.mjs';
+import { buatPenjalan, skemaAlat } from './alat.mjs';
 import { siapkan } from '../../../paket/video/siapkan.mjs';
 
 const RENDER = path.join(data.AKAR, 'paket', 'video', 'render.mjs');
@@ -112,6 +113,7 @@ export default function katalogPlugin() {
     });
     return t;
   };
+  const alat = buatPenjalan({ akar: data.AKAR, siarkan, slugProyek: data.slugProyek, sesudah: () => data.bersihkanSimpanan() });
   let tunda = null;
   const kabari = (berkas) => {
     // Berkas simpanan dan render yang sedang ditulis tidak perlu memuat ulang halaman; kabar render dikirim terpisah.
@@ -162,6 +164,16 @@ export default function katalogPlugin() {
           if (p === '/api/merek' && req.method === 'GET') return kirimJson(res, 200, data.merek());
 
           if (p === '/api/render' && req.method === 'GET') return kirimJson(res, 200, [...tugas.values()]);
+          if (p === '/api/alat' && req.method === 'GET') return kirimJson(res, 200, { daftar: skemaAlat(), tugas: Object.fromEntries(alat.tugas) });
+          const ma = p.match(/^\/api\/alat\/([a-z0-9-]+)$/);
+          if (ma && req.method === 'POST') {
+            try {
+              const t = alat.jalankan(ma[1], await bacaBody(req));
+              return kirimJson(res, 200, t);
+            } catch (e) {
+              return kirimJson(res, 400, { galat: e.message });
+            }
+          }
           let m = p.match(/^\/api\/proyek\/([a-z0-9-]+)\/(video|render|studio)$/);
           if (m && m[2] === 'video' && req.method === 'GET') {
             const r = siapkan(m[1], { basisFont: '/media/merek/font' });
@@ -184,9 +196,20 @@ export default function katalogPlugin() {
           }
           if (m && req.method === 'PATCH') {
             const body = await bacaBody(req);
-            const boleh = { tahap: (v) => data.TAHAP.includes(v), prioritas: (v) => v === null || Number.isInteger(v), catatan: (v) => typeof v === 'string' };
+            const boleh = {
+              tahap: (v) => data.TAHAP.includes(v),
+              prioritas: (v) => v === null || Number.isInteger(v),
+              catatan: (v) => typeof v === 'string',
+              // pilihan sampul: adegan (nomor atau "khusus" untuk ilustrasi/sampul.*) dan judul di layar sampul; null = bawaan
+              sampul: (v) =>
+                v === null ||
+                (typeof v === 'object' &&
+                  Object.keys(v).every((k) => ['adegan', 'judul'].includes(k)) &&
+                  (v.adegan == null || v.adegan === 'khusus' || Number.isInteger(v.adegan)) &&
+                  (v.judul == null || (typeof v.judul === 'string' && v.judul.length <= 160))),
+            };
             const kunci = Object.keys(body);
-            if (!kunci.length || kunci.some((k) => !boleh[k] || !boleh[k](body[k]))) return kirimJson(res, 400, { galat: 'Hanya tahap, prioritas, dan catatan yang boleh diubah dari katalog.' });
+            if (!kunci.length || kunci.some((k) => !boleh[k] || !boleh[k](body[k]))) return kirimJson(res, 400, { galat: 'Hanya tahap, prioritas, catatan, dan pilihan sampul yang boleh diubah dari katalog.' });
             for (const k of kunci) data.tulisKunci(m[1], k, body[k]);
             const status = data.perbaruiStatus();
             return kirimJson(res, 200, { ok: true, status });

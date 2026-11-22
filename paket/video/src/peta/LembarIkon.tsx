@@ -6,9 +6,11 @@ import { DATA_PETA, WARNA_PETA } from '../data/peta';
 import { pasangData, type DataVideo } from '../data/pasang';
 import { HURUF, WARNA } from '../lib/merek';
 import { IKON_UMUM, IkonPeta, type WarnaPeta } from './ikon';
+import { muatFont } from '../lib/font';
 
 export const LembarIkon: React.FC<{ data: DataVideo }> = ({ data }) => {
   pasangData(data);
+  muatFont(data.basisFont);
   const nomor = Object.keys(DATA_PETA)[0];
   const w = ((WARNA_PETA as Record<string, unknown>)[nomor ?? ''] ?? Object.values(WARNA_PETA)[0]) as WarnaPeta;
   const dipakai = new Set(Object.values(DATA_PETA).flatMap((d) => d.titik.map((t) => t.ikon.replace(/^umum:/, ''))).concat('pohon'));

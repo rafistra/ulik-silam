@@ -2,7 +2,7 @@
 """Panen aset pakai ulang dari KONSEP.md proyek ke pustaka/ sebagai kartu berstatus draf.
 
 Yang dipanen:
-- tokoh: setiap lembar karakter (prompt, deskripsi baku, dan catatan akurasi visual untuk tokoh itu);
+- tokoh: setiap lembar karakter (prompt, deskripsi baku, catatan akurasi visual, dan gambar ilustrasi/lembar-<nama>.* bila ada);
 - musik: setiap cue Suno (Style of Music, Exclude Styles, suasana) beserta berkas cue-nya bila ada;
 - sfx: setiap efek suara yang berkasnya ada (bunyi, kata kunci, prompt generator).
 
@@ -10,7 +10,9 @@ Pemakaian:
     python3 scripts/panen-pustaka.py --semua            # pratinjau semua proyek
     python3 scripts/panen-pustaka.py pov-opas-si-pitung --tulis
 
-Kartu yang sudah ada tidak ditimpa; proyek baru hanya ditambahkan ke `dipakai_di`.
+Kartu yang sudah ada tidak ditimpa; proyek baru hanya ditambahkan ke `dipakai_di`. Musik dan SFX yang berkasnya
+sama persis dengan berkas pustaka (disalin dari pustaka) dicatat sebagai pemakaian ulang, bukan kartu baru.
+Berkas dicari di folder proyek lama (public/<jenis>) atau di $ASET_DIR/proyek/<slug>/<jenis>.
 Berkas berat tidak disalin di sini (lihat scripts/salin-pustaka.py); kartu mencatat asalnya di `asal`.
 Setelah Rafi menyetujui, ubah `status` kartu menjadi "disetujui".
 """
@@ -108,12 +110,55 @@ def baca_env():
 
 
 def cari_berkas(folder, sub, pola):
-    if not folder or not os.path.isdir(os.path.join(folder, sub)):
+    """Cari berkas di <folder>/<sub>; proyek lama memakai public/<jenis>, folder aset baru langsung <jenis>."""
+    if not folder:
         return None
-    for f in sorted(os.listdir(os.path.join(folder, sub))):
-        if re.match(pola, f):
-            return f"{sub}/{f}"
+    calon = [sub]
+    if sub.startswith("public/"):
+        calon.append(sub[len("public/"):])
+    for c in calon:
+        if not os.path.isdir(os.path.join(folder, c)):
+            continue
+        for f in sorted(os.listdir(os.path.join(folder, c))):
+            if re.match(pola, f, re.I):
+                return f"{c}/{f}"
     return None
+
+
+SIDIK = None
+
+
+def sidik(path):
+    """Sidik isi berkas (ukuran + md5) untuk mengenali berkas pustaka yang dipakai ulang."""
+    import hashlib
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        for blok in iter(lambda: f.read(1 << 20), b""):
+            h.update(blok)
+    return f"{os.path.getsize(path)}-{h.hexdigest()}"
+
+
+def kartu_dari_berkas(folder, rel):
+    """Kartu pustaka (jenis, id) yang berkasnya sama persis dengan berkas proyek ini, bila ada."""
+    global SIDIK
+    if not folder or not rel:
+        return None
+    if SIDIK is None:
+        # indeks menurut ukuran dulu; md5 hanya dihitung untuk berkas yang ukurannya sama
+        SIDIK = {}
+        akar = os.path.join(aset_dir(), "pustaka")
+        for path in glob.glob(os.path.join(akar, "*", "*", "*")):
+            if os.path.isfile(path):
+                jenis, id_ = os.path.relpath(path, akar).split(os.sep)[:2]
+                SIDIK.setdefault(os.path.getsize(path), []).append((path, (jenis, id_)))
+    path = os.path.join(folder, rel)
+    if not os.path.isfile(path):
+        return None
+    calon = SIDIK.get(os.path.getsize(path), [])
+    if not calon:
+        return None
+    s = sidik(path)
+    return next((k for p, k in calon if sidik(p) == s), None)
 
 
 def tahun(teks):
@@ -149,13 +194,18 @@ def panen(slug_proyek):
             akhir = slug(wilayah.split(",")[0], 20)
             if akhir not in id_:
                 id_ += "-" + akhir
-        kartu.append({
+        gambar = cari_berkas(lama, "public/ilustrasi", rf"lembar-(karakter-)?{re.escape(slug(nama, 60))}\.(png|jpe?g|webp)$")
+        k = {
             "jenis": "tokoh", "id": id_,
             "judul": nama, "era": era, "wilayah": wilayah, "tokoh": [nama],
-            "file": [], "alat": "Gemini", "akurasi": ak,
+            "file": [os.path.basename(gambar)] if gambar else [], "alat": "Gemini", "akurasi": ak,
             "_prompt": prompt, "_deskripsi": deskripsi,
-            "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya.",
-        })
+        }
+        if gambar:
+            k["_asal"] = gambar
+        else:
+            k["catatan"] = f"Gambar lembar karakter belum disimpan; simpan sebagai ilustrasi/lembar-{slug(nama, 60)}.png di folder aset proyek, atau buat ulang dari prompt.txt."
+        kartu.append(k)
 
     # musik
     mus = bagian(md, "### Musik")
@@ -197,6 +247,8 @@ def panen(slug_proyek):
         })
     for k in kartu:
         k["_proyek"] = slug_proyek
+        if k["jenis"] in ("musik", "sfx") and k.get("_asal"):
+            k["_pakai_ulang"] = kartu_dari_berkas(lama, k["_asal"])
     return kartu
 
 
@@ -221,7 +273,15 @@ def singkat(slug_proyek):
 
 
 def daftarkan(k):
-    """Masukkan kartu ke ADA. Hasil: baru, tambah-proyek, atau sama."""
+    """Masukkan kartu ke ADA. Hasil: baru, tambah-proyek, pakai-ulang, atau sama."""
+    if k.get("_pakai_ulang") and tuple(k["_pakai_ulang"]) in ADA:
+        # berkasnya disalin dari kartu pustaka yang sudah ada: catat pemakaiannya, jangan buat kartu baru
+        v = ADA[tuple(k["_pakai_ulang"])]
+        if k["_proyek"] in v["kartu"].setdefault("dipakai_di", []):
+            return "sama"
+        v["kartu"]["dipakai_di"].append(k["_proyek"])
+        v["ubah"] = True
+        return "pakai-ulang"
     if k["jenis"] == "tokoh":
         for v in ADA.values():
             if v["kartu"]["jenis"] == "tokoh" and v["kartu"].get("judul") == k["judul"] and k["_proyek"] not in v["kartu"]["dipakai_di"] \

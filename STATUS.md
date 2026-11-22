@@ -2,17 +2,66 @@
 
 Dibuat otomatis oleh `scripts/buat-status.py` dari `proyek/*/proyek.yaml`. Jangan diedit manual.
 
-Diperbarui: 2026-11-22 · 42 proyek
+Diperbarui: 2026-11-22 · 76 proyek
 
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
 | Brief | 0 | - |
-| Naskah terverifikasi | 0 | - |
-| Aset | 0 | 0 / 2 |
-| Rakit & render | 0 | 0 / 2 |
+| Naskah terverifikasi | 32 | - |
+| Aset | 1 | 1 / 2 |
+| Rakit & render | 1 | 1 / 2 |
 | Tayang | 42 | - |
 | Evaluasi | 0 | - |
+
+## Naskah terverifikasi
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-sepaku-1-anak-balik-1942 | POV: Kamu Anak Suku Balik di Balikpapan, 1942 (prioritas 2) | POV | Sejarah | - | - | - |
+| pov-sepaku-2-orang-balik-2019 | POV: Kamu Orang Balik di Sepaku, 1970-an sampai 2019 (prioritas 3) | POV | Sejarah | - | - | - |
+| pov-buruh-minyak-sangasanga | POV: Kamu Buruh Minyak di Sangasanga 1947 (prioritas 5) | POV | Sejarah | - | - | - |
+| pov-kuli-deli-rhemrev | POV: Kamu Kuli Kontrak di Kebun Tembakau Deli (prioritas 6) | POV | Sejarah | - | - | - |
+| pov-awak-benares-tambora | POV: Kamu Awak Kapal Inggris saat Tambora Meletus 1815 | POV | Sejarah | - | - | - |
+| pov-awak-jung-pati-unus | POV: Kamu Awak Jung Pati Unus di Malaka 1513 | POV | Sejarah | - | - | - |
+| pov-awak-macan-tutul-laut-aru | POV: Kamu Awak Kapal Macan Tutul di Laut Aru | POV | Sejarah | - | - | - |
+| pov-awak-teripang-marege | POV: Kamu Awak Perahu Teripang di Marege' 1803 | POV | Sejarah | - | - | - |
+| pov-frederick-de-houtman-aceh | POV: Kamu Tawanan Sultan Aceh Tahun 1599 | POV | Sejarah | - | - | - |
+| pov-imam-bonjol-pineleng | POV: Kamu Tuanku Imam Bonjol di Pembuangan Minahasa | POV | Sejarah | - | - | - |
+| pov-karaeng-pattingalloang | POV: Kamu Karaeng Pattingalloang di Makassar 1644 | POV | Sejarah | - | - | - |
+| pov-mas-marco-digoel | POV: Kamu Mas Marco, Dibuang ke Boven Digoel | POV | Sejarah | - | - | - |
+| pov-monginsidi-makassar | POV: Kamu Wolter Monginsidi di Makassar 1947 | POV | Sejarah | - | - | - |
+| pov-orang-rantai-ombilin | POV: Kamu Orang Rantai di Tambang Ombilin | POV | Sejarah | - | - | - |
+| pov-pemuda-lembak-thomas-parr | POV: Kamu Pemuda Lembak di Bencoolen 1807 | POV | Sejarah | - | - | - |
+| pov-pemukul-kentongan-gagatan | POV: Kamu Pemukul Kentongan Gagatan | POV | Sejarah, Legenda | - | - | - |
+| pov-pencetak-ori-kendalpayak | POV: Kamu Pengepak Uang ORI di Malang, 1946 | POV | Sejarah | - | - | - |
+| pov-pendayung-hongi-hoamoal | POV: Kamu Pendayung Hongi di Hoamoal 1654 | POV | Sejarah | - | - | - |
+| pov-pendayung-nuku-tidore | POV: Kamu Pendayung Armada Nuku di Tidore 1797 | POV | Sejarah | - | - | - |
+| pov-penggali-gomati-tarumanagara | POV: Kamu Penggali Sungai Gomati di Negeri Taruma | POV | Sejarah | - | - | - |
+| pov-pengikut-pakpak-sisingamangaraja | POV: Kamu Pengikut Pakpak Sisingamangaraja XII | POV | Sejarah | - | - | - |
+| pov-pengikut-syekh-yusuf-tanjung-harapan | POV: Kamu Murid Syekh Yusuf di Tanjung Harapan | POV | Sejarah | - | - | - |
+| pov-pigafetta-tidore | POV: Kamu Pigafetta, Juru Catat Magellan di Tidore | POV | Sejarah | - | - | - |
+| pov-pong-tiku-toraja | POV: Kamu Pong Tiku di Pegunungan Toraja | POV | Sejarah | - | - | - |
+| pov-prajurit-knil-merah-putih-manado | POV: Kamu Prajurit KNIL di Manado 1946 | POV | Sejarah | - | - | - |
+| pov-prajurit-mataram-hollandia | POV: Kamu Prajurit Mataram di Benteng Hollandia | POV | Sejarah | - | - | - |
+| pov-prajurit-pamalayu | POV: Kamu Prajurit Singhasari di Dharmasraya | POV | Sejarah | - | - | - |
+| pov-prajurit-portugis-gamlamo | POV: Kamu Prajurit Portugis di Benteng Ternate | POV | Sejarah | - | - | - |
+| pov-prajurit-sabu-penfui | POV: Kamu Prajurit Sabu di Pertempuran Penfui 1749 | POV | Sejarah | - | - | - |
+| pov-ratu-kalinyamat | POV: Kamu Ratu Kalinyamat di Jepara 1574 | POV | Sejarah | - | - | - |
+| pov-tjipto-pes-malang | POV: Kamu Dokter Pribumi di Wabah Pes Malang | POV | Sejarah | - | - | - |
+| pov-wallace-ternate | POV: Kamu Alfred Russel Wallace di Ternate 1858 | POV | Sejarah | - | - | - |
+
+## Aset
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-roehana-koeddoes | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 (prioritas 4) | POV | Sejarah | - | - | - |
+
+## Rakit & render
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-penebang-tebu-gerhana-1983 | POV: Kamu Penebang Tebu di Gerhana Total 1983 (prioritas 1) | POV | Sejarah | - | - | - |
 
 ## Tayang
 

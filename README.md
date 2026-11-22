@@ -30,7 +30,7 @@ npm install        # sekali per device (Node 20+)
 npm run katalog    # membuka http://127.0.0.1:4174
 ```
 
-Papan produksi, katalog konsep, halaman konsep (naskah, lembar karakter, audio, Ulikan dan caption, verifikasi, aset, render), dan pustaka. Katalog membaca KONSEP.md lewat `paket/urai-konsep`, mengambil berkas dari `$ASET_DIR` dan folder proyek lama (`arsip_lama`), dan memuat ulang sendiri saat berkas berubah. Yang ditulis katalog hanya `tahap`, `prioritas`, dan `catatan` di `proyek.yaml` (lalu `STATUS.md` dibuat ulang bila Python tersedia) serta `status` kartu pustaka. Commit tetap manual.
+Papan produksi, katalog konsep, halaman konsep (naskah, lembar karakter, audio, Ulikan dan caption, verifikasi, aset, render), pustaka, alat, dan identitas merek. Katalog membaca KONSEP.md lewat `paket/urai-konsep`, mengambil berkas dari `$ASET_DIR` dan folder proyek lama (`arsip_lama`), dan memuat ulang sendiri saat berkas berubah. Yang ditulis katalog sendiri hanya `tahap`, `prioritas`, `catatan`, dan `sampul` di `proyek.yaml` (lalu `STATUS.md` dibuat ulang bila Python tersedia) serta `status` kartu pustaka. Halaman **Alat** menjalankan skrip repo yang terdaftar di `aplikasi/katalog/server/alat.mjs` (periksa aset, potong narasi, peta, panen dan salin pustaka, impor metrik, impor ide, validasi konsep, STATUS.md); skrip yang menulis berkas punya tombol Pratinjau terpisah. Commit tetap manual.
 
 `npm run urai -- --semua` memeriksa semua KONSEP.md dengan pengurai yang sama.
 
@@ -54,6 +54,7 @@ Tombol Render, Render sampul, dan Buka di Remotion Studio juga ada di tab Render
 | Perintah | Fungsi |
 | --- | --- |
 | `python3 scripts/impor-lama.py <folder-pov>` | Menyalin KONSEP.md dan konsep.json dari proyek lama ke `proyek/`, dan membuat `proyek.yaml` bila belum ada. Folder lama tidak diubah |
+| `python3 scripts/impor-ide.py <folder-ide> [--prioritas a,b] [--tulis]` | Memasukkan KONSEP.md yang belum diproduksi ke `proyek/<slug>/` dengan tahap Naskah terverifikasi (proyek yang sudah ada dilewati). Tanpa `--tulis` hanya menampilkan rencana. Ide baru tanpa konsep cukup dibuatkan `proyek.yaml` dengan tahap Bank ide |
 | `python3 scripts/panen-pustaka.py <slug> --tulis` | Membuat kartu draf pustaka (tokoh, musik, SFX) dari KONSEP.md proyek |
 | `python3 scripts/salin-pustaka.py --tulis` | Menyalin berkas pustaka dari proyek asal ke `$ASET_DIR/pustaka/` |
 | `python3 scripts/buat-status.py` | Membuat ulang `STATUS.md` dari semua `proyek.yaml` |
