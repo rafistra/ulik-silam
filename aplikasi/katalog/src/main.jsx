@@ -6,6 +6,7 @@ import Papan from './halaman/Papan.jsx';
 import Katalog from './halaman/Katalog.jsx';
 import Konsep from './halaman/Konsep.jsx';
 import Pustaka from './halaman/Pustaka.jsx';
+import Identitas from './halaman/Identitas.jsx';
 
 function rute() {
   const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
@@ -25,7 +26,7 @@ function App() {
     return () => window.removeEventListener('hashchange', f);
   }, []);
   useEffect(() => {
-    const judul = { papan: 'Papan produksi', katalog: 'Katalog konsep', pustaka: 'Pustaka aset', konsep: 'Konsep' }[r.hal] || 'Katalog';
+    const judul = { papan: 'Papan produksi', katalog: 'Katalog konsep', pustaka: 'Pustaka aset', konsep: 'Konsep', identitas: 'Identitas merek' }[r.hal] || 'Katalog';
     document.title = `${judul} · Ulik Silam`;
   }, [r.hal]);
 
@@ -38,6 +39,7 @@ function App() {
   if (r.hal === 'katalog') isi = <Katalog cari={cari} />;
   else if (r.hal === 'konsep') isi = <Konsep slug={r.sisa[0]} tab={r.sisa[1] || 'ringkasan'} />;
   else if (r.hal === 'pustaka') isi = <Pustaka cari={cari} jenisAwal={r.sisa[0]} />;
+  else if (r.hal === 'identitas') isi = <Identitas />;
   else isi = <Papan />;
 
   return (

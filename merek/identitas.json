@@ -1,0 +1,127 @@
+{
+  "_catatan": "Teks identitas Ulik Silam untuk katalog dan skill. Sumber: sistem desain Ulik Silam (project/README.md) dan keputusan Rafi sesudahnya. Token visual ada di tokens.json; logo di logo/.",
+  "nama": "Ulik Silam",
+  "tagline": "Masa lalu, dari matamu.",
+  "handle": "ulik.silam",
+  "akun": [
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@ulik.silam"
+    },
+    {
+      "platform": "YouTube Shorts",
+      "url": null
+    }
+  ],
+  "filosofi": "Ulik Silam adalah akun video POV 9:16 (TikTok dan YouTube Shorts) yang mengajak penonton mengulik masa lalu Nusantara dari dalam: sejarah, legenda, mitos, dan fiksi sejarah. Metafora intinya adalah pelita di kegelapan masa silam. Masa lalu itu gelap; Ulik Silam membawa satu nyala kecil ke dalamnya, dan penonton hanya melihat apa yang diterangi cahaya di sekitar dirinya.",
+  "arahVisual": "Pelita & Bayang: latar arang yang gelap, satu aksen amber pelita, cahaya hangat dari sumber kecil.",
+  "logo": {
+    "tanda": "Mata Nyala: lidah api yang menyapu turun menjadi kelopak atas sebuah mata horizontal. Cahaya sekaligus sudut pandang: penonton melihat masa lalu dari dalam nyala.",
+    "wordmark": "\"Ulik Silam\" dalam Cormorant Garamond 600 yang sudah diubah jadi kurva, dengan titik kedua huruf i berupa nyala kecil amber. Jangan diset ulang dengan font.",
+    "aturan": [
+      "Di latar gelap pakai tanda pelita dan wordmark krem; di latar krem pakai tanda dan wordmark arang; tanda lontar untuk watermark tenang.",
+      "Lockup horizontal: tanda di kiri, wordmark di kanan, tinggi huruf wordmark ± 0,8 × tinggi tanda. Lockup bertumpuk: wordmark di bawah tanda.",
+      "Ruang kosong minimal selebar iris tanda di sekeliling logo.",
+      "Jangan memutar, meregangkan, atau memberi garis tepi, bayangan jatuh, atau gradasi; satu-satunya efek adalah pendar cahaya.",
+      "Di ukuran kecil (foto profil), pakai tanda saja tanpa tulisan."
+    ],
+    "berkas": [
+      {
+        "berkas": "mata-nyala.svg",
+        "nama": "Tanda pelita",
+        "latar": "gelap",
+        "asal": "sistem desain"
+      },
+      {
+        "berkas": "mata-nyala-arang.svg",
+        "nama": "Tanda arang",
+        "latar": "terang",
+        "asal": "turunan warna dari tanda pelita"
+      },
+      {
+        "berkas": "mata-nyala-lontar.svg",
+        "nama": "Tanda lontar (watermark)",
+        "latar": "gelap",
+        "asal": "turunan warna dari tanda pelita"
+      },
+      {
+        "berkas": "wordmark-krem.svg",
+        "nama": "Wordmark krem",
+        "latar": "gelap",
+        "asal": "sistem desain"
+      },
+      {
+        "berkas": "wordmark-arang.svg",
+        "nama": "Wordmark arang",
+        "latar": "terang",
+        "asal": "turunan warna dari wordmark krem"
+      }
+    ]
+  },
+  "suara": [
+    "Sapa penonton dengan \"kamu\" dan tempatkan mereka sebagai tokoh. Jangan \"kalian\", jangan \"Anda\".",
+    "Bercerita, bukan menceramahi: biarkan penonton merasakan adegan dulu, konteks belakangan.",
+    "Kalimat pendek dan konkret. Nada hangat, sedikit misterius, tidak sensasional.",
+    "Tanpa emoji di dalam video; tanda seru sangat jarang.",
+    "Hormati kepercayaan yang masih hidup: mitos diceritakan dengan takzim, bukan bahan ejekan atau konten seram murahan.",
+    "Tutup setiap video dengan satu fakta atau pertanyaan di kartu Ulikan."
+  ],
+  "lapisan": [
+    {
+      "nama": "Sejarah",
+      "token": "lapis-sejarah",
+      "ikon": "gulungan naskah",
+      "arti": "yang tercatat dan bisa dibuktikan"
+    },
+    {
+      "nama": "Legenda",
+      "token": "lapis-legenda",
+      "ikon": "pohon beringin",
+      "arti": "cerita rakyat yang diwariskan"
+    },
+    {
+      "nama": "Mitos",
+      "token": "lapis-mitos",
+      "ikon": "mata gaib",
+      "arti": "kepercayaan dan alam gaib leluhur"
+    },
+    {
+      "nama": "Rekaan",
+      "token": "lapis-rekaan",
+      "ikon": "pena",
+      "arti": "fiksi sejarah, kemungkinan yang tidak tercatat"
+    }
+  ],
+  "aturanLapisan": "Setiap video membawa satu label lapisan, atau dua bila kisahnya memadukan dua lapisan (lapisan utama di depan). Label Rekaan wajib tampil jelas sejak detik pertama dan tidak boleh disembunyikan atau dikecilkan: fiksi sejarah paling mudah disangka fakta.",
+  "aturanTetap": [
+    {
+      "aturan": "Gaya ilustrasi detailed vector art (Gemini), rasio 9:16; setiap prompt diakhiri baris penutup dari KONSEP.md.",
+      "sejak": null
+    },
+    {
+      "aturan": "Motif batik parang tidak dipakai di ilustrasi; batik lain boleh bila sesuai riset.",
+      "sejak": null
+    },
+    {
+      "aturan": "Tanpa pembuka nyala dan desis api: video langsung dibuka dengan adegan 1.",
+      "sejak": "Oktober 2026"
+    },
+    {
+      "aturan": "Label lapisan Rekaan tidak boleh disembunyikan atau dikecilkan.",
+      "sejak": null
+    },
+    {
+      "aturan": "Kartu Ulikan 3,5 detik selalu ada di akhir video, tanpa kalimat penutup tetap dari narator.",
+      "sejak": null
+    }
+  ],
+  "bedaDenganSistemDesain": [
+    "README sistem desain masih menyebut pembuka ± 1,5 detik dan desis api; keduanya tidak dipakai lagi sejak Oktober 2026."
+  ],
+  "sistemDesain": {
+    "url": "https://claude.ai/artifact/VAzJGVmAGbxEvFpyD7jt6W",
+    "versiTerakhirDicek": "1795300724-5a65",
+    "dicek": "2026-11-22",
+    "catatan": "tokens.json sama; beda hanya di teks README (masih menyebut pembuka nyala dan desis api)."
+  }
+}

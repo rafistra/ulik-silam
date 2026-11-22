@@ -159,6 +159,7 @@ export default function katalogPlugin() {
           }
           if (p === '/api/proyek' && req.method === 'GET') return kirimJson(res, 200, data.daftarProyek());
           if (p === '/api/pustaka' && req.method === 'GET') return kirimJson(res, 200, data.pustaka());
+          if (p === '/api/merek' && req.method === 'GET') return kirimJson(res, 200, data.merek());
 
           if (p === '/api/render' && req.method === 'GET') return kirimJson(res, 200, [...tugas.values()]);
           let m = p.match(/^\/api\/proyek\/([a-z0-9-]+)\/(video|render|studio)$/);

@@ -427,15 +427,21 @@ function Audio({ data }) {
           </h2>
           {s.arahanBabak?.[n] && <p className="redup kecil">Arahan: {s.arahanBabak[n]}</p>}
           {data.aset.babak[n] ? <audio controls preload="none" src={data.aset.babak[n]} /> : <p className="status-kurang kecil">Rekaman babak belum ada</p>}
-          {k.narasiLengkap?.[n] && (
-            <details>
-              <summary>Teks ElevenLabs</summary>
-              <pre className="prompt">{k.narasiLengkap[n]}</pre>
-              <div style={{ marginTop: 8 }}>
-                <Salin teks={k.narasiLengkap[n]} label="Salin teks babak" />
-              </div>
-            </details>
-          )}
+          {(() => {
+            // Satu paragraf per adegan, diakhiri "..." agar jeda antar-adegan bisa dideteksi saat memotong.
+            const teks = k.narasiLengkap?.[n] || k.adegan.filter((a) => String(a.babak) === String(n)).map((a) => (/(\.\.\.|…)$/.test(a.narasiSuara) ? a.narasiSuara : a.narasiSuara.replace(/\.$/, '') + '...')).join('\n\n');
+            return (
+              <details>
+                <summary>
+                  Teks ElevenLabs · {teks.length.toLocaleString('id-ID')} karakter{teks.length > 3000 ? ' · lebih dari 3.000, bagi dua di batas adegan (babak-' + n + '-a dan -b)' : ''}
+                </summary>
+                <pre className="prompt">{teks}</pre>
+                <div style={{ marginTop: 8 }}>
+                  <Salin teks={teks} label="Salin teks babak" />
+                </div>
+              </details>
+            );
+          })()}
         </div>
       ))}
       <div className="blok">

@@ -111,6 +111,7 @@ export function Kepala({ aktif, cari, onCari }) {
         {link('#/papan', 'Papan', 'papan')}
         {link('#/katalog', 'Katalog', 'katalog')}
         {link('#/pustaka', 'Pustaka', 'pustaka')}
+        {link('#/identitas', 'Identitas', 'identitas')}
       </nav>
       <div style={{ flex: '1 1 40px' }} />
       <form

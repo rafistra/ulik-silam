@@ -274,6 +274,26 @@ export function detailProyek(slug) {
   };
 }
 
+// ---------- identitas merek ----------
+export function merek() {
+  const dir = path.join(AKAR, 'merek');
+  const baca = (f, json = true) => {
+    const p = path.join(dir, f);
+    if (!fs.existsSync(p)) return null;
+    const t = fs.readFileSync(p, 'utf8');
+    return json ? JSON.parse(t) : t;
+  };
+  const versi = Object.fromEntries(
+    (baca('VERSION', false) || '')
+      .split(/\r?\n/)
+      .map((b) => b.match(/^([\w-]+):\s*(.+)$/))
+      .filter(Boolean)
+      .map((m) => [m[1], m[2].trim()]),
+  );
+  const logo = daftar(path.join(dir, 'logo'), /\.svg$/i).map((f) => ({ berkas: f, url: `/media/merek/logo/${encodeURIComponent(f)}` }));
+  return { tokens: baca('tokens.json'), identitas: baca('identitas.json'), versi, logo };
+}
+
 // ---------- media ----------
 /** Petakan URL /media/... ke path berkas, atau null bila tidak sah. */
 export function pathMedia(urlPath) {
@@ -292,5 +312,5 @@ export function pathMedia(urlPath) {
 
 /** Folder yang dipantau untuk pembaruan langsung. */
 export function folderPantau() {
-  return [path.join(AKAR, 'proyek'), path.join(AKAR, 'pustaka'), asetDir()].filter((d) => fs.existsSync(d));
+  return [path.join(AKAR, 'proyek'), path.join(AKAR, 'pustaka'), path.join(AKAR, 'merek'), asetDir()].filter((d) => fs.existsSync(d));
 }

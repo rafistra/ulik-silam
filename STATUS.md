@@ -11,8 +11,8 @@ Diperbarui: 2026-11-22 · 42 proyek
 | Naskah terverifikasi | 0 | - |
 | Aset | 0 | 0 / 2 |
 | Rakit & render | 0 | 0 / 2 |
-| Tayang | 42 | - |
-| Evaluasi | 0 | - |
+| Tayang | 41 | - |
+| Evaluasi | 1 | - |
 
 ## Tayang
 
@@ -20,7 +20,6 @@ Diperbarui: 2026-11-22 · 42 proyek
 | --- | --- | --- | --- | --- | --- | --- |
 | narasi-perpindahan-kayan-miau-baru-part-1 | Seberat Langit dan Bumi (Part 1) (judul kerja) | Narasi | Sejarah | 2026-11-21 | - | - |
 | narasi-perpindahan-kayan-miau-baru-part-2 | Miau Baru (Part 2) | Narasi | Sejarah | 2026-11-21 | - | - |
-| pov-doa-kramat-tunggak | POV: Kamu di Malam Terakhir Kramat Tunggak | POV | Rekaan, Sejarah | 2026-11-20 | 5.550 | 1.240 |
 | pov-gowok-banyumas | POV: Kamu Seorang Gowok di Banyumas | POV | Sejarah | 2026-11-20 | 6.004 | 0 |
 | pov-kuntilanak-pontianak | POV: Kamu Mendengar Kuntilanak di Balik Nama Pontianak | POV | Legenda, Sejarah | 2026-11-19 | 581 | 1.374 |
 | pov-ibnu-battutah-pasai | POV: Kamu Ibnu Battutah di Samudera Pasai | POV | Sejarah | 2026-11-17 | 676 | 1.513 |
@@ -60,3 +59,9 @@ Diperbarui: 2026-11-22 · 42 proyek
 | pov-jan-oherne | POV: Kamu Jan O'Herne di Kamp Ambarawa | POV | Sejarah | 2026-10-18 | 1.018 | 393 |
 | pov-mandor-romusha | POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943 | POV | Sejarah | 2026-10-18 | 961 | 445 |
 | pov-bangsawan-jawa | POV: Kamu Bangsawan Jawa di Abad ke-19 | POV | Sejarah | 2026-10-17 | 1.003 | 374 |
+
+## Evaluasi
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-doa-kramat-tunggak | POV: Kamu di Malam Terakhir Kramat Tunggak | POV | Rekaan, Sejarah | 2026-11-20 | 5.550 | 1.240 |
