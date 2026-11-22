@@ -1,0 +1,21 @@
+{
+  "id": "klakson-bus-dan-debu-jalan",
+  "jenis": "sfx",
+  "judul": "Klakson bus dan debu jalan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-04-klakson-bus-dan-debu-jalan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-04-klakson-bus-dan-debu-jalan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

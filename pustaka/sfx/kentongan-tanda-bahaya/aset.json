@@ -1,0 +1,21 @@
+{
+  "id": "kentongan-tanda-bahaya",
+  "jenis": "sfx",
+  "judul": "Kentongan tanda bahaya",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-03-kentongan-tanda-bahaya.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-03-kentongan-tanda-bahaya.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

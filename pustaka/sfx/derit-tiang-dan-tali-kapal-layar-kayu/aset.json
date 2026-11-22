@@ -1,0 +1,21 @@
+{
+  "id": "derit-tiang-dan-tali-kapal-layar-kayu",
+  "jenis": "sfx",
+  "judul": "Derit tiang dan tali kapal layar kayu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-10-derit-tiang-dan-tali-kapal-layar-kayu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-10-derit-tiang-dan-tali-kapal-layar-kayu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

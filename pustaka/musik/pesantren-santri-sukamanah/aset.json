@@ -1,0 +1,22 @@
+{
+  "id": "pesantren-santri-sukamanah",
+  "jenis": "musik",
+  "judul": "Pesantren (Khusyuk dan hangat, perlahan menegang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "cue-1-pesantren.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/musik/cue-1-pesantren.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

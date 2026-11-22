@@ -1,0 +1,22 @@
+{
+  "id": "sandiwara-francois-tack",
+  "jenis": "musik",
+  "judul": "Sandiwara (Perkusi mendesak, lalu runtuh ke sunyi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "file": [
+    "cue-3-sandiwara.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-francois-tack",
+      "berkas": "public/musik/cue-3-sandiwara.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ]
+}

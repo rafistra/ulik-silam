@@ -1,0 +1,51 @@
+{
+  "id": "rumphius-ambon",
+  "jenis": "tokoh",
+  "judul": "Rumphius",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ambon, masa VOC",
+  "tokoh": [
+    "Rumphius"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Potret dan wajah",
+      "pilihan": "Wajah panjang, mata keruh, rambut sebahu",
+      "sumber": "Satu-satunya potret dibuat putranya (sekitar 1696) dan diukir untuk frontispiece D'Amboinsche Rariteitkamer (1705); Roots.sg (https://www.roots.gov.sg/Collection-Landing/listing/1420746). Detail wajah perlu dicocokkan dengan ukiran itu",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Mata keruh",
+      "pilihan": "Milky grey clouded eyes",
+      "sumber": "Glaukoma sejak 1670 (Wikipedia)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Benda di tangan",
+      "pilihan": "Daun, kerang, ranting",
+      "sumber": "Ukiran memperlihatkan ia memegang spesimen tumbuhan dan kerang di meja (Roots.sg)",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Pakaian (topi kain, kemeja linen, mantel rumah, celana selutut)",
+      "pilihan": "Busana pedagang Belanda akhir abad ke-17, dilonggarkan untuk iklim tropis",
+      "sumber": "Pengetahuan umum busana Belanda 1670–1700; belum dicocokkan dengan ukiran",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wig bubuk, topi tricorn",
+      "pilihan": "Dihindari",
+      "sumber": "Mode abad ke-18 di Eropa; anakronistis untuk Ambon 1670–1702",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-rumphius-naturalis-buta"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-rumphius-naturalis-buta\\ilustrasi\\0_rumphius.jpg"
+}

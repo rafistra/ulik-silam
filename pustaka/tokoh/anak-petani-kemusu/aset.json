@@ -1,0 +1,33 @@
+{
+  "id": "anak-petani-kemusu",
+  "jenis": "tokoh",
+  "judul": "Anak Petani",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kemusu, Boyolali",
+  "tokoh": [
+    "Anak Petani"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Blus katun merah muda, rok biru tua, jepit rambut plastik merah",
+      "sumber": "Pakaian anak desa sehari-hari",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Seragam SD",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Seragam putih-merah sudah nasional sejak SK Dirjen Dikdasmen No. 52, 17 Maret 1982 (Hipwee (https://www.hipwee.com/feature/seragam-sekolah-di-indonesia-mulai-dari-sejarah-hingga-arti-warna-masing-masing-tingkatannya/)), tetapi adegannya di luar jam sekolah; dihindari agar lembar karakter konsisten",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-petani-kedung-ombo"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-petani-kedung-ombo\\ilustrasi\\0_anakpetani.jpg"
+}

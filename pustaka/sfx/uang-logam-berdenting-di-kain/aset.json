@@ -1,0 +1,21 @@
+{
+  "id": "uang-logam-berdenting-di-kain",
+  "jenis": "sfx",
+  "judul": "Uang logam berdenting di kain",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-03-uang-logam-berdenting-di-kain.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-03-uang-logam-berdenting-di-kain.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

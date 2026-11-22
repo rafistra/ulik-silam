@@ -1,0 +1,22 @@
+{
+  "id": "ketakutan-dan-dentuman-kuntilanak-pontianak",
+  "jenis": "musik",
+  "judul": "Ketakutan dan dentuman (Detak berat, memuncak di dentuman, lalu nyaris hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "cue-2-ketakutan-dan-dentuman.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/musik/cue-2-ketakutan-dan-dentuman.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

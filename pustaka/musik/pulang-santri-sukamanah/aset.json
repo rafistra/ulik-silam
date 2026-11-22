@@ -1,0 +1,22 @@
+{
+  "id": "pulang-santri-sukamanah",
+  "jenis": "musik",
+  "judul": "Pulang (Sunyi, haru, menutup tenang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "cue-3-pulang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/musik/cue-3-pulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

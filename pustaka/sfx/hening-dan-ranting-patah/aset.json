@@ -1,0 +1,21 @@
+{
+  "id": "hening-dan-ranting-patah",
+  "jenis": "sfx",
+  "judul": "Hening dan ranting patah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "file": [
+    "sfx-05-hening-dan-ranting-patah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-homo-soloensis-ngandong",
+      "berkas": "public/sfx/sfx-05-hening-dan-ranting-patah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ]
+}

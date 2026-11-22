@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-malam-raja-ali-haji-penyengat",
+  "jenis": "sfx",
+  "judul": "Jangkrik malam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "sfx-06-jangkrik-malam.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/sfx/sfx-06-jangkrik-malam.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

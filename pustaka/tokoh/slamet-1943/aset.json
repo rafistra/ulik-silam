@@ -1,0 +1,18 @@
+{
+  "id": "slamet-1943",
+  "jenis": "tokoh",
+  "judul": "Slamet",
+  "versi": 1,
+  "status": "draf",
+  "era": "1943",
+  "wilayah": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "tokoh": [
+    "Slamet"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-mandor-romusha"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

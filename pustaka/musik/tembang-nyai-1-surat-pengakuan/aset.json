@@ -1,0 +1,22 @@
+{
+  "id": "tembang-nyai-1-surat-pengakuan",
+  "jenis": "musik",
+  "judul": "Tembang (Lembut, intim, sedikit sedih)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-2-tembang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-1-surat-pengakuan",
+      "berkas": "public/musik/cue-2-tembang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan"
+  ]
+}

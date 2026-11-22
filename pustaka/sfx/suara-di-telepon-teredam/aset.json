@@ -1,0 +1,21 @@
+{
+  "id": "suara-di-telepon-teredam",
+  "jenis": "sfx",
+  "judul": "Suara di telepon teredam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-02-suara-di-telepon-teredam.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-02-suara-di-telepon-teredam.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "angin-laut-di-atas-tembok",
+  "jenis": "sfx",
+  "judul": "Angin laut di atas tembok",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-05-angin-laut-di-atas-tembok.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-05-angin-laut-di-atas-tembok.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

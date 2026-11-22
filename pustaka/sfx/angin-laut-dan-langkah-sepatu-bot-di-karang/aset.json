@@ -1,0 +1,21 @@
+{
+  "id": "angin-laut-dan-langkah-sepatu-bot-di-karang",
+  "jenis": "sfx",
+  "judul": "Angin laut dan langkah sepatu bot di karang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-01-angin-laut-dan-langkah-sepatu-bot-di-karang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-01-angin-laut-dan-langkah-sepatu-bot-di-karang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

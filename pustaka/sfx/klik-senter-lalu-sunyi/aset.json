@@ -1,0 +1,21 @@
+{
+  "id": "klik-senter-lalu-sunyi",
+  "jenis": "sfx",
+  "judul": "Klik senter, lalu sunyi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-13-klik-senter-lalu-sunyi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-13-klik-senter-lalu-sunyi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nada-sambung-telepon",
+  "jenis": "sfx",
+  "judul": "Nada sambung telepon",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "sfx-08-nada-sambung-telepon.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/sfx/sfx-08-nada-sambung-telepon.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

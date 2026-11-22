@@ -1,0 +1,22 @@
+{
+  "id": "surabaya-sue-ktut-tantri-surabaya",
+  "jenis": "musik",
+  "judul": "Surabaya Sue (Malam yang waspada, getir, ketegangan menjelang ultimatum)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-2-surabaya-sue.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/musik/cue-2-surabaya-sue.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

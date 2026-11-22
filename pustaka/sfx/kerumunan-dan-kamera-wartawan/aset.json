@@ -1,0 +1,21 @@
+{
+  "id": "kerumunan-dan-kamera-wartawan",
+  "jenis": "sfx",
+  "judul": "Kerumunan dan kamera wartawan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-05-kerumunan-dan-kamera-wartawan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-05-kerumunan-dan-kamera-wartawan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mahasiswa-1998",
+  "jenis": "tokoh",
+  "judul": "Mahasiswa",
+  "versi": 1,
+  "status": "draf",
+  "era": "1998",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "tokoh": [
+    "Mahasiswa"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana",
+      "pilihan": "Kemeja flanel kotak terbuka di atas kaos putih, jins, sandal karet, ransel kanvas, jam digital murah",
+      "sumber": "Foto demonstran 1998 memakai kaos dan jins (The Jakarta Post); detail lain gambaran umum mahasiswa akhir 1990-an",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

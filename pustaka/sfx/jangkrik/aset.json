@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik",
+  "jenis": "sfx",
+  "judul": "Jangkrik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "sfx-16-jangkrik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/sfx/sfx-16-jangkrik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

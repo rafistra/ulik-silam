@@ -1,0 +1,18 @@
+{
+  "id": "kamu-1740",
+  "jenis": "tokoh",
+  "judul": "Kamu",
+  "versi": 1,
+  "status": "draf",
+  "era": "1740",
+  "wilayah": "Batavia, masa VOC",
+  "tokoh": [
+    "Kamu"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-buruh-gula-geger-pacinan"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

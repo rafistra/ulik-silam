@@ -1,0 +1,22 @@
+{
+  "id": "senja-dan-tawa-kuntilanak-pontianak",
+  "jenis": "musik",
+  "judul": "Senja dan tawa (Sunyi yang mengancam, mengencang saat tawa muncul)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "cue-1-senja-dan-tawa.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/musik/cue-1-senja-dan-tawa.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

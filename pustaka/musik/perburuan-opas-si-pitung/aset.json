@@ -1,0 +1,22 @@
+{
+  "id": "perburuan-opas-si-pitung",
+  "jenis": "musik",
+  "judul": "Perburuan (Gambang kromong lirih, curiga, makin gelisah)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-1-perburuan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/musik/cue-1-perburuan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

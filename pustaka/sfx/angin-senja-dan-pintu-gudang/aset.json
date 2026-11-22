@@ -1,0 +1,21 @@
+{
+  "id": "angin-senja-dan-pintu-gudang",
+  "jenis": "sfx",
+  "judul": "Angin senja dan pintu gudang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-13-angin-senja-dan-pintu-gudang.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-13-angin-senja-dan-pintu-gudang.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

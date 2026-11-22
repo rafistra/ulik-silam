@@ -1,0 +1,22 @@
+{
+  "id": "bengkel-pemuda-bertato-petrus",
+  "jenis": "musik",
+  "judul": "Bengkel (Akrab dan sederhana, lalu dingin dan waswas)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "cue-1-bengkel.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/musik/cue-1-bengkel.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

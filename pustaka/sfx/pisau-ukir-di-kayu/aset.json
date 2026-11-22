@@ -1,0 +1,21 @@
+{
+  "id": "pisau-ukir-di-kayu",
+  "jenis": "sfx",
+  "judul": "Pisau ukir di kayu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-08-pisau-ukir-di-kayu.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-08-pisau-ukir-di-kayu.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

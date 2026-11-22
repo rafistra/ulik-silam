@@ -1,0 +1,40 @@
+{
+  "id": "kh-zainal-mustafa-1943",
+  "jenis": "tokoh",
+  "judul": "KH Zainal Mustafa",
+  "versi": 1,
+  "status": "draf",
+  "era": "1943",
+  "wilayah": "Sukamanah, Singaparna",
+  "tokoh": [
+    "KH Zainal Mustafa"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Wajah muda, tanpa kumis dan janggut (keputusan Rafi, v3)",
+      "sumber": "Lukisan potret yang diberikan Rafi; lukisan, bukan foto sezaman, pelukis dan tahunnya belum diketahui",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Sorban putih melilit kepala, baju oker tanpa kerah berlis kuning keemasan, sarung kotak",
+      "sumber": "Sorban dan baju dari lukisan potret yang diberikan Rafi; sarung tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Peci hitam dan jubah ala Timur Tengah",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Lukisan potret menunjukkan sorban, bukan peci; jubah tidak bersumber",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-santri-sukamanah\\ilustrasi\\Santri Sukamanah\\KHZainalMustafa_4f4a02d7.jpg"
+}

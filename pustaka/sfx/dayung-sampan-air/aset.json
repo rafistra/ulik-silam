@@ -1,0 +1,21 @@
+{
+  "id": "dayung-sampan-air",
+  "jenis": "sfx",
+  "judul": "Dayung sampan, air",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "sfx-05-dayung-sampan-air.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/sfx/sfx-05-dayung-sampan-air.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

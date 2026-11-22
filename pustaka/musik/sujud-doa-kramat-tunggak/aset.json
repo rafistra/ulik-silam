@@ -1,0 +1,22 @@
+{
+  "id": "sujud-doa-kramat-tunggak",
+  "jenis": "musik",
+  "judul": "Sujud (Hening, lalu haru dan terang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "cue-3-sujud.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/musik/cue-3-sujud.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

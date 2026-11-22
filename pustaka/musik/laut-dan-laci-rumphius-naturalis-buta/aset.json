@@ -1,0 +1,22 @@
+{
+  "id": "laut-dan-laci-rumphius-naturalis-buta",
+  "jenis": "musik",
+  "judul": "Laut dan Laci (Harap yang tenggelam, getir, lalu reflektif di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ambon, masa VOC",
+  "file": [
+    "cue-3-laut-dan-laci.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-rumphius-naturalis-buta",
+      "berkas": "public/musik/cue-3-laut-dan-laci.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-rumphius-naturalis-buta"
+  ]
+}

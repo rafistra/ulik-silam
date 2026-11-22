@@ -1,0 +1,21 @@
+{
+  "id": "bus-melaju-di-jalan-basah-kaca-bergetar",
+  "jenis": "sfx",
+  "judul": "Bus melaju di jalan basah, kaca bergetar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-03-bus-melaju-di-jalan-basah-kaca-bergetar.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-03-bus-melaju-di-jalan-basah-kaca-bergetar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

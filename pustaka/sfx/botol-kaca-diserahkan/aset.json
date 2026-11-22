@@ -1,0 +1,21 @@
+{
+  "id": "botol-kaca-diserahkan",
+  "jenis": "sfx",
+  "judul": "Botol kaca diserahkan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-04-botol-kaca-diserahkan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-04-botol-kaca-diserahkan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

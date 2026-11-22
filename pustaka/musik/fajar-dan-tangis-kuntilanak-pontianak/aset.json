@@ -1,0 +1,22 @@
+{
+  "id": "fajar-dan-tangis-kuntilanak-pontianak",
+  "jenis": "musik",
+  "judul": "Fajar dan tangis (Tenang yang dingin, makin sepi dan menghantui)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "cue-3-fajar-dan-tangis.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/musik/cue-3-fajar-dan-tangis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

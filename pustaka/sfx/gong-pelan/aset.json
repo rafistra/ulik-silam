@@ -1,0 +1,21 @@
+{
+  "id": "gong-pelan",
+  "jenis": "sfx",
+  "judul": "Gong pelan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "sfx-01-gong-pelan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/sfx/sfx-01-gong-pelan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rumah-yang-menunggu-ibu-korban-1998-2",
+  "jenis": "musik",
+  "judul": "Rumah yang menunggu (Sunyi, rindu, lalu ironi pahit)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "cue-1-rumah-yang-menunggu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/musik/cue-1-rumah-yang-menunggu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kawan-gondrong-1998",
+  "jenis": "tokoh",
+  "judul": "Kawan Gondrong",
+  "versi": 1,
+  "status": "draf",
+  "era": "1998",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "tokoh": [
+    "Kawan Gondrong"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana",
+      "pilihan": "Jaket lapangan hijau bekas tentara tanpa lambang, kaos hitam polos, kacamata bulat",
+      "sumber": "Gambaran umum aktivis 1990-an",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "letusan-senapan-lontak-dari-kejauhan-dan",
+  "jenis": "sfx",
+  "judul": "Letusan senapan lontak dari kejauhan dan teriakan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-04-letusan-senapan-lontak-dari-kejauhan-dan-teriakan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-04-letusan-senapan-lontak-dari-kejauhan-dan-teriakan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

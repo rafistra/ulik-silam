@@ -1,0 +1,21 @@
+{
+  "id": "jeritan-perempuan-sangat-samar-di-kejauhan",
+  "jenis": "sfx",
+  "judul": "Jeritan perempuan sangat samar di kejauhan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-11-jeritan-perempuan-sangat-samar-di-kejauhan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-11-jeritan-perempuan-sangat-samar-di-kejauhan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

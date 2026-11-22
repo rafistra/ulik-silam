@@ -1,0 +1,21 @@
+{
+  "id": "ayam-berkokok-di-pagi-desa",
+  "jenis": "sfx",
+  "judul": "Ayam berkokok di pagi desa",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-02-ayam-berkokok-di-pagi-desa.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-02-ayam-berkokok-di-pagi-desa.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pelita-raja-bertakhta-terlama",
+  "jenis": "musik",
+  "judul": "Pelita (Gelap, kontemplatif, gamelan tipis)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "file": [
+    "cue-1-pelita.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "raja-bertakhta-terlama-nusantara",
+      "berkas": "public/musik/cue-1-pelita.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "raja-bertakhta-terlama-nusantara"
+  ]
+}

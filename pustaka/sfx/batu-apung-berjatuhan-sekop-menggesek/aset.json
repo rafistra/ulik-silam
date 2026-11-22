@@ -1,0 +1,21 @@
+{
+  "id": "batu-apung-berjatuhan-sekop-menggesek",
+  "jenis": "sfx",
+  "judul": "Batu apung berjatuhan, sekop menggesek",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "sfx-08-batu-apung-berjatuhan-sekop-menggesek.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/sfx/sfx-08-batu-apung-berjatuhan-sekop-menggesek.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

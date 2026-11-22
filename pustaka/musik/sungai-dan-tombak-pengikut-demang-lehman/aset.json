@@ -1,0 +1,22 @@
+{
+  "id": "sungai-dan-tombak-pengikut-demang-lehman",
+  "jenis": "musik",
+  "judul": "Sungai dan Tombak (Petikan lute Banjar yang tenang di sungai, lalu derap gelisah menuju benteng)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "cue-1-sungai-dan-tombak.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/musik/cue-1-sungai-dan-tombak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

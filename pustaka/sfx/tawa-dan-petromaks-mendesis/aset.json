@@ -1,0 +1,21 @@
+{
+  "id": "tawa-dan-petromaks-mendesis",
+  "jenis": "sfx",
+  "judul": "Tawa dan petromaks mendesis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-09-tawa-dan-petromaks-mendesis.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-09-tawa-dan-petromaks-mendesis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

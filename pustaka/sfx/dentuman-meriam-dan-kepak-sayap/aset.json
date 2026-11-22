@@ -1,0 +1,21 @@
+{
+  "id": "dentuman-meriam-dan-kepak-sayap",
+  "jenis": "sfx",
+  "judul": "Dentuman meriam dan kepak sayap",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-06-dentuman-meriam-dan-kepak-sayap.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-06-dentuman-meriam-dan-kepak-sayap.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

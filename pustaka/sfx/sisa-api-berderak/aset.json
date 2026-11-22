@@ -1,0 +1,21 @@
+{
+  "id": "sisa-api-berderak",
+  "jenis": "sfx",
+  "judul": "Sisa api berderak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "sfx-10-sisa-api-berderak.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/sfx/sfx-10-sisa-api-berderak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

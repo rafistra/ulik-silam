@@ -1,0 +1,22 @@
+{
+  "id": "pelita-raja-ali-haji-penyengat",
+  "jenis": "musik",
+  "judul": "Pelita (Khidmat, intim, malam pulau)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "cue-1-pelita.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/musik/cue-1-pelita.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

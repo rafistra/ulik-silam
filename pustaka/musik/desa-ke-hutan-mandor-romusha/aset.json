@@ -1,0 +1,22 @@
+{
+  "id": "desa-ke-hutan-mandor-romusha",
+  "jenis": "musik",
+  "judul": "Desa ke hutan (Hangat dan rapuh, lalu tegang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "file": [
+    "cue-1-desa-ke-hutan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mandor-romusha",
+      "berkas": "public/musik/cue-1-desa-ke-hutan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mandor-romusha"
+  ]
+}

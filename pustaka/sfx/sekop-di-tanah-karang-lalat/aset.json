@@ -1,0 +1,21 @@
+{
+  "id": "sekop-di-tanah-karang-lalat",
+  "jenis": "sfx",
+  "judul": "Sekop di tanah karang, lalat",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-08-sekop-di-tanah-karang-lalat.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-08-sekop-di-tanah-karang-lalat.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

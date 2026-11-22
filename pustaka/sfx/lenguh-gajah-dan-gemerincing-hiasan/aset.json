@@ -1,0 +1,21 @@
+{
+  "id": "lenguh-gajah-dan-gemerincing-hiasan",
+  "jenis": "sfx",
+  "judul": "Lenguh gajah dan gemerincing hiasan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-10-lenguh-gajah-dan-gemerincing-hiasan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-10-lenguh-gajah-dan-gemerincing-hiasan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

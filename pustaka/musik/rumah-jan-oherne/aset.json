@@ -1,0 +1,22 @@
+{
+  "id": "rumah-jan-oherne",
+  "jenis": "musik",
+  "judul": "Rumah (Gelap, menekan, nyaris hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ambarawa dan Semarang",
+  "file": [
+    "cue-2-rumah.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-jan-oherne",
+      "berkas": "public/musik/cue-2-rumah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-jan-oherne"
+  ]
+}

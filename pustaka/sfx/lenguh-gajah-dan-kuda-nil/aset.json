@@ -1,0 +1,21 @@
+{
+  "id": "lenguh-gajah-dan-kuda-nil",
+  "jenis": "sfx",
+  "judul": "Lenguh gajah dan kuda nil",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "file": [
+    "sfx-02-lenguh-gajah-dan-kuda-nil.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-homo-soloensis-ngandong",
+      "berkas": "public/sfx/sfx-02-lenguh-gajah-dan-kuda-nil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ]
+}

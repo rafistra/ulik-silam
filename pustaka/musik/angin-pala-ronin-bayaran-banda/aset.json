@@ -1,0 +1,22 @@
+{
+  "id": "angin-pala-ronin-bayaran-banda",
+  "jenis": "musik",
+  "judul": "Angin pala (Laut senja yang getir, lalu pendakian tegang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "file": [
+    "cue-1-angin-pala.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ronin-bayaran-banda",
+      "berkas": "public/musik/cue-1-angin-pala.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ]
+}

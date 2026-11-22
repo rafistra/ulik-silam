@@ -1,0 +1,22 @@
+{
+  "id": "dua-pakaian-sultan-ibnu-battutah-pasai",
+  "jenis": "musik",
+  "judul": "Dua pakaian sultan (Khidmat dan hangat, lalu megah dan bersukacita)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "cue-2-dua-pakaian-sultan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/musik/cue-2-dua-pakaian-sultan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "roda-koper-di-jalan-berbatu",
+  "jenis": "sfx",
+  "judul": "Roda koper di jalan berbatu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-11-roda-koper-di-jalan-berbatu.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-11-roda-koper-di-jalan-berbatu.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

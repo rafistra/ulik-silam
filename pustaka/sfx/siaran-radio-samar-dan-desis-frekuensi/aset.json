@@ -1,0 +1,21 @@
+{
+  "id": "siaran-radio-samar-dan-desis-frekuensi",
+  "jenis": "sfx",
+  "judul": "Siaran radio samar dan desis frekuensi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-07-siaran-radio-samar-dan-desis-frekuensi.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-07-siaran-radio-samar-dan-desis-frekuensi.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "huruf-demi-huruf-qusyairi-martapura",
+  "jenis": "musik",
+  "judul": "Huruf demi huruf (Ringan, ingin tahu)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "cue-2-huruf-demi-huruf.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/musik/cue-2-huruf-demi-huruf.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

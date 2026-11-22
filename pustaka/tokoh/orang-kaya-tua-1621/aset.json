@@ -1,0 +1,34 @@
+{
+  "id": "orang-kaya-tua-1621",
+  "jenis": "tokoh",
+  "judul": "Orang Kaya Tua",
+  "versi": 1,
+  "status": "draf",
+  "era": "1621",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "tokoh": [
+    "Orang Kaya Tua"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Ikat kepala putih, baju longgar, sarung katun dagang India kotak-kotak",
+      "sumber": "Banda terhubung jaringan dagang Muslim sejak abad ke-16 (Lape, Arkeologi Banda); kain India sebagai alat tukar pala adalah tafsir umum perdagangan Maluku",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Batik, kebaya, peci",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Unsur \"tradisional\" populer yang belum tentu ada di Banda 1621",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ronin-bayaran-banda\\ilustrasi\\POV Ronin Bayaran Banda - Adegan\\OrangKayaTua_3b007823.jpg"
+}

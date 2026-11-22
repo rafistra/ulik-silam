@@ -1,0 +1,21 @@
+{
+  "id": "azan-sayup-di-kejauhan",
+  "jenis": "sfx",
+  "judul": "Azan sayup di kejauhan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-10-azan-sayup-di-kejauhan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-10-azan-sayup-di-kejauhan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

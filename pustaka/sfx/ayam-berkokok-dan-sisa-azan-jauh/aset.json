@@ -1,0 +1,21 @@
+{
+  "id": "ayam-berkokok-dan-sisa-azan-jauh",
+  "jenis": "sfx",
+  "judul": "Ayam berkokok dan sisa azan jauh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-01-ayam-berkokok-dan-sisa-azan-jauh.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-01-ayam-berkokok-dan-sisa-azan-jauh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "soegondo-1928",
+  "jenis": "tokoh",
+  "judul": "Soegondo",
+  "versi": 1,
+  "status": "draf",
+  "era": "1928",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Soegondo"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Usia",
+      "pilihan": "Early twenties",
+      "sumber": "Lahir 22 Februari 1904 menurut detikJatim (Soegondo) (https://www.detik.com/jatim/berita/d-7608821/soegondo-djojopuspito-pemuda-asal-tuban-yang-pimpin-sumpah-pemuda/amp), 22 Februari 1905 menurut Wikipedia (Soegondo) (https://en.wikipedia.org/wiki/Soegondo_Djojopoespito)",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Wajah",
+      "pilihan": "Broad face, square jaw, no glasses",
+      "sumber": "Deskripsi fotonya tidak ditemukan",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "White jas tutup with brass buttons, black velvet peci, dark trousers, black shoes",
+      "sumber": "Jas tutup dipakai pelajar bumiputra sejak awal abad ke-20, dan pelajar STOVIA memakai celana panjang dengan jas putih (Tirto (Pakaian) (https://tirto.id/pakaian-dan-gaya-hidup-revolusioner-di-zaman-hindia-belanda-cAaU)); peci sejak 1921 (sumber di atas)",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda",
+    "pov-yamin-kongres-pemuda"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-yamin-kongres-pemuda\\ilustrasi\\char\\Soegondo_20261021204738.jpg"
+}

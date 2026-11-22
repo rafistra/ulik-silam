@@ -1,0 +1,21 @@
+{
+  "id": "satu-letusan-jauh-burung-terbang",
+  "jenis": "sfx",
+  "judul": "Satu letusan jauh, burung terbang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-04-satu-letusan-jauh-burung-terbang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-04-satu-letusan-jauh-burung-terbang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

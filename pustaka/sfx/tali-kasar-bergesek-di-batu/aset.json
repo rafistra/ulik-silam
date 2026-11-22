@@ -1,0 +1,21 @@
+{
+  "id": "tali-kasar-bergesek-di-batu",
+  "jenis": "sfx",
+  "judul": "Tali kasar bergesek di batu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-02-tali-kasar-bergesek-di-batu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-02-tali-kasar-bergesek-di-batu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gamelan-pesta-dari-kejauhan",
+  "jenis": "sfx",
+  "judul": "Gamelan pesta dari kejauhan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-10-gamelan-pesta-dari-kejauhan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-10-gamelan-pesta-dari-kejauhan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

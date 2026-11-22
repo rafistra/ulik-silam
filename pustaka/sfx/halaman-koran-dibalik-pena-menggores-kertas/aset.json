@@ -1,0 +1,21 @@
+{
+  "id": "halaman-koran-dibalik-pena-menggores-kertas",
+  "jenis": "sfx",
+  "judul": "Halaman koran dibalik, pena menggores kertas",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-02-halaman-koran-dibalik-pena-menggores-kertas.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-02-halaman-koran-dibalik-pena-menggores-kertas.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

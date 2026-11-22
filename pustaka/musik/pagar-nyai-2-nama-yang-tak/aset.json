@@ -1,0 +1,22 @@
+{
+  "id": "pagar-nyai-2-nama-yang-tak",
+  "jenis": "musik",
+  "judul": "Pagar (Sepi, getir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-3-pagar.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-2-nama-yang-tak-tercatat",
+      "berkas": "public/musik/cue-3-pagar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kaki-telanjang-berlari-di-pasir-napas-terengah",
+  "jenis": "sfx",
+  "judul": "Kaki telanjang berlari di pasir, napas terengah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-03-kaki-telanjang-berlari-di-pasir-napas-terengah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-03-kaki-telanjang-berlari-di-pasir-napas-terengah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

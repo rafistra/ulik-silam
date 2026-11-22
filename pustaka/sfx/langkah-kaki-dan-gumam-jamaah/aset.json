@@ -1,0 +1,21 @@
+{
+  "id": "langkah-kaki-dan-gumam-jamaah",
+  "jenis": "sfx",
+  "judul": "Langkah kaki dan gumam jamaah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-08-langkah-kaki-dan-gumam-jamaah.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-08-langkah-kaki-dan-gumam-jamaah.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

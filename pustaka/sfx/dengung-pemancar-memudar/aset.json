@@ -1,0 +1,21 @@
+{
+  "id": "dengung-pemancar-memudar",
+  "jenis": "sfx",
+  "judul": "Dengung pemancar memudar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-12-dengung-pemancar-memudar.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-12-dengung-pemancar-memudar.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

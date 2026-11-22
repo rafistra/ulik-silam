@@ -1,0 +1,18 @@
+{
+  "id": "wayan-1906",
+  "jenis": "tokoh",
+  "judul": "Wayan",
+  "versi": 1,
+  "status": "draf",
+  "era": "1906",
+  "wilayah": "Puri Denpasar, Badung",
+  "tokoh": [
+    "Wayan"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-puputan-badung"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

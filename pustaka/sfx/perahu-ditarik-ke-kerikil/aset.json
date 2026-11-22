@@ -1,0 +1,21 @@
+{
+  "id": "perahu-ditarik-ke-kerikil",
+  "jenis": "sfx",
+  "judul": "Perahu ditarik ke kerikil",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-06-perahu-ditarik-ke-kerikil.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-06-perahu-ditarik-ke-kerikil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

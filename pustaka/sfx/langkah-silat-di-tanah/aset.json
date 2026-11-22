@@ -1,0 +1,21 @@
+{
+  "id": "langkah-silat-di-tanah",
+  "jenis": "sfx",
+  "judul": "Langkah silat di tanah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "sfx-06-langkah-silat-di-tanah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/sfx/sfx-06-langkah-silat-di-tanah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

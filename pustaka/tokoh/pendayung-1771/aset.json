@@ -1,0 +1,28 @@
+{
+  "id": "pendayung-1771",
+  "jenis": "tokoh",
+  "judul": "Pendayung",
+  "versi": 1,
+  "status": "draf",
+  "era": "1771",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "tokoh": [
+    "Pendayung"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Gelang rotan di pergelangan kanan",
+      "pilihan": "Penanda tetap tangan \"kamu\" di bidikan A",
+      "sumber": "Tidak bersumber; dipakai demi konsistensi",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kuntilanak-pontianak\\ilustrasi\\pendayung.jpg"
+}

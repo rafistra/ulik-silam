@@ -1,0 +1,22 @@
+{
+  "id": "tembang-yang-putus-nyai-2-nama-yang-tak",
+  "jenis": "musik",
+  "judul": "Tembang yang putus (Canggung, lalu berduka)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-1-tembang-yang-putus.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-2-nama-yang-tak-tercatat",
+      "berkas": "public/musik/cue-1-tembang-yang-putus.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ]
+}

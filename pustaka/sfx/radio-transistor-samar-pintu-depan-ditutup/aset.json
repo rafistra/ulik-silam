@@ -1,0 +1,21 @@
+{
+  "id": "radio-transistor-samar-pintu-depan-ditutup",
+  "jenis": "sfx",
+  "judul": "Radio transistor samar, pintu depan ditutup",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-02-radio-transistor-samar-pintu-depan-ditutup.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-02-radio-transistor-samar-pintu-depan-ditutup.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

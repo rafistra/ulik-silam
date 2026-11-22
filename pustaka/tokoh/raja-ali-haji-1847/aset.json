@@ -1,0 +1,70 @@
+{
+  "id": "raja-ali-haji-1847",
+  "jenis": "tokoh",
+  "judul": "Raja Ali Haji",
+  "versi": 1,
+  "status": "draf",
+  "era": "1847",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "tokoh": [
+    "Raja Ali Haji"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Panjang dan sempit, pipi cekung, kelopak mata berat dengan tatapan ke bawah, pipi dan rahang licin, kumis sangat tipis, dan hanya jumbai janggut kecil pendek di ujung dagu (v5, mengikuti foto dan versi warnanya); dimudakan ke usia 38 dengan jumbai hitam",
+      "sumber": "Foto studio yang beredar sebagai Raja Ali Haji (dikirim Rafi, 2026-11-17); wajah dan sorbannya sama dengan perangko Indonesia 2019 \"Raja Ali Haji\" (Wikimedia Commons, `File:Raja Ali Haji 2019 stamp of Indonesia.jpg`, gambar dilihat). Pemotret, tahun, dan keaslian foto tidak diketahui. Sebelum v4 wajahnya rekaan",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Serban putih besar, dililit tinggi dan membulat",
+      "sumber": "Foto studio yang beredar sebagai Raja Ali Haji (dikirim Rafi, 2026-11-17); wajah dan sorbannya sama dengan perangko Indonesia 2019 \"Raja Ali Haji\" (Wikimedia Commons, `File:Raja Ali Haji 2019 stamp of Indonesia.jpg`, gambar dilihat). Pemotret, tahun, dan keaslian foto tidak diketahui. Serban juga penanda haji pada foto Hindia Belanda (ACM 2020-00579; KITLV 90589)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Baju",
+      "pilihan": "Jubah luar panjang sampai mata kaki, katun polos cokelat tua hangat, dipakai terbuka di depan seperti mantel tanpa kancing, kerah melipat di sisi leher; di dalamnya baju krem atau cokelat muda dengan lajur kancing berhias pucat di dada (tanpa emas), ikat pinggang kain cokelat muda, lalu kain putih panjang dari pinggang sampai lutut di atas celana putih (potongan diperbaiki di v6 dan v7; warna cokelat mengikuti versi berwarna cokelat yang dikirim Rafi, bukan versi emas)",
+      "sumber": "Foto studio yang beredar sebagai Raja Ali Haji (dikirim Rafi, 2026-11-17); wajah dan sorbannya sama dengan perangko Indonesia 2019 \"Raja Ali Haji\" (Wikimedia Commons, `File:Raja Ali Haji 2019 stamp of Indonesia.jpg`, gambar dilihat). Pemotret, tahun, dan keaslian foto tidak diketahui. Jubah di foto tampak berkilau; ditulis katun polos tanpa sutra karena larangan emas dan sutra YDM Raja Ali 1845–1857 (Matheson; Wikipedia EN Riau-Lingga), dan foto kemungkinan dibuat di usia tuanya. Warna jubah ditafsir dari foto hitam-putih/sepia",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kain pinggang kotak dan keris",
+      "pilihan": "Dibuang di v4",
+      "sumber": "Tidak tampak di foto yang beredar; dimasukkan ke kalimat Avoid lembar karakter agar generator tidak menambahkannya",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Tasbih",
+      "pilihan": "Untaian tasbih kayu gelap panjang di leher, menjuntai sampai pinggang",
+      "sumber": "Foto studio yang beredar sebagai Raja Ali Haji (dikirim Rafi, 2026-11-17); wajah dan sorbannya sama dengan perangko Indonesia 2019 \"Raja Ali Haji\" (Wikimedia Commons, `File:Raja Ali Haji 2019 stamp of Indonesia.jpg`, gambar dilihat). Pemotret, tahun, dan keaslian foto tidak diketahui",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Cincin akik merah, noda tinta",
+      "pilihan": "Penanda kontinuitas tangan bidikan A",
+      "sumber": "Pilihan produksi untuk konsistensi (tangan tidak tampak jelas di foto); cincin perak (bukan emas) sesuai larangan emas YDM Raja Ali (Matheson)",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Ihram (adegan 4)",
+      "pilihan": "Dua helai kain putih tak berjahit, bahu kanan terbuka",
+      "sumber": "Ketentuan ihram pria; foto hajji Pontianak di Makkah c. 1890 (KITLV 90589) sebagai rujukan suasana",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kemeja cekak musang berkerah tinggi, songkok beludru hitam",
+      "pilihan": "Dihindari di semua prompt 1828–1872",
+      "sumber": "Cekak musang dari masa Abu Bakar (1862+); kata \"songkok\" baru tercatat 1840 dan bentuknya dipengaruhi fez abad ke-19 (Wikipedia EN Songkok). Songkok beludru memang tampak di Singapura c. 1870 (NMS 1991-00829), tetapi tidak ada sumber untuk ulama haji di Penyengat 1847, jadi tetap dihindari agar generator tidak memakai busana Melayu modern",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-raja-ali-haji-penyengat\\ilustrasi\\raja ali.jpg"
+}

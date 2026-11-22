@@ -1,0 +1,28 @@
+{
+  "id": "pak-harun-1999",
+  "jenis": "tokoh",
+  "judul": "Pak Harun",
+  "versi": 1,
+  "status": "draf",
+  "era": "1999",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "tokoh": [
+    "Pak Harun"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kemeja batik lengan pendek bermotif bunga pesisir",
+      "pilihan": "Busana lelaki paruh baya Jakarta akhir 1990-an",
+      "sumber": "Tidak ditemukan sumber khusus",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-doa-kramat-tunggak\\ilustrasi\\harun.jpg"
+}

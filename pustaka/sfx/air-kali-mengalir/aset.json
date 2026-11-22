@@ -1,0 +1,21 @@
+{
+  "id": "air-kali-mengalir",
+  "jenis": "sfx",
+  "judul": "Air kali mengalir",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-11-air-kali-mengalir.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-11-air-kali-mengalir.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

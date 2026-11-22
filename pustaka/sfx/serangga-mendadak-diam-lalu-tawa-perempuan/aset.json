@@ -1,0 +1,21 @@
+{
+  "id": "serangga-mendadak-diam-lalu-tawa-perempuan",
+  "jenis": "sfx",
+  "judul": "Serangga mendadak diam, lalu tawa perempuan melengking dari kejauhan (sulit; cadangan: senar tinggi di cue 1)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-02-serangga-mendadak-diam-lalu-tawa-perempuan-melengking-dari-kejauhan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-02-serangga-mendadak-diam-lalu-tawa-perempuan-melengking-dari-kejauhan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

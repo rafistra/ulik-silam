@@ -1,0 +1,22 @@
+{
+  "id": "jejak-bata-pengikut-demang-lehman",
+  "jenis": "musik",
+  "judul": "Jejak Bata (Reflektif dan hangat, menutup ke kartu Ulikan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "cue-3-jejak-bata.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/musik/cue-3-jejak-bata.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

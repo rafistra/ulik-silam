@@ -1,0 +1,21 @@
+{
+  "id": "angin-laut-senja-daun-berdesir",
+  "jenis": "sfx",
+  "judul": "Angin laut senja, daun berdesir",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "sfx-02-angin-laut-senja-daun-berdesir.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/sfx/sfx-02-angin-laut-senja-daun-berdesir.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

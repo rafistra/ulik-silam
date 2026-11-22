@@ -1,0 +1,22 @@
+{
+  "id": "panggung-opas-si-pitung",
+  "jenis": "musik",
+  "judul": "Panggung (Gambang kromong lenong yang riang tetapi terdengar jauh dan getir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-3-panggung.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/musik/cue-3-panggung.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

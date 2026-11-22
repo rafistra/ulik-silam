@@ -1,0 +1,21 @@
+{
+  "id": "hening-riak-air-pelan",
+  "jenis": "sfx",
+  "judul": "Hening, riak air pelan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-07-hening-riak-air-pelan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-07-hening-riak-air-pelan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

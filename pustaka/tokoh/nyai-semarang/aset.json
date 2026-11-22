@@ -1,0 +1,70 @@
+{
+  "id": "nyai-semarang",
+  "jenis": "tokoh",
+  "judul": "Nyai",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "tokoh": [
+    "Nyai"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kebaya (Babak 2–4)",
+      "pilihan": "Long-sleeved white cotton kebaya trimmed with European lace",
+      "sumber": "Kebaya pagi perempuan Eropa dan Indo setelah 1870 dari katun putih berenda Eropa (GNFI, mengutip Pattynama (https://www.goodnewsfromindonesia.id/2026/02/28/saat-nyonya-belanda-menanggalkan-gaun-demi-kebaya-kisah-adaptasi-di-tanah-jajahan)); nyai ikut membentuk busana Indis berkebaya putih berenda (Jurnal UIN Jakarta (https://journal.uinjkt.ac.id/sh/article/view/37852/18061))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Panjang kebaya",
+      "pilihan": "Hip-length",
+      "sumber": "Kebaya makin pendek setelah 1870 (tirto (https://tirto.id/sejarah-kebaya-di-masa-kolonial-busana-perempuan-tiga-etnis-eeuK))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Sarung batik",
+      "pilihan": "Indigo and soga coastal batik with small flowers and storks",
+      "sumber": "Batik Semarang abad ke-19 bermotif naturalis flora-fauna, termasuk bangau (UNDIP (https://undip.ac.id/?p=18162)); motif bangau tidak bertanggal pasti",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Rambut",
+      "pilihan": "Low round bun, no ornaments",
+      "sumber": "Perempuan di Hindia menyanggul rambut seperti perempuan setempat (GNFI (https://www.goodnewsfromindonesia.id/2026/02/28/saat-nyonya-belanda-menanggalkan-gaun-demi-kebaya-kisah-adaptasi-di-tanah-jajahan), awal abad ke-20)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Perhiasan",
+      "pilihan": "Three small plain gold brooches, one thin gold bangle",
+      "sumber": "Tidak ditemukan sumber yang bisa dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Busana Babak 1",
+      "pilihan": "Faded striped lurik kebaya, worn brown batik kain, barefoot",
+      "sumber": "Tidak ditemukan sumber yang bisa dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wajah",
+      "pilihan": "Oval face, almond eyes",
+      "sumber": "Tokoh fiktif",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Motif parang",
+      "pilihan": "Avoid parang batik pattern",
+      "sumber": "Motif parang dikaitkan dengan kerabat keraton, bukan busana nyai pesisir (catatan UGM (https://luk.staff.ugm.ac.id/itd/penari/01.html), analisis tidak pasti)",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan",
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\nyai belanda\\0_nyai.jpg"
+}

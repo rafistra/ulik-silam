@@ -1,0 +1,50 @@
+{
+  "id": "romusha-surabaya-1944",
+  "jenis": "tokoh",
+  "judul": "Romusha Surabaya",
+  "versi": 1,
+  "status": "draf",
+  "era": "1944",
+  "wilayah": "Pulau Numfor, Papua",
+  "tokoh": [
+    "Romusha Surabaya"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kebaya",
+      "pilihan": "Kebaya katun polos putih tulang sepanjang pinggul, disemat peniti",
+      "sumber": "Kebaya rakyat biasa sederhana dan polos, dikancingkan dengan peniti biasa (Wikipedia: Kebaya)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kain",
+      "pilihan": "Kain katun cokelat pudar bermotif cap kecil (titik dan bunga kecil)",
+      "sumber": "Batik cap katun lazim untuk kain Jawa (Wikipedia: Kebaya); motif spesifik rekaan",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Motif parang, kebaya brokat/renda, perhiasan emas",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Penanda kalangan bangsawan dan busana modern, tidak cocok untuk rakyat biasa 1943",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Rambut",
+      "pilihan": "Sanggul rendah longgar",
+      "sumber": "Konde lazim pada perempuan Jawa (Wikipedia: Kebaya)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Sabuk karung goni",
+      "pilihan": "Selembar goni sebagai sabuk",
+      "sumber": "Rakyat di masa Jepang memakai pakaian dari karung goni (Republika, Alwi Shahab); untuk Numfor tidak tercatat",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

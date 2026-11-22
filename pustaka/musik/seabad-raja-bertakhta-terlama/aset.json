@@ -1,0 +1,22 @@
+{
+  "id": "seabad-raja-bertakhta-terlama",
+  "jenis": "musik",
+  "judul": "Seabad (Khidmat, reflektif, kacapi dan suling)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "file": [
+    "cue-3-seabad.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "raja-bertakhta-terlama-nusantara",
+      "berkas": "public/musik/cue-3-seabad.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "raja-bertakhta-terlama-nusantara"
+  ]
+}

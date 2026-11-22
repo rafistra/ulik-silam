@@ -1,0 +1,22 @@
+{
+  "id": "fajar-mahasiswa-blangguan",
+  "jenis": "musik",
+  "judul": "Fajar (Napas memburu, tremolo naik, putus mendadak saat senter menyala)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "cue-3-fajar.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/musik/cue-3-fajar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

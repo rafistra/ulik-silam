@@ -1,0 +1,21 @@
+{
+  "id": "tangis-sangat-pelan-dari-seberang-sungai",
+  "jenis": "sfx",
+  "judul": "Tangis sangat pelan dari seberang sungai (sulit; cadangan: drone cue 3)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-10-tangis-sangat-pelan-dari-seberang-sungai.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-10-tangis-sangat-pelan-dari-seberang-sungai.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "salomon-pattiwael-1817",
+  "jenis": "tokoh",
+  "judul": "Salomon Pattiwael",
+  "versi": 1,
+  "status": "draf",
+  "era": "1817",
+  "wilayah": "Saparua, Maluku",
+  "tokoh": [
+    "Salomon Pattiwael"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah, usia",
+      "pilihan": "Laki-laki empat puluhan, kumis pendek",
+      "sumber": "Tidak ada potret",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Busana dan senjata",
+      "pilihan": "Kemeja katun putih, kain cokelat di atas celana, ikat kepala gelap, parang bergagang kayu",
+      "sumber": "Parang khas Maluku: pisau panjang besi tempa bergagang kayu keras (Parang Salawaku - Indonesia Travel (https://www.indonesia.travel/id-id/travel-ideas/culture/parang-salawaku/)); busana tafsir",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-maria-verhagen-saparua\\ilustrasi\\SalomonPattiwael_caa2249a.jpg"
+}

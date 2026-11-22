@@ -1,0 +1,22 @@
+{
+  "id": "miau-baru-perpindahan-kayan-miau-p2",
+  "jenis": "musik",
+  "judul": "Miau Baru (Dari lelah ke lega, lalu hangat dan reflektif sampai kartu Ulikan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Wahau, Kalimantan Timur",
+  "file": [
+    "cue-3-miau-baru.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "narasi-perpindahan-kayan-miau-baru-part-2",
+      "berkas": "public/musik/cue-3-miau-baru.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-2"
+  ]
+}

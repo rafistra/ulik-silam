@@ -1,0 +1,21 @@
+{
+  "id": "obor-dan-langkah-banyak-orang",
+  "jenis": "sfx",
+  "judul": "Obor dan langkah banyak orang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-03-obor-dan-langkah-banyak-orang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-03-obor-dan-langkah-banyak-orang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

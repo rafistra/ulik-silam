@@ -1,0 +1,21 @@
+{
+  "id": "ombak-memecah-di-kaki-tembok-batu-malam",
+  "jenis": "sfx",
+  "judul": "Ombak memecah di kaki tembok batu, malam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-01-ombak-memecah-di-kaki-tembok-batu-malam.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-01-ombak-memecah-di-kaki-tembok-batu-malam.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

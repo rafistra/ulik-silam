@@ -1,0 +1,22 @@
+{
+  "id": "kota-dan-kenangan-soenarti-kariadi",
+  "jenis": "musik",
+  "judul": "Kota dan Kenangan (Kelabu dan genting, lalu reflektif dan hangat)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang",
+  "file": [
+    "cue-3-kota-dan-kenangan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-soenarti-kariadi",
+      "berkas": "public/musik/cue-3-kota-dan-kenangan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-soenarti-kariadi"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "teras-homo-soloensis-ngandong",
+  "jenis": "musik",
+  "judul": "Teras (Tenang, berjarak, lalu sedih dan menggantung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "file": [
+    "cue-3-teras.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-homo-soloensis-ngandong",
+      "berkas": "public/musik/cue-3-teras.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ]
+}

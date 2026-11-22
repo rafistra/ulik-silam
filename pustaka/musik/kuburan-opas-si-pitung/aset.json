@@ -1,0 +1,22 @@
+{
+  "id": "kuburan-opas-si-pitung",
+  "jenis": "musik",
+  "judul": "Kuburan (Perkusi tegang memuncak, lalu runtuh menjadi hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-2-kuburan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/musik/cue-2-kuburan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wak-saleh-1771",
+  "jenis": "tokoh",
+  "judul": "Wak Saleh",
+  "versi": 1,
+  "status": "draf",
+  "era": "1771",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "tokoh": [
+    "Wak Saleh"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Bibir merah sirih",
+      "pilihan": "Bibir merah kecokelatan, kantong sirih di pinggang",
+      "sumber": "Kebiasaan menginang; belum dibuka sumber khusus Kalbar 1771",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kuntilanak-pontianak\\ilustrasi\\waksaleh.jpg"
+}

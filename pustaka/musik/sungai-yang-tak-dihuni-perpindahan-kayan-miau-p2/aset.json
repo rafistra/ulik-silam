@@ -1,0 +1,22 @@
+{
+  "id": "sungai-yang-tak-dihuni-perpindahan-kayan-miau-p2",
+  "jenis": "musik",
+  "judul": "Sungai yang tak dihuni (Sape' tunggal yang menggantung, lalu getir dan tekun)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Wahau, Kalimantan Timur",
+  "file": [
+    "cue-1-sungai-yang-tak-dihuni.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "narasi-perpindahan-kayan-miau-baru-part-2",
+      "berkas": "public/musik/cue-1-sungai-yang-tak-dihuni.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-2"
+  ]
+}

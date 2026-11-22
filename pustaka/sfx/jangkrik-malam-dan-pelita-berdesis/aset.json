@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-malam-dan-pelita-berdesis",
+  "jenis": "sfx",
+  "judul": "Jangkrik malam dan pelita berdesis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-07-jangkrik-malam-dan-pelita-berdesis.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-07-jangkrik-malam-dan-pelita-berdesis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

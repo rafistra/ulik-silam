@@ -1,0 +1,21 @@
+{
+  "id": "gumam-warga-desa-yang-tegang",
+  "jenis": "sfx",
+  "judul": "Gumam warga desa yang tegang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-05-gumam-warga-desa-yang-tegang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-05-gumam-warga-desa-yang-tegang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

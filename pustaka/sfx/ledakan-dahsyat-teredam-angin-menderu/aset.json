@@ -1,0 +1,21 @@
+{
+  "id": "ledakan-dahsyat-teredam-angin-menderu",
+  "jenis": "sfx",
+  "judul": "Ledakan dahsyat teredam, angin menderu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "sfx-09-ledakan-dahsyat-teredam-angin-menderu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/sfx/sfx-09-ledakan-dahsyat-teredam-angin-menderu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hujan-deras-di-atap-seng-dan-kanopi",
+  "jenis": "sfx",
+  "judul": "Hujan deras di atap seng dan kanopi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-10-hujan-deras-di-atap-seng-dan-kanopi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-10-hujan-deras-di-atap-seng-dan-kanopi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

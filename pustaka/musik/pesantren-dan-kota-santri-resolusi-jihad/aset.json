@@ -1,0 +1,22 @@
+{
+  "id": "pesantren-dan-kota-santri-resolusi-jihad",
+  "jenis": "musik",
+  "judul": "Pesantren dan kota (Khidmat lalu gelisah)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-1-pesantren-dan-kota.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-resolusi-jihad",
+      "berkas": "public/musik/cue-1-pesantren-dan-kota.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-resolusi-jihad"
+  ]
+}

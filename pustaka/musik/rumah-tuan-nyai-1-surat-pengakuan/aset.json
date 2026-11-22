@@ -1,0 +1,22 @@
+{
+  "id": "rumah-tuan-nyai-1-surat-pengakuan",
+  "jenis": "musik",
+  "judul": "Rumah tuan (Muram, tegang, berjarak)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-1-rumah-tuan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-1-surat-pengakuan",
+      "berkas": "public/musik/cue-1-rumah-tuan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan"
+  ]
+}

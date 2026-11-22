@@ -1,0 +1,21 @@
+{
+  "id": "bisik-diskusi-dan-halaman-dibalik",
+  "jenis": "sfx",
+  "judul": "Bisik diskusi dan halaman dibalik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "sfx-02-bisik-diskusi-dan-halaman-dibalik.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/sfx/sfx-02-bisik-diskusi-dan-halaman-dibalik.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pulang-pendayung-kenyah-long",
+  "jenis": "musik",
+  "judul": "Pulang (Berat dan menekan, lalu sunyi dan menggantung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "cue-3-pulang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/musik/cue-3-pulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

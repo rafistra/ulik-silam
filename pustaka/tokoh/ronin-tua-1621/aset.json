@@ -1,0 +1,20 @@
+{
+  "id": "ronin-tua-1621",
+  "jenis": "tokoh",
+  "judul": "Ronin Tua",
+  "versi": 1,
+  "status": "draf",
+  "era": "1621",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "tokoh": [
+    "Ronin Tua"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ronin-bayaran-banda\\ilustrasi\\0_ronintua.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pintu-besi-berderit",
+  "jenis": "sfx",
+  "judul": "Pintu besi berderit",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "sfx-09-pintu-besi-berderit.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/sfx/sfx-09-pintu-besi-berderit.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lengan-panjang-pemuda-bertato-petrus",
+  "jenis": "musik",
+  "judul": "Lengan Panjang (Gelisah, menekan, lalu runtuh menjadi duka sunyi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "cue-2-lengan-panjang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/musik/cue-2-lengan-panjang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

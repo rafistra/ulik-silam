@@ -1,0 +1,21 @@
+{
+  "id": "ledakan-meriam-kapal",
+  "jenis": "sfx",
+  "judul": "Ledakan meriam kapal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-10-ledakan-meriam-kapal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-10-ledakan-meriam-kapal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

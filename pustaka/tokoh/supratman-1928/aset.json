@@ -1,0 +1,74 @@
+{
+  "id": "supratman-1928",
+  "jenis": "tokoh",
+  "judul": "Supratman",
+  "versi": 1,
+  "status": "draf",
+  "era": "1928",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Supratman"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kacamata",
+      "pilihan": "Round thin black wire-rimmed glasses",
+      "sumber": "Digambarkan \"lelaki berkacamata\" (Tirto (Mozaik) (https://tirto.id/seniman-pejuang-wr-soepratman-ckne))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Rambut dan wajah",
+      "pilihan": "Thick wavy black hair combed back, clean-shaven, oval face",
+      "sumber": "Foto Supratman usia 25 dari buku Museum Sumpah Pemuda (2016), domain publik ([Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:W._R._Supratman_25,_Wage_Rudolf_Supratman,_Sang_Pencipta_Lagu_Kebangsaan_lndonesia_Raya_(2016),_p26.jpg>)); foto lain di kategori Supratman (https://commons.wikimedia.org/wiki/Category:Wage_Rudolf_Supratman). Hanya sebagian foto yang terlihat saat riset",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Black peci covered in fine dark-striped lurik woven cotton",
+      "sumber": "Disebut \"peci lurik\" saat kongres (Tirto (Mozaik) (https://tirto.id/seniman-pejuang-wr-soepratman-ckne)); peci diangkat Soekarno sebagai simbol kebangsaan sejak 1921 (Tirto (Pakaian) (https://tirto.id/pakaian-dan-gaya-hidup-revolusioner-di-zaman-hindia-belanda-cAaU); GNFI (Gaya Pakaian Eropa) (https://www.goodnewsfromindonesia.id/2022/07/09/gaya-pakaian-eropa-simbol-modernitas-dan-bentuk-perlawanan-kaum-pribumi))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Dark brown lounge jacket, white shirt, dark tie, dark grey trousers, brown leather shoes",
+      "sumber": "Pemuda terpelajar tahun 1910–1920-an beralih ke jas dan celana panjang; tokoh Student Hidjo (1918) berjas, bercelana panjang, dan berdasi (Tirto (Pakaian) (https://tirto.id/pakaian-dan-gaya-hidup-revolusioner-di-zaman-hindia-belanda-cAaU); GNFI (Gaya Pakaian Eropa) (https://www.goodnewsfromindonesia.id/2022/07/09/gaya-pakaian-eropa-simbol-modernitas-dan-bentuk-perlawanan-kaum-pribumi)); warna cokelat dipilih agar beda dari Soegondo",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kemeja batik lengan panjang",
+      "pilihan": "Tidak dipakai; \"batik shirts on men\" masuk kalimat Avoid",
+      "sumber": "Tirto (Mozaik) menyebut \"berkemeja batik\", tetapi kemeja batik lengan panjang baru ditetapkan sebagai busana resmi pria pada 14 Juli 1972, dan sebelumnya busana resmi pria adalah jas Eropa (VOI (https://voi.id/en/memori/74892))",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Biola",
+      "pilihan": "Dark brown glossy 4/4 violin",
+      "sumber": "Biola model Amati buatan pabrik, cokelat tua mengilap, 4/4 (Metro TV (Spesifikasi Biola) (https://www.metrotvnews.com/read/NgxCDXMp-ini-spesifikasi-biola-wr-supratman-saat-kumandangkan-instrumen-indonesia-raya-di-sumpah-pemuda); GNFI (Biola) (https://www.goodnewsfromindonesia.id/2024/10/28/mengenal-biola-wr-soepratman-saksi-bisu-sumpah-pemuda-yang-pernah-ditawar-rp25-miliar))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Kotak biola",
+      "pilihan": "Worn dark brown wooden case with brass clasps",
+      "sumber": "Tidak ditemukan sumbernya",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Tangan",
+      "pilihan": "Long fingers, faint calluses on the left fingertips",
+      "sumber": "Ciri umum pemain biola",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Babak 5 (1938)",
+      "pilihan": "Thinner, loose white cotton shirt sleeve",
+      "sumber": "Wafat karena sakit pada 1938 (detikNews (https://news.detik.com/berita/d-5975366/wage-rudolf-soepratman-profil-dan-kontribusinya-untuk-musik-indonesia)); pakaiannya tidak tercatat",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "suasana-hutan-tropis-siang",
+  "jenis": "sfx",
+  "judul": "Suasana hutan tropis siang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-06-suasana-hutan-tropis-siang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-06-suasana-hutan-tropis-siang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ronin-1621",
+  "jenis": "tokoh",
+  "judul": "Ronin",
+  "versi": 1,
+  "status": "draf",
+  "era": "1621",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "tokoh": [
+    "Ronin"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Baju zirah lengkap, kimono sutra cerah",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Tidak cocok untuk tentara bayaran kontrak",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ronin-bayaran-banda\\ilustrasi\\POV Ronin Bayaran Banda - Adegan\\Ronin_79f26245.jpg"
+}

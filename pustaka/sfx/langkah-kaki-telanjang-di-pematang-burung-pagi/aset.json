@@ -1,0 +1,21 @@
+{
+  "id": "langkah-kaki-telanjang-di-pematang-burung-pagi",
+  "jenis": "sfx",
+  "judul": "Langkah kaki telanjang di pematang, burung pagi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-02-langkah-kaki-telanjang-di-pematang-burung-pagi.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-02-langkah-kaki-telanjang-di-pematang-burung-pagi.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

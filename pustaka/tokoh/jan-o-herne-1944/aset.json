@@ -1,0 +1,18 @@
+{
+  "id": "jan-o-herne-1944",
+  "jenis": "tokoh",
+  "judul": "Jan O'Herne",
+  "versi": 1,
+  "status": "draf",
+  "era": "1944",
+  "wilayah": "Ambarawa dan Semarang",
+  "tokoh": [
+    "Jan O'Herne"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-jan-oherne"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

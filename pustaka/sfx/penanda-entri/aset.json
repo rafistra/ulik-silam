@@ -1,0 +1,21 @@
+{
+  "id": "penanda-entri",
+  "jenis": "sfx",
+  "judul": "Penanda entri: satu pukulan gong kecil, diputar di awal adegan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "file": [
+    "sfx-02-penanda-entri.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "raja-bertakhta-terlama-nusantara",
+      "berkas": "public/sfx/sfx-02-penanda-entri.wav"
+    }
+  ],
+  "dipakai_di": [
+    "raja-bertakhta-terlama-nusantara"
+  ]
+}

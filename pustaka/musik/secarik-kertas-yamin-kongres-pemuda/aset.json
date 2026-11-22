@@ -1,0 +1,22 @@
+{
+  "id": "secarik-kertas-yamin-kongres-pemuda",
+  "jenis": "musik",
+  "judul": "Secarik kertas (Sunyi dan intim, ketegangan kecil)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia",
+  "file": [
+    "cue-2-secarik-kertas.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-yamin-kongres-pemuda",
+      "berkas": "public/musik/cue-2-secarik-kertas.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-yamin-kongres-pemuda"
+  ]
+}

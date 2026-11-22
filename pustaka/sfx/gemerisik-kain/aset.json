@@ -1,0 +1,21 @@
+{
+  "id": "gemerisik-kain",
+  "jenis": "sfx",
+  "judul": "Gemerisik kain",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "sfx-04-gemerisik-kain.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/sfx/sfx-04-gemerisik-kain.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

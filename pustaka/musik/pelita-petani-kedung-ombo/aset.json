@@ -1,0 +1,22 @@
+{
+  "id": "pelita-petani-kedung-ombo",
+  "jenis": "musik",
+  "judul": "Pelita (Harapan kecil yang pahit, menutup tenang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kemusu, Boyolali",
+  "file": [
+    "cue-3-pelita.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-petani-kedung-ombo",
+      "berkas": "public/musik/cue-3-pelita.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-petani-kedung-ombo"
+  ]
+}

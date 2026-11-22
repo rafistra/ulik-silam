@@ -1,0 +1,21 @@
+{
+  "id": "kecipak-dayung-dan-serangga-senja",
+  "jenis": "sfx",
+  "judul": "Kecipak dayung dan serangga senja",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-01-kecipak-dayung-dan-serangga-senja.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-01-kecipak-dayung-dan-serangga-senja.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

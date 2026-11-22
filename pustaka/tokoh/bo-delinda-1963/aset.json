@@ -1,0 +1,20 @@
+{
+  "id": "bo-delinda-1963",
+  "jenis": "tokoh",
+  "judul": "Bo' Delinda'",
+  "versi": 1,
+  "status": "draf",
+  "era": "1963",
+  "wilayah": "Apau Kayan, Kalimantan Timur",
+  "tokoh": [
+    "Bo' Delinda'"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-1"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\1-produksi\\narasi-perpindahan-dayak-kayan\\part1\\ilustrasi\\Gemini_Generated_Image_aaqc6laaqc6laaqc.jpg. Catatan: daun telinga di gambar memanjang, padahal prompt menulis tidak memanjang."
+}

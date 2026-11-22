@@ -1,0 +1,21 @@
+{
+  "id": "tembakan-revolver-beruntun-lalu-sunyi",
+  "jenis": "sfx",
+  "judul": "Tembakan revolver beruntun, lalu sunyi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-06-tembakan-revolver-beruntun-lalu-sunyi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-06-tembakan-revolver-beruntun-lalu-sunyi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

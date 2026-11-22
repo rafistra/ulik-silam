@@ -1,0 +1,21 @@
+{
+  "id": "dayung-masuk-air-tangga-tali-berderit",
+  "jenis": "sfx",
+  "judul": "Dayung masuk air, tangga tali berderit",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "sfx-11-dayung-masuk-air-tangga-tali-berderit.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/sfx/sfx-11-dayung-masuk-air-tangga-tali-berderit.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

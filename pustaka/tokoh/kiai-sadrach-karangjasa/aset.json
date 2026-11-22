@@ -1,0 +1,39 @@
+{
+  "id": "kiai-sadrach-karangjasa",
+  "jenis": "tokoh",
+  "judul": "Kiai Sadrach",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "tokoh": [
+    "Kiai Sadrach"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Lonjong, tulang pipi menonjol, mata sipit, bibir tipis, telinga besar, tanpa kumis, jenggot runcing di dagu saja",
+      "sumber": "Lukisan potret Sadrach bertanda tangan pelukis (dibawa Rafi, v3); foto 1885 dan foto pendopo belum bisa dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Busana",
+      "pilihan": "Iket batik merah bata-krem bergaya blangkon, baju hitam polos berkerah tertutup, jarik batik, tanpa perhiasan",
+      "sumber": "Busana ibadah jemaat: sarung, batik, surjan, blangkon (CRCS UGM); \"pakaiannya tetap orang Jawa\" (Klikwarta)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Motif jarik",
+      "pilihan": "Pola geometris kecil bertitik, soga dan nila",
+      "sumber": "Motif parang lazim dibatasi untuk bangsawan keraton",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kiai-sadrach\\ilustrasi\\sadrach.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "perjalanan-ilmu-raja-ali-haji-penyengat",
+  "jenis": "musik",
+  "judul": "Perjalanan ilmu (Takjub lalu berwibawa, sedikit tegang di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "cue-2-perjalanan-ilmu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/musik/cue-2-perjalanan-ilmu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

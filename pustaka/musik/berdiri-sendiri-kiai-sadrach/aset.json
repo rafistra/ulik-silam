@@ -1,0 +1,22 @@
+{
+  "id": "berdiri-sendiri-kiai-sadrach",
+  "jenis": "musik",
+  "judul": "Berdiri sendiri (Reflektif, satu nada yang menggantung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "cue-3-berdiri-sendiri.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/musik/cue-3-berdiri-sendiri.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

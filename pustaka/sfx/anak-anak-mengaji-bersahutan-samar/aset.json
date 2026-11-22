@@ -1,0 +1,21 @@
+{
+  "id": "anak-anak-mengaji-bersahutan-samar",
+  "jenis": "sfx",
+  "judul": "Anak-anak mengaji bersahutan, samar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-06-anak-anak-mengaji-bersahutan-samar.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-06-anak-anak-mengaji-bersahutan-samar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

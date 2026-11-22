@@ -1,0 +1,21 @@
+{
+  "id": "gong-penutup",
+  "jenis": "sfx",
+  "judul": "Gong penutup",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "sfx-17-gong-penutup.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/sfx/sfx-17-gong-penutup.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

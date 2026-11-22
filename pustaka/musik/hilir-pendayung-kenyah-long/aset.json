@@ -1,0 +1,22 @@
+{
+  "id": "hilir-pendayung-kenyah-long",
+  "jenis": "musik",
+  "judul": "Hilir (Sejuk dan tegang, lalu bertenaga dan berbahaya)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "cue-1-hilir.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/musik/cue-1-hilir.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

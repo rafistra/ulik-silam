@@ -1,0 +1,21 @@
+{
+  "id": "rana-kamera-tua",
+  "jenis": "sfx",
+  "judul": "Rana kamera tua",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-12-rana-kamera-tua.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-12-rana-kamera-tua.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

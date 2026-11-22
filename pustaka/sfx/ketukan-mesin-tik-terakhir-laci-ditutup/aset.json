@@ -1,0 +1,21 @@
+{
+  "id": "ketukan-mesin-tik-terakhir-laci-ditutup",
+  "jenis": "sfx",
+  "judul": "Ketukan mesin tik terakhir, laci ditutup",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-15-ketukan-mesin-tik-terakhir-laci-ditutup.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-15-ketukan-mesin-tik-terakhir-laci-ditutup.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

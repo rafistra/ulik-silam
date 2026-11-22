@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-dengkur-pelan-air",
+  "jenis": "sfx",
+  "judul": "Jangkrik, dengkur pelan, air",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-09-jangkrik-dengkur-pelan-air.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-09-jangkrik-dengkur-pelan-air.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "qusyairi-1949",
+  "jenis": "tokoh",
+  "judul": "Qusyairi",
+  "versi": 1,
+  "status": "draf",
+  "era": "1949",
+  "wilayah": "Martapura",
+  "tokoh": [
+    "Qusyairi"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Bocah bulat lembut, sebisa mungkin tidak tampak",
+      "sumber": "Tidak ada potret masa kecil",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Kopiah putih, kemeja belacu lengan panjang, sarung kotak (tapih kaling), tanpa alas kaki",
+      "sumber": "Pakaian lelaki Banjar: baju berlengan panjang dan tapih kaling bermotif kotak; kain belacu untuk rakyat biasa (detikSulsel)",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-qusyairi-martapura\\ilustrasi\\Sekumpul Kecil\\Qusyairi_bb0e7e47.jpg"
+}

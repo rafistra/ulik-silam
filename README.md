@@ -15,12 +15,12 @@ Repo kerja akun **Ulik Silam** (TikTok, YouTube Shorts, Instagram): skill Claude
 | `pustaka/` | Kartu aset yang bisa dipakai ulang (tanpa file berat) |
 | `proyek/<slug>/` | Satu folder per video atau carousel |
 
-File berat (ilustrasi, narasi, musik, foto arsip, render) **tidak** masuk repo. Semuanya disimpan di cloud drive dengan struktur folder yang sama, dan lokasinya diatur lewat `ASET_DIR` di `.env`.
+File berat (ilustrasi, narasi, musik, foto arsip, render) **tidak** masuk repo. Semuanya disimpan di folder `aset/` di dalam repo ini (diabaikan git) dengan struktur folder yang sama. Lokasinya bisa dipindah lewat `ASET_DIR` di `.env`. Karena tidak ikut git, folder `aset/` perlu disalin manual bila pindah device.
 
 ## Mulai di device baru
 
 1. `git clone` repo ini.
-2. Salin `.env.example` menjadi `.env`, lalu isi `ASET_DIR` dengan lokasi folder `UlikSilam/aset` di cloud drive device itu.
+2. Salin `.env.example` menjadi `.env` (bawaan `ASET_DIR=aset`), lalu salin folder `aset/` dari device lama bila perlu.
 3. Masuk ke proyek yang mau dikerjakan, lalu jalankan `npm install` (Node 20+).
 
 ## Skrip
@@ -28,6 +28,8 @@ File berat (ilustrasi, narasi, musik, foto arsip, render) **tidak** masuk repo. 
 | Perintah | Fungsi |
 | --- | --- |
 | `python3 scripts/impor-lama.py <folder-pov>` | Menyalin KONSEP.md dan konsep.json dari proyek lama ke `proyek/`, dan membuat `proyek.yaml` bila belum ada. Folder lama tidak diubah |
+| `python3 scripts/panen-pustaka.py <slug> --tulis` | Membuat kartu draf pustaka (tokoh, musik, SFX) dari KONSEP.md proyek |
+| `python3 scripts/salin-pustaka.py --tulis` | Menyalin berkas pustaka dari proyek asal ke `$ASET_DIR/pustaka/` |
 | `python3 scripts/buat-status.py` | Membuat ulang `STATUS.md` dari semua `proyek.yaml` |
 | `python3 scripts/impor-metrik.py --youtube <csv> --tiktok <csv> --tiktok-studio <tsv> --periode-yt <awal..akhir> --tulis` | Mengisi tanggal tayang, tautan, `metrik_tiktok`, dan `metrik_shorts` di `proyek.yaml` dari ekspor YouTube Studio dan TikTok Studio. Ekspor TikTok hanya memuat 15 video teratas, jadi video lain diambil dari daftar Posts TikTok Studio (`--tiktok-studio`, TSV). Judul yang berubah saat diunggah dipetakan di `data/metrik/pemetaan.json` |
 

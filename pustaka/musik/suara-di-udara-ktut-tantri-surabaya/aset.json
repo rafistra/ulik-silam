@@ -1,0 +1,22 @@
+{
+  "id": "suara-di-udara-ktut-tantri-surabaya",
+  "jenis": "musik",
+  "judul": "Suara di udara (Tegang dan intim, kenangan hangat, lalu kota bergejolak)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-1-suara-di-udara.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/musik/cue-1-suara-di-udara.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

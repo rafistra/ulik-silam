@@ -1,0 +1,21 @@
+{
+  "id": "sorak-penonton",
+  "jenis": "sfx",
+  "judul": "Sorak penonton",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-08-sorak-penonton.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-08-sorak-penonton.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

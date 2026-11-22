@@ -1,0 +1,28 @@
+{
+  "id": "anak-semarang",
+  "jenis": "tokoh",
+  "judul": "Anak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "tokoh": [
+    "Anak"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "White cotton smock, small white cloth cap",
+      "sumber": "Tidak ditemukan sumber yang bisa dibuka",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan",
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\nyai belanda\\0_anak.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nakhoda-lindeman-1883",
+  "jenis": "tokoh",
+  "judul": "Nakhoda Lindeman",
+  "versi": 1,
+  "status": "draf",
+  "era": "1883",
+  "wilayah": "Selat Sunda",
+  "tokoh": [
+    "Nakhoda Lindeman"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana",
+      "pilihan": "Jas tropis putih berkerah tegak dengan kancing kuningan, celana putih, topi pet biru tua, teropong kuningan",
+      "sumber": "Seragam nakhoda NISM 1883 tidak ditemukan; jas putih berkerah tegak lazim bagi orang Eropa di Hindia",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kelasi-loudon-krakatau\\ilustrasi\\POV Kelasi Kapal Loudon, Krakatau 1883 - Adegan\\NakhodaLindeman_5fe72541.jpg"
+}

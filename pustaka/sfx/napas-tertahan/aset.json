@@ -1,0 +1,21 @@
+{
+  "id": "napas-tertahan",
+  "jenis": "sfx",
+  "judul": "Napas tertahan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-05-napas-tertahan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-05-napas-tertahan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

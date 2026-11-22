@@ -1,0 +1,22 @@
+{
+  "id": "istana-tersenyum-francois-tack",
+  "jenis": "musik",
+  "judul": "Istana Tersenyum (Gamelan pelan, anggun, makin tegang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "file": [
+    "cue-2-istana-tersenyum.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-francois-tack",
+      "berkas": "public/musik/cue-2-istana-tersenyum.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ]
+}

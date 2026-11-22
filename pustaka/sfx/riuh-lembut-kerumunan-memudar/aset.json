@@ -1,0 +1,21 @@
+{
+  "id": "riuh-lembut-kerumunan-memudar",
+  "jenis": "sfx",
+  "judul": "Riuh lembut kerumunan, memudar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-10-riuh-lembut-kerumunan-memudar.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-10-riuh-lembut-kerumunan-memudar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

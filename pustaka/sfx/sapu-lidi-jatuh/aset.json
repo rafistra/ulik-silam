@@ -1,0 +1,21 @@
+{
+  "id": "sapu-lidi-jatuh",
+  "jenis": "sfx",
+  "judul": "Sapu lidi jatuh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "sfx-07-sapu-lidi-jatuh.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/sfx/sfx-07-sapu-lidi-jatuh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

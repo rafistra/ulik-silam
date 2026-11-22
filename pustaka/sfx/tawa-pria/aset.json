@@ -1,0 +1,21 @@
+{
+  "id": "tawa-pria",
+  "jenis": "sfx",
+  "judul": "Tawa pria (opsional)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "sfx-15-tawa-pria.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/sfx/sfx-15-tawa-pria.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

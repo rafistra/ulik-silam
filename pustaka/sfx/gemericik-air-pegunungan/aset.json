@@ -1,0 +1,21 @@
+{
+  "id": "gemericik-air-pegunungan",
+  "jenis": "sfx",
+  "judul": "Gemericik air pegunungan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-09-gemericik-air-pegunungan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-09-gemericik-air-pegunungan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

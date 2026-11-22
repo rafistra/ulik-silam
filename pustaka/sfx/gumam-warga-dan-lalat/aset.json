@@ -1,0 +1,21 @@
+{
+  "id": "gumam-warga-dan-lalat",
+  "jenis": "sfx",
+  "judul": "Gumam warga dan lalat",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-04-gumam-warga-dan-lalat.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-04-gumam-warga-dan-lalat.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

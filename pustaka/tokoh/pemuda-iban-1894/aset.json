@@ -1,0 +1,52 @@
+{
+  "id": "pemuda-iban-1894",
+  "jenis": "tokoh",
+  "judul": "Pemuda Iban",
+  "versi": 1,
+  "status": "draf",
+  "era": "1894",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "tokoh": [
+    "Pemuda Iban"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Rambut",
+      "pilihan": "Poni lurus bersudut, rambut tebal panjang terurai sampai punggung, sisi tidak dicukur",
+      "sumber": "Rambut orang Iban (Sea Dayak) lebih lebat dan panjang dibanding suku lain (Hose dan McDougall, bab III (https://www.gutenberg.org/cache/epub/3307/pg3307.html)); poni bersudut dan rambut panjang pada tetua Iban (Alpert, Bungai Terong (https://www.artoftheancestors.com/blog/bungai-terong-steven-g-alpert))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Telinga",
+      "pilihan": "Deretan cincin kuningan kecil di pinggir daun telinga; tanpa daun telinga panjang",
+      "sumber": "\"Banyak di antara mereka memakai sederet cincin kuningan kecil di pinggir daun telinga\"; daun telinga memanjang jarang pada orang Iban (Hose dan McDougall, bab IV (https://www.gutenberg.org/cache/epub/3307/pg3307.html))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Tato bahu",
+      "pilihan": "Sepasang bunga terung (bunga terung dengan spiral ganda di tengah) di bawah tulang selangka",
+      "sumber": "Diberikan pada pemuda sebelum bejalai pertamanya, di atas dan di bawah tulang selangka (Alpert (https://www.artoftheancestors.com/blog/bungai-terong-steven-g-alpert)); di Kalimantan dipakai lelaki yang sudah bejalai (Jumpo dan Bebit, UMS 2021 (https://eprints.ums.edu.my/id/eprint/33091))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Tato tangan",
+      "pilihan": "Tidak dipakai, masuk kalimat Avoid",
+      "sumber": "Tato tangan (entegulun) menandai orang yang pernah memenggal kepala musuh (Iban people - Wikipedia (https://en.wikipedia.org/wiki/Iban_people))",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Cawat",
+      "pilihan": "Kain pinggang panjang katun merah pudar",
+      "sumber": "Lelaki Iban melilitkan kain berwarna cerah berlapis-lapis (Hose dan McDougall, bab IV (https://www.gutenberg.org/cache/epub/3307/pg3307.html)); cawat merah pada tetua Iban (Alpert (https://www.artoftheancestors.com/blog/bungai-terong-steven-g-alpert)); untuk kerja dibuat polos",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-iban-ekspedisi-putussibau\\ilustrasi\\pemuda_iban.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hening-masjid-tilawah-samar",
+  "jenis": "sfx",
+  "judul": "Hening masjid, tilawah samar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-12-hening-masjid-tilawah-samar.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-12-hening-masjid-tilawah-samar.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

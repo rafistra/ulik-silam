@@ -1,0 +1,21 @@
+{
+  "id": "angin-senja-dan-jangkrik",
+  "jenis": "sfx",
+  "judul": "Angin senja dan jangkrik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-16-angin-senja-dan-jangkrik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-16-angin-senja-dan-jangkrik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

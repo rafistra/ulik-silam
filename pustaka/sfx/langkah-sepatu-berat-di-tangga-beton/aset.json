@@ -1,0 +1,21 @@
+{
+  "id": "langkah-sepatu-berat-di-tangga-beton",
+  "jenis": "sfx",
+  "judul": "Langkah sepatu berat di tangga beton",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "sfx-10-langkah-sepatu-berat-di-tangga-beton.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/sfx/sfx-10-langkah-sepatu-berat-di-tangga-beton.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

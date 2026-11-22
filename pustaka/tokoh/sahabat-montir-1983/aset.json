@@ -1,0 +1,28 @@
+{
+  "id": "sahabat-montir-1983",
+  "jenis": "tokoh",
+  "judul": "Sahabat Montir",
+  "versi": 1,
+  "status": "draf",
+  "era": "1983",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "tokoh": [
+    "Sahabat Montir"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian dan tato",
+      "pilihan": "Kaus garis merah-putih tanpa lengan, jins, tato ular",
+      "sumber": "Tokoh rekaan; kaus garis menjadi penanda di adegan 13",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pemuda-bertato-petrus\\ilustrasi\\temanmontir.jpg"
+}

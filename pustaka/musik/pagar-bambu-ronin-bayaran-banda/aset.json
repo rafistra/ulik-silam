@@ -1,0 +1,22 @@
+{
+  "id": "pagar-bambu-ronin-bayaran-banda",
+  "jenis": "musik",
+  "judul": "Pagar bambu (Gelap menekan, makin sunyi menuju eksekusi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "file": [
+    "cue-2-pagar-bambu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ronin-bayaran-banda",
+      "berkas": "public/musik/cue-2-pagar-bambu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ]
+}

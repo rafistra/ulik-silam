@@ -1,0 +1,22 @@
+{
+  "id": "diawasi-mahasiswa-blangguan",
+  "jenis": "musik",
+  "judul": "Diawasi (Waspada dan terancam, denyut pelan yang mulai mengetat)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "cue-1-diawasi.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/musik/cue-1-diawasi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kabar-pulang-santri-resolusi-jihad",
+  "jenis": "musik",
+  "judul": "Kabar pulang (Getir, naik pelan seperti fajar)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-3-kabar-pulang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-resolusi-jihad",
+      "berkas": "public/musik/cue-3-kabar-pulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-resolusi-jihad"
+  ]
+}

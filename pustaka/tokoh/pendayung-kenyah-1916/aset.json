@@ -1,0 +1,28 @@
+{
+  "id": "pendayung-kenyah-1916",
+  "jenis": "tokoh",
+  "judul": "Pendayung Kenyah",
+  "versi": 1,
+  "status": "draf",
+  "era": "1916",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "tokoh": [
+    "Pendayung Kenyah"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Ikat kepala",
+      "pilihan": "Pita rotan anyam di dahi",
+      "sumber": "Lelaki memakai pita rotan anyam, dari pita dahi sampai kopiah (Hose dan McDougall (https://www.gutenberg.org/cache/epub/3307/pg3307.html))",
+      "status": "Terverifikasi"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pendayung-kenyah-long-iram\\ilustrasi\\pendayung kenyah.jpg"
+}

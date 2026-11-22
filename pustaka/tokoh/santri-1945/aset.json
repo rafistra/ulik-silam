@@ -1,0 +1,32 @@
+{
+  "id": "santri-1945",
+  "jenis": "tokoh",
+  "judul": "Santri",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Surabaya",
+  "tokoh": [
+    "Santri"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "black velvet peci",
+      "sumber": "Peci hitam dipakai tokoh pergerakan awal abad ke-20 (Songkok - Wikipedia (https://en.wikipedia.org/wiki/Songkok)); pemakaian santri desa diturunkan dari situ",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Baju",
+      "pilihan": "off-white collarless cotton shirt, tanpa bordir",
+      "sumber": "Baju koko dipakai bersama sarung dan peci (National costume of Indonesia - Wikipedia (https://en.wikipedia.org/wiki/National_costume_of_Indonesia)); potongan 1940-an belum bersumber",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-santri-resolusi-jihad"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

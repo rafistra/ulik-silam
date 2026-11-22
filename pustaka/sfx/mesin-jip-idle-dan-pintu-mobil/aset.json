@@ -1,0 +1,21 @@
+{
+  "id": "mesin-jip-idle-dan-pintu-mobil",
+  "jenis": "sfx",
+  "judul": "Mesin jip idle dan pintu mobil",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-13-mesin-jip-idle-dan-pintu-mobil.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-13-mesin-jip-idle-dan-pintu-mobil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "angin-senja",
+  "jenis": "sfx",
+  "judul": "Angin senja",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "file": [
+    "sfx-15-angin-senja.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-homo-soloensis-ngandong",
+      "berkas": "public/sfx/sfx-15-angin-senja.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ]
+}

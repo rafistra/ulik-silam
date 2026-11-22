@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-malam-dan-desis-pelita",
+  "jenis": "sfx",
+  "judul": "Jangkrik malam dan desis pelita",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-01-jangkrik-malam-dan-desis-pelita.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-01-jangkrik-malam-dan-desis-pelita.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

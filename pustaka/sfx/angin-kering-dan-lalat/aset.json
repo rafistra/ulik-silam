@@ -1,0 +1,21 @@
+{
+  "id": "angin-kering-dan-lalat",
+  "jenis": "sfx",
+  "judul": "Angin kering dan lalat",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "file": [
+    "sfx-07-angin-kering-dan-lalat.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-homo-soloensis-ngandong",
+      "berkas": "public/sfx/sfx-07-angin-kering-dan-lalat.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ]
+}

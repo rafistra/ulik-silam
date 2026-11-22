@@ -1,0 +1,22 @@
+{
+  "id": "pengepungan-santri-sukamanah",
+  "jenis": "musik",
+  "judul": "Pengepungan (Mencekam, memuncak, lalu runtuh menjadi sunyi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "cue-2-pengepungan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/musik/cue-2-pengepungan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

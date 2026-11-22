@@ -1,0 +1,34 @@
+{
+  "id": "tuan-semarang",
+  "jenis": "tokoh",
+  "judul": "Tuan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "tokoh": [
+    "Tuan"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian rumah",
+      "pilihan": "Collarless white shirt, thin batik trousers with red and blue flowers",
+      "sumber": "Pria Eropa berkemeja tanpa kerah dan bercelana kain sarung bermotif bunga merah-biru (GNFI, mengutip de Wilt (https://www.goodnewsfromindonesia.id/2026/02/28/saat-nyonya-belanda-menanggalkan-gaun-demi-kebaya-kisah-adaptasi-di-tanah-jajahan), awal abad ke-20); foto akhir abad ke-19 menampilkan pria Eropa bercelana batik (tirto (https://tirto.id/sejarah-kebaya-di-masa-kolonial-busana-perempuan-tiga-etnis-eeuK))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Pakaian resmi",
+      "pilihan": "White closed-collar jacket and white trousers",
+      "sumber": "Jas tutup tercatat dipakai di Hindia pada 1901 (tirto (https://tirto.id/pakaian-dan-gaya-hidup-revolusioner-di-zaman-hindia-belanda-cAaU)); pemakaian oleh pegawai Eropa 1880-an belum bersumber",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan",
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\nyai belanda\\0_tuan.jpg"
+}

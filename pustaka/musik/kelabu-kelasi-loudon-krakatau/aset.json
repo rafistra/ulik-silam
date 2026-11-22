@@ -1,0 +1,22 @@
+{
+  "id": "kelabu-kelasi-loudon-krakatau",
+  "jenis": "musik",
+  "judul": "Kelabu (Sunyi dan berduka, lalu reflektif dengan sisa ketegangan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "cue-3-kelabu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/musik/cue-3-kelabu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

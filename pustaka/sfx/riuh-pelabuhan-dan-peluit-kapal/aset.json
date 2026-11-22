@@ -1,0 +1,21 @@
+{
+  "id": "riuh-pelabuhan-dan-peluit-kapal",
+  "jenis": "sfx",
+  "judul": "Riuh pelabuhan dan peluit kapal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-02-riuh-pelabuhan-dan-peluit-kapal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-02-riuh-pelabuhan-dan-peluit-kapal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

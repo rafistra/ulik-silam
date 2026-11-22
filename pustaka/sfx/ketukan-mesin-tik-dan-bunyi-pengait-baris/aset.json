@@ -1,0 +1,21 @@
+{
+  "id": "ketukan-mesin-tik-dan-bunyi-pengait-baris",
+  "jenis": "sfx",
+  "judul": "Ketukan mesin tik dan bunyi pengait baris",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-09-ketukan-mesin-tik-dan-bunyi-pengait-baris.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-09-ketukan-mesin-tik-dan-bunyi-pengait-baris.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mesin-truk-tua",
+  "jenis": "sfx",
+  "judul": "Mesin truk tua",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "sfx-11-mesin-truk-tua.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/sfx/sfx-11-mesin-truk-tua.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

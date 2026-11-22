@@ -1,0 +1,22 @@
+{
+  "id": "telepon-terakhir-mahasiswa-hilang-1998-1",
+  "jenis": "musik",
+  "judul": "Telepon terakhir (Rapuh, lalu menggantung dan hilang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "cue-3-telepon-terakhir.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/musik/cue-3-telepon-terakhir.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

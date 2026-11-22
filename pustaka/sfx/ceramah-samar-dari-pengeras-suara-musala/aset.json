@@ -1,0 +1,21 @@
+{
+  "id": "ceramah-samar-dari-pengeras-suara-musala",
+  "jenis": "sfx",
+  "judul": "Ceramah samar dari pengeras suara musala",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-03-ceramah-samar-dari-pengeras-suara-musala.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-03-ceramah-samar-dari-pengeras-suara-musala.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

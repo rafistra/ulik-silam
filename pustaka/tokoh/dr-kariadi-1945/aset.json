@@ -1,0 +1,18 @@
+{
+  "id": "dr-kariadi-1945",
+  "jenis": "tokoh",
+  "judul": "dr. Kariadi",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Semarang",
+  "tokoh": [
+    "dr. Kariadi"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-soenarti-kariadi"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

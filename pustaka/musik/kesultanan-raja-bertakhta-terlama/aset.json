@@ -1,0 +1,22 @@
+{
+  "id": "kesultanan-raja-bertakhta-terlama",
+  "jenis": "musik",
+  "judul": "Kesultanan (Berwibawa, sedikit muram, pesisir Melayu dan Jawa)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "file": [
+    "cue-2-kesultanan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "raja-bertakhta-terlama-nusantara",
+      "berkas": "public/musik/cue-2-kesultanan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "raja-bertakhta-terlama-nusantara"
+  ]
+}

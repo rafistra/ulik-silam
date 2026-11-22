@@ -1,0 +1,22 @@
+{
+  "id": "seperti-istri-gowok-banyumas",
+  "jenis": "musik",
+  "judul": "Seperti istri (Hangat, sehari-hari, dengan bayang-bayang cibiran)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "cue-2-seperti-istri.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/musik/cue-2-seperti-istri.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

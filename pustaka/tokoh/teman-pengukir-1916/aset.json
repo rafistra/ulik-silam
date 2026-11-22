@@ -1,0 +1,20 @@
+{
+  "id": "teman-pengukir-1916",
+  "jenis": "tokoh",
+  "judul": "Teman Pengukir",
+  "versi": 1,
+  "status": "draf",
+  "era": "1916",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "tokoh": [
+    "Teman Pengukir"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pendayung-kenyah-long-iram\\ilustrasi\\teman pengukir.jpg"
+}

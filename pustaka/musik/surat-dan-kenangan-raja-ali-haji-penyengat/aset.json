@@ -1,0 +1,22 @@
+{
+  "id": "surat-dan-kenangan-raja-ali-haji-penyengat",
+  "jenis": "musik",
+  "judul": "Surat dan kenangan (Akrab, murung, hening, lalu hangat)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "cue-3-surat-dan-kenangan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/musik/cue-3-surat-dan-kenangan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

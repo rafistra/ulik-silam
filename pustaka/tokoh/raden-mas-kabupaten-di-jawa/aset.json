@@ -1,0 +1,17 @@
+{
+  "id": "raden-mas-kabupaten-di-jawa",
+  "jenis": "tokoh",
+  "judul": "Raden Mas",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "tokoh": [
+    "Raden Mas"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

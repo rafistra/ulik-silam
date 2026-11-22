@@ -1,0 +1,34 @@
+{
+  "id": "pemuda-kayan-1894",
+  "jenis": "tokoh",
+  "judul": "Pemuda Kayan",
+  "versi": 1,
+  "status": "draf",
+  "era": "1894",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "tokoh": [
+    "Pemuda Kayan"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Rambut",
+      "pilihan": "Poni lurus, sisi dan ubun-ubun dicukur, rambut belakang terurai sampai tengkuk, pita rotan di dahi",
+      "sumber": "Hose dan McDougall, bab IV (https://www.gutenberg.org/cache/epub/3307/pg3307.html)",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Telinga",
+      "pilihan": "Daun telinga memanjang bercincin kuningan, cakram kayu kecil di daun telinga atas",
+      "sumber": "Setiap lelaki Kayan berlubang di daun telinga atas; pemuda memakai cakram kayu atau lilin; taring hanya bagi yang pernah ke medan perang (Hose dan McDougall, bab IV (https://www.gutenberg.org/cache/epub/3307/pg3307.html))",
+      "status": "Terverifikasi"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-iban-ekspedisi-putussibau\\ilustrasi\\pemuda_kayan.jpg"
+}

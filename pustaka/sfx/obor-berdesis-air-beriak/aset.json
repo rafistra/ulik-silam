@@ -1,0 +1,21 @@
+{
+  "id": "obor-berdesis-air-beriak",
+  "jenis": "sfx",
+  "judul": "Obor berdesis, air beriak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-04-obor-berdesis-air-beriak.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-04-obor-berdesis-air-beriak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

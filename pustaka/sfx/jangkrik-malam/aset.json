@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-malam",
+  "jenis": "sfx",
+  "judul": "Jangkrik malam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-08-jangkrik-malam.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-08-jangkrik-malam.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "koin-perak-bergemerincing-di-kain",
+  "jenis": "sfx",
+  "judul": "Koin perak bergemerincing di kain",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-02-koin-perak-bergemerincing-di-kain.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-02-koin-perak-bergemerincing-di-kain.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

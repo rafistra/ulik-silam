@@ -1,0 +1,21 @@
+{
+  "id": "palu-mengetuk-batu",
+  "jenis": "sfx",
+  "judul": "Palu mengetuk batu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-08-palu-mengetuk-batu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-08-palu-mengetuk-batu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

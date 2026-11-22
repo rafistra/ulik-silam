@@ -1,0 +1,21 @@
+{
+  "id": "guntur-angin-badai-lumpur-menghantam-kayu",
+  "jenis": "sfx",
+  "judul": "Guntur, angin badai, lumpur menghantam kayu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "sfx-10-guntur-angin-badai-lumpur-menghantam-kayu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/sfx/sfx-10-guntur-angin-badai-lumpur-menghantam-kayu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dengung-bohlam-dangdut-samar-dari-kamar-sebelah",
+  "jenis": "sfx",
+  "judul": "Dengung bohlam, dangdut samar dari kamar sebelah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-01-dengung-bohlam-dangdut-samar-dari-kamar-sebelah.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-01-dengung-bohlam-dangdut-samar-dari-kamar-sebelah.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

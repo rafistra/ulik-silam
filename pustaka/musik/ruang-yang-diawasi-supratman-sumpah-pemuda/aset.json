@@ -1,0 +1,22 @@
+{
+  "id": "ruang-yang-diawasi-supratman-sumpah-pemuda",
+  "jenis": "musik",
+  "judul": "Ruang yang diawasi (Tegang tertahan, malam kolonial yang diawasi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-1-ruang-yang-diawasi.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-supratman-sumpah-pemuda",
+      "berkas": "public/musik/cue-1-ruang-yang-diawasi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda"
+  ]
+}

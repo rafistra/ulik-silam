@@ -1,0 +1,22 @@
+{
+  "id": "suara-jan-oherne",
+  "jenis": "musik",
+  "judul": "Suara (Rapuh lalu teguh, harapan yang tertahan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ambarawa dan Semarang",
+  "file": [
+    "cue-3-suara.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-jan-oherne",
+      "berkas": "public/musik/cue-3-suara.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-jan-oherne"
+  ]
+}

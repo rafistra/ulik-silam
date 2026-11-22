@@ -1,0 +1,22 @@
+{
+  "id": "long-iram-pendayung-kenyah-long",
+  "jenis": "musik",
+  "judul": "Long Iram (Ingin tahu dan asing, lalu hening dan getir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "cue-2-long-iram.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/musik/cue-2-long-iram.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pendopo-fajar-bangsawan-jawa",
+  "jenis": "musik",
+  "judul": "Pendopo Fajar (Megah, tenang, sedikit tegang di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "cue-1-pendopo-fajar.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/musik/cue-1-pendopo-fajar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

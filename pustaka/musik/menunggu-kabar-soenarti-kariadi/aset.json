@@ -1,0 +1,22 @@
+{
+  "id": "menunggu-kabar-soenarti-kariadi",
+  "jenis": "musik",
+  "judul": "Menunggu Kabar (Tegang tertahan, lalu runtuh ke hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang",
+  "file": [
+    "cue-2-menunggu-kabar.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-soenarti-kariadi",
+      "berkas": "public/musik/cue-2-menunggu-kabar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-soenarti-kariadi"
+  ]
+}

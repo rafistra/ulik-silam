@@ -1,0 +1,21 @@
+{
+  "id": "bendera-berkibar-dan-aba-aba",
+  "jenis": "sfx",
+  "judul": "Bendera berkibar dan aba-aba",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sukamanah, Singaparna",
+  "file": [
+    "sfx-04-bendera-berkibar-dan-aba-aba.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-santri-sukamanah",
+      "berkas": "public/sfx/sfx-04-bendera-berkibar-dan-aba-aba.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ]
+}

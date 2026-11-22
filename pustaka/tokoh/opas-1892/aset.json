@@ -1,0 +1,34 @@
+{
+  "id": "opas-1892",
+  "jenis": "tokoh",
+  "judul": "Opas",
+  "versi": 1,
+  "status": "draf",
+  "era": "1892",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Opas"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Seragam",
+      "pilihan": "Ikat kepala dan jas indigo tanpa kerah, celana selutut, tanpa alas kaki, senapan laras tunggal",
+      "sumber": "Opas (oppasser) tercatat ikut menembak (van Till 1996: 475); bentuk seragamnya tidak ditemukan di sumber yang dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Seragam polisi Jepang atau modern, topi pet",
+      "pilihan": "Dimasukkan ke kalimat Avoid",
+      "sumber": "Anakronistis untuk 1892–1893",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-opas-si-pitung\\ilustrasi\\opas.jpg"
+}

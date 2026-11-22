@@ -1,0 +1,70 @@
+{
+  "id": "ibnu-battutah-1345",
+  "jenis": "tokoh",
+  "judul": "Ibnu Battutah",
+  "versi": 1,
+  "status": "draf",
+  "era": "1345",
+  "wilayah": "Samudera Pasai, Aceh",
+  "tokoh": [
+    "Ibnu Battutah"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Lelaki ±41 tahun, kulit zaitun terang terbakar matahari, janggut sekepal mulai beruban",
+      "sumber": "Tidak ada potret sezaman; Wikipedia \"Ibn Battuta\" hanya memuat ilustrasi Léon Benett 1878. Usia dari tahun lahir 1304; keturunan Berber Lawata",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Sorban katun putih di atas kopiah kecil putih, ekor pendek di belakang bahu kiri",
+      "sumber": "Kopiah di bawah sorban dan kain sorban bertepi (Rawi, \"Turbans and Textiles\"); sultan menghadiahkan tiga sorban (D-S h. 245; terj. Inggris ringkas)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Badan",
+      "pilihan": "Jubah katun putih sampai mata kaki, lengan panjang lebar; jubah wol krem terbuka di atasnya; selempang katun cokelat",
+      "sumber": "Lengan panjang pada pakaian lelaki masa Mamluk (thezay); sultan memberi jubah wol, salah satunya putih, dan ia memakai satu dari tiap jenis (D-S h. 244–245; terj. Inggris ringkas)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kain bawah",
+      "pilihan": "Kain lilit pengganti celana (tidak terlihat di bidikan, tertutup jubah)",
+      "sumber": "D-S h. 245; terj. Inggris ringkas",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Alas kaki",
+      "pilihan": "Selop kulit cokelat usang",
+      "sumber": "Tafsir umum busana Muslim kota abad ke-14; tidak ada sumber khusus",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Benda",
+      "pilihan": "Tasbih kayu gelap dan noda tinta di jari; tanpa cincin (atas permintaan Rafi, v2)",
+      "sumber": "Tafsir untuk ulama dan kadi; tidak ada sumber khusus",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Burnus Maghrib bertudung",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Wikipedia \"Burnous\" tidak memberi keterangan era; di Pasai ia memakai hadiah sultan",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Potret dari patung atau lukisan modern",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Tidak ada potret sezaman",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ibnu-battutah-pasai\\ilustrasi\\ibn-battutah.jpg"
+}

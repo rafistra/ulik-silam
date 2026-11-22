@@ -1,0 +1,22 @@
+{
+  "id": "subuh-dan-pilihan-puputan-badung",
+  "jenis": "musik",
+  "judul": "Subuh dan pilihan (Hening, khidmat, ragu)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Puri Denpasar, Badung",
+  "file": [
+    "cue-1-subuh-dan-pilihan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-puputan-badung",
+      "berkas": "public/musik/cue-1-subuh-dan-pilihan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-puputan-badung"
+  ]
+}

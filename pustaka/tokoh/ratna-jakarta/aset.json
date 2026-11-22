@@ -1,0 +1,39 @@
+{
+  "id": "ratna-jakarta",
+  "jenis": "tokoh",
+  "judul": "Ratna",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "tokoh": [
+    "Ratna"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Rambut hitam sebahu bergelombang",
+      "pilihan": "Shoulder-length soft waves",
+      "sumber": "Potongan bob, shaggy, dan pendek tercatat populer di Indonesia awal–pertengahan 1980-an (Avatara, Unesa (https://ejournal.unesa.ac.id/index.php/avatara/article/view/24098/22029))",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Blus berkerah lengan panjang dan rok A-line selutut, empat varian warna",
+      "pilihan": "Varian per babak",
+      "sumber": "Padanan pakaian tokoh perempuan film yang berganti warna untuk menyimpan emosi (Dazed (https://www.dazeddigital.com/film-tv/article/52956/1/in-the-mood-for-love-remains-a-spellbinding-introduction-to-wong-kar-wai?amp=1)); potongan busana kerja perempuan kota tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Cheongsam, kerah mandarin tinggi, kebaya",
+      "pilihan": "Masuk kalimat Avoid",
+      "sumber": "Menjauh dari tampilan film asli dan menjaga siluet kantor",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\Rekaan\\ratna.jpg"
+}

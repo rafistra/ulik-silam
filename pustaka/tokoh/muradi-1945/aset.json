@@ -1,0 +1,18 @@
+{
+  "id": "muradi-1945",
+  "jenis": "tokoh",
+  "judul": "Muradi",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Blitar",
+  "tokoh": [
+    "Muradi"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-supriyadi-peta-blitar"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

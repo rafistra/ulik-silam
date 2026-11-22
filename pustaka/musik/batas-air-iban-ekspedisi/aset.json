@@ -1,0 +1,22 @@
+{
+  "id": "batas-air-iban-ekspedisi",
+  "jenis": "musik",
+  "judul": "Batas Air (Berat dan lambat, terangkat takjub di puncak, lalu jatuh cemas dan getir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "cue-2-batas-air.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/musik/cue-2-batas-air.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

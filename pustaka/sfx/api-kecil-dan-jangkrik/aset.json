@@ -1,0 +1,21 @@
+{
+  "id": "api-kecil-dan-jangkrik",
+  "jenis": "sfx",
+  "judul": "Api kecil dan jangkrik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-13-api-kecil-dan-jangkrik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-13-api-kecil-dan-jangkrik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ketukan-pintu-di-kejauhan-langkah-sepatu-lars",
+  "jenis": "sfx",
+  "judul": "Ketukan pintu di kejauhan, langkah sepatu lars",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-10-ketukan-pintu-di-kejauhan-langkah-sepatu-lars.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-10-ketukan-pintu-di-kejauhan-langkah-sepatu-lars.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

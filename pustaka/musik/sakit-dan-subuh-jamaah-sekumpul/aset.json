@@ -1,0 +1,22 @@
+{
+  "id": "sakit-dan-subuh-jamaah-sekumpul",
+  "jenis": "musik",
+  "judul": "Sakit dan subuh (Sunyi, berat, nyaris hening; nada panjang dan jeda)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura, Kalimantan Selatan",
+  "file": [
+    "cue-2-sakit-dan-subuh.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-jamaah-sekumpul",
+      "berkas": "public/musik/cue-2-sakit-dan-subuh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-jamaah-sekumpul"
+  ]
+}

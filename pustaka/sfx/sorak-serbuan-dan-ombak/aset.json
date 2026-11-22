@@ -1,0 +1,21 @@
+{
+  "id": "sorak-serbuan-dan-ombak",
+  "jenis": "sfx",
+  "judul": "Sorak serbuan dan ombak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-04-sorak-serbuan-dan-ombak.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-04-sorak-serbuan-dan-ombak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

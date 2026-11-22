@@ -1,0 +1,21 @@
+{
+  "id": "tawa-berpindah-arah-lalu-berubah-jadi-tangis",
+  "jenis": "sfx",
+  "judul": "Tawa berpindah arah lalu berubah jadi tangis (sulit; cadangan: tremolo cue 1)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-03-tawa-berpindah-arah-lalu-berubah-jadi-tangis.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-03-tawa-berpindah-arah-lalu-berubah-jadi-tangis.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

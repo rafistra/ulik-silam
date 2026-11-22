@@ -1,0 +1,17 @@
+{
+  "id": "amangkurat-ii-kartasura",
+  "jenis": "tokoh",
+  "judul": "Amangkurat II",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "tokoh": [
+    "Amangkurat II"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

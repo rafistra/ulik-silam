@@ -1,0 +1,21 @@
+{
+  "id": "rana-kamera-kuno",
+  "jenis": "sfx",
+  "judul": "Rana kamera kuno",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-09-rana-kamera-kuno.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-09-rana-kamera-kuno.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

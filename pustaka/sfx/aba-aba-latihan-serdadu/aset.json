@@ -1,0 +1,21 @@
+{
+  "id": "aba-aba-latihan-serdadu",
+  "jenis": "sfx",
+  "judul": "Aba-aba latihan serdadu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-02-aba-aba-latihan-serdadu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-02-aba-aba-latihan-serdadu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

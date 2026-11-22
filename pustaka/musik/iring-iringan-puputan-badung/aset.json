@@ -1,0 +1,22 @@
+{
+  "id": "iring-iringan-puputan-badung",
+  "jenis": "musik",
+  "judul": "Iring-iringan (Langkah teratur, menegang ke puncak, lalu sunyi dan satu frasa rapuh)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Puri Denpasar, Badung",
+  "file": [
+    "cue-3-iring-iringan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-puputan-badung",
+      "berkas": "public/musik/cue-3-iring-iringan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-puputan-badung"
+  ]
+}

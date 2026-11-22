@@ -1,0 +1,39 @@
+{
+  "id": "sarinten-banyumas",
+  "jenis": "tokoh",
+  "judul": "Sarinten",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "tokoh": [
+    "Sarinten"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kebaya katun indigo polos tanpa bordir",
+      "pilihan": "Kebaya sederhana untuk perempuan desa",
+      "sumber": "Kebaya bordir dan renda berkembang di kalangan Peranakan dan kalangan berada (Google Arts & Culture, NMVW (https://artsandculture.google.com/asset/kebaya-with-embroidered-border/PAHJeJYW5yOyfg)); versi polos untuk perempuan desa adalah tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Sampur di dinding",
+      "pilihan": "Selendang tari jingga-merah pudar",
+      "sumber": "Penari lengger/ronggeng perempuan Banyumas memakai kemben dan selendang (Wikipedia: Lengger (https://en.wikipedia.org/wiki/Lengger))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Kebaya brokat tembus pandang, bahu terbuka",
+      "pilihan": "Masuk kalimat \"Avoid\"",
+      "sumber": "Anakronistis untuk perempuan desa 1930-an dan bertentangan dengan arahan visual yang tidak sensual",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-gowok-banyumas\\ilustrasi\\sartini.jpg"
+}

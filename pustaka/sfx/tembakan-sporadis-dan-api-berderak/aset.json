@@ -1,0 +1,21 @@
+{
+  "id": "tembakan-sporadis-dan-api-berderak",
+  "jenis": "sfx",
+  "judul": "Tembakan sporadis dan api berderak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-06-tembakan-sporadis-dan-api-berderak.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-06-tembakan-sporadis-dan-api-berderak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

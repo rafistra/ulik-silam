@@ -1,0 +1,22 @@
+{
+  "id": "ujung-dan-pulang-ibnu-battutah-pasai",
+  "jenis": "musik",
+  "judul": "Ujung dan pulang (Sunyi di laut, getir, hangat reflektif di epilog)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "cue-3-ujung-dan-pulang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/musik/cue-3-ujung-dan-pulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

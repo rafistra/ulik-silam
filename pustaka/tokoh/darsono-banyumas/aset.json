@@ -1,0 +1,27 @@
+{
+  "id": "darsono-banyumas",
+  "jenis": "tokoh",
+  "judul": "Darsono",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "tokoh": [
+    "Darsono"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Baju lurik bergaris",
+      "pilihan": "Jaket tanpa kerah, garis cokelat-arang-krem",
+      "sumber": "Lurik dikenal sebagai tenun Banyumasan, tetapi sumber yang dibuka adalah aturan pakaian dinas modern; pemakaian pada 1930-an adalah tafsir",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-gowok-banyumas\\ilustrasi\\darsono.jpg"
+}

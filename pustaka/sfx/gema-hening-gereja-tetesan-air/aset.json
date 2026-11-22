@@ -1,0 +1,21 @@
+{
+  "id": "gema-hening-gereja-tetesan-air",
+  "jenis": "sfx",
+  "judul": "Gema hening gereja, tetesan air",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-03-gema-hening-gereja-tetesan-air.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-03-gema-hening-gereja-tetesan-air.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

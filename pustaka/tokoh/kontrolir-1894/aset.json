@@ -1,0 +1,20 @@
+{
+  "id": "kontrolir-1894",
+  "jenis": "tokoh",
+  "judul": "Kontrolir",
+  "versi": 1,
+  "status": "draf",
+  "era": "1894",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "tokoh": [
+    "Kontrolir"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-iban-ekspedisi-putussibau\\ilustrasi\\kontrolir_belanda.jpg"
+}

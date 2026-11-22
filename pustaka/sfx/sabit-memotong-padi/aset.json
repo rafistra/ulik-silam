@@ -1,0 +1,21 @@
+{
+  "id": "sabit-memotong-padi",
+  "jenis": "sfx",
+  "judul": "Sabit memotong padi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-03-sabit-memotong-padi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-03-sabit-memotong-padi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

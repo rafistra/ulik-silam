@@ -1,0 +1,34 @@
+{
+  "id": "maria-verhagen-1817",
+  "jenis": "tokoh",
+  "judul": "Maria Verhagen",
+  "versi": 1,
+  "status": "draf",
+  "era": "1817",
+  "wilayah": "Saparua, Maluku",
+  "tokoh": [
+    "Maria Verhagen"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah, usia, warna kulit",
+      "pilihan": "Wajah oval, kulit cokelat terang, usia samar remaja akhir sampai awal dua puluhan",
+      "sumber": "Tidak ada potret; usia bertentangan antarsumber",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Busana",
+      "pilihan": "Blus katun lengan panjang indigo kusam, sarung katun kotak kecil cokelat-merah, kain bahu putih kusam, tanpa alas kaki",
+      "sumber": "Perempuan Ambon digambarkan memakai blus tipis dan sarung bermotif kecil (Ambonese people - Wikipedia (https://en.wikipedia.org/wiki/Ambonese_people)); gambaran umum, bukan khusus 1817",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-maria-verhagen-saparua\\ilustrasi\\maria verhagen.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lubang-di-tepi-hutan-romusha-numfor",
+  "jenis": "musik",
+  "judul": "Lubang di tepi hutan (Teror, duka, sunyi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "cue-2-lubang-di-tepi-hutan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/musik/cue-2-lubang-di-tepi-hutan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "angin-malam-lembut",
+  "jenis": "sfx",
+  "judul": "Angin malam lembut",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-10-angin-malam-lembut.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-10-angin-malam-lembut.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

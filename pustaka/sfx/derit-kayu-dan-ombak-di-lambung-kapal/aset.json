@@ -1,0 +1,21 @@
+{
+  "id": "derit-kayu-dan-ombak-di-lambung-kapal",
+  "jenis": "sfx",
+  "judul": "Derit kayu dan ombak di lambung kapal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "sfx-03-derit-kayu-dan-ombak-di-lambung-kapal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/sfx/sfx-03-derit-kayu-dan-ombak-di-lambung-kapal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

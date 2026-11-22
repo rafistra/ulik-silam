@@ -1,0 +1,21 @@
+{
+  "id": "api-unggun-dan-jangkrik",
+  "jenis": "sfx",
+  "judul": "Api unggun dan jangkrik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-07-api-unggun-dan-jangkrik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-07-api-unggun-dan-jangkrik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

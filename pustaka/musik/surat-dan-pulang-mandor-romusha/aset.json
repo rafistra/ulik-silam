@@ -1,0 +1,22 @@
+{
+  "id": "surat-dan-pulang-mandor-romusha",
+  "jenis": "musik",
+  "judul": "Surat dan pulang (Sunyi, duka, hampa)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "file": [
+    "cue-3-surat-dan-pulang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mandor-romusha",
+      "berkas": "public/musik/cue-3-surat-dan-pulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mandor-romusha"
+  ]
+}

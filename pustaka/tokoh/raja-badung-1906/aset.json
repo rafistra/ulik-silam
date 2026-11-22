@@ -1,0 +1,18 @@
+{
+  "id": "raja-badung-1906",
+  "jenis": "tokoh",
+  "judul": "Raja Badung",
+  "versi": 1,
+  "status": "draf",
+  "era": "1906",
+  "wilayah": "Puri Denpasar, Badung",
+  "tokoh": [
+    "Raja Badung"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-puputan-badung"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

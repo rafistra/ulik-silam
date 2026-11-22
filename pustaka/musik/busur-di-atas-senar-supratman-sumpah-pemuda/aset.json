@@ -1,0 +1,22 @@
+{
+  "id": "busur-di-atas-senar-supratman-sumpah-pemuda",
+  "jenis": "musik",
+  "judul": "Busur di atas senar (Khidmat dan rapuh, turun ke hening di adegan 8)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-2-busur-di-atas-senar.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-supratman-sumpah-pemuda",
+      "berkas": "public/musik/cue-2-busur-di-atas-senar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda"
+  ]
+}

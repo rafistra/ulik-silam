@@ -1,0 +1,27 @@
+{
+  "id": "bu-karta-banyumas",
+  "jenis": "tokoh",
+  "judul": "Bu Karta",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "tokoh": [
+    "Bu Karta"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kebaya katun krem bertepi renda, bros emas",
+      "pilihan": "Penanda keluarga saudagar",
+      "sumber": "Kebaya katun putih dengan renda buatan tangan dari Jawa, paruh pertama abad ke-20 (Roots.gov.sg (https://roots.gov.sg/Collection-Landing/listing/1395542))",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-gowok-banyumas\\ilustrasi\\bu karta.jpg"
+}

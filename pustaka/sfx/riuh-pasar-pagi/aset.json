@@ -1,0 +1,21 @@
+{
+  "id": "riuh-pasar-pagi",
+  "jenis": "sfx",
+  "judul": "Riuh pasar pagi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-07-riuh-pasar-pagi.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-07-riuh-pasar-pagi.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

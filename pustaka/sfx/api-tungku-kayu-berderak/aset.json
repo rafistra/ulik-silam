@@ -1,0 +1,21 @@
+{
+  "id": "api-tungku-kayu-berderak",
+  "jenis": "sfx",
+  "judul": "Api tungku kayu berderak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-05-api-tungku-kayu-berderak.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-05-api-tungku-kayu-berderak.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

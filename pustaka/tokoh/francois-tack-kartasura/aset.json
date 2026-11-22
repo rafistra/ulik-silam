@@ -1,0 +1,17 @@
+{
+  "id": "francois-tack-kartasura",
+  "jenis": "tokoh",
+  "judul": "François Tack",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "tokoh": [
+    "François Tack"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

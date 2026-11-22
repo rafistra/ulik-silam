@@ -1,0 +1,22 @@
+{
+  "id": "haul-jamaah-sekumpul",
+  "jenis": "musik",
+  "judul": "Haul (Haru dan hangat, mengambang, berakhir tenang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura, Kalimantan Selatan",
+  "file": [
+    "cue-3-haul.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-jamaah-sekumpul",
+      "berkas": "public/musik/cue-3-haul.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-jamaah-sekumpul"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "arus-tenang",
+  "jenis": "sfx",
+  "judul": "Arus tenang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-15-arus-tenang.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-15-arus-tenang.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

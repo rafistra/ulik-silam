@@ -1,0 +1,21 @@
+{
+  "id": "ranting-bergesek-lambung-perahu",
+  "jenis": "sfx",
+  "judul": "Ranting bergesek lambung perahu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-05-ranting-bergesek-lambung-perahu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-05-ranting-bergesek-lambung-perahu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pelita-gowok-banyumas",
+  "jenis": "musik",
+  "judul": "Pelita (Intim, berbisik, lalu formal dan canggung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "cue-1-pelita.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/musik/cue-1-pelita.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

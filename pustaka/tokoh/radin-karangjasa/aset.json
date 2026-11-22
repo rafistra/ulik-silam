@@ -1,0 +1,27 @@
+{
+  "id": "radin-karangjasa",
+  "jenis": "tokoh",
+  "judul": "Radin",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "tokoh": [
+    "Radin"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana santri",
+      "pilihan": "Iket putih polos, baju nila, sarung kotak, bertelanjang kaki",
+      "sumber": "Gambaran umum santri miskin pertengahan abad ke-19; peci beludru belum lazim",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kiai-sadrach\\ilustrasi\\Radin.jpg"
+}

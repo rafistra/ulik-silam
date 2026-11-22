@@ -1,0 +1,21 @@
+{
+  "id": "pintu-lemari-kayu-berderit",
+  "jenis": "sfx",
+  "judul": "Pintu lemari kayu berderit",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-08-pintu-lemari-kayu-berderit.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-08-pintu-lemari-kayu-berderit.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

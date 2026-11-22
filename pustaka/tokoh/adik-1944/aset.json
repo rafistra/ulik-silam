@@ -1,0 +1,26 @@
+{
+  "id": "adik-1944",
+  "jenis": "tokoh",
+  "judul": "Adik",
+  "versi": 1,
+  "status": "draf",
+  "era": "1944",
+  "wilayah": "Pulau Numfor, Papua",
+  "tokoh": [
+    "Adik"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Kemeja putih kebesaran diikat di pinggang, celana pendek abu-abu",
+      "sumber": "Rekaan untuk remaja rakyat biasa",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

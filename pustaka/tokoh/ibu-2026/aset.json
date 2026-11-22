@@ -1,0 +1,26 @@
+{
+  "id": "ibu-2026",
+  "jenis": "tokoh",
+  "judul": "Ibu 2026",
+  "versi": 1,
+  "status": "draf",
+  "era": "2026",
+  "wilayah": "Klaten dan Jakarta",
+  "tokoh": [
+    "Ibu 2026"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana Kamis",
+      "pilihan": "Kebaya hitam polos, kerudung hitam, payung hitam",
+      "sumber": "Peserta Kamisan berbaju dan berpayung hitam (Bisnis.com; Indoleft)",
+      "status": "Terverifikasi"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

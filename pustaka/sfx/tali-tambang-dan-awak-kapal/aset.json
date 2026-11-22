@@ -1,0 +1,21 @@
+{
+  "id": "tali-tambang-dan-awak-kapal",
+  "jenis": "sfx",
+  "judul": "Tali tambang dan awak kapal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-12-tali-tambang-dan-awak-kapal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-12-tali-tambang-dan-awak-kapal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

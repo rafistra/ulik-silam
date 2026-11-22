@@ -1,0 +1,21 @@
+{
+  "id": "korek-api-dinyalakan-pintu-ditutup",
+  "jenis": "sfx",
+  "judul": "Korek api dinyalakan, pintu ditutup",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-06-korek-api-dinyalakan-pintu-ditutup.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-06-korek-api-dinyalakan-pintu-ditutup.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

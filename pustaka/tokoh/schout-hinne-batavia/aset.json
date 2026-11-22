@@ -1,0 +1,33 @@
+{
+  "id": "schout-hinne-batavia",
+  "jenis": "tokoh",
+  "judul": "Schout Hinne",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Schout Hinne"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Seragam",
+      "pilihan": "Topi putih bervisor hitam, tunik putih berkerah tinggi, revolver, sabel, sepatu bot",
+      "sumber": "Pola umum perwira sipil-polisi kolonial; sabel terhunus dicatat Java-Bode 1893 untuk schout Meester Cornelis (van Till 1996: 474)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wajah",
+      "pilihan": "Akhir 30-an, berkumis",
+      "sumber": "Tidak ada potret yang ditemukan",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-opas-si-pitung\\ilustrasi\\hinne.jpg"
+}

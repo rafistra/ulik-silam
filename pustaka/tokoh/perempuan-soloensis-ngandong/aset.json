@@ -1,0 +1,33 @@
+{
+  "id": "perempuan-soloensis-ngandong",
+  "jenis": "tokoh",
+  "judul": "Perempuan Soloensis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "tokoh": [
+    "Perempuan Soloensis"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Tinggi dan berat",
+      "pilihan": "Sekitar 158 cm, ramping dan kuat",
+      "sumber": "Tulang kering B, kemungkinan perempuan dewasa, diperkirakan milik individu 158 cm dan 51 kg (Solo Man - Wikipedia (https://en.wikipedia.org/wiki/Solo_Man))",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Kepala",
+      "pilihan": "Panjang dan rendah, dahi landai, tonjolan alis berat yang tidak menyambung, tonjolan tulang di belakang kepala",
+      "sumber": "Atap tengkorak Ngandong lonjong, alis berat yang tidak membentuk satu batang seperti Manusia Peking, dahi rendah (Solo Man - Wikipedia (https://en.wikipedia.org/wiki/Solo_Man))",
+      "status": "Terverifikasi"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-homo-soloensis-ngandong\\ilustrasi\\PerempuanSoloensis_bf5878fa.jpg"
+}

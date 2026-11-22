@@ -1,0 +1,21 @@
+{
+  "id": "teriakan-demo-dan-megafon",
+  "jenis": "sfx",
+  "judul": "Teriakan demo dan megafon",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "sfx-03-teriakan-demo-dan-megafon.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/sfx/sfx-03-teriakan-demo-dan-megafon.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

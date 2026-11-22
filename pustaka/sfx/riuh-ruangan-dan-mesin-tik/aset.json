@@ -1,0 +1,21 @@
+{
+  "id": "riuh-ruangan-dan-mesin-tik",
+  "jenis": "sfx",
+  "judul": "Riuh ruangan dan mesin tik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-03-riuh-ruangan-dan-mesin-tik.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-03-riuh-ruangan-dan-mesin-tik.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

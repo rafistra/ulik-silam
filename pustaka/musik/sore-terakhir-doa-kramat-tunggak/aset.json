@@ -1,0 +1,22 @@
+{
+  "id": "sore-terakhir-doa-kramat-tunggak",
+  "jenis": "musik",
+  "judul": "Sore terakhir (Sunyi, lelah, getir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "cue-1-sore-terakhir.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/musik/cue-1-sore-terakhir.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

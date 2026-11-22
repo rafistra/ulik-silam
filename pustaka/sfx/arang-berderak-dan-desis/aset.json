@@ -1,0 +1,21 @@
+{
+  "id": "arang-berderak-dan-desis",
+  "jenis": "sfx",
+  "judul": "Arang berderak dan desis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "file": [
+    "sfx-07-arang-berderak-dan-desis.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pemuda-bertato-petrus",
+      "berkas": "public/sfx/sfx-07-arang-berderak-dan-desis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ]
+}

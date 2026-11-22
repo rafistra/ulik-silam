@@ -1,0 +1,22 @@
+{
+  "id": "hutan-rila-maria-verhagen-saparua",
+  "jenis": "musik",
+  "judul": "Hutan Rila (Sunyi, hangat, rapuh, dengan kecemasan samar di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "cue-2-hutan-rila.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/musik/cue-2-hutan-rila.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

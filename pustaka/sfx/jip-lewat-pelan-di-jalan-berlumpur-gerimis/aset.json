@@ -1,0 +1,21 @@
+{
+  "id": "jip-lewat-pelan-di-jalan-berlumpur-gerimis",
+  "jenis": "sfx",
+  "judul": "Jip lewat pelan di jalan berlumpur, gerimis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-04-jip-lewat-pelan-di-jalan-berlumpur-gerimis.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-04-jip-lewat-pelan-di-jalan-berlumpur-gerimis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

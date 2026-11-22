@@ -1,0 +1,22 @@
+{
+  "id": "blencong-bangsawan-jawa",
+  "jenis": "musik",
+  "judul": "Blencong (Ramai khas wayang, lalu meredup ke satu gong)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "cue-3-blencong.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/musik/cue-3-blencong.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

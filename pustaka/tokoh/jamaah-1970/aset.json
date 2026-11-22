@@ -1,0 +1,20 @@
+{
+  "id": "jamaah-1970",
+  "jenis": "tokoh",
+  "judul": "Jamaah",
+  "versi": 1,
+  "status": "draf",
+  "era": "1970",
+  "wilayah": "Martapura, Kalimantan Selatan",
+  "tokoh": [
+    "Jamaah"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-jamaah-sekumpul"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-jamaah-sekumpul\\ilustrasi\\Abah Guru Sekumpul - Adegan\\Jamaah_20261024123807.jpg"
+}

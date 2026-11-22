@@ -1,0 +1,17 @@
+{
+  "id": "untung-surapati-kartasura",
+  "jenis": "tokoh",
+  "judul": "Untung Surapati",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "tokoh": [
+    "Untung Surapati"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

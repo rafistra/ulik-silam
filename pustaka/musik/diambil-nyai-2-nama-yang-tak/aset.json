@@ -1,0 +1,22 @@
+{
+  "id": "diambil-nyai-2-nama-yang-tak",
+  "jenis": "musik",
+  "judul": "Diambil (Tegang, panik, lalu hampa)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-2-diambil.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-2-nama-yang-tak-tercatat",
+      "berkas": "public/musik/cue-2-diambil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ]
+}

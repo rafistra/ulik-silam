@@ -1,0 +1,21 @@
+{
+  "id": "tetesan-air-di-sel-kosong",
+  "jenis": "sfx",
+  "judul": "Tetesan air di sel kosong",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-08-tetesan-air-di-sel-kosong.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-08-tetesan-air-di-sel-kosong.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

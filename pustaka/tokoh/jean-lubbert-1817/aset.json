@@ -1,0 +1,40 @@
+{
+  "id": "jean-lubbert-1817",
+  "jenis": "tokoh",
+  "judul": "Jean Lubbert",
+  "versi": 1,
+  "status": "draf",
+  "era": "1817",
+  "wilayah": "Saparua, Maluku",
+  "tokoh": [
+    "Jean Lubbert"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah, rambut",
+      "pilihan": "Rambut cokelat terang, mata cokelat terang",
+      "sumber": "Warna rambut dan mata tidak tercatat",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Telinga",
+      "pilihan": "Kain dibebat di atas telinga kiri",
+      "sumber": "Telinga terluka saat ditemukan (Pattimura - Wikipedia (https://en.wikipedia.org/wiki/Pattimura)); sisi kiri rekaan",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Busana",
+      "pilihan": "Kemeja dan celana katun putih anak Eropa, kusam dan sobek",
+      "sumber": "Tidak ditemukan sumber busana anak residen 1817",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-maria-verhagen-saparua\\ilustrasi\\Jean Lubbert.jpg"
+}

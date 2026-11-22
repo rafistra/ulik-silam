@@ -7,9 +7,9 @@ description: "Gunakan saat Rafi ingin brainstorming, menyusun, atau merevisi kon
 
 Alur ini dipakai pertama kali untuk "POV: Kamu Bangsawan Jawa di Abad ke-19" dan diulang untuk setiap topik sejarah baru. Tahapannya: Tahap 1 (ide dan brief), Tahap 2A (naskah dan verifikasi), Tahap 2B (visual, audio, kartu Ulikan, judul dan caption), lalu serah terima. Konsep yang sudah disetujui diubah, atau dimutakhirkan ke kontrak terbaru, lewat Tahap R (revisi).
 
-Video ini diunggah di akun **Ulik Silam** (lapisan **Sejarah**, atau **Sejarah, Legenda** bila kisah tradisional ikut dominan). Tampilan video (pembuka nyala, label lapisan, subtitle, kartu Ulikan) dipasang otomatis oleh pov-produksi; skill ini hanya menyediakan isinya.
+Video ini diunggah di akun **Ulik Silam** (lapisan **Sejarah**, atau **Sejarah, Legenda** bila kisah tradisional ikut dominan). Tampilan video (label lapisan, subtitle, kartu Ulikan) dipasang otomatis oleh pov-produksi; skill ini hanya menyediakan isinya.
 
-Skill ini berhenti di dokumen konsep. Produksi (paket bahan, proyek Remotion, render) dikerjakan skill **pov-produksi**, yang membaca KONSEP.md dalam format baku di bagian "Kontrak KONSEP.md v1.3". Komunikasi dengan Rafi dalam Bahasa Indonesia; semua prompt untuk generator AI ditulis dalam bahasa Inggris.
+Skill ini berhenti di dokumen konsep. Produksi (paket bahan, proyek Remotion, render) dikerjakan skill **pov-produksi**, yang membaca KONSEP.md dalam format baku di bagian "Kontrak KONSEP.md v1.5". Komunikasi dengan Rafi dalam Bahasa Indonesia; semua prompt untuk generator AI ditulis dalam bahasa Inggris.
 
 ## Cakupan
 
@@ -31,7 +31,7 @@ Skill ini berhenti di dokumen konsep. Produksi (paket bahan, proyek Remotion, re
 2. **Penamaan gaya.** Di skill dan dokumen ini, "Style:" selalu berarti baris penutup prompt Gemini. Untuk Suno, sebut "kolom Style of Music di Suno" (di sebagian versi aplikasi bernama "Styles"), jangan hanya "Style".
 3. **Fakta harus terverifikasi.** Setiap fakta yang muncul di narasi, teks layar, kartu Ulikan, judul, dan caption wajib dicek ke semua sumber yang tersedia sebelum diserahkan (detail di 2A.4).
 4. **Berhenti di setiap akhir tahap.** Tahap 1, 2A, 2B, dan R masing-masing diakhiri pemeriksaan, penyerahan, lalu menunggu Rafi bilang lanjut. Jangan mengerjakan tahap berikutnya tanpa persetujuan.
-5. **Durasi 2 sampai 3 menit.** Setiap video berdurasi antara 2:00 dan 3:00, termasuk ± 5 detik elemen merek Ulik Silam yang ditambahkan pov-produksi (pembuka 1,5 dtk, kartu Ulikan 3,5 dtk). Jumlah adegan dan kata diturunkan dari durasi yang dipilih (tabel di 2A.2).
+5. **Durasi 2 sampai 3 menit.** Setiap video berdurasi antara 2:00 dan 3:00, termasuk 3,5 detik kartu Ulikan yang ditambahkan pov-produksi (pembuka nyala tidak dipakai lagi sejak Oktober 2026). Jumlah adegan dan kata diturunkan dari durasi yang dipilih (tabel di 2A.2).
 
 ## Alat dan cadangannya
 
@@ -129,7 +129,7 @@ Hasil tahap ini: dokumen konsep berisi ringkasan, struktur alur, naskah adegan, 
 
 ### 2A.1 Buat dokumen
 
-Buat dokumen berjudul "Konsep Video POV: <topik>" (artifact Docs, atau `KONSEP.md` bila tidak tersedia). Semua judul bagian `##` dari Kontrak KONSEP.md v1.3 langsung dibuat dalam urutan kontrak, termasuk `## Kartu Ulikan`, tetapi di tahap ini hanya bagian berikut yang diisi:
+Buat dokumen berjudul "Konsep Video POV: <topik>" (artifact Docs, atau `KONSEP.md` bila tidak tersedia). Semua judul bagian `##` dari Kontrak KONSEP.md v1.5 langsung dibuat dalam urutan kontrak, termasuk `## Kartu Ulikan`, tetapi di tahap ini hanya bagian berikut yang diisi:
 
 - **Ringkasan konsep:** tabel keputusan dengan baris wajib kontrak (`Jumlah ilustrasi` = jumlah adegan + jumlah lembar karakter yang sudah bisa diperkirakan; diperbarui di 2B), baris `Lapisan` berisi `Sejarah` (atau `Sejarah, Legenda` bila bagian kisah tradisional banyak dan menentukan alur), baris `Latar` berisi tempat dari brief untuk sampul, tanpa tahun karena kisahnya bisa mencakup beberapa tahun (misalnya `Yogyakarta`, atau `Batavia, masa VOC` bila era perlu disebut), premis satu kalimat, baris Asumsi, benang merah cerita, dan baris "Dipilih karena ..." bila dari brainstorming.
 - **Struktur alur:** diagram timeline babak sesuai skala waktu dengan garis batas durasi (atau tabel babak).
@@ -149,10 +149,10 @@ Panjang naskah diturunkan dari durasi yang dipilih:
 | 2:30 | ±2:20 | 13 sampai 15 | 4 sampai 5 | ±260 sampai 270 |
 | 3:00 | ±2:50 | 15 sampai 18 | 5 sampai 6 | ±320 sampai 335 |
 
-Durasi di antara baris tabel dihitung dengan rumus yang sama. pov-produksi menambahkan jeda 0,9 detik di setiap adegan, 1,5 detik di setiap adegan hening, dan ± 5 detik elemen merek Ulik Silam, jadi batas kata dihitung dari waktu yang tersisa untuk narasi:
+Durasi di antara baris tabel dihitung dengan rumus yang sama. pov-produksi menambahkan jeda 0,9 detik di setiap adegan, 1,5 detik di setiap adegan hening, dan 3,5 detik kartu Ulikan, jadi batas kata dihitung dari waktu yang tersisa untuk narasi:
 
 ```
-kata maksimum = (target detik − 5 − 0,9 × jumlah adegan − 1,5 × jumlah adegan hening) × kpm / 60
+kata maksimum = (target detik − 3,5 − 0,9 × jumlah adegan − 1,5 × jumlah adegan hening) × kpm / 60
 ```
 
 dengan kpm 130 sampai 135. Angka bawah (130 kpm) adalah batas aman, terutama untuk narator AI yang diberi emosi dan cenderung lebih lambat. Tag suara tidak dihitung sebagai kata, tetapi tag bunyi (misalnya `[sighs]`, `[exhales]`, `[laughs]`) dan setiap elipsis diperkirakan menambah ± 0,5 detik; kurangi waktu narasi sebanyak itu. Hitung dengan skrip bila shell tersedia.
@@ -218,7 +218,7 @@ Perubahan dari Rafi selama 2A dikerjakan langsung di tahap ini (bukan Tahap R), 
 
 ## Tahap 2B: Visual, audio, kartu Ulikan, dan caption
 
-Hasil tahap ini: dokumen konsep lengkap yang memenuhi Kontrak KONSEP.md v1.3, plus file `KONSEP.md` untuk diserahkan ke pov-produksi.
+Hasil tahap ini: dokumen konsep lengkap yang memenuhi Kontrak KONSEP.md v1.5, plus file `KONSEP.md` untuk diserahkan ke pov-produksi.
 
 **Naskah dari 2A dikunci.** Jika saat menulis prompt atau audio ternyata ada adegan yang perlu diubah (misalnya sulit digambar Gemini atau terlalu mirip adegan lain), usulkan perubahannya ke Rafi dan jangan mengubah narasi diam-diam. Perubahan narasi yang disetujui memicu pemeriksaan ulang 2A.5 untuk adegan itu.
 
@@ -293,7 +293,7 @@ Video tampil di kanvas 1080 × 1920: teks layar di sepertiga atas, subtitle dan 
 
 **Palet dan cahaya**
 
-Palet dan cahaya diselaraskan dengan identitas Ulik Silam ("pelita di kegelapan masa silam"): warna tanah yang hangat, bayangan dalam, dan sumber cahaya hangat (pelita, obor, matahari rendah) bila adegannya memungkinkan. Hindari palet neon atau dingin jenuh. Hook dan adegan terakhir diutamakan bercahaya redup dengan satu sumber cahaya hangat, agar menyambung dengan pembuka nyala dan kartu Ulikan yang gelap.
+Palet dan cahaya diselaraskan dengan identitas Ulik Silam ("pelita di kegelapan masa silam"): warna tanah yang hangat, bayangan dalam, dan sumber cahaya hangat (pelita, obor, matahari rendah) bila adegannya memungkinkan. Hindari palet neon atau dingin jenuh. Hook dan adegan terakhir diutamakan bercahaya redup dengan satu sumber cahaya hangat, agar menyambung dengan kartu Ulikan yang gelap.
 
 ### 2B.2 Prompt ilustrasi
 
@@ -492,7 +492,7 @@ Sebelum menyerahkan dokumen, pastikan:
 - [ ] Judul YouTube ≤ 100 karakter (dihitung skrip); baris pembuka caption ≤ ±100 karakter; 3 sampai 5 hashtag per platform; penanda dramatisasi ada di setiap caption.
 - [ ] Setiap fakta di judul, caption, dan kartu Ulikan ada di tabel verifikasi.
 - [ ] Kartu Ulikan terisi (Teks ≤ ±15 kata, Sumber untuk fakta); `Lapisan` = `Sejarah` atau `Sejarah, Legenda`; `Latar` berisi tempat tanpa tahun.
-- [ ] Dokumen lolos daftar periksa Kontrak KONSEP.md v1.3 (judul bagian, kolom tabel, penanda adegan, slug, lapisan, kartu Ulikan).
+- [ ] Dokumen lolos daftar periksa Kontrak KONSEP.md v1.5 (judul bagian, kolom tabel, penanda adegan, slug, lapisan, kartu Ulikan).
 
 Serahkan dengan satu baris ringkasan, 3 pilihan judul, 2 pilihan isi kartu Ulikan, sebutkan cadangan alat yang dipakai (bila ada), lalu tanyakan apakah Rafi mau menyetujui konsep atau mengubah bagian tertentu. **Berhenti dan tunggu.**
 
@@ -527,20 +527,20 @@ Jika konsepnya tidak ada di percakapan, minta Rafi melampirkan `KONSEP.md` atau 
 - Jalankan daftar periksa kontrak pada konsep yang ada (dengan skrip bila shell tersedia).
 - Catat versi saat ini dari baris `Versi`; jika tidak ada, anggap `v1`.
 - Jika konsep masih format lama (sebelum kontrak v1, misalnya kolom gabungan `Teks layar / suara` atau tanpa `Slug`), ubah dulu ke format v1 dan sebutkan penyesuaiannya. Perubahan format ini tidak mengubah isi.
-- Jika konsep belum memenuhi kontrak v1.3, kerjakan R.2a, juga saat jalur masuknya revisi biasa.
+- Jika konsep belum memenuhi kontrak v1.5, kerjakan R.2a, juga saat jalur masuknya revisi biasa.
 
-### R.2a Pemutakhiran ke kontrak v1.3
+### R.2a Pemutakhiran ke kontrak v1.5
 
 Pemutakhiran menambah bagian yang belum ada tanpa mengubah narasi, prompt, atau audio yang sudah disetujui.
 
 1. **Ringkasan konsep:** tambahkan baris `Lapisan` = `Sejarah` (atau `Sejarah, Legenda`, lihat Cakupan) dan baris `Latar` (tempat tanpa tahun, diambil dari isi konsep). Bila `Latar` lama memuat tahun, hapus tahunnya. Bila teks kartu Ulikan lebih dari ±15 kata, pangkas dan tawarkan versi pendeknya.
 2. **Lembar karakter:** ganti label lama `**0A · <Nama tokoh>**`, `**0B · ...**` menjadi `**Lembar karakter · <Nama tokoh>**`, dan ubah "Same character as the reference image." di prompt adegan menjadi "Same character as the <Nama tokoh> reference image.". Ini perubahan label, bukan isi; ilustrasi yang sudah dibuat tidak perlu diulang.
 3. **Kartu Ulikan:** bila belum ada, tulis bagian `## Kartu Ulikan` sesuai 2B.5, di antara `## Panduan narasi dan audio` dan `## Judul, caption, dan hashtag`. Ini isi baru: verifikasi faktanya, tawarkan 2 pilihan, dan tunggu Rafi memilih.
-4. **Durasi:** hitung ulang perkiraan durasi dengan tambahan ± 5 detik elemen merek. Jika lewat batas, perlakukan sebagai kasus "Durasi lewat batas" di R.4 dan usulkan pemangkasan; Rafi yang memilih.
+4. **Durasi:** hitung ulang perkiraan durasi dengan tambahan 3,5 detik kartu Ulikan. Jika lewat batas, perlakukan sebagai kasus "Durasi lewat batas" di R.4 dan usulkan pemangkasan; Rafi yang memilih.
 5. **Prompt ilustrasi dan musik (2B.1 sampai 2B.3):** jangan menulis ulang prompt yang sudah dipakai. Bila ilustrasi belum dibuat, tawarkan (tidak wajib) penyesuaian prompt ke aturan terbaru: riset budaya dan pakaian beserta `### Catatan akurasi visual`, kalimat tata letak zona dihapus, figuran yang dibedakan, arah pandang, ekspresi, gerak, tangan baku dan lembar "kamu" untuk bidikan A, serta palet. Bila musik belum dibuat, tambahkan durasi target ke blok Style of Music (sama dengan tabel cue). Bila Rafi setuju, perlakukan sebagai perubahan penampilan tokoh atau visual di R.4.
 6. **Suara narator:** tambahkan baris `**Model:**`, `**Voice:**`, dan `**Stability:**` di `### Suara narator`.
 7. **Narasi lengkap:** tambahkan `### Narasi lengkap (ElevenLabs)` sesuai 2B.3, disalin dari kolom Narasi apa adanya. Bila narasi belum direkam dan belum bertag per kalimat, tawarkan (tidak wajib) penambahan tag emosi per kalimat sesuai 2A.2a; bila Rafi setuju, ubah kolom Narasi dan blok ini bersamaan. Teks narasi tidak berubah, jadi fakta tidak perlu diverifikasi ulang.
-8. Naikkan `Versi` dan isi Riwayat revisi dengan "Pemutakhiran ke kontrak v1.3" seperti di R.6. Dampak ke produksi: tidak ada aset yang perlu dibuat ulang.
+8. Naikkan `Versi` dan isi Riwayat revisi dengan "Pemutakhiran ke kontrak v1.5" seperti di R.6. Dampak ke produksi: tidak ada aset yang perlu dibuat ulang.
 
 Jika jalurnya hanya pemutakhiran, lanjut langsung ke R.7 setelah Rafi memilih isi kartu Ulikan.
 
@@ -589,7 +589,7 @@ Kasus khusus dari pov-produksi:
 
 ### R.7 Pemeriksaan dan titik berhenti
 
-- [ ] Daftar periksa Kontrak KONSEP.md v1.3 dijalankan ulang untuk seluruh dokumen (penomoran ulang mudah merusak kecocokan antarbagian).
+- [ ] Daftar periksa Kontrak KONSEP.md v1.5 dijalankan ulang untuk seluruh dokumen (penomoran ulang mudah merusak kecocokan antarbagian).
 - [ ] Butir 2A.5 dijalankan untuk adegan yang narasinya berubah; butir 2B.7 untuk prompt, audio, kartu Ulikan, dan caption yang berubah.
 - [ ] Jumlah kata dan perkiraan durasi masih sesuai tabel 2A.2.
 - [ ] Baris `Versi` naik dan Riwayat revisi terisi.
@@ -603,9 +603,9 @@ Serahkan:
 
 **Berhenti dan tunggu.**
 
-## Kontrak KONSEP.md v1.3
+## Kontrak KONSEP.md v1.5
 
-Format ini dibaca otomatis oleh skill pov-produksi dan harus identik dengan kontrak di skill itu. Konsep v1 tetap terbaca: bagian dan baris baru di v1.1, v1.2, dan v1.3 boleh tidak ada, dan label lama lembar karakter tetap diterima. Judul bagian `##` ditulis persis seperti di bawah dan berurutan. Bagian bertanda (opsional) boleh tidak ada. Skill ini selalu mengisi `Lapisan`, `Latar`, dan `## Kartu Ulikan`.
+Format ini dibaca otomatis oleh skill pov-produksi dan harus identik dengan kontrak di skill itu. Konsep v1 tetap terbaca: bagian dan baris baru di v1.1 sampai v1.5 boleh tidak ada, dan label lama lembar karakter tetap diterima. Judul bagian `##` ditulis persis seperti di bawah dan berurutan. Bagian bertanda (opsional) boleh tidak ada. Skill ini selalu mengisi `Lapisan`, `Latar`, dan `## Kartu Ulikan`.
 
 1. `# Konsep Video POV: <topik>`
 2. `## Ringkasan konsep` berisi tabel `| Keputusan | Isi |` dengan baris wajib: `Judul`, `Slug` (kebab-case huruf kecil, dipakai sebagai nama folder proyek, misalnya `pov-francois-tack`), `Durasi` (tulis batas dan target, misalnya `3:00 maksimum, target ±2:50`), `Rasio` (misalnya `9:16`), `Platform`, `Posisi "kamu"`, `Jumlah ilustrasi`. Baris opsional: `Versi` berformat `v<n> · <YYYY-MM-DD>` (tidak ada = `v1`); `Lapisan` berisi satu atau dua dari `Sejarah`, `Legenda`, `Mitos`, `Rekaan`, dipisah koma, lapisan utama lebih dulu (misalnya `Sejarah, Legenda`); `Latar` berisi tempat untuk sampul, tanpa tahun (misalnya `Yogyakarta`, atau dengan keterangan era seperti `Batavia, masa VOC`). Baris lain bebas.
@@ -621,11 +621,20 @@ Format ini dibaca otomatis oleh skill pov-produksi dan harus identik dengan kont
    - `Narasi` teks narasi lengkap tanpa tanda kutip pembuka/penutup tambahan; ini sumber kebenaran narasi. Boleh memuat tag suara Eleven v3 dalam kurung siku, huruf kecil, bahasa Inggris (misalnya `[whispers]`), ditaruh tepat sebelum frasa yang dipengaruhinya, dan elipsis `...` untuk jeda. Tag dibuang dari subtitle dan tidak dihitung sebagai kata; elipsis tetap tampil.
    - `Teks layar` teks yang tampil di layar tanpa tanda kutip; beberapa teks berurutan dipisah ` / `; isi `-` bila tidak ada.
    - `Suara` deskripsi suara bebas (untuk manusia; SFX yang dipasang diambil dari tabel Efek suara).
-   - Adegan hening ditandai `**Momen hening**` di kolom visual; adegan epilog ditandai `**Epilog**`.
+   - Adegan hening ditandai `**Momen hening**` di kolom visual; adegan epilog ditandai `**Epilog**`; adegan peta animasi ditandai `**Peta animasi**` (datanya di bagian 6a, dan tetap punya prompt cadangan di bagian 6).
 6. `## Prompt ilustrasi untuk Gemini` berisi:
    - `### Lembar karakter` dengan setiap lembar sebagai baris `**Lembar karakter · <Nama tokoh>**` diikuti satu blok kode prompt; nama tokoh unik dan ditulis persis sama di prompt adegan yang merujuknya (label lama `**0A · <Nama tokoh>**` dari kontrak v1 tetap diterima);
    - setiap adegan sebagai baris `**Adegan <n> · Narasi (<m:ss–m:ss>):** <narasi>` diikuti satu blok kode prompt; subjudul babak di antaranya boleh ada.
    - Setiap blok kode prompt diakhiri baris penutup dari bagian Gaya visual.
+6a. `## Peta animasi` (opsional; v1.4, diperluas di v1.5) untuk adegan yang kolom `Bidikan dan visual`-nya memuat `**Peta animasi**`. Satu subjudul per adegan peta, `### Adegan <n>`, berisi:
+   - baris `**Bingkai:** <bujur barat>–<bujur timur> BT, <lintang selatan>–<lintang utara> LU` dalam derajat desimal (lintang selatan dan bujur barat ditulis negatif);
+   - baris `**Sungai dan garis:** <nama>, <nama>` (sungai, pantai, atau jalan yang digambar; `-` bila tidak ada);
+   - baris `**Batas:** <nama batas> (<tahun berlaku>; <sumber>; <gaya>; <status>), ...` (sejak v1.5): gaya `garis` (batas pasti), `arsiran` (wilayah berbentuk tetapi tepinya tidak pasti), atau `pancaran` (kekuasaan yang melemah dari pusat; tambahkan `pusat <bujur>, <lintang>`); status `terverifikasi` atau `perkiraan`; boleh ditambah `pemicu <kata>` bila batas muncul saat disebut. Hanya batas yang sudah ada di masa adegan itu; `-` bila tidak ada batas;
+   - baris `**GeoJSON:** <nama-berkas.geojson>, ...` untuk fitur atau batas yang tidak ada di data dasar, disimpan di `public/peta/`; `-` bila tidak perlu;
+   - baris opsional `**Jejak sebelumnya:** <nama titik>, <nama titik>, ...` beserta koordinatnya dalam kurung `(bujur, lintang)` (rute dari part sebelumnya, digambar redup);
+   - tabel `| Titik | Nama di peta | Bujur | Lintang | Ikon | Pemicu | Status |` (kolom `Ikon` sejak v1.5; tabel v1.4 tanpa kolom itu tetap dibaca): titik berurutan sepanjang rute; `Nama di peta` label yang tampil (tanpa tag; `-` untuk titik belok tanpa label); `Ikon` `umum:<nama>` dari pustaka, `khusus:<slug>`, atau `-`; `Pemicu` kata atau frasa yang tertulis persis di narasi adegan itu dan menandai saat rute tiba di titik itu (`awal` untuk titik pertama, `-` untuk titik belok); `Status` `terverifikasi` atau `perkiraan`;
+   - subbagian opsional `**Ikon khusus:**` (sejak v1.5): per ikon, baris `- <slug>: <bangunan | lambang (panji | perisai)>; <deskripsi bentuk singkat>; sumber <sumber bentuk>`, lalu blok kode prompt Gemini dalam bahasa Inggris (satu objek di tengah, tampak depan tiga perempat, latar polos satu warna, tanpa tulisan, tanpa bayangan jatuh) diakhiri `Style: detailed vector art` dan `Aspect ratio: 1:1`. Ikon khusus juga boleh dipakai tanpa titik rute dengan menyebut `pemicu <kata>` dan koordinatnya di baris itu.
+   Bila ada titik berstatus `perkiraan`, peta menampilkan catatan kecil "rute perkiraan"; bila ada batas berstatus `perkiraan`, catatan "batas perkiraan".
 7. `## Panduan narasi dan audio` berisi:
    - `### Suara narator` berisi baris opsional `**Model:** <model ElevenLabs, misalnya Eleven v3>`, `**Voice:** <nama voice atau ->`, `**Stability:** <Creative, Natural, atau Robust>`, lalu arahan bebas (boleh per babak);
    - `### Narasi lengkap (ElevenLabs)` (opsional; tidak dibaca otomatis, hanya dicocokkan) berisi untuk tiap babak baris `**Babak <n>: <nama>**` diikuti satu blok kode: narasi babak itu dengan tag persis, satu paragraf per adegan, urut, dipisah satu baris kosong, setiap paragraf diakhiri `...` (tidak ditambah bila sudah berakhir elipsis). Isinya harus sama dengan kolom Narasi di naskah; bila berbeda, kolom Narasi yang berlaku;
@@ -640,4 +649,4 @@ Format ini dibaca otomatis oleh skill pov-produksi dan harus identik dengan kont
 12. `## Sumber` (opsional).
 13. `## Ide cadangan` (opsional).
 
-Daftar periksa kontrak: semua judul bagian wajib ada; jumlah baris naskah = jumlah prompt adegan = nomor adegan terbesar; setiap tabel memakai kolom persis; Slug terisi; baris Penutup prompt ada dan setiap prompt diakhiri isinya; setiap subjudul platform punya satu blok kode caption; `Lapisan` (bila ada) berisi satu atau dua nilai sah tanpa duplikat; nama tokoh di lembar karakter unik; `## Kartu Ulikan` (bila ada) memuat baris Teks dan Sumber; tag suara `[...]` hanya ada di kolom Narasi dan `### Narasi lengkap (ElevenLabs)` (tidak di Teks layar, kartu Ulikan, judul, atau caption); `### Narasi lengkap (ElevenLabs)` (bila ada) punya satu blok per babak dan isinya sama dengan kolom Narasi.
+Daftar periksa kontrak: semua judul bagian wajib ada; jumlah baris naskah = jumlah prompt adegan = nomor adegan terbesar; setiap tabel memakai kolom persis; Slug terisi; baris Penutup prompt ada dan setiap prompt diakhiri isinya; setiap subjudul platform punya satu blok kode caption; `Lapisan` (bila ada) berisi satu atau dua nilai sah tanpa duplikat; nama tokoh di lembar karakter unik; `## Kartu Ulikan` (bila ada) memuat baris Teks dan Sumber; tag suara `[...]` hanya ada di kolom Narasi dan `### Narasi lengkap (ElevenLabs)` (tidak di Teks layar, kartu Ulikan, judul, atau caption); `### Narasi lengkap (ElevenLabs)` (bila ada) punya satu blok per babak dan isinya sama dengan kolom Narasi; setiap adegan bertanda `**Peta animasi**` punya `### Adegan <n>` di `## Peta animasi` dan sebaliknya, dengan setiap `Pemicu` (selain `awal` dan `-`) tertulis di narasi adegan itu dan setiap ikon `khusus:` punya entri di `**Ikon khusus:**`.

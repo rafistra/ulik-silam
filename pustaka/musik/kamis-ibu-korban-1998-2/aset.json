@@ -1,0 +1,22 @@
+{
+  "id": "kamis-ibu-korban-1998-2",
+  "jenis": "musik",
+  "judul": "Kamis (Teguh, khidmat, menggantung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "cue-3-kamis.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/musik/cue-3-kamis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

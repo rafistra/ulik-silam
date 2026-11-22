@@ -1,0 +1,45 @@
+{
+  "id": "petani-kemusu",
+  "jenis": "tokoh",
+  "judul": "Petani Kemusu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kemusu, Boyolali",
+  "tokoh": [
+    "Petani Kemusu"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Caping anyaman bambu",
+      "sumber": "Caping dikenal di Indonesia (Wikipedia: Asian conical hat (https://en.wikipedia.org/wiki/Asian_conical_hat))",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Pakaian kerja",
+      "pilihan": "Kaus oblong pudar, celana pendek, sarung kotak di bahu, tanpa alas kaki di sawah",
+      "sumber": "Pakaian kerja petani desa umum; tidak ada sumber khusus Kemusu",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wajah dan jam tangan",
+      "pilihan": "Wajah, bekas luka, dan jam tangan baja sebagai penanda kesinambungan tangan",
+      "sumber": "Tokoh rekaan",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Busana keraton",
+      "pilihan": "Blangkon, beskap, batik keraton",
+      "sumber": "Busana upacara, bukan pakaian kerja sawah",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-petani-kedung-ombo"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-petani-kedung-ombo\\ilustrasi\\POV Petani Kedung Ombo - Adegan\\PetaniKemusu_20261027112433.jpg"
+}

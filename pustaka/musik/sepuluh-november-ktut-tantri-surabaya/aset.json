@@ -1,0 +1,22 @@
+{
+  "id": "sepuluh-november-ktut-tantri-surabaya",
+  "jenis": "musik",
+  "judul": "Sepuluh November (Teror pemboman, lalu elegi sunyi)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-3-sepuluh-november.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/musik/cue-3-sepuluh-november.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

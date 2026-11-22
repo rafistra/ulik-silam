@@ -1,0 +1,22 @@
+{
+  "id": "payung-dan-nama-romusha-numfor",
+  "jenis": "musik",
+  "judul": "Payung dan nama (Kacau, lalu elegi pelan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Numfor, Papua",
+  "file": [
+    "cue-3-payung-dan-nama.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-romusha-numfor",
+      "berkas": "public/musik/cue-3-payung-dan-nama.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-romusha-numfor"
+  ]
+}

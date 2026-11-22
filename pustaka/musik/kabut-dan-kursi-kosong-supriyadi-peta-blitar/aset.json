@@ -1,0 +1,22 @@
+{
+  "id": "kabut-dan-kursi-kosong-supriyadi-peta-blitar",
+  "jenis": "musik",
+  "judul": "Kabut dan kursi kosong (Sunyi, melankolis, menggantung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blitar",
+  "file": [
+    "cue-3-kabut-dan-kursi-kosong.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-supriyadi-peta-blitar",
+      "berkas": "public/musik/cue-3-kabut-dan-kursi-kosong.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-supriyadi-peta-blitar"
+  ]
+}

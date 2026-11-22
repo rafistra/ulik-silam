@@ -1,0 +1,22 @@
+{
+  "id": "rapat-dan-garis-santri-resolusi-jihad",
+  "jenis": "musik",
+  "judul": "Rapat dan garis (Tertahan, berat, menuju hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "cue-2-rapat-dan-garis.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-santri-resolusi-jihad",
+      "berkas": "public/musik/cue-2-rapat-dan-garis.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-santri-resolusi-jihad"
+  ]
+}

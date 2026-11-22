@@ -1,0 +1,34 @@
+{
+  "id": "mohammad-yamin-1928",
+  "jenis": "tokoh",
+  "judul": "Mohammad Yamin",
+  "versi": 1,
+  "status": "draf",
+  "era": "1928",
+  "wilayah": "Batavia",
+  "tokoh": [
+    "Mohammad Yamin"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Wajah bulat, rambut hitam ikal disisir ke belakang",
+      "sumber": "Potret 1928 tidak ditemukan di sumber yang dibuka",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Jas gelap, kemeja putih, dasi, tanpa penutup kepala",
+      "sumber": "Disamakan dengan cameo Yamin di konsep pov-supratman-sumpah-pemuda (adegan 10); penampilan aslinya tahun 1928 tidak ditemukan",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-yamin-kongres-pemuda"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-yamin-kongres-pemuda\\ilustrasi\\Yamin28\\MohammadYamin_20261027215241.jpg"
+}

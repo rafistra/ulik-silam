@@ -1,0 +1,21 @@
+{
+  "id": "ombak-pelan-di-laut-sunyi",
+  "jenis": "sfx",
+  "judul": "Ombak pelan di laut sunyi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-13-ombak-pelan-di-laut-sunyi.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-13-ombak-pelan-di-laut-sunyi.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

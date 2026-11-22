@@ -1,0 +1,21 @@
+{
+  "id": "derit-anak-tangga-kayu",
+  "jenis": "sfx",
+  "judul": "Derit anak tangga kayu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-08-derit-anak-tangga-kayu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-08-derit-anak-tangga-kayu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

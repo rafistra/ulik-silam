@@ -1,0 +1,34 @@
+{
+  "id": "kelasi-loudon-1883",
+  "jenis": "tokoh",
+  "judul": "Kelasi Loudon",
+  "versi": 1,
+  "status": "draf",
+  "era": "1883",
+  "wilayah": "Selat Sunda",
+  "tokoh": [
+    "Kelasi Loudon"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Asal dan peran",
+      "pilihan": "Kelasi Jawa di kapal pos Hindia",
+      "sumber": "Susunan awak Loudon tidak tercatat di sumber yang dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Busana",
+      "pilihan": "Ikat kepala kain merah-cokelat, jaket longgar tanpa kerah warna nila, celana gelap digulung, sarung kotak-kotak diikat sebagai sabuk, tanpa alas kaki",
+      "sumber": "Gambaran orang Jawa kebanyakan: ikat kepala, jaket, dan sarung pada pelat Raffles 1817 (NYPL (https://digitalcollections.nypl.org/items/7352b760-c54c-012f-c84e-58d385a7bc34); Meisterdrucke (https://meisterdrucke.us/fine-art-prints/William-Daniell/144895/A-Javan-of-the-Lower-Class,-plate-2-from-Vol.-I-of-'The-History-of-Java'-by-Thomas-Stamford-Raffles,-pub.-1817.html)); kain kotak-kotak untuk rakyat (Revianur, Prosiding Simposium Busana Keraton Yogyakarta 2020 (https://symposium.kratonjogja.id/2020/assets/Proceeding%20Symposium%202020.pdf)); serdadu pribumi masih bertelanjang kaki di 1870-an (Bulletin Rijksmuseum (https://bulletin.rijksmuseum.nl/article/download/20057/21731/49584)); busana kerja pelaut 1883 tidak ditemukan",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kelasi-loudon-krakatau\\ilustrasi\\POV Kelasi Kapal Loudon, Krakatau 1883 - Adegan\\KelasiLoudon_fd6d0afc.jpg"
+}

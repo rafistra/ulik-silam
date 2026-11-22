@@ -1,0 +1,21 @@
+{
+  "id": "tombol-radio-kaset-ditekan-pita-berputar",
+  "jenis": "sfx",
+  "judul": "Tombol radio kaset ditekan, pita berputar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-05-tombol-radio-kaset-ditekan-pita-berputar.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-05-tombol-radio-kaset-ditekan-pita-berputar.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

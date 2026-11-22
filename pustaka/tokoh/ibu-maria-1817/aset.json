@@ -1,0 +1,28 @@
+{
+  "id": "ibu-maria-1817",
+  "jenis": "tokoh",
+  "judul": "Ibu Maria",
+  "versi": 1,
+  "status": "draf",
+  "era": "1817",
+  "wilayah": "Saparua, Maluku",
+  "tokoh": [
+    "Ibu Maria"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana",
+      "pilihan": "Blus model kebaya katun hitam, sarung kotak biru tua-hitam, rambut disanggul",
+      "sumber": "Perempuan Ambon yang lebih tua biasanya berbusana hitam (Ambonese people - Wikipedia (https://en.wikipedia.org/wiki/Ambonese_people))",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-maria-verhagen-saparua\\ilustrasi\\Ibu Maria.jpg"
+}

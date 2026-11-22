@@ -1,0 +1,22 @@
+{
+  "id": "pelayaran-kelasi-loudon-krakatau",
+  "jenis": "musik",
+  "judul": "Pelayaran (Pelayaran tropis yang ringan, perlahan diselimuti firasat buruk)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "cue-1-pelayaran.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/musik/cue-1-pelayaran.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

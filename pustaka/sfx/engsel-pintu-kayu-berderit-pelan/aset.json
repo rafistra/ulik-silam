@@ -1,0 +1,21 @@
+{
+  "id": "engsel-pintu-kayu-berderit-pelan",
+  "jenis": "sfx",
+  "judul": "Engsel pintu kayu berderit pelan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-08-engsel-pintu-kayu-berderit-pelan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-08-engsel-pintu-kayu-berderit-pelan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

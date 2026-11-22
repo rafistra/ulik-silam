@@ -1,0 +1,21 @@
+{
+  "id": "denting-mangkuk-dan-sutil-tukang-bakmi-langkah",
+  "jenis": "sfx",
+  "judul": "Denting mangkuk dan sutil tukang bakmi, langkah di gang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-03-denting-mangkuk-dan-sutil-tukang-bakmi-langkah-di-gang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-03-denting-mangkuk-dan-sutil-tukang-bakmi-langkah-di-gang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

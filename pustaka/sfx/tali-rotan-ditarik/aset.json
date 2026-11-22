@@ -1,0 +1,21 @@
+{
+  "id": "tali-rotan-ditarik",
+  "jenis": "sfx",
+  "judul": "Tali rotan ditarik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-03-tali-rotan-ditarik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-03-tali-rotan-ditarik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

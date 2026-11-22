@@ -1,0 +1,22 @@
+{
+  "id": "gula-dan-desas-desus-buruh-gula-geger-pacinan",
+  "jenis": "musik",
+  "judul": "Gula dan desas-desus (Resah tertahan, kerja, kecemasan merayap)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa VOC",
+  "file": [
+    "cue-1-gula-dan-desas-desus.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-buruh-gula-geger-pacinan",
+      "berkas": "public/musik/cue-1-gula-dan-desas-desus.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-buruh-gula-geger-pacinan"
+  ]
+}

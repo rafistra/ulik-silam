@@ -7,7 +7,8 @@ dist/
 # Setelan lokal per device
 .env
 
-# Aset berat: disimpan di cloud drive ($ASET_DIR), bukan di repo
+# Aset berat: disimpan di $ASET_DIR (bawaan: folder aset/ di repo ini), bukan di git
+aset/
 *.png
 *.jpg
 *.jpeg
@@ -37,3 +38,6 @@ desktop.ini
 
 # Berkas sementara yang menunggu dihapus manual
 _to_delete/
+
+# Python
+__pycache__/

@@ -1,0 +1,22 @@
+{
+  "id": "malam-perlawanan-buruh-gula-geger-pacinan",
+  "jenis": "musik",
+  "judul": "Malam perlawanan (Heroik, megah, membara, berhenti mendadak)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa VOC",
+  "file": [
+    "cue-2-malam-perlawanan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-buruh-gula-geger-pacinan",
+      "berkas": "public/musik/cue-2-malam-perlawanan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-buruh-gula-geger-pacinan"
+  ]
+}

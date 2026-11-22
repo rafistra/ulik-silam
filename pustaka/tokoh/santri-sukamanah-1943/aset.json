@@ -1,0 +1,46 @@
+{
+  "id": "santri-sukamanah-1943",
+  "jenis": "tokoh",
+  "judul": "Santri Sukamanah",
+  "versi": 1,
+  "status": "draf",
+  "era": "1943",
+  "wilayah": "Sukamanah, Singaparna",
+  "tokoh": [
+    "Santri Sukamanah"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Peci dan sarung",
+      "pilihan": "Peci beludru hitam, sarung kotak",
+      "sumber": "Kopiah dan sarung sebagai identitas pesantren masa kolonial (Al-Iman, Kopertais IV (https://ejournal.kopertais4.or.id/madura/index.php/aliman/article/view/7632))",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Baju",
+      "pilihan": "Kemeja katun putih tanpa kerah, kancing kain, lengan digulung",
+      "sumber": "Pakaian sehari-hari santri desa; tidak ada sumber khusus Sukamanah",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wajah, tahi lalat di tangan, tasbih di pergelangan",
+      "pilihan": "Penanda kesinambungan tokoh rekaan",
+      "sumber": "Tokoh rekaan",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Baju koko bersulam modern",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Busana modern",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-santri-sukamanah"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-santri-sukamanah\\ilustrasi\\Santri Sukamanah\\SantriSukamanah_30615326.jpg"
+}

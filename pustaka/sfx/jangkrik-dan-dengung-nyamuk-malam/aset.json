@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-dan-dengung-nyamuk-malam",
+  "jenis": "sfx",
+  "judul": "Jangkrik dan dengung nyamuk malam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "sfx-05-jangkrik-dan-dengung-nyamuk-malam.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-opas-si-pitung",
+      "berkas": "public/sfx/sfx-05-jangkrik-dan-dengung-nyamuk-malam.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ]
+}

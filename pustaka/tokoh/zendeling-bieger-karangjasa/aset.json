@@ -1,0 +1,19 @@
+{
+  "id": "zendeling-bieger-karangjasa",
+  "jenis": "tokoh",
+  "judul": "Zendeling Bieger",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "tokoh": [
+    "Zendeling Bieger"
+  ],
+  "alat": "Gemini",
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-kiai-sadrach\\ilustrasi\\bieger.jpg"
+}

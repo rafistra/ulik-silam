@@ -1,0 +1,21 @@
+{
+  "id": "kipas-angin-langit-langit-sendok-beradu",
+  "jenis": "sfx",
+  "judul": "Kipas angin langit-langit, sendok beradu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-06-kipas-angin-langit-langit-sendok-beradu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-06-kipas-angin-langit-langit-sendok-beradu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

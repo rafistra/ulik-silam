@@ -1,0 +1,45 @@
+{
+  "id": "si-pitung-batavia",
+  "jenis": "tokoh",
+  "judul": "Si Pitung",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Si Pitung"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kostum utama",
+      "pilihan": "Pangsi merah (atas permintaan Rafi, v2), kaus dalam putih, selempang hijau, kopiah hitam, sarung kotak di leher, golok, gelang akar bahar, terompah",
+      "sumber": "Penggambaran populer Pitung: kebudayaanbetawi.com (https://www.kebudayaanbetawi.com/3799/sarung-dalam-ekspresi-kesenian-betawi-bagian-4/); pangsi sebagai busana rakyat dan pesilat: GNFI (https://www.goodnewsfromindonesia.id/2019/10/30/mengenal-rupa-rupa-busana-khas-betawi)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Adegan 11–12",
+      "pilihan": "Celana pendek, sabuk peluru, revolver, tanpa sarung",
+      "sumber": "De Locomotief 19-10-1893 lewat van Till 1996: 475; revolver juga di Hindia Olanda lewat Liputan6",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Wajah",
+      "pilihan": "Akhir 20-an, kumis tipis",
+      "sumber": "Tidak ada potret; perkiraan lahir 1864–1866 (Liputan6)",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Ikat kepala merah-putih, kemeja batik modern",
+      "pilihan": "Dimasukkan ke kalimat Avoid",
+      "sumber": "Unsur kostum modern yang sering muncul di gambar populer",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-opas-si-pitung"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-opas-si-pitung\\ilustrasi\\pitung.jpg"
+}

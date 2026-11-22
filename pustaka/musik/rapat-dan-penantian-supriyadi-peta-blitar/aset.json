@@ -1,0 +1,22 @@
+{
+  "id": "rapat-dan-penantian-supriyadi-peta-blitar",
+  "jenis": "musik",
+  "judul": "Rapat dan penantian (Senyap, tegang, menahan napas)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blitar",
+  "file": [
+    "cue-1-rapat-dan-penantian.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-supriyadi-peta-blitar",
+      "berkas": "public/musik/cue-1-rapat-dan-penantian.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-supriyadi-peta-blitar"
+  ]
+}

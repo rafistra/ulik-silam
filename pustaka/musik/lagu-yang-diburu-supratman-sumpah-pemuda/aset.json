@@ -1,0 +1,22 @@
+{
+  "id": "lagu-yang-diburu-supratman-sumpah-pemuda",
+  "jenis": "musik",
+  "judul": "Lagu yang diburu (Dingin dan getir, lalu hangat dan lega di adegan 15)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "file": [
+    "cue-3-lagu-yang-diburu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-supratman-sumpah-pemuda",
+      "berkas": "public/musik/cue-3-lagu-yang-diburu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda"
+  ]
+}

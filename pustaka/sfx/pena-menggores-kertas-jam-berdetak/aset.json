@@ -1,0 +1,21 @@
+{
+  "id": "pena-menggores-kertas-jam-berdetak",
+  "jenis": "sfx",
+  "judul": "Pena menggores kertas, jam berdetak",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "sfx-06-pena-menggores-kertas-jam-berdetak.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/sfx/sfx-06-pena-menggores-kertas-jam-berdetak.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

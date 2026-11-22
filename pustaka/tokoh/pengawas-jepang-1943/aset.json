@@ -1,0 +1,18 @@
+{
+  "id": "pengawas-jepang-1943",
+  "jenis": "tokoh",
+  "judul": "Pengawas Jepang",
+  "versi": 1,
+  "status": "draf",
+  "era": "1943",
+  "wilayah": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "tokoh": [
+    "Pengawas Jepang"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-mandor-romusha"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

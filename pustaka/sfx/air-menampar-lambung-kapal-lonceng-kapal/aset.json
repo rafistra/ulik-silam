@@ -1,0 +1,21 @@
+{
+  "id": "air-menampar-lambung-kapal-lonceng-kapal",
+  "jenis": "sfx",
+  "judul": "Air menampar lambung kapal, lonceng kapal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "sfx-04-air-menampar-lambung-kapal-lonceng-kapal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/sfx/sfx-04-air-menampar-lambung-kapal-lonceng-kapal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

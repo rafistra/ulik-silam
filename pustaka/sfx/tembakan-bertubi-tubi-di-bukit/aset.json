@@ -1,0 +1,21 @@
+{
+  "id": "tembakan-bertubi-tubi-di-bukit",
+  "jenis": "sfx",
+  "judul": "Tembakan bertubi-tubi di bukit",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-09-tembakan-bertubi-tubi-di-bukit.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-09-tembakan-bertubi-tubi-di-bukit.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "menyusut-mandor-romusha",
+  "jenis": "musik",
+  "judul": "Menyusut (Berat, sakit, gelisah)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jalur Saketi–Bayah, masa pendudukan Jepang",
+  "file": [
+    "cue-2-menyusut.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mandor-romusha",
+      "berkas": "public/musik/cue-2-menyusut.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mandor-romusha"
+  ]
+}

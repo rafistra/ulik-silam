@@ -1,0 +1,21 @@
+{
+  "id": "pesawat-terbang-rendah",
+  "jenis": "sfx",
+  "judul": "Pesawat terbang rendah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-09-pesawat-terbang-rendah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-09-pesawat-terbang-rendah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

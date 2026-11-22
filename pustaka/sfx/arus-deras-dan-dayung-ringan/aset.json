@@ -1,0 +1,21 @@
+{
+  "id": "arus-deras-dan-dayung-ringan",
+  "jenis": "sfx",
+  "judul": "Arus deras dan dayung ringan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-12-arus-deras-dan-dayung-ringan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-12-arus-deras-dan-dayung-ringan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

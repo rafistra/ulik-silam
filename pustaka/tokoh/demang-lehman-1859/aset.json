@@ -1,0 +1,52 @@
+{
+  "id": "demang-lehman-1859",
+  "jenis": "tokoh",
+  "judul": "Demang Lehman",
+  "versi": 1,
+  "status": "draf",
+  "era": "1859",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "tokoh": [
+    "Demang Lehman"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah, perawakan, rambut",
+      "pilihan": "Wajah tirus bertulang pipi menonjol, mata lebar, alis lurus, hidung lebar, bibir penuh, tanpa janggut dan kumis, beberapa helai rambut sampai leher; dibuat ±5 tahun lebih muda",
+      "sumber": "Foto KITLV 23 Februari 1864 (Leiden University Libraries (http://hdl.handle.net/1887.1/item:786245)); litografi Meyners 1886",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Potongan busana",
+      "pilihan": "Baju putih tanpa kerah di bawah jas tanpa kerah berkancing bulat; tali tipis di leher; ikat kepala dengan satu ujung terurai; celana panjang bermotif titik",
+      "sumber": "Litografi Meyners 1886 (jas berkancing di atas baju putih); foto KITLV 1864 (tali di leher, ikat kepala, celana bermotif); pakaian 1859 tidak tercatat",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Tali, papan kayu, kursi",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Tanda penawanan 1864, bukan 1859",
+      "status": "Dihindari"
+    },
+    {
+      "unsur": "Keris dan tombak",
+      "pilihan": "Keris bersarung kayu polos; tombak bertangkai gelap dengan rumbai merah",
+      "sumber": "Memegang pusaka Keris Singkir dan tombak Kaliblah (Ensiklopedia (https://p2k.stekom.ac.id/ensiklopedia/Demang_Lehman), rujukan Tijdschrift 1864); bentuk dan rumbai adalah tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Warna hijau tua pada jas dan ikat kepala",
+      "pilihan": "Pembeda tokoh dari pejuang lain",
+      "sumber": "Foto dan litografi hitam putih; warna tidak tercatat",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pengikut-demang-lehman-tabanio\\ilustrasi\\demang_lehman.jpg"
+}

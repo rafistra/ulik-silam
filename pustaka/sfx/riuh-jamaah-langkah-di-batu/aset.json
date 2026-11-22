@@ -1,0 +1,21 @@
+{
+  "id": "riuh-jamaah-langkah-di-batu",
+  "jenis": "sfx",
+  "judul": "Riuh jamaah, langkah di batu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "sfx-03-riuh-jamaah-langkah-di-batu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/sfx/sfx-03-riuh-jamaah-langkah-di-batu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

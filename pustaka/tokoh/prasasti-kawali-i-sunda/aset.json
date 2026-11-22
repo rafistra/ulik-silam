@@ -1,0 +1,17 @@
+{
+  "id": "prasasti-kawali-i-sunda",
+  "jenis": "tokoh",
+  "judul": "Prasasti Kawali I",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sunda, Cirebon, Sumatra Timur, Surakarta, Sambas",
+  "tokoh": [
+    "Prasasti Kawali I"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "raja-bertakhta-terlama-nusantara"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "agen-polisi-1928",
+  "jenis": "tokoh",
+  "judul": "Agen polisi",
+  "versi": 1,
+  "status": "draf",
+  "era": "1928",
+  "wilayah": "Batavia, masa Hindia Belanda",
+  "tokoh": [
+    "Agen polisi"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Cream linen suit, white shirt, narrow dark tie; dark grey suit in adegan 12",
+      "sumber": "Setelan linen atau katun berwarna terang lazim bagi pria Eropa di daerah tropis (Famous Hotels (https://famoushotels.org/news/formality-vs-function-western-attire-in-the-tropics-1900), contoh dari Siam sekitar 1900, wilayah terdekat)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Wajah dan tubuh",
+      "pilihan": "Seluruhnya",
+      "sumber": "Tokoh fiktif",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-supratman-sumpah-pemuda"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

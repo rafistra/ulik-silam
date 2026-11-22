@@ -1,0 +1,21 @@
+{
+  "id": "karung-dimuat-ke-perahu",
+  "jenis": "sfx",
+  "judul": "Karung dimuat ke perahu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-10-karung-dimuat-ke-perahu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-10-karung-dimuat-ke-perahu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

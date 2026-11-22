@@ -1,0 +1,21 @@
+{
+  "id": "tetes-air-di-ngarai",
+  "jenis": "sfx",
+  "judul": "Tetes air di ngarai",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Long Iram dan Apo Kayan",
+  "file": [
+    "sfx-05-tetes-air-di-ngarai.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pendayung-kenyah-long-iram",
+      "berkas": "public/sfx/sfx-05-tetes-air-di-ngarai.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pendayung-kenyah-long-iram"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mesin-bus-diesel-tua-berhenti-rem-angin-mendesis",
+  "jenis": "sfx",
+  "judul": "Mesin bus diesel tua berhenti, rem angin mendesis, keramaian terminal",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-01-mesin-bus-diesel-tua-berhenti-rem-angin-mendesis-keramaian-terminal.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-01-mesin-bus-diesel-tua-berhenti-rem-angin-mendesis-keramaian-terminal.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

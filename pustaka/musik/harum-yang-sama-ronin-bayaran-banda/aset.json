@@ -1,0 +1,22 @@
+{
+  "id": "harum-yang-sama-ronin-bayaran-banda",
+  "jenis": "musik",
+  "judul": "Harum yang sama (Duka hampa, terbuka di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kepulauan Banda, masa VOC",
+  "file": [
+    "cue-3-harum-yang-sama.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ronin-bayaran-banda",
+      "berkas": "public/musik/cue-3-harum-yang-sama.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ronin-bayaran-banda"
+  ]
+}

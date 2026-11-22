@@ -1,0 +1,27 @@
+{
+  "id": "anak-soloensis-ngandong",
+  "jenis": "tokoh",
+  "judul": "Anak Soloensis",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Ngandong, tepi Bengawan Solo",
+  "tokoh": [
+    "Anak Soloensis"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Keberadaan anak",
+      "pilihan": "Anak sekitar enam tahun",
+      "sumber": "Tengkorak II Ngandong adalah anak (Solo Man - Wikipedia (https://en.wikipedia.org/wiki/Solo_Man))",
+      "status": "Terverifikasi"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-homo-soloensis-ngandong"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-homo-soloensis-ngandong\\ilustrasi\\AnakSoloensis_35e9bb9a.jpg"
+}

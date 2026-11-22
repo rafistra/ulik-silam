@@ -1,0 +1,21 @@
+{
+  "id": "kotak-korek-jatuh-ke-lantai-kicau-burung-pagi",
+  "jenis": "sfx",
+  "judul": "Kotak korek jatuh ke lantai, kicau burung pagi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-04-kotak-korek-jatuh-ke-lantai-kicau-burung-pagi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-04-kotak-korek-jatuh-ke-lantai-kicau-burung-pagi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

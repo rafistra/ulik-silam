@@ -1,0 +1,22 @@
+{
+  "id": "dua-arah-kiai-sadrach",
+  "jenis": "musik",
+  "judul": "Dua arah (Tegang, menggelap, hening di penjara)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Karangjasa, Bagelen (Purworejo)",
+  "file": [
+    "cue-2-dua-arah.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kiai-sadrach",
+      "berkas": "public/musik/cue-2-dua-arah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kiai-sadrach"
+  ]
+}

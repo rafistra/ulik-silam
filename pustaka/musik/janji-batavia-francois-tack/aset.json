@@ -1,0 +1,22 @@
+{
+  "id": "janji-batavia-francois-tack",
+  "jenis": "musik",
+  "judul": "Janji Batavia (Megah, percaya diri, sedikit muram di ujung)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kartasura, masa VOC",
+  "file": [
+    "cue-1-janji-batavia.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-francois-tack",
+      "berkas": "public/musik/cue-1-janji-batavia.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-francois-tack"
+  ]
+}

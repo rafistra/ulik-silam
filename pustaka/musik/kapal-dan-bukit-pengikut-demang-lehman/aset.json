@@ -1,0 +1,22 @@
+{
+  "id": "kapal-dan-bukit-pengikut-demang-lehman",
+  "jenis": "musik",
+  "judul": "Kapal dan Bukit (Genderang perang dan gong berat, memuncak di Gunung Lawak, lalu runtuh menjadi petikan sendu)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "cue-2-kapal-dan-bukit.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/musik/cue-2-kapal-dan-bukit.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

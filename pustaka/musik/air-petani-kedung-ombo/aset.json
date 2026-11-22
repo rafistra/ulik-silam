@@ -1,0 +1,22 @@
+{
+  "id": "air-petani-kedung-ombo",
+  "jenis": "musik",
+  "judul": "Air (Gelap, sunyi, mencekam, nyaris hening di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kemusu, Boyolali",
+  "file": [
+    "cue-2-air.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-petani-kedung-ombo",
+      "berkas": "public/musik/cue-2-air.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-petani-kedung-ombo"
+  ]
+}

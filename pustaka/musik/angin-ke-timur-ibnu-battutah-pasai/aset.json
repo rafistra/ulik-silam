@@ -1,0 +1,22 @@
+{
+  "id": "angin-ke-timur-ibnu-battutah-pasai",
+  "jenis": "musik",
+  "judul": "Angin ke timur (Laut terbuka, letih, lalu takjub di kota kayu)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "cue-1-angin-ke-timur.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/musik/cue-1-angin-ke-timur.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

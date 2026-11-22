@@ -34,6 +34,15 @@
     },
     "lisensi": { "type": "string", "description": "Paket Suno, status domain publik foto, atau izin" },
     "koleksi": { "type": "string", "description": "Untuk arsip: lembaga dan nomor koleksi" },
+    "asal": {
+      "type": "array",
+      "description": "Asal berkas: proyek dan path relatif di folder proyek lama (arsip_lama) atau $ASET_DIR/proyek/<slug>/; dipakai scripts/salin-pustaka.py",
+      "items": {
+        "type": "object",
+        "required": ["proyek", "berkas"],
+        "properties": { "proyek": { "type": "string" }, "berkas": { "type": "string" } }
+      }
+    },
     "dipakai_di": { "type": "array", "items": { "type": "string" }, "description": "Slug proyek" },
     "catatan": { "type": "string" }
   }

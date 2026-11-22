@@ -1,0 +1,33 @@
+{
+  "id": "anak-besar-semarang",
+  "jenis": "tokoh",
+  "judul": "Anak Besar",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "tokoh": [
+    "Anak Besar"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Sepatu kulit",
+      "pilihan": "Black leather shoes, knee socks",
+      "sumber": "Anak Indo bersepatu sebagai penanda, berbeda dari anak pribumi bertelanjang kaki (tirto (https://tirto.id/pakaian-dan-gaya-hidup-revolusioner-di-zaman-hindia-belanda-cAaU), 1901)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kemeja dan celana pendek putih",
+      "pilihan": "White round-collar shirt, white knee-length shorts",
+      "sumber": "Tidak ditemukan sumber yang bisa dibuka",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-nyai-2-nama-yang-tak-tercatat"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\nyai belanda\\Nyai.zip > AnakBesar_20261025005245.jpg"
+}

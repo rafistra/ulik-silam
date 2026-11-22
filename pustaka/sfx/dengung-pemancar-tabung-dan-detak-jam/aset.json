@@ -1,0 +1,21 @@
+{
+  "id": "dengung-pemancar-tabung-dan-detak-jam",
+  "jenis": "sfx",
+  "judul": "Dengung pemancar tabung dan detak jam",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Surabaya",
+  "file": [
+    "sfx-01-dengung-pemancar-tabung-dan-detak-jam.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ktut-tantri-surabaya",
+      "berkas": "public/sfx/sfx-01-dengung-pemancar-tabung-dan-detak-jam.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ]
+}

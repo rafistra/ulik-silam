@@ -1,0 +1,21 @@
+{
+  "id": "kapak-dan-pohon-tumbang",
+  "jenis": "sfx",
+  "judul": "Kapak dan pohon tumbang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Kapuas, Pontianak",
+  "file": [
+    "sfx-08-kapak-dan-pohon-tumbang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuntilanak-pontianak",
+      "berkas": "public/sfx/sfx-08-kapak-dan-pohon-tumbang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuntilanak-pontianak"
+  ]
+}

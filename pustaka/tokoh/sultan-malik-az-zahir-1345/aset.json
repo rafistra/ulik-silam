@@ -1,0 +1,46 @@
+{
+  "id": "sultan-malik-az-zahir-1345",
+  "jenis": "tokoh",
+  "judul": "Sultan Malik az-Zahir",
+  "versi": 1,
+  "status": "draf",
+  "era": "1345",
+  "wilayah": "Samudera Pasai, Aceh",
+  "tokoh": [
+    "Sultan Malik az-Zahir"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Lelaki Melayu ±45 tahun, janggut pendek, bibir merah sirih",
+      "sumber": "Tidak ada potret; usia rekaan; kebiasaan sirih di istana (D-S h. 245, 320)",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Busana Jumat",
+      "pilihan": "Sorban dan jubah katun putih ahli fikih, kain lilit, sandal kulit",
+      "sumber": "Jubah ahli fikih saat berjalan ke masjid hari Jumat (D-S h. 247; terj. Inggris ringkas); kain lilit sebagai adat setempat (D-S h. 245). Warna putih dan sandal adalah tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Busana raja",
+      "pilihan": "Tunik sutra merah tua bertepi emas di atas tunik katun krem, kain lilit sutra hijau tua, sorban sutra putih berpita emas",
+      "sumber": "Busana raja dari sutra dan katun (D-S h. 247; terj. Inggris ringkas); warna, tepi emas, dan pita sorban adalah tafsir",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Mahkota dan senjata",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Rihla tidak menyebut mahkota sultan dan menyebut sultan masuk masjid sebagai ahli fikih; mahkota hanya pada pengantin lelaki (D-S h. 320)",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ibnu-battutah-pasai\\ilustrasi\\sultan.jpg"
+}

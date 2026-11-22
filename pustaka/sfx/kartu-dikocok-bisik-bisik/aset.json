@@ -1,0 +1,21 @@
+{
+  "id": "kartu-dikocok-bisik-bisik",
+  "jenis": "sfx",
+  "judul": "Kartu dikocok, bisik-bisik",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-11-kartu-dikocok-bisik-bisik.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-11-kartu-dikocok-bisik-bisik.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

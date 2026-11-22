@@ -1,0 +1,21 @@
+{
+  "id": "azan-subuh-dari-kejauhan",
+  "jenis": "sfx",
+  "judul": "Azan subuh dari kejauhan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-10-azan-subuh-dari-kejauhan.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-10-azan-subuh-dari-kejauhan.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

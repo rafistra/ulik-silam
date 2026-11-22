@@ -1,0 +1,22 @@
+{
+  "id": "malam-air-suci-puputan-badung",
+  "jenis": "musik",
+  "judul": "Malam air suci (Sakral, getir, hangat api)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Puri Denpasar, Badung",
+  "file": [
+    "cue-2-malam-air-suci.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-puputan-badung",
+      "berkas": "public/musik/cue-2-malam-air-suci.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-puputan-badung"
+  ]
+}

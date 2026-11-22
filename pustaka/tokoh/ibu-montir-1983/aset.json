@@ -1,0 +1,28 @@
+{
+  "id": "ibu-montir-1983",
+  "jenis": "tokoh",
+  "judul": "Ibu Montir",
+  "versi": 1,
+  "status": "draf",
+  "era": "1983",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "tokoh": [
+    "Ibu Montir"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Kebaya katun hijau pucat, jarik batik, sanggul kecil",
+      "sumber": "Pakaian sehari-hari perempuan Jawa paruh baya; tanpa sumber khusus",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pemuda-bertato-petrus\\ilustrasi\\ibumonitr.jpg"
+}

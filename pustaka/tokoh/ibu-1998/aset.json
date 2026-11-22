@@ -1,0 +1,26 @@
+{
+  "id": "ibu-1998",
+  "jenis": "tokoh",
+  "judul": "Ibu 1998",
+  "versi": 1,
+  "status": "draf",
+  "era": "1998",
+  "wilayah": "Klaten dan Jakarta",
+  "tokoh": [
+    "Ibu 1998"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Busana",
+      "pilihan": "Kebaya krem bermotif mawar pudar, selendang krem disampirkan, sandal jepit hitam (mengikuti ilustrasi adegan 2 Part 1); sarung batik bunga titik",
+      "sumber": "Gambaran umum perempuan desa Jawa Tengah 1990-an",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

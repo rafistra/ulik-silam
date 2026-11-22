@@ -1,0 +1,21 @@
+{
+  "id": "dentuman-meriam-kapal-dan-bata-runtuh",
+  "jenis": "sfx",
+  "judul": "Dentuman meriam kapal dan bata runtuh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-07-dentuman-meriam-kapal-dan-bata-runtuh.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-07-dentuman-meriam-kapal-dan-bata-runtuh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tudung-saji-bambu-ditaruh",
+  "jenis": "sfx",
+  "judul": "Tudung saji bambu ditaruh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-10-tudung-saji-bambu-ditaruh.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-10-tudung-saji-bambu-ditaruh.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

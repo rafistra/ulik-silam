@@ -1,0 +1,22 @@
+{
+  "id": "jalan-panjang-perpindahan-kayan-miau-p1",
+  "jenis": "musik",
+  "judul": "Jalan panjang (Sendu dan dingin, makin sepi menjelang hening, redup sampai kartu Ulikan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Apau Kayan, Kalimantan Timur",
+  "file": [
+    "cue-3-jalan-panjang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "narasi-perpindahan-kayan-miau-baru-part-1",
+      "berkas": "public/musik/cue-3-jalan-panjang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-1"
+  ]
+}

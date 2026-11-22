@@ -1,0 +1,28 @@
+{
+  "id": "teknisi-radio-1945",
+  "jenis": "tokoh",
+  "judul": "Teknisi Radio",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Surabaya",
+  "tokoh": [
+    "Teknisi Radio"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Seluruh penampilan",
+      "pilihan": "Kemeja putih lengan tergulung, celana pendek khaki, sepatu kanvas, lencana merah putih, headphone bakelit",
+      "sumber": "Tokoh rekaan; pemuda Surabaya 1945 berpakaian sipil sederhana",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ktut-tantri-surabaya\\ilustrasi\\teknisi.jpg"
+}

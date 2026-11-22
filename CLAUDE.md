@@ -23,7 +23,7 @@ Komunikasi dengan Rafi dalam Bahasa Indonesia. Prompt untuk generator AI (Gemini
 
 ## Aset berat
 
-File berat ada di `$ASET_DIR` (lihat `.env`), dengan struktur folder sama: `$ASET_DIR/proyek/<slug>/...` dan `$ASET_DIR/pustaka/...`. Jangan commit file gambar, audio, video, atau hasil render ke repo.
+File berat ada di `$ASET_DIR` (lihat `.env`; bawaan folder `aset/` di repo ini, diabaikan git), dengan struktur folder sama: `$ASET_DIR/proyek/<slug>/...` dan `$ASET_DIR/pustaka/...`. Jangan commit file gambar, audio, video, atau hasil render ke repo.
 
 ## Preferensi tetap
 

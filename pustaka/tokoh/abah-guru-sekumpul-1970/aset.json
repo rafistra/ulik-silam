@@ -1,0 +1,52 @@
+{
+  "id": "abah-guru-sekumpul-1970",
+  "jenis": "tokoh",
+  "judul": "Abah Guru Sekumpul",
+  "versi": 1,
+  "status": "draf",
+  "era": "1970",
+  "wilayah": "Martapura, Kalimantan Selatan",
+  "tokoh": [
+    "Abah Guru Sekumpul"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah",
+      "pilihan": "Agak lonjong, perawakan ramping, kulit terang, tanpa janggut dan kumis, kacamata bingkai emas tipis model aviator di masa dewasa (tidak ada di foto masa muda), senyum tertutup; wajah diambil dari foto yang diunggah; tanpa karikatur",
+      "sumber": "Foto terdokumentasi (potret, GNFI 2024 (https://www.goodnewsfromindonesia.id/2024/01/15/mengenal-biografi-abah-guru-sekumpul-ulama-kharismatik-asal-kalimantan-selatan)); kajian fotografi IDR UIN Antasari menyebut ekspresi \"meneduhkan\"; kacamata dikonfirmasi Rafi dari foto dan disebut dalam video tentang kacamata beliau (https://www.youtube.com/watch?v=oPaEPr8BjYs) (kacamata: Terverifikasi; jenis bingkai belum dirinci)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Masa dewasa (adegan 7, 9, 11): sorban putih bulat besar tanpa ekor, jubah putih berkerah tegak, selendang hijau tua di bahu kanan, kacamata emas aviator, sandal. Masa muda (adegan 2, 3): kopiah putih rajut, baju putih polos tanpa kerah, tanpa kacamata. Adegan 4 (1980-an): sosok kecil berpakaian putih, tampilan tidak dirinci",
+      "pilihan": "Dipakai di semua adegan",
+      "sumber": "Foto potret beliau yang dikirim Rafi (24 Oktober 2026), sesuai dengan foto-foto yang beredar; terverifikasi dari foto untuk usia dewasa; tampilan muda dari foto masa muda yang juga dikirim Rafi (terverifikasi dari foto; tahun fotonya tidak diketahui, pemakaiannya untuk 1970 adalah tafsir); kapan beliau mulai bersorban dan berkacamata tidak diketahui",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Usia per adegan (28, 48, 62–63)",
+      "pilihan": "Wajah menua bertahap, tetap tanpa janggut dan kumis",
+      "sumber": "Lahir 11 Februari 1942 (Setkab, Antara)",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Mengajar setengah berbaring saat sakit",
+      "pilihan": "Adegan 11",
+      "sumber": "IDR UIN Antasari: \"kadang-kadang sambil berbaring\"",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Sorban emas, mahkota, hiasan mewah, janggut atau kumis, ekor sorban yang menjuntai",
+      "pilihan": "Masuk kalimat Avoid",
+      "sumber": "Bertentangan dengan catatan kesederhanaan; janggut dan ekor sorban tidak tampak di foto (koreksi v3)",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-jamaah-sekumpul"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-jamaah-sekumpul\\ilustrasi\\0_abah-guru.jpg"
+}

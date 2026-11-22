@@ -1,0 +1,21 @@
+{
+  "id": "angin-pegunungan-dan-serangga-senja",
+  "jenis": "sfx",
+  "judul": "Angin pegunungan dan serangga senja",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-01-angin-pegunungan-dan-serangga-senja.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-01-angin-pegunungan-dan-serangga-senja.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

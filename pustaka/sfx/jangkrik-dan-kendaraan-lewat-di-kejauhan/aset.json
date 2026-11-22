@@ -1,0 +1,21 @@
+{
+  "id": "jangkrik-dan-kendaraan-lewat-di-kejauhan",
+  "jenis": "sfx",
+  "judul": "Jangkrik dan kendaraan lewat di kejauhan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-07-jangkrik-dan-kendaraan-lewat-di-kejauhan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-07-jangkrik-dan-kendaraan-lewat-di-kejauhan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hujan-rintik-di-atap-genteng",
+  "jenis": "sfx",
+  "judul": "Hujan rintik di atap genteng",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Banyumas",
+  "file": [
+    "sfx-08-hujan-rintik-di-atap-genteng.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-gowok-banyumas",
+      "berkas": "public/sfx/sfx-08-hujan-rintik-di-atap-genteng.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-gowok-banyumas"
+  ]
+}

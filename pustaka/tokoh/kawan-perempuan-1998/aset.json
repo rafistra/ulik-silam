@@ -1,0 +1,19 @@
+{
+  "id": "kawan-perempuan-1998",
+  "jenis": "tokoh",
+  "judul": "Kawan Perempuan",
+  "versi": 1,
+  "status": "draf",
+  "era": "1998",
+  "wilayah": "Klaten dan Jakarta",
+  "tokoh": [
+    "Kawan Perempuan"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2",
+    "pov-mahasiswa-hilang-1998-1"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

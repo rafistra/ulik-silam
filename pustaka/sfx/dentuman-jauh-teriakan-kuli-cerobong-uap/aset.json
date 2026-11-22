@@ -1,0 +1,21 @@
+{
+  "id": "dentuman-jauh-teriakan-kuli-cerobong-uap",
+  "jenis": "sfx",
+  "judul": "Dentuman jauh, teriakan kuli, cerobong uap",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "sfx-03-dentuman-jauh-teriakan-kuli-cerobong-uap.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/sfx/sfx-03-dentuman-jauh-teriakan-kuli-cerobong-uap.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

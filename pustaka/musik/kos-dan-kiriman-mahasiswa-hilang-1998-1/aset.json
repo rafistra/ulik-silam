@@ -1,0 +1,22 @@
+{
+  "id": "kos-dan-kiriman-mahasiswa-hilang-1998-1",
+  "jenis": "musik",
+  "judul": "Kos dan kiriman (Hangat, nostalgis, sedikit cemas)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "cue-1-kos-dan-kiriman.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/musik/cue-1-kos-dan-kiriman.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

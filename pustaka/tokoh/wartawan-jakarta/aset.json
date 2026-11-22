@@ -1,0 +1,39 @@
+{
+  "id": "wartawan-jakarta",
+  "jenis": "tokoh",
+  "judul": "Wartawan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "tokoh": [
+    "Wartawan"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah, kumis tipis, rambut belah samping",
+      "pilihan": "Thin neat moustache, side-parted hair",
+      "sumber": "Tokoh fiktif tanpa potret",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Kemeja katun lengan panjang biru muda digulung, celana bahan pinggang tinggi berlipit, sepatu kulit",
+      "pilihan": "Seperti di deskripsi baku",
+      "sumber": "Busana kerja pria kota; artikel mode populer yang dibuka tidak khusus Indonesia",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Celana cutbray, setelan safari, rambut mullet",
+      "pilihan": "Masuk kalimat Avoid",
+      "sumber": "Dijauhkan agar tidak terbaca 1970-an atau pejabat",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\Rekaan\\wartawan.jpg"
+}

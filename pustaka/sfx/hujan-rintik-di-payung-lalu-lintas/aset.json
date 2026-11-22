@@ -1,0 +1,21 @@
+{
+  "id": "hujan-rintik-di-payung-lalu-lintas",
+  "jenis": "sfx",
+  "judul": "Hujan rintik di payung, lalu lintas",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Klaten dan Jakarta",
+  "file": [
+    "sfx-09-hujan-rintik-di-payung-lalu-lintas.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibu-korban-1998-2",
+      "berkas": "public/sfx/sfx-09-hujan-rintik-di-payung-lalu-lintas.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibu-korban-1998-2"
+  ]
+}

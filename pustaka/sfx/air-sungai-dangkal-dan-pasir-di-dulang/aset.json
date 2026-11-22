@@ -1,0 +1,21 @@
+{
+  "id": "air-sungai-dangkal-dan-pasir-di-dulang",
+  "jenis": "sfx",
+  "judul": "Air sungai dangkal dan pasir di dulang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pelaihari dan Tabanio, Tanah Laut",
+  "file": [
+    "sfx-01-air-sungai-dangkal-dan-pasir-di-dulang.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-pengikut-demang-lehman-tabanio",
+      "berkas": "public/sfx/sfx-01-air-sungai-dangkal-dan-pasir-di-dulang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-pengikut-demang-lehman-tabanio"
+  ]
+}

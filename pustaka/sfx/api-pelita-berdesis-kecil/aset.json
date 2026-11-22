@@ -1,0 +1,21 @@
+{
+  "id": "api-pelita-berdesis-kecil",
+  "jenis": "sfx",
+  "judul": "Api pelita berdesis kecil",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-09-api-pelita-berdesis-kecil.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-09-api-pelita-berdesis-kecil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

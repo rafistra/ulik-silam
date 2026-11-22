@@ -1,0 +1,22 @@
+{
+  "id": "perahu-ke-evertsen-maria-verhagen-saparua",
+  "jenis": "musik",
+  "judul": "Perahu ke Evertsen (Menunggu, getir, perpisahan, memudar pelan)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Saparua, Maluku",
+  "file": [
+    "cue-3-perahu-ke-evertsen.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-maria-verhagen-saparua",
+      "berkas": "public/musik/cue-3-perahu-ke-evertsen.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-maria-verhagen-saparua"
+  ]
+}

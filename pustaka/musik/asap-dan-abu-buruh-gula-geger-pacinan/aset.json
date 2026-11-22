@@ -1,0 +1,22 @@
+{
+  "id": "asap-dan-abu-buruh-gula-geger-pacinan",
+  "jenis": "musik",
+  "judul": "Asap dan abu (Duka, hening, reflektif, memudar)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Batavia, masa VOC",
+  "file": [
+    "cue-3-asap-dan-abu.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-buruh-gula-geger-pacinan",
+      "berkas": "public/musik/cue-3-asap-dan-abu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-buruh-gula-geger-pacinan"
+  ]
+}

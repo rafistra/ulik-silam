@@ -1,0 +1,64 @@
+{
+  "id": "k-tut-tantri-1945",
+  "jenis": "tokoh",
+  "judul": "K'tut Tantri",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Surabaya",
+  "tokoh": [
+    "K'tut Tantri"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Rambut",
+      "pilihan": "Hitam hasil cat, sebahu, disemat longgar; sedikit merah tembaga di akar",
+      "sumber": "Rambut aslinya merah dan ia mewarnainya hitam setibanya di Bali (The Independent, 1997, via Umbrella Books); Koran Sulindo menyebut \"berambut merah\". Warna rambut tahun 1945 tidak tercatat",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Perawakan",
+      "pilihan": "Kecil dan pendek",
+      "sumber": "Diana Cooper menyebutnya \"four foot high\" (berlebihan, nada bercanda; The Independent); Koran Sulindo: \"badan pendek untuk ukuran orang bule\"",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Usia",
+      "pilihan": "±47 tahun (1945); ±35-an di kilas Bali",
+      "sumber": "Lahir 1898 atau 1899 (Wikipedia; GNFI)",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Wajah, warna mata, bintik",
+      "pilihan": "Wajah sempit, mata hijau keabuan, kulit terbakar matahari dan berbintik",
+      "sumber": "Potret ada di memoarnya tetapi belum dibuka",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Pakaian 1945",
+      "pilihan": "Blus katun khaki lengan pendek, rok A sebetis zaitun, sabuk kulit, sandal datar, arloji kulit",
+      "sumber": "Pakaian sipil praktis perempuan Eropa di daerah tropis 1940-an; pakaiannya di Surabaya tidak tercatat",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Pakaian di Bali (adegan 2)",
+      "pilihan": "Blus katun putih lengan panjang, kain nila pudar, tanpa alas kaki",
+      "sumber": "Ia lama tinggal di Bali dan berpihak pada orang Indonesia (Wikipedia); pakaiannya tidak tercatat. Diana Cooper menyebut ia memakai gaun longgar \"Mother Hubbard\" (The Independent)",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Rambut ikal ala pin-up, lipstik merah, seragam militer",
+      "pilihan": "Tidak dipakai",
+      "sumber": "Klise glamor Hollywood 1940-an; ia bukan tentara",
+      "status": "Dihindari"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-ktut-tantri-surabaya"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-ktut-tantri-surabaya\\ilustrasi\\tantri.jpg"
+}

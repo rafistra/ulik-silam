@@ -1,0 +1,21 @@
+{
+  "id": "langkah-kecil-di-tanah-becek-dan-burung-pagi",
+  "jenis": "sfx",
+  "judul": "Langkah kecil di tanah becek dan burung pagi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-05-langkah-kecil-di-tanah-becek-dan-burung-pagi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-05-langkah-kecil-di-tanah-becek-dan-burung-pagi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

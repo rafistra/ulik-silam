@@ -1,0 +1,21 @@
+{
+  "id": "dermaga-pagi-dan-dayung",
+  "jenis": "sfx",
+  "judul": "Dermaga pagi dan dayung",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Putussibau dan hulu Kapuas",
+  "file": [
+    "sfx-14-dermaga-pagi-dan-dayung.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-iban-ekspedisi-putussibau",
+      "berkas": "public/sfx/sfx-14-dermaga-pagi-dan-dayung.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-iban-ekspedisi-putussibau"
+  ]
+}

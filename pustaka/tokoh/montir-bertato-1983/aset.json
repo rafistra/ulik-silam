@@ -1,0 +1,34 @@
+{
+  "id": "montir-bertato-1983",
+  "jenis": "tokoh",
+  "judul": "Montir Bertato",
+  "versi": 1,
+  "status": "draf",
+  "era": "1983",
+  "wilayah": "Sebuah kampung dekat pasar di Yogyakarta",
+  "tokoh": [
+    "Montir Bertato"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Tato",
+      "pilihan": "Burung layang-layang dan jangkar kecil di lengan kanan, tepat di atas siku",
+      "sumber": "Orang bertato menjadi sasaran (Komnas HAM via The Jakarta Post; Inside Indonesia); motifnya rekaan, letaknya dipilih agar bisa ditutup lengan kaus",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Kaus pendek biru dongker, celana kerja abu-abu, sandal jepit; mulai adegan 7 kemeja kerja cokelat lengan panjang",
+      "sumber": "Orang bertato beralih ke lengan panjang (GNFI); busananya tafsir",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-pemuda-bertato-petrus"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-pemuda-bertato-petrus\\ilustrasi\\montir.jpg"
+}

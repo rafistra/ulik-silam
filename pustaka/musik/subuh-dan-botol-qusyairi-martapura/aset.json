@@ -1,0 +1,22 @@
+{
+  "id": "subuh-dan-botol-qusyairi-martapura",
+  "jenis": "musik",
+  "judul": "Subuh dan botol (Tenang, sederhana, hati-hati)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "cue-1-subuh-dan-botol.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/musik/cue-1-subuh-dan-botol.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

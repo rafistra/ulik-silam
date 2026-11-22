@@ -1,0 +1,21 @@
+{
+  "id": "kopi-dituang-dari-ceret-ke-gelas",
+  "jenis": "sfx",
+  "judul": "Kopi dituang dari ceret ke gelas",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-06-kopi-dituang-dari-ceret-ke-gelas.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-06-kopi-dituang-dari-ceret-ke-gelas.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}

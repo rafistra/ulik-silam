@@ -1,0 +1,34 @@
+{
+  "id": "sumiati-1999",
+  "jenis": "tokoh",
+  "judul": "Sumiati",
+  "versi": 1,
+  "status": "draf",
+  "era": "1999",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "tokoh": [
+    "Sumiati"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Gaun rayon bermotif bunga yang pas badan dan berikat pinggang, rambut keriting akhir 1990-an yang tergerai, celak dan gincu merah tua, gelang, cincin, dan anting murah",
+      "pilihan": "Busana sehari-hari perempuan kota kecil akhir 1990-an",
+      "sumber": "Tidak ditemukan sumber khusus",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Mukena putih bertepi bordir",
+      "pilihan": "Dipakai di subuh dan epilog",
+      "sumber": "Umum di Indonesia; tidak dicek ke sumber khusus 1999",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-doa-kramat-tunggak\\ilustrasi\\pelacur.jpg"
+}

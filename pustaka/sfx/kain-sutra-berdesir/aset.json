@@ -1,0 +1,21 @@
+{
+  "id": "kain-sutra-berdesir",
+  "jenis": "sfx",
+  "judul": "Kain sutra berdesir",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Samudera Pasai, Aceh",
+  "file": [
+    "sfx-06-kain-sutra-berdesir.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-ibnu-battutah-pasai",
+      "berkas": "public/sfx/sfx-06-kain-sutra-berdesir.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-ibnu-battutah-pasai"
+  ]
+}

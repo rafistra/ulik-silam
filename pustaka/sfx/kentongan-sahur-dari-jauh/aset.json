@@ -1,0 +1,21 @@
+{
+  "id": "kentongan-sahur-dari-jauh",
+  "jenis": "sfx",
+  "judul": "Kentongan sahur dari jauh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kramat Tunggak, Jakarta Utara",
+  "file": [
+    "sfx-07-kentongan-sahur-dari-jauh.wav"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-doa-kramat-tunggak",
+      "berkas": "public/sfx/sfx-07-kentongan-sahur-dari-jauh.wav"
+    }
+  ],
+  "dipakai_di": [
+    "pov-doa-kramat-tunggak"
+  ]
+}

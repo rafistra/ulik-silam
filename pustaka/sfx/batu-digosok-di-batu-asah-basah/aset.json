@@ -1,0 +1,21 @@
+{
+  "id": "batu-digosok-di-batu-asah-basah",
+  "jenis": "sfx",
+  "judul": "Batu digosok di batu asah basah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "sfx-02-batu-digosok-di-batu-asah-basah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/sfx/sfx-02-batu-digosok-di-batu-asah-basah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

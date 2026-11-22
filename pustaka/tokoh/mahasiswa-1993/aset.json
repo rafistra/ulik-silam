@@ -1,0 +1,40 @@
+{
+  "id": "mahasiswa-1993",
+  "jenis": "tokoh",
+  "judul": "Mahasiswa",
+  "versi": 1,
+  "status": "draf",
+  "era": "1993",
+  "wilayah": "Blangguan, Situbondo",
+  "tokoh": [
+    "Mahasiswa"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Pakaian",
+      "pilihan": "Kemeja flanel kotak-kotak terbuka di atas kaos putih, jins belel, sandal jepit karet, tas kanvas",
+      "sumber": "Busana kasual mahasiswa awal 1990-an; tidak ada sumber khusus Blangguan",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Rambut",
+      "pilihan": "Agak panjang, tidak rapi",
+      "sumber": "Gambaran umum aktivis kampus era itu",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Jam tangan analog plastik, gelang tali",
+      "pilihan": "Benda murah yang lazim; dipakai untuk adegan 10",
+      "sumber": "-",
+      "status": "Rekaan"
+    }
+  ],
+  "file": [
+    "lembar-karakter.jpg"
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ],
+  "catatan": "Gambar lembar karakter dari folder kerja D:\\Works\\Ulik Silam\\pov\\2-selesai\\pov-mahasiswa-blangguan\\ilustrasi\\mahasiswa.jpg"
+}

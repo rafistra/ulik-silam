@@ -1,0 +1,26 @@
+{
+  "id": "kiai-utusan-1945",
+  "jenis": "tokoh",
+  "judul": "Kiai Utusan",
+  "versi": 1,
+  "status": "draf",
+  "era": "1945",
+  "wilayah": "Surabaya",
+  "tokoh": [
+    "Kiai Utusan"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Serban dan jas",
+      "pilihan": "white turban, charcoal collarless jacket",
+      "sumber": "Busana ulama memadukan model Arab, Eropa, dan lainnya (Gaya Busana Identitas Ulama Sunda - J. UIN SGD (https://journal.uinsgd.ac.id/index.php/jat/article/view/8917), abstrak); rincian rekaan",
+      "status": "Tafsir"
+    }
+  ],
+  "file": [],
+  "dipakai_di": [
+    "pov-santri-resolusi-jihad"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; buat ulang dari prompt.txt atau tambahkan berkasnya."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "derit-mesin-cetak-tangan",
+  "jenis": "sfx",
+  "judul": "Derit mesin cetak tangan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Pulau Penyengat, Riau-Lingga",
+  "file": [
+    "sfx-07-derit-mesin-cetak-tangan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-raja-ali-haji-penyengat",
+      "berkas": "public/sfx/sfx-07-derit-mesin-cetak-tangan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-raja-ali-haji-penyengat"
+  ]
+}

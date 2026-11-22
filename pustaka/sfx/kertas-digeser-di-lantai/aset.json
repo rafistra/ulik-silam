@@ -1,0 +1,21 @@
+{
+  "id": "kertas-digeser-di-lantai",
+  "jenis": "sfx",
+  "judul": "Kertas digeser di lantai",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Jakarta",
+  "file": [
+    "sfx-13-kertas-digeser-di-lantai.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-cinta-yang-tak-terucap",
+      "berkas": "public/sfx/sfx-13-kertas-digeser-di-lantai.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-cinta-yang-tak-terucap"
+  ]
+}

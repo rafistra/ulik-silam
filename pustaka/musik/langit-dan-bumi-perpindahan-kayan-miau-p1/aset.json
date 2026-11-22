@@ -1,0 +1,22 @@
+{
+  "id": "langit-dan-bumi-perpindahan-kayan-miau-p1",
+  "jenis": "musik",
+  "judul": "Langit dan bumi (Sape' tunggal yang luas dan berat, menegang tipis di adegan 5)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Apau Kayan, Kalimantan Timur",
+  "file": [
+    "cue-1-langit-dan-bumi.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "narasi-perpindahan-kayan-miau-baru-part-1",
+      "berkas": "public/musik/cue-1-langit-dan-bumi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-1"
+  ]
+}

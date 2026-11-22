@@ -1,0 +1,22 @@
+{
+  "id": "lembah-petani-kedung-ombo",
+  "jenis": "musik",
+  "judul": "Lembah (Pastoral hangat yang perlahan berubah gelisah)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kemusu, Boyolali",
+  "file": [
+    "cue-1-lembah.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-petani-kedung-ombo",
+      "berkas": "public/musik/cue-1-lembah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-petani-kedung-ombo"
+  ]
+}

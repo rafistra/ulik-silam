@@ -1,0 +1,22 @@
+{
+  "id": "kota-yang-mengintai-mahasiswa-hilang-1998-1",
+  "jenis": "musik",
+  "judul": "Kota yang mengintai (Gelisah, berdenyut, makin sesak)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Yogyakarta dan Jakarta",
+  "file": [
+    "cue-2-kota-yang-mengintai.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-hilang-1998-1",
+      "berkas": "public/musik/cue-2-kota-yang-mengintai.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-hilang-1998-1"
+  ]
+}

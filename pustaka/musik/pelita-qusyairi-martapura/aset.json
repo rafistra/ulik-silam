@@ -1,0 +1,22 @@
+{
+  "id": "pelita-qusyairi-martapura",
+  "jenis": "musik",
+  "judul": "Pelita (Hangat, haru, terbuka di akhir)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Martapura",
+  "file": [
+    "cue-3-pelita.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-qusyairi-martapura",
+      "berkas": "public/musik/cue-3-pelita.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-qusyairi-martapura"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sore-di-pematang-bangsawan-jawa",
+  "jenis": "musik",
+  "judul": "Sore di Pematang (Sendu, reflektif, jarang)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kabupaten di Jawa Tengah, masa Tanam Paksa",
+  "file": [
+    "cue-2-sore-di-pematang.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-bangsawan-jawa",
+      "berkas": "public/musik/cue-2-sore-di-pematang.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-bangsawan-jawa"
+  ]
+}

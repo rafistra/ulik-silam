@@ -1,0 +1,22 @@
+{
+  "id": "tanda-tangan-nyai-1-surat-pengakuan",
+  "jenis": "musik",
+  "judul": "Tanda tangan (Kelam, tertahan, nyaris hening)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Semarang, masa Hindia Belanda",
+  "file": [
+    "cue-3-tanda-tangan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-nyai-1-surat-pengakuan",
+      "berkas": "public/musik/cue-3-tanda-tangan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-nyai-1-surat-pengakuan"
+  ]
+}

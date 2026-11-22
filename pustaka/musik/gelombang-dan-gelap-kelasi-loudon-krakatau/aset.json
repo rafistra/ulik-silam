@@ -1,0 +1,22 @@
+{
+  "id": "gelombang-dan-gelap-kelasi-loudon-krakatau",
+  "jenis": "musik",
+  "judul": "Gelombang dan gelap (Dahsyat, berdentum, lalu mencekam dalam gelap)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Selat Sunda",
+  "file": [
+    "cue-2-gelombang-dan-gelap.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kelasi-loudon-krakatau",
+      "berkas": "public/musik/cue-2-gelombang-dan-gelap.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kelasi-loudon-krakatau"
+  ]
+}

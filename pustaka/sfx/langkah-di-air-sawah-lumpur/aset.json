@@ -1,0 +1,21 @@
+{
+  "id": "langkah-di-air-sawah-lumpur",
+  "jenis": "sfx",
+  "judul": "Langkah di air sawah, lumpur",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Blangguan, Situbondo",
+  "file": [
+    "sfx-12-langkah-di-air-sawah-lumpur.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-mahasiswa-blangguan",
+      "berkas": "public/sfx/sfx-12-langkah-di-air-sawah-lumpur.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-mahasiswa-blangguan"
+  ]
+}
