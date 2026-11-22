@@ -115,13 +115,11 @@
       "sejak": null
     }
   ],
-  "bedaDenganSistemDesain": [
-    "README sistem desain masih menyebut pembuka ± 1,5 detik dan desis api; keduanya tidak dipakai lagi sejak Oktober 2026."
-  ],
+  "bedaDenganSistemDesain": [],
   "sistemDesain": {
     "url": "https://claude.ai/artifact/VAzJGVmAGbxEvFpyD7jt6W",
-    "versiTerakhirDicek": "1795300724-5a65",
+    "versiTerakhirDicek": "1795331159-f02b",
     "dicek": "2026-11-22",
-    "catatan": "tokens.json sama; beda hanya di teks README (masih menyebut pembuka nyala dan desis api)."
+    "catatan": "Disinkronkan 22 November 2026 setelah panduan pembuka nyala dan desis api dihapus dari sistem desain."
   }
 }
