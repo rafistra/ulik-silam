@@ -4,7 +4,8 @@ import { pasangData, type DataVideo } from './data/pasang';
 import { LAPISAN, ULIKAN } from './data/proyek';
 import { LapisanAudio } from './komponen/Audio';
 import { GradasiAtas, GradasiBawah } from './komponen/GradasiBawah';
-import { Ilustrasi } from './komponen/Ilustrasi';
+import { Ilustrasi, kenBurns } from './komponen/Ilustrasi';
+import { Efek, EFEK_MENEMPEL } from './komponen/Efek';
 import { DATA_PETA } from './data/peta';
 import { PetaRute } from './peta/PetaRute';
 import { KartuUlikan } from './komponen/KartuUlikan';
@@ -16,7 +17,7 @@ import { muatFont } from './lib/font';
 import { hitungLini, jedaTerakhir, keWaktuNarasi, type AdeganLini } from './lib/lini';
 import { ADEGAN, KANVAS, KARTU_ULIKAN, LABEL_LAPISAN, WARNA } from './lib/merek';
 import { kunciPerPotongan, pecahSubtitle, samarkan, waktuDariFrasa, waktuSubtitle } from './lib/subtitle';
-import { ADEGAN_FOTO_UTUH, FRASA_NARASI, GELAP_AWAL, POTONG_SUBTITLE, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT } from './data/setelan';
+import { ADEGAN_FOTO_UTUH, EFEK_ADEGAN, FRASA_NARASI, GELAP_AWAL, POTONG_SUBTITLE, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT } from './data/setelan';
 
 export type PropsVideo = { data: DataVideo; durasiNarasi: (number | null)[] };
 
@@ -48,17 +49,27 @@ const LapisanIlustrasi: React.FC<{ a: AdeganLini }> = ({ a }) => {
         />
       </AbsoluteFill>
     );
+  const kemajuan = f / (a.kbAkhir - a.vMulai);
+  const utuh = ADEGAN_FOTO_UTUH.includes(a.nomor);
+  const efek = EFEK_ADEGAN[a.nomor] ?? [];
+  const menempel = efek.filter((e) => EFEK_MENEMPEL.includes(e.efek));
+  const layar = efek.filter((e) => !EFEK_MENEMPEL.includes(e.efek));
   return (
     <AbsoluteFill style={{ opacity }}>
-      <Ilustrasi
-        nomor={a.nomor}
-        src={ASET.ilustrasi(a.nomor)}
-        gerak={a.gerak}
-        kenBurnsKhusus={a.kenBurns}
-        utuh={ADEGAN_FOTO_UTUH.includes(a.nomor)}
-        visual={a.visual}
-        kemajuan={f / (a.kbAkhir - a.vMulai)}
-      />
+      <Ilustrasi nomor={a.nomor} src={ASET.ilustrasi(a.nomor)} gerak={a.gerak} kenBurnsKhusus={a.kenBurns} utuh={utuh} visual={a.visual} kemajuan={kemajuan} />
+      {/* Efek berposisi ikut transform Ken Burns ilustrasi agar tetap di benda yang sama (foto utuh: tanpa transform). */}
+      {menempel.length ? (
+        <AbsoluteFill style={{ overflow: 'hidden' }}>
+          <AbsoluteFill style={{ transform: utuh ? undefined : kenBurns(a.gerak, kemajuan, a.kenBurns) }}>
+            {menempel.map((e, i) => (
+              <Efek key={i} e={e} seed={`${a.nomor}-${i}`} durasi={a.vAkhir - a.vMulai} />
+            ))}
+          </AbsoluteFill>
+        </AbsoluteFill>
+      ) : null}
+      {layar.map((e, i) => (
+        <Efek key={`l${i}`} e={e} seed={`${a.nomor}-l${i}`} durasi={a.vAkhir - a.vMulai} />
+      ))}
     </AbsoluteFill>
   );
 };

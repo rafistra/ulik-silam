@@ -2,6 +2,7 @@
 // dipasang lewat pasangSetelan(). Nilai di berkas ini adalah bawaan bila setelan.json tidak mengisinya.
 import type { Gerak } from './adegan';
 import type { KenBurnsKhusus } from '../komponen/Ilustrasi';
+import type { EfekAdegan } from '../komponen/Efek';
 
 /**
  * Timpa gerak Ken Burns, posisi teks layar, atau kata kunci subtitle (diwarnai pelita) per adegan.
@@ -66,6 +67,12 @@ export let FRASA_NARASI: Record<number, string[]> = {};
  */
 export let SISIP_JEDA: Record<number, { pada: number; lama: number; sfx: number; dariSfx: number }[]> = {};
 
+/**
+ * Efek suasana per adegan (lihat src/komponen/Efek.tsx): kedip-pelita, debu-cahaya, kabut, vinyet-hening.
+ * { nomor adegan: [{ efek, x?, y?, lebar?, tinggi?, kuat? }] }; posisi dan ukuran dalam % kanvas. Kosong = tanpa efek.
+ */
+export let EFEK_ADEGAN: Record<number, EfekAdegan[]> = {};
+
 /** Nomor adegan yang ilustrasinya dipakai di sampul (bawaan skill: 1). */
 export let SAMPUL_ADEGAN = 1;
 
@@ -88,7 +95,7 @@ export let SETELAN_AUDIO = {
   sfx: 1,
 };
 
-const BAWAAN = structuredClone({ SETELAN_ADEGAN, ADEGAN_FOTO_UTUH, GELAP_AWAL, GELAP_SESUDAH, SETELAN_SFX, SETELAN_MUSIK, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT, POTONG_SUBTITLE, FRASA_NARASI, SISIP_JEDA, SAMPUL_ADEGAN, SETELAN_PETA, SETELAN_AUDIO });
+const BAWAAN = structuredClone({ SETELAN_ADEGAN, ADEGAN_FOTO_UTUH, GELAP_AWAL, GELAP_SESUDAH, SETELAN_SFX, SETELAN_MUSIK, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT, POTONG_SUBTITLE, FRASA_NARASI, SISIP_JEDA, SAMPUL_ADEGAN, SETELAN_PETA, SETELAN_AUDIO, EFEK_ADEGAN });
 export type Setelan = Partial<{ [K in keyof typeof BAWAAN]: (typeof BAWAAN)[K] }>;
 
 /** Pasang setelan proyek; kunci yang tidak diisi kembali ke bawaan. */
@@ -105,6 +112,7 @@ export function pasangSetelan(d: Setelan = {}) {
   FRASA_NARASI = d.FRASA_NARASI ?? BAWAAN.FRASA_NARASI;
   SISIP_JEDA = d.SISIP_JEDA ?? BAWAAN.SISIP_JEDA;
   SAMPUL_ADEGAN = d.SAMPUL_ADEGAN ?? BAWAAN.SAMPUL_ADEGAN;
+  EFEK_ADEGAN = d.EFEK_ADEGAN ?? BAWAAN.EFEK_ADEGAN;
   SETELAN_PETA = d.SETELAN_PETA ?? BAWAAN.SETELAN_PETA;
   SETELAN_AUDIO = { ...BAWAAN.SETELAN_AUDIO, ...(d.SETELAN_AUDIO || {}) };
 }

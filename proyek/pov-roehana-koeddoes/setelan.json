@@ -1,11 +1,71 @@
 {
   "SETELAN_ADEGAN": {
-    "2": { "kataKunci": ["Soenting Melajoe"] },
-    "14": { "kataKunci": ["Sepuluh Juli 1912"] },
-    "16": { "kataKunci": ["Soenting Melajoe", "Pahlawan Nasional"] }
+    "2": {
+      "kataKunci": [
+        "Soenting Melajoe"
+      ]
+    },
+    "14": {
+      "kataKunci": [
+        "Sepuluh Juli 1912"
+      ]
+    },
+    "16": {
+      "kataKunci": [
+        "Soenting Melajoe",
+        "Pahlawan Nasional"
+      ]
+    }
   },
   "SAMARKAN_SUBTITLE": {
     "Sunting Melayu": "Soenting Melajoe",
     "Utusan Melayu": "Oetoesan Melajoe"
+  },
+  "EFEK_ADEGAN": {
+    "1": [
+      { "efek": "kedip-pelita", "x": 15, "y": 56 }
+    ],
+    "2": [
+      { "efek": "kabut", "y": 60, "tinggi": 40 }
+    ],
+    "3": [
+      { "efek": "debu-cahaya", "x": 30, "y": 35, "lebar": 55, "tinggi": 45 }
+    ],
+    "4": [
+      { "efek": "debu-cahaya", "x": 35, "y": 30, "lebar": 60, "tinggi": 40 }
+    ],
+    "6": [
+      { "efek": "kedip-pelita", "x": 6, "y": 18, "kuat": 0.8 },
+      { "efek": "kedip-pelita", "x": 58, "y": 21, "kuat": 0.8 }
+    ],
+    "7": [
+      { "efek": "kabut", "y": 62, "tinggi": 35, "kuat": 0.8 }
+    ],
+    "8": [
+      { "efek": "kabut", "y": 55, "tinggi": 45, "kuat": 1.1 }
+    ],
+    "10": [
+      { "efek": "debu-cahaya", "x": 50, "y": 25, "lebar": 80, "tinggi": 40 }
+    ],
+    "11": [
+      { "efek": "kedip-pelita", "x": 55, "y": 34 }
+    ],
+    "12": [
+      { "efek": "kedip-pelita", "x": 69, "y": 22 }
+    ],
+    "14": [
+      { "efek": "debu-cahaya", "x": 35, "y": 30, "lebar": 60, "tinggi": 45 }
+    ],
+    "15": [
+      { "efek": "kedip-pelita", "x": 36, "y": 35 },
+      { "efek": "vinyet-hening" }
+    ],
+    "16": [
+      { "efek": "kedip-pelita", "x": 5, "y": 49 }
+    ],
+    "17": [
+      { "efek": "kedip-pelita", "x": 80, "y": 37, "kuat": 0.8 },
+      { "efek": "kabut", "y": 62, "tinggi": 25, "kuat": 0.5 }
+    ]
   }
 }
