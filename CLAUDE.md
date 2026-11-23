@@ -36,4 +36,4 @@ File berat ada di `$ASET_DIR` (lihat `.env`; bawaan folder `aset/` di repo ini, 
 
 1. Perbarui `STATUS.md` (tahap, tanggal, langkah berikutnya).
 2. Tawarkan aset baru yang sudah disetujui untuk masuk `pustaka/`.
-3. Commit dengan pesan singkat dalam Bahasa Indonesia, lalu push.
+3. Commit dengan pesan singkat dalam Bahasa Indonesia, lalu push. Jangan tambahkan baris `Co-Authored-By` atau atribusi Claude Code di commit maupun PR.
