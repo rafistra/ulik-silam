@@ -16,28 +16,57 @@ export type EfekAdegan = { efek: NamaEfek; x?: number; y?: number; lebar?: numbe
 const jepit = { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' } as const;
 const hex = (warna: string, alfa: number) => warna.slice(0, 7) + Math.round(Math.min(1, Math.max(0, alfa)) * 255).toString(16).padStart(2, '0');
 
-/** Kedip tak beraturan 0..1 dari gabungan sinus berfrekuensi tak sebanding, diacak per seed. */
+/**
+ * Kedip tak beraturan 0..1 seperti nyala minyak: ayunan lambat, getar cepat kecil, dan sesekali surut
+ * (gabungan sinus berfrekuensi tak sebanding, diacak per seed, lalu dipertajam).
+ */
 function kedip(f: number, seed: string) {
   const t = f / KANVAS.fps;
   const fase = (i: number) => random(`${seed}-${i}`) * Math.PI * 2;
-  const v = 0.5 * Math.sin(t * 2.3 + fase(1)) + 0.3 * Math.sin(t * 5.9 + fase(2)) + 0.2 * Math.sin(t * 13.7 + fase(3));
-  return 0.5 + 0.5 * v;
+  const v =
+    0.42 * Math.sin(t * 1.7 + fase(1)) +
+    0.26 * Math.sin(t * 4.3 + fase(2)) +
+    0.18 * Math.sin(t * 9.1 + fase(3)) +
+    0.14 * Math.sin(t * 17.3 + fase(4));
+  const surut = Math.max(0, Math.sin(t * 0.9 + fase(5))) ** 6; // sesekali nyala mengecil sejenak
+  const k = 0.5 + 0.5 * v - 0.45 * surut;
+  return Math.min(1, Math.max(0, (k - 0.5) * 1.35 + 0.5));
 }
 
-/** Pendar amber di posisi pelita, berdenyut seperti nyala minyak. */
+/**
+ * Nyala pelita: inti pendar di posisi lampu yang membesar-mengecil, cahaya ruangan amber yang ikut terang-redup,
+ * dan tepi ruangan yang sedikit menggelap saat nyala mengecil. `kuat` mengatur besarnya denyut.
+ */
 const KedipPelita: React.FC<{ e: EfekAdegan; seed: string }> = ({ e, seed }) => {
   const f = useCurrentFrame();
   const kuat = e.kuat ?? 1;
   const k = kedip(f, seed);
-  const r = 18 * (0.92 + 0.12 * k); // jari-jari pendar, % lebar kanvas
+  const x = e.x ?? 50, y = e.y ?? 50;
+  const px = (persen: number) => (persen * KANVAS.lebar) / 100;
+  const rInti = 15 + 9 * k; // % lebar kanvas
   return (
-    <AbsoluteFill
-      style={{
-        mixBlendMode: 'screen',
-        opacity: Math.min(1, kuat * (0.6 + 0.35 * k)),
-        background: `radial-gradient(circle ${(r * KANVAS.lebar) / 100}px at ${e.x ?? 50}% ${e.y ?? 50}%, ${hex(WARNA.pelita, 0.85)} 0%, ${hex(WARNA.pelita, 0.35)} 30%, ${hex(WARNA.pelita, 0.08)} 65%, ${hex(WARNA.pelita, 0)} 100%)`,
-      }}
-    />
+    <>
+      <AbsoluteFill
+        style={{
+          mixBlendMode: 'screen',
+          opacity: Math.min(1, kuat * (0.35 + 0.65 * k)),
+          background: `radial-gradient(circle ${px(rInti)}px at ${x}% ${y}%, ${hex(WARNA.pelita, 0.9)} 0%, ${hex(WARNA.pelita, 0.4)} 28%, ${hex(WARNA.pelita, 0.1)} 62%, ${hex(WARNA.pelita, 0)} 100%)`,
+        }}
+      />
+      <AbsoluteFill
+        style={{
+          mixBlendMode: 'screen',
+          opacity: Math.min(1, kuat * 0.6 * k),
+          background: `radial-gradient(circle ${px(85)}px at ${x}% ${y}%, ${hex(WARNA.pelita, 0.6)} 0%, ${hex(WARNA.pelita, 0.22)} 50%, ${hex(WARNA.pelita, 0)} 100%)`,
+        }}
+      />
+      <AbsoluteFill
+        style={{
+          opacity: Math.min(1, kuat * 0.55 * (1 - k)),
+          background: `radial-gradient(circle ${px(90)}px at ${x}% ${y}%, ${hex(WARNA.latar, 0)} 25%, ${hex(WARNA.latar, 0.75)} 100%)`,
+        }}
+      />
+    </>
   );
 };
 
