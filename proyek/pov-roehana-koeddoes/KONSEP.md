@@ -6,7 +6,7 @@
 | --- | --- |
 | Judul | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 |
 | Slug | pov-roehana-koeddoes |
-| Versi | v3 · 2026-11-23 |
+| Versi | v4 · 2026-11-23 |
 | Lapisan | Sejarah |
 | Latar | Koto Gadang dan Padang, Sumatra Barat |
 | Durasi | 3:00 maksimum, target ±2:50 |
@@ -15,7 +15,7 @@
 | Posisi "kamu" | Roehana Koeddoes (Siti Roehana, 1884–1972), tokoh nyata: anak pegawai kejaksaan yang tak pernah bersekolah formal, guru perempuan di Koto Gadang, ketua Kerajinan Amai Setia, lalu pemimpin redaksi Soenting Melajoe. Usia sekitar 6 tahun (Babak 2) sampai 27 tahun (Juli 1912) |
 | Jumlah ilustrasi | 18 (17 adegan + 1 lembar karakter) |
 | Premis | Pekan terbitnya Soenting Melajoe, kamu memegang koran perempuan yang kamu pimpin, lalu menengok jalan panjang dari gadis yang belajar huruf dari tetangga sampai sekolah yang diminta ditutup kampungnya sendiri. |
-| Benang merah | Kampung menganggap anak gadis cukup pandai menyulam; Roehana memang menyulam, tetapi juga "menyulam" kata. Kecurigaan terhadap huruf dijawab bukan dengan memusuhi adat, melainkan dengan bekerja bersama, termasuk dengan tokoh pembela adat paling gigih di Padang. |
+| Benang merah | Kampung menganggap anak gadis cukup bisa menyulam, tak perlu pandai membaca; Roehana memang menyulam, tetapi juga "menyulam" kata. Kecurigaan terhadap huruf dijawab bukan dengan memusuhi adat, melainkan dengan bekerja bersama, termasuk dengan tokoh pembela adat paling gigih di Padang. |
 | Alur | Mulai di tengah (Juli 1912, koran pertama di tangan), kilas balik masa kecil (Alahan Panjang, Simpang Tonang Talu), sekolah di rumah nenek dan penolakan, Kerajinan Amai Setia (11 Februari 1911), surat ke Datuk Sutan Maharadja, cetak perdana 10 Juli 1912, kembali ke koran di tangan, epilog singkat |
 | Generator | Gemini (gambar), Suno (musik), ElevenLabs Eleven v3 (narasi), Remotion (perakitan oleh pov-produksi) |
 | Asumsi | (1) Hook bank "perempuan cukup pandai menenun" diubah menjadi "anak gadis cukup pandai menyulam" karena Amai Setia mengajarkan sulaman dan kalimat penutup memakai metafora benang; keduanya kerajinan Koto Gadang. (2) "Tulisanmu dicetak" diganti "koran perempuan yang kamu pimpin terbit untuk pertama kali" karena isi edisi pertama dan tulisan Roehana di dalamnya tidak berhasil diverifikasi. (3) Momen menerima koran di Koto Gadang "pekan ini" adalah dramatisasi: kajian UIN SGD dan kajian Unpad (Herawati dkk. 2022) menyebut Roehana memimpin redaksi dari Koto Gadang, tetapi tidak mencatat kapan ia menerima edisi pertama. (4) Fitnah penyelewengan uang Amai Setia (1914–1916) terjadi sesudah rentang brief, jadi hanya disebut satu kalimat di epilog, bukan dijadikan titik balik. (5) Nama tetangga di Alahan Panjang (Lebai Rajo Nan Sutan dan Adiesa) tidak disebut di narasi karena ejaannya berbeda antar-sumber. (6) Potret Roehana (infobox Wikipedia, "ca. 1900") dan foto "Rohana Kudus bersama murid-muridnya" (Historia) tidak bisa dilihat di dua putaran riset (Commons, cermin, dan unduhan gambar tertutup); wajah tetap rekaan, dan Rafi diminta mengunggah potret itu ke Gemini. (7) Lapisan cukup `Sejarah`; tidak ada bagian kisah tradisional. (8) v2: busana Roehana diganti dari sarung songket bertepi sulaman emas menjadi baju kurung polos berlengan lebar, selendang sebagai tengkuluk, dan kain batik, mengikuti kajian busana harian perempuan Koto Gadang; songket dan sulaman emas dianggap busana upacara. (9) v2: parafrase pernyataan Roehana di Adegan 10 (1 sumber) diganti dengan tuduhan yang tercatat di tiga sumber; kutipan aslinya disimpan di tabel sebagai "tidak dipakai". |
@@ -79,7 +79,7 @@ Aspect ratio: 9:16
 
 | Babak | Waktu | Adegan | Hook pembuka babak | Open loop penutup | Isi |
 | --- | --- | --- | --- | --- | --- |
-| 1 Koran pertama | 0:00–0:17 | 1–2 | Di kampungmu, anak gadis cukup pandai menyulam. | Padahal dulu, ada yang meminta sekolahmu ditutup. | Juli 1912: koran perempuan yang kamu pimpin terbit; tatapan curiga tetangga. |
+| 1 Koran pertama | 0:00–0:17 | 1–2 | Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. | Padahal dulu, ada yang meminta sekolahmu ditutup. | Juli 1912: koran perempuan yang kamu pimpin terbit; tatapan curiga tetangga. |
 | 2 Huruf pertama | 0:17–0:47 | 3–5 | Kamu tidak pernah duduk di bangku sekolah. | Lalu ibumu wafat, dan kamu pulang ke kampung yang belum siap untuk gadis sepertimu. | Masa kecil: anak pegawai kejaksaan yang tak bersekolah belajar huruf dari tetangga, membacakan koran, diejek; ibu wafat. |
 | 3 Sekolah di rumah nenek | 0:47–1:15 | 6–8 | Kamu pulang membawa sesuatu yang dicurigai sebagian orang: huruf. | Kamu pergi... tapi belum selesai. | Sekolah di rumah nenek, kecemasan orang tua, permintaan penutupan, pindah ke Maninjau bersama suami. |
 | 4 Amai Setia | 1:15–1:46 | 9–11 | Kamu kembali, kali ini dengan sekitar enam puluh perempuan di belakangmu. | Kamu butuh cara agar suaramu sampai lebih jauh. | 11 Februari 1911: sekitar 60 perempuan mendirikan Kerajinan Amai Setia; Roehana ketua; keinginan menjangkau lebih jauh. |
@@ -94,7 +94,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 0:00–0:09 | A. Pagi buta di ruang depan rumah kayu di Koto Gadang. Tangan dewasa "kamu" membuka lipatan koran empat halaman yang masih kaku; kolom huruf tak terbaca. Pelita minyak di meja, jendela menampakkan siluet Gunung Singgalang dalam kabut biru. | [tense] Di kampungmu, anak gadis cukup pandai menyulam. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali. | Koto Gadang, Juli 1912 | Narator tegang tertahan; desir kertas dibuka |
+| 1 | 0:00–0:09 | A. Pagi buta di ruang depan rumah kayu di Koto Gadang. Tangan dewasa "kamu" membuka lipatan koran empat halaman yang masih kaku; kolom huruf tak terbaca. Pelita minyak di meja, jendela menampakkan siluet Gunung Singgalang dalam kabut biru. | [tense] Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali. | Koto Gadang, Juli 1912 | Narator tegang tertahan; desir kertas dibuka |
 | 2 | 0:09–0:17 | B. Roehana berdiri di ambang pintu rumah, koran terlipat di dada, menoleh ke halaman tempat tiga perempuan tetangga berbisik. Seorang perempuan tua menatap koran dengan alis berkerut (cemas, bukan jahat); seorang gadis kecil mengintip penuh rasa ingin tahu. | [curious] Namanya Soenting Melajoe, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup. | - | Narator penasaran lalu tegang; bisik-bisik di kejauhan |
 
 ### Babak 2: Huruf pertama
@@ -135,7 +135,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 | --- | --- | --- | --- | --- | --- |
 | 15 | 2:17–2:26 | A. **Momen hening** Kembali ke pagi pertama di Koto Gadang. Bidikan dekat: kedua tangan "kamu" memegang koran, ujung telunjuk kanan bernoda tinta, pelita bergetar pelan. | [whispers] Gadis yang tak pernah bersekolah kini memegang korannya sendiri. [calm] Bau tintanya masih tajam... | Koto Gadang, Juli 1912 | Narator berbisik; musik turun, hampir hening |
 | 16 | 2:26–2:38 | B. **Epilog** Meja kerja Roehana bertahun kemudian: tumpukan edisi Soenting Melajoe yang diikat tali, buku kas, pena; Roehana duduk menulis, menoleh sebentar ke jendela dengan wajah teguh. | [calm] Hampir sembilan tahun kamu memimpin Soenting Melajoe. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional. | - | Narator tenang, serius di tengah |
-| 17 | 2:38–2:47 | B. Senja di serambi rumah Koto Gadang. Roehana berdiri memandangi Ngarai Sianok, koran terlipat di satu tangan, pembidang sulaman setengah jadi di bangku sampingnya; pelita baru dinyalakan. | [calm] Dulu, ada yang bilang anak gadis cukup pandai menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata. | - | Narator tenang dan mantap; angin senja di ngarai |
+| 17 | 2:38–2:47 | B. Senja di serambi rumah Koto Gadang. Roehana berdiri memandangi Ngarai Sianok, koran terlipat di satu tangan, pembidang sulaman setengah jadi di bangku sampingnya; pelita baru dinyalakan. | [calm] Dulu, kata orang, anak gadis cukup bisa menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata. | - | Narator tenang dan mantap; angin senja di ngarai |
 
 ## Prompt ilustrasi untuk Gemini
 
@@ -159,7 +159,7 @@ Aspect ratio: 9:16
 
 ### Babak 1: Koran pertama
 
-**Adegan 1 · Narasi (0:00–0:09):** Di kampungmu, anak gadis cukup pandai menyulam. Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali.
+**Adegan 1 · Narasi (0:00–0:09):** Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali.
 
 ```
 The viewer is Roehana Koeddoes: the hands and forearms in the foreground match the first-person panel of the Roehana Koeddoes reference image.
@@ -387,7 +387,7 @@ Style: detailed vector art
 Aspect ratio: 9:16
 ```
 
-**Adegan 17 · Narasi (2:38–2:47):** Dulu, ada yang bilang anak gadis cukup pandai menyulam. Kamu memang menyulam. Hanya saja, benangmu adalah kata-kata.
+**Adegan 17 · Narasi (2:38–2:47):** Dulu, kata orang, anak gadis cukup bisa menyulam. Kamu memang menyulam. Hanya saja, benangmu adalah kata-kata.
 
 ```
 Same character as the Roehana Koeddoes reference image.
@@ -423,12 +423,12 @@ Pilih voice perempuan dewasa yang hangat, jernih, dan bisa berbisik; voice palin
 **Babak 1: Koran pertama**
 
 ```
-[tense] Di kampungmu, anak gadis cukup pandai menyulam. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali....
+[tense] Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali....
 
 [curious] Namanya Soenting Melajoe, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup....
 ```
 
-Karakter: 256
+Karakter: 291
 
 **Babak 2: Huruf pertama**
 
@@ -485,10 +485,10 @@ Karakter: 500
 
 [calm] Hampir sembilan tahun kamu memimpin Soenting Melajoe. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional....
 
-[calm] Dulu, ada yang bilang anak gadis cukup pandai menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata....
+[calm] Dulu, kata orang, anak gadis cukup bisa menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata....
 ```
 
-Karakter: 471
+Karakter: 465
 
 ### Musik (Suno)
 
@@ -653,7 +653,7 @@ Kode sumber merujuk ke daftar di `## Sumber`. Klaim kunci dikonfirmasi minimal d
 | Roehana merintis koran Poetri Hindia 1908 | (tidak dipakai) | 1 sumber, bertentangan dengan catatan umum (Poetri Hindia dipimpin Tirto Adhi Soerjo) | [S20] |
 | Tulisan Roehana "melawan kolonialisme" | (tidak dipakai) | Tafsir bertentangan | [S19] [S20] vs [S8] |
 
-**Dramatisasi:** momen memegang edisi pertama di Koto Gadang (Adegan 1, 15), bisik-bisik tetangga (2), ejekan "banyak lagak" diringkas menjadi "ada yang mengejek" (5), ibu yang mengembalikan batu tulis putrinya dan mamak yang menunggu di halaman (7, visual), malam gelisah (11), surat balasan yang dibaca di serambi (13), suasana percetakan (14), dan seluruh perasaan serta pikiran "kamu".
+**Dramatisasi:** anggapan kampung bahwa anak gadis cukup bisa menyulam dan tak perlu pandai membaca, ditandai "kata orang" (Adegan 1, 17; diturunkan dari penolakan terhadap sekolah Roehana di Adegan 7 dan 8), momen memegang edisi pertama di Koto Gadang (Adegan 1, 15), bisik-bisik tetangga (2), ejekan "banyak lagak" diringkas menjadi "ada yang mengejek" (5), ibu yang mengembalikan batu tulis putrinya dan mamak yang menunggu di halaman (7, visual), malam gelisah (11), surat balasan yang dibaca di serambi (13), suasana percetakan (14), dan seluruh perasaan serta pikiran "kamu".
 
 ### Catatan akurasi visual
 
@@ -726,6 +726,7 @@ Gambar di tabel ini belum dilihat; Rafi perlu membuka dan mengunggahnya ke Gemin
 | v1 | 2026-11-07 | Konsep awal | - |
 | v2 | 2026-11-07 | Riset susulan (Tahap R). Narasi Adegan 10: parafrase pernyataan Roehana (1 sumber) diganti tuduhan yang ia hadapi (3 sumber); Narasi lengkap Babak 4 dan baris prompt Adegan 10 ikut diperbarui. Busana Roehana: sarung songket marun dan tepi sulaman emas diganti kain batik bermotif bunga kecil dan baju kurung polos berlengan lebar, selendang sebagai tengkuluk (deskripsi tokoh baku, lembar karakter, tangan baku dewasa di semua bidikan A). Avoid: "Javanese batik" menjadi "geometric Javanese court batik motifs", ditambah "gold-thread songket sarung". Palet Babak 4 "songket gold" menjadi "embroidery-thread gold". Adegan 9: warna selendang figuran menurut usia; Adegan 10: murid membuat renda kelos. Tabel verifikasi: 2 baris naik dari 1 sumber, 1 baris diperbaiki, belasan baris mendapat sumber tambahan; Catatan akurasi visual ditulis ulang untuk Roehana; tambah `### Referensi visual untuk diunggah` (10 referensi) dan 13 sumber baru | Belum ada aset; tidak ada yang dibuat ulang |
 | v3 | 2026-11-23 | Adegan 7 gagal dibuat di Gemini (dugaan filter keamanan anak: ibu menarik pergelangan anak ±10 tahun dengan lelaki dewasa cemberut mengawasi). Visual dan prompt Adegan 7 diganti: tanpa anak, ibu di anak tangga teratas mengembalikan batu tulis putrinya, tangan "kamu" menerimanya; waktu jadi pagi berkabut dengan sisa cahaya pelita dari dalam; Avoid ditambah "children, crowds". Catatan dramatisasi ikut disesuaikan. Narasi tidak berubah | Ilustrasi Adegan 7 (belum ada, dibuat dari prompt baru) |
+| v4 | 2026-11-23 | Hook Adegan 1 dan gemanya di Adegan 17 diperjelas: "cukup pandai menyulam" (bisa terbaca "lumayan pandai") menjadi "Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca." dan "Dulu, kata orang, anak gadis cukup bisa menyulam." Tag tidak berubah. Kolom Narasi, baris prompt, Narasi lengkap Babak 1 dan 6 (Karakter 291 dan 465), hook di Struktur alur, Benang merah, dan catatan Dramatisasi ikut diperbarui. 321 kata, perkiraan 2:45–2:50 | Rekaman Babak 1 dan 6 (belum ada; buat dari teks baru) |
 
 ## Sumber
 
