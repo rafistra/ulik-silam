@@ -1,5 +1,11 @@
 {
   "SETELAN_ADEGAN": {
-    "14": { "kataKunci": ["Sepuluh Juli 1912"] }
+    "2": { "kataKunci": ["Soenting Melajoe"] },
+    "14": { "kataKunci": ["Sepuluh Juli 1912"] },
+    "16": { "kataKunci": ["Soenting Melajoe", "Pahlawan Nasional"] }
+  },
+  "SAMARKAN_SUBTITLE": {
+    "Sunting Melayu": "Soenting Melajoe",
+    "Utusan Melayu": "Oetoesan Melajoe"
   }
 }

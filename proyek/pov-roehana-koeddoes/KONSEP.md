@@ -6,7 +6,7 @@
 | --- | --- |
 | Judul | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 |
 | Slug | pov-roehana-koeddoes |
-| Versi | v6 · 2026-11-23 |
+| Versi | v7 · 2026-11-23 |
 | Lapisan | Sejarah |
 | Latar | Koto Gadang dan Padang, Sumatra Barat |
 | Durasi | 3:00 maksimum, target ±2:50 |
@@ -83,7 +83,7 @@ Aspect ratio: 9:16
 | 2 Huruf pertama | 0:17–0:47 | 3–5 | Kamu tidak pernah duduk di bangku sekolah. | Lalu ibumu wafat, dan kamu pulang ke kampung yang belum siap untuk gadis sepertimu. | Masa kecil: anak pegawai kejaksaan yang tak bersekolah belajar huruf dari tetangga, membacakan koran, diejek; ibu wafat. |
 | 3 Sekolah di rumah nenek | 0:47–1:15 | 6–8 | Kamu pulang membawa sesuatu yang dicurigai sebagian orang: huruf. | Kamu pergi... tapi belum selesai. | Sekolah di rumah nenek, kecemasan orang tua, permintaan penutupan, pindah ke Maninjau bersama suami. |
 | 4 Amai Setia | 1:15–1:46 | 9–11 | Kamu kembali, kali ini dengan sekitar enam puluh perempuan di belakangmu. | Kamu butuh cara agar suaramu sampai lebih jauh. | 11 Februari 1911: sekitar 60 perempuan mendirikan Kerajinan Amai Setia; Roehana ketua; keinginan menjangkau lebih jauh. |
-| 5 Surat ke Padang | 1:46–2:17 | 12–14 | Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Oetoesan Melajoe di Padang. | Edisi pertama itu kini menempuh jalan pulang... ke kampung yang dulu meragukanmu. | Surat kepada Datuk Sutan Maharadja, kesepakatan redaksi, cetak perdana 10 Juli 1912 di Padang. |
+| 5 Surat ke Padang | 1:46–2:17 | 12–14 | Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Utusan Melayu di Padang. | Edisi pertama itu kini menempuh jalan pulang... ke kampung yang dulu meragukanmu. | Surat kepada Datuk Sutan Maharadja, kesepakatan redaksi, cetak perdana 10 Juli 1912 di Padang. |
 | 6 Tinta di jari | 2:17–2:47 | 15–17 | Gadis yang tak pernah bersekolah kini memegang korannya sendiri. | - (babak terakhir; kalimat penutup: Hanya saja, benangmu adalah kata-kata.) | Kembali ke koran di tangan (Momen hening), epilog singkat (sembilan tahun, fitnah yang tak terbukti, Pahlawan Nasional 2019), penutup membalik hook. |
 
 Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis, dan elemen merek, perkiraan total 2:49 (130 kpm) dan 2:43 (135 kpm), di bawah batas 3:00. Jumlah kata narasi: 316.
@@ -95,7 +95,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 0:00–0:09 | A. Pagi buta di ruang depan rumah kayu di Koto Gadang. Tangan dewasa "kamu" membuka lipatan koran empat halaman yang masih kaku; kolom huruf tak terbaca. Pelita minyak di meja, jendela menampakkan siluet Gunung Singgalang dalam kabut biru. | [tense] Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali. | Koto Gadang, Juli 1912 | Narator tegang tertahan; desir kertas dibuka |
-| 2 | 0:09–0:17 | B. Roehana berdiri di ambang pintu rumah, koran terlipat di dada, menoleh ke halaman tempat tiga perempuan tetangga berbisik. Seorang perempuan tua menatap koran dengan alis berkerut (cemas, bukan jahat); seorang perempuan muda di sampingnya melirik koran penuh rasa ingin tahu. | [curious] Namanya Soenting Melajoe, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup. | - | Narator penasaran lalu tegang; bisik-bisik di kejauhan |
+| 2 | 0:09–0:17 | B. Roehana berdiri di ambang pintu rumah, koran terlipat di dada, menoleh ke halaman tempat tiga perempuan tetangga berbisik. Seorang perempuan tua menatap koran dengan alis berkerut (cemas, bukan jahat); seorang perempuan muda di sampingnya melirik koran penuh rasa ingin tahu. | [curious] Namanya Sunting Melayu, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup. | - | Narator penasaran lalu tegang; bisik-bisik di kejauhan |
 
 ### Babak 2: Huruf pertama
 
@@ -125,7 +125,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
-| 12 | 1:46–1:56 | A. Meja tulis berpelita. Tangan kanan "kamu" mencelupkan pena ke botol tinta, tangan kiri menahan lembar surat panjang; amplop belum tertutup di samping, bersama koran Melayu terlipat (huruf tak terbaca). | [nervous] Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Oetoesan Melajoe di Padang. [curious] Permintaanmu: surat kabar untuk perempuan. | Tahun 1912 | Narator gugup lalu penasaran; gores pena celup |
+| 12 | 1:46–1:56 | A. Meja tulis berpelita. Tangan kanan "kamu" mencelupkan pena ke botol tinta, tangan kiri menahan lembar surat panjang; amplop belum tertutup di samping, bersama koran Melayu terlipat (huruf tak terbaca). | [nervous] Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Utusan Melayu di Padang. [curious] Permintaanmu: surat kabar untuk perempuan. | Tahun 1912 | Narator gugup lalu penasaran; gores pena celup |
 | 13 | 1:56–2:06 | B. Siang di serambi rumah Koto Gadang. Roehana membaca surat balasan, satu tangan menutup mulut menahan senyum, mata berbinar; dua murid Amai Setia mengintip dari balik tiang. | [excited] Ia setuju. [calm] Kamu menjadi pemimpin redaksi, dibantu putrinya, Zoebaidah Ratna Djoewita. [curious] Pembela adat itu justru membuka halaman bagi perempuan. | - | Narator riang lalu penasaran; kertas surat dibuka |
 | 14 | 2:06–2:17 | B. Percetakan Snelpersdrukkerij Orang Alam Minangkabau di Padang (Roehana tidak tampil). Dua pekerja memutar roda engkol mesin cetak silinder dari besi cor; lembar-lembar basah tergantung di tali; seorang pekerja tua mengikat tumpukan koran untuk dikirim. Cahaya siang berdebu dari jendela tinggi. | [tense] Sepuluh Juli 1912, mesin cetak di Padang berputar. [serious] Edisi pertama itu kini menempuh jalan pulang... ke kampung yang dulu meragukanmu. | Padang, 10 Juli 1912 | Narator tegang lalu serius; dentang mesin cetak |
 
@@ -134,7 +134,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
 | 15 | 2:17–2:26 | A. **Momen hening** Kembali ke pagi pertama di Koto Gadang. Bidikan dekat: kedua tangan "kamu" memegang koran, ujung telunjuk kanan bernoda tinta, pelita bergetar pelan. | [whispers] Gadis yang tak pernah bersekolah kini memegang korannya sendiri. [calm] Bau tintanya masih tajam... | Koto Gadang, Juli 1912 | Narator berbisik; musik turun, hampir hening |
-| 16 | 2:26–2:38 | B. **Epilog** Meja kerja Roehana bertahun kemudian: tumpukan edisi Soenting Melajoe yang diikat tali, buku kas, pena; Roehana duduk menulis, menoleh sebentar ke jendela dengan wajah teguh. | [calm] Hampir sembilan tahun kamu memimpin Soenting Melajoe. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional. | - | Narator tenang, serius di tengah |
+| 16 | 2:26–2:38 | B. **Epilog** Meja kerja Roehana bertahun kemudian: tumpukan edisi Soenting Melajoe yang diikat tali, buku kas, pena; Roehana duduk menulis, menoleh sebentar ke jendela dengan wajah teguh. | [calm] Hampir sembilan tahun kamu memimpin Sunting Melayu. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional. | - | Narator tenang, serius di tengah |
 | 17 | 2:38–2:47 | B. Senja di serambi rumah Koto Gadang. Roehana berdiri memandangi Ngarai Sianok, koran terlipat di satu tangan, pembidang sulaman setengah jadi di bangku sampingnya; pelita baru dinyalakan. | [calm] Dulu, kata orang, anak gadis cukup bisa menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata. | - | Narator tenang dan mantap; angin senja di ngarai |
 
 ## Prompt ilustrasi untuk Gemini
@@ -173,7 +173,7 @@ Style: detailed vector art
 Aspect ratio: 9:16
 ```
 
-**Adegan 2 · Narasi (0:09–0:17):** Namanya Soenting Melajoe, dicetak di Padang. Padahal dulu, ada yang meminta sekolahmu ditutup.
+**Adegan 2 · Narasi (0:09–0:17):** Namanya Sunting Melayu, dicetak di Padang. Padahal dulu, ada yang meminta sekolahmu ditutup.
 
 ```
 Same character as the Roehana Koeddoes reference image.
@@ -319,7 +319,7 @@ Aspect ratio: 9:16
 
 ### Babak 5: Surat ke Padang
 
-**Adegan 12 · Narasi (1:46–1:56):** Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Oetoesan Melajoe di Padang. Permintaanmu: surat kabar untuk perempuan.
+**Adegan 12 · Narasi (1:46–1:56):** Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Utusan Melayu di Padang. Permintaanmu: surat kabar untuk perempuan.
 
 ```
 The viewer is Roehana Koeddoes: the hands and forearms in the foreground match the first-person panel of the Roehana Koeddoes reference image.
@@ -374,7 +374,7 @@ Style: detailed vector art
 Aspect ratio: 9:16
 ```
 
-**Adegan 16 · Narasi (2:26–2:38):** Hampir sembilan tahun kamu memimpin Soenting Melajoe. Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional.
+**Adegan 16 · Narasi (2:26–2:38):** Hampir sembilan tahun kamu memimpin Sunting Melayu. Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional.
 
 ```
 Same character as the Roehana Koeddoes reference image.
@@ -425,10 +425,10 @@ Pilih voice perempuan dewasa yang hangat, jernih, dan bisa berbisik; voice palin
 ```
 [tense] Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca. [serious] Pekan ini, koran perempuan yang kamu pimpin terbit untuk pertama kali....
 
-[curious] Namanya Soenting Melajoe, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup....
+[curious] Namanya Sunting Melayu, dicetak di Padang. [tense] Padahal dulu, ada yang meminta sekolahmu ditutup....
 ```
 
-Karakter: 291
+Karakter: 289
 
 **Babak 2: Huruf pertama**
 
@@ -469,26 +469,26 @@ Karakter: 459
 **Babak 5: Surat ke Padang**
 
 ```
-[nervous] Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Oetoesan Melajoe di Padang. [curious] Permintaanmu: surat kabar untuk perempuan....
+[nervous] Kamu menyurati lelaki yang gigih membela adat: Datuk Sutan Maharadja, pemimpin Utusan Melayu di Padang. [curious] Permintaanmu: surat kabar untuk perempuan....
 
 [excited] Ia setuju. [calm] Kamu menjadi pemimpin redaksi, dibantu putrinya, Zoebaidah Ratna Djoewita. [curious] Pembela adat itu justru membuka halaman bagi perempuan....
 
 [tense] Sepuluh Juli 1912, mesin cetak di Padang berputar. [serious] Edisi pertama itu kini menempuh jalan pulang... ke kampung yang dulu meragukanmu....
 ```
 
-Karakter: 500
+Karakter: 497
 
 **Babak 6: Tinta di jari**
 
 ```
 [whispers] Gadis yang tak pernah bersekolah kini memegang korannya sendiri. [calm] Bau tintanya masih tajam...
 
-[calm] Hampir sembilan tahun kamu memimpin Soenting Melajoe. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional....
+[calm] Hampir sembilan tahun kamu memimpin Sunting Melayu. [serious] Kelak kamu dituduh menyelewengkan uang Amai Setia; tuduhan itu tidak terbukti. [calm] Tahun 2019, kamu ditetapkan sebagai Pahlawan Nasional....
 
 [calm] Dulu, kata orang, anak gadis cukup bisa menyulam. [serious] Kamu memang menyulam. [calm] Hanya saja, benangmu adalah kata-kata....
 ```
 
-Karakter: 465
+Karakter: 463
 
 ### Musik (Suno)
 
@@ -541,6 +541,8 @@ Claude tidak bisa membuat SFX organik yang akurat; ambil dari pustaka atau gener
 **Adegan hening:** 15
 
 ### Teks dan subtitle
+
+Nama koran ditulis menurut ucapannya di kolom Narasi ("Sunting Melayu", "Utusan Melayu") agar dibaca benar oleh ElevenLabs; subtitle tetap menampilkan ejaan van Ophuijsen ("Soenting Melajoe", "Oetoesan Melajoe") lewat `SAMARKAN_SUBTITLE` di `setelan.json`.
 
 Teks layar (penanda waktu dan tempat) tampil di awal Adegan 1, 3, 5, 6, 9, 12, 14, dan 15. Subtitle mengikuti narasi tanpa tag. Kata kunci untuk ditebalkan di subtitle: Soenting Melajoe, Kerajinan Amai Setia, Datuk Sutan Maharadja, 10 Juli 1912, Pahlawan Nasional. Ejaan nama mengikuti ejaan van Ophuijsen yang dipakai di masa itu (Roehana Koeddoes, Soenting Melajoe, Oetoesan Melajoe, Zoebaidah Ratna Djoewita); "Datuk Sutan Maharadja" ditulis dengan ejaan baru karena paling dikenal begitu.
 
@@ -729,6 +731,7 @@ Gambar di tabel ini belum dilihat; Rafi perlu membuka dan mengunggahnya ke Gemin
 | v4 | 2026-11-23 | Hook Adegan 1 dan gemanya di Adegan 17 diperjelas: "cukup pandai menyulam" (bisa terbaca "lumayan pandai") menjadi "Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca." dan "Dulu, kata orang, anak gadis cukup bisa menyulam." Tag tidak berubah. Kolom Narasi, baris prompt, Narasi lengkap Babak 1 dan 6 (Karakter 291 dan 465), hook di Struktur alur, Benang merah, dan catatan Dramatisasi ikut diperbarui. 321 kata, perkiraan 2:45–2:50 | Rekaman Babak 1 dan 6 (belum ada; buat dari teks baru) |
 | v5 | 2026-11-23 | Adegan 6 gagal dibuat di Gemini (dugaan filter keamanan anak: "girl of about twelve" dengan detail mulut, empat "girls" lain, sudut dari atas). Visual dan prompt Adegan 6: murid menjadi gadis remaja akhir dan perempuan muda (tafsir atas "gadis-gadis"; usia murid tidak tercatat), detail mulut dihapus, sudut kamera sejajar mata dari posisi duduk di tikar, Avoid ditambah "young children". Narasi tidak berubah | Ilustrasi Adegan 6 (belum ada, dibuat dari prompt baru) |
 | v6 | 2026-11-23 | Pencegahan filter keamanan anak di Gemini sebelum ilustrasi dibuat. Adegan 2: gadis kecil ±8 tahun diganti perempuan muda di samping perempuan tua (tetap tiga tetangga). Adegan 5: anak lelaki tidak lagi saling dorong dan menunjuk, tetapi berbisik sambil menyeringai dari jauh; "mouths a word" diganti "frowns thoughtfully". Adegan 10: murid "about sixteen" menjadi "in her late teens". Kolom visual Adegan 2 dan 5 ikut disesuaikan. Narasi tidak berubah | Ilustrasi Adegan 2, 5, 10 (belum ada, dibuat dari prompt baru) |
+| v7 | 2026-11-23 | Pelafalan nama koran: ElevenLabs membaca "Soenting Melajoe" sebagai "suntung melaju" dan "Oetoesan Melajoe" sebagai "utusan melaju". Kolom Narasi, baris prompt, dan Narasi lengkap Adegan 2, 12, 16 (serta kutipan di Struktur alur) memakai ejaan ucapan "Sunting Melayu" dan "Utusan Melayu"; subtitle tetap ejaan lama lewat `SAMARKAN_SUBTITLE`. Catatan di Teks dan subtitle ditambah. Fakta tidak berubah | Rekaman Babak 1, 5, 6 (rekaman pengganti Adegan 13 tetap dipakai) |
 
 ## Sumber
 
