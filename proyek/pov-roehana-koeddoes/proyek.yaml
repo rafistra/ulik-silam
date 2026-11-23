@@ -4,18 +4,19 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Koto Gadang dan Padang, Sumatra Barat"
 seri: ""
-tahap: Aset
+tahap: Rakit & render
 prioritas: 4
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v7 · 2026-11-23"
 merek: "2026-11-22"
 adegan: 17
 lembar_karakter: ["Roehana Koeddoes"]
-aset: {ilustrasi: 0, narasi: 0, musik: 0, sfx: 0}
-render: ""
-tanggal_render: null
+aset: {ilustrasi: 17, narasi: 17, musik: 3, sfx: 7}
+render: "render/pov-roehana-koeddoes-2026-11-23-v7.mp4"
+tanggal_render: 2026-11-23
 tanggal_tayang: null
 tautan: {tiktok: null, shorts: null}
 metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
 asal_ide: "0-ide/pov-roehana-koeddoes.md"
 catatan: ""
+sampul: {"adegan":16,"judul":"POV: Kamu Roehana Koeddoes, 1912","tiktok":{"x":0.8,"y":16.9,"skala":1.09}}
