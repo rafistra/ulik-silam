@@ -6,7 +6,7 @@
 | --- | --- |
 | Judul | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 |
 | Slug | pov-roehana-koeddoes |
-| Versi | v2 · 2026-11-07 |
+| Versi | v3 · 2026-11-23 |
 | Lapisan | Sejarah |
 | Latar | Koto Gadang dan Padang, Sumatra Barat |
 | Durasi | 3:00 maksimum, target ±2:50 |
@@ -110,7 +110,7 @@ Garis batas: narasi berakhir di 2:47; dengan jeda adegan, Momen hening, elipsis,
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
 | 6 | 0:47–0:57 | A. Ruang tengah rumah gadang nenek di Koto Gadang. Tangan dewasa muda "kamu" menulis huruf di batu tulis yang dipegang seorang gadis; gadis-gadis lain duduk bersimpuh di tikar pandan dengan kain jahitan di pangkuan. | [tense] Kamu pulang membawa sesuatu yang dicurigai sebagian orang: huruf. [calm] Di Koto Gadang, kamu mengajari gadis-gadis membaca, menulis, dan menjahit. | Koto Gadang, beberapa tahun kemudian | Narator tegang lalu tenang; gores grip di batu tulis |
-| 7 | 0:57–1:05 | A. Di ambang pintu rumah gadang. Seorang ibu menarik tangan putrinya pulang sambil menatap "kamu" dengan cemas; tangan "kamu" menurunkan batu tulis. Di halaman, seorang mamak bersarung dan berdestar menunggu dengan wajah muram, tangan bersedekap. | [serious] Tidak semua orang tua senang. [calm] Ada yang cemas anak gadisnya lalai mengurus rumah, atau melawan adat. | - | Narator serius; langkah kaki di lantai papan |
+| 7 | 0:57–1:05 | A. Di ambang pintu rumah gadang, pagi berkabut. Di anak tangga teratas, seorang ibu mengembalikan batu tulis putrinya sambil menatap "kamu" dengan cemas, tubuhnya sudah setengah berbalik pergi; tangan "kamu" terulur menerimanya. Di halaman, seorang mamak bersarung dan berdestar menunggu dengan wajah muram, tangan bersedekap. | [serious] Tidak semua orang tua senang. [calm] Ada yang cemas anak gadisnya lalai mengurus rumah, atau melawan adat. | - | Narator serius; langkah kaki di lantai papan |
 | 8 | 1:05–1:15 | B. Subuh berkabut di tepi Ngarai Sianok. Roehana (±24 tahun) dan suaminya, Abdoel Koeddoes, memuat buntelan kain dan peti buku ke pedati; Roehana menoleh terakhir kali ke deretan atap gonjong kampung. | [sad] Akhirnya, ada yang meminta sekolahmu ditutup. [calm] Bersama suamimu, Abdoel Koeddoes, kamu pindah ke Maninjau. [serious] Kamu pergi... tapi belum selesai. | - | Narator sedih lalu teguh; roda pedati di jalan berbatu |
 
 ### Babak 4: Amai Setia
@@ -251,11 +251,11 @@ Aspect ratio: 9:16
 
 ```
 The viewer is Roehana Koeddoes: the hands and forearms in the foreground match the first-person panel of the Roehana Koeddoes reference image.
-Medium shot at first-person eye level, at the wooden doorway of the rumah gadang, overcast morning, uneasy.
-First-person point of view. Her hands: slender light-brown hands of a young Minangkabau woman, fingertips slightly roughened by needlework, short clean nails, a faint dark ink stain on the right index finger, a thin plain silver bangle on the left wrist, long wide open sleeves of a plain dark indigo cotton baju kurung falling loosely around the wrists. Both hands lower a framed slate toward the waist, fingers tightening on the frame.
-In the doorway, a mother in her forties with a weathered face and a dark blue head cloth pulls her daughter's wrist mid-step, looking straight at the viewer with brows drawn together and lips pressed thin, worried rather than hostile. The daughter, about ten, looks back over her shoulder at the slate, reluctant. In the yard below, a mamak (maternal uncle), a broad older man with a grey beard, a dark plain head wrap and a checked sarung, waits with arms crossed and a heavy frown, eyes on the house. They are different people from Roehana Koeddoes.
+Medium shot at first-person eye level, at the wooden doorway of the rumah gadang, grey misty morning with a faint lamp glow from the room behind, uneasy.
+First-person point of view. Her hands: slender light-brown hands of a young Minangkabau woman, fingertips slightly roughened by needlework, short clean nails, a faint dark ink stain on the right index finger, a thin plain silver bangle on the left wrist, long wide open sleeves of a plain dark indigo cotton baju kurung falling loosely around the wrists. Both hands reach forward to take back a small framed slate, fingertips just touching its wooden frame.
+On the top step of the wooden entrance stairs, a mother in her forties with a weathered face and a dark blue head cloth holds the framed slate out with both hands to return it, her body already half turned to leave; she looks straight at the viewer, brows drawn together, lips pressed thin, apologetic and worried rather than hostile. In the yard below, a mamak (maternal uncle), a broad older man with a grey beard, a dark plain head wrap and a checked sarung, stands with arms crossed and a disapproving frown, eyes on the mother. Only these two adults appear. They are different people from Roehana Koeddoes.
 Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, earthy palette of dark brown, lamp yellow and misty grey, warm lamplight inside and cool valley mist outside, historically accurate early 20th-century Minangkabau village of Koto Gadang, West Sumatra: wooden houses on stilts, rumah gadang with upswept gonjong roof gables thatched in dark sugar-palm fibre (ijuk), carved and painted floral wall panels, woven pandanus mats.
-Avoid parang batik pattern, geometric Javanese court batik motifs, modern fitted hijab or pinned jilbab, horn-shaped tingkuluak tanduk headdress, bridal velvet tingkuluak talakuang, gold sunting crown, gold-thread songket sarung, European lace dresses, electric lights, readable text or letters on paper, background figures copying Roehana Koeddoes's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.
+Avoid parang batik pattern, geometric Javanese court batik motifs, modern fitted hijab or pinned jilbab, horn-shaped tingkuluak tanduk headdress, bridal velvet tingkuluak talakuang, gold sunting crown, gold-thread songket sarung, European lace dresses, electric lights, readable text or letters on paper, children, crowds, background figures copying Roehana Koeddoes's face or outfit, identical faces, stiff symmetrical poses, extra or malformed hands and fingers, text, watermarks.
 
 Style: detailed vector art
 Aspect ratio: 9:16
@@ -653,7 +653,7 @@ Kode sumber merujuk ke daftar di `## Sumber`. Klaim kunci dikonfirmasi minimal d
 | Roehana merintis koran Poetri Hindia 1908 | (tidak dipakai) | 1 sumber, bertentangan dengan catatan umum (Poetri Hindia dipimpin Tirto Adhi Soerjo) | [S20] |
 | Tulisan Roehana "melawan kolonialisme" | (tidak dipakai) | Tafsir bertentangan | [S19] [S20] vs [S8] |
 
-**Dramatisasi:** momen memegang edisi pertama di Koto Gadang (Adegan 1, 15), bisik-bisik tetangga (2), ejekan "banyak lagak" diringkas menjadi "ada yang mengejek" (5), ibu yang menarik putrinya dan mamak yang menunggu di halaman (7, visual), malam gelisah (11), surat balasan yang dibaca di serambi (13), suasana percetakan (14), dan seluruh perasaan serta pikiran "kamu".
+**Dramatisasi:** momen memegang edisi pertama di Koto Gadang (Adegan 1, 15), bisik-bisik tetangga (2), ejekan "banyak lagak" diringkas menjadi "ada yang mengejek" (5), ibu yang mengembalikan batu tulis putrinya dan mamak yang menunggu di halaman (7, visual), malam gelisah (11), surat balasan yang dibaca di serambi (13), suasana percetakan (14), dan seluruh perasaan serta pikiran "kamu".
 
 ### Catatan akurasi visual
 
@@ -725,6 +725,7 @@ Gambar di tabel ini belum dilihat; Rafi perlu membuka dan mengunggahnya ke Gemin
 | --- | --- | --- | --- |
 | v1 | 2026-11-07 | Konsep awal | - |
 | v2 | 2026-11-07 | Riset susulan (Tahap R). Narasi Adegan 10: parafrase pernyataan Roehana (1 sumber) diganti tuduhan yang ia hadapi (3 sumber); Narasi lengkap Babak 4 dan baris prompt Adegan 10 ikut diperbarui. Busana Roehana: sarung songket marun dan tepi sulaman emas diganti kain batik bermotif bunga kecil dan baju kurung polos berlengan lebar, selendang sebagai tengkuluk (deskripsi tokoh baku, lembar karakter, tangan baku dewasa di semua bidikan A). Avoid: "Javanese batik" menjadi "geometric Javanese court batik motifs", ditambah "gold-thread songket sarung". Palet Babak 4 "songket gold" menjadi "embroidery-thread gold". Adegan 9: warna selendang figuran menurut usia; Adegan 10: murid membuat renda kelos. Tabel verifikasi: 2 baris naik dari 1 sumber, 1 baris diperbaiki, belasan baris mendapat sumber tambahan; Catatan akurasi visual ditulis ulang untuk Roehana; tambah `### Referensi visual untuk diunggah` (10 referensi) dan 13 sumber baru | Belum ada aset; tidak ada yang dibuat ulang |
+| v3 | 2026-11-23 | Adegan 7 gagal dibuat di Gemini (dugaan filter keamanan anak: ibu menarik pergelangan anak ±10 tahun dengan lelaki dewasa cemberut mengawasi). Visual dan prompt Adegan 7 diganti: tanpa anak, ibu di anak tangga teratas mengembalikan batu tulis putrinya, tangan "kamu" menerimanya; waktu jadi pagi berkabut dengan sisa cahaya pelita dari dalam; Avoid ditambah "children, crowds". Catatan dramatisasi ikut disesuaikan. Narasi tidak berubah | Ilustrasi Adegan 7 (belum ada, dibuat dari prompt baru) |
 
 ## Sumber
 
