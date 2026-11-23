@@ -2,8 +2,8 @@ import React from 'react';
 import { LABEL_LAPISAN, LAPISAN, TIPE, WARNA, ZONA, type NamaLapisan } from '../lib/merek';
 
 /** Satu atau dua label lapisan berdampingan di kiri atas zona aman; lapisan utama di kiri. */
-export const LabelLapisan: React.FC<{ lapisan: NamaLapisan[]; opacity?: number }> = ({ lapisan, opacity = 1 }) => (
-  <div style={{ position: 'absolute', left: ZONA.kiri, top: ZONA.atas, display: 'flex', gap: LABEL_LAPISAN.jarak, opacity }}>
+export const LabelLapisan: React.FC<{ lapisan: NamaLapisan[]; opacity?: number; atas?: number }> = ({ lapisan, opacity = 1, atas = ZONA.atas }) => (
+  <div style={{ position: 'absolute', left: ZONA.kiri, top: atas, display: 'flex', gap: LABEL_LAPISAN.jarak, opacity }}>
     {lapisan.map((nama) => {
       const l = LAPISAN[nama];
       return (

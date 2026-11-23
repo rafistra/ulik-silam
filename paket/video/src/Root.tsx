@@ -5,6 +5,7 @@ import { hitungDurasiNarasi } from './lib/durasi';
 import { hitungLini } from './lib/lini';
 import { KANVAS } from './lib/merek';
 import { Sampul } from './Sampul';
+import { POSISI_BAWAAN } from './lib/sampul';
 import { LembarIkon } from './peta/LembarIkon';
 import { Video, type PropsVideo } from './Video';
 
@@ -25,7 +26,7 @@ const metadataVideo: CalculateMetadataFunction<PropsVideo> = async ({ props }) =
   return { durationInFrames: total, props: { ...props, durasiNarasi } };
 };
 
-const metadataStill: CalculateMetadataFunction<{ data: DataVideo; geserBawah?: number }> = async ({ props }) => {
+const metadataStill: CalculateMetadataFunction<{ data: DataVideo }> = async ({ props }) => {
   pasangData(props.data);
   await hitungDurasiNarasi(props.data, true);
   return {};
@@ -34,7 +35,7 @@ const metadataStill: CalculateMetadataFunction<{ data: DataVideo; geserBawah?: n
 export const Root: React.FC = () => (
   <>
     <Composition id="VideoUlikSilam" component={Video} width={KANVAS.lebar} height={KANVAS.tinggi} fps={KANVAS.fps} durationInFrames={1} defaultProps={KOSONG} calculateMetadata={metadataVideo} />
-    <Still id="Sampul" component={Sampul} width={KANVAS.lebar} height={KANVAS.tinggi} defaultProps={{ data: KOSONG.data, geserBawah: 0 }} calculateMetadata={metadataStill} />
+    <Still id="Sampul" component={Sampul} width={KANVAS.lebar} height={KANVAS.tinggi} defaultProps={{ data: KOSONG.data, platform: 'youtube' as const, posisi: POSISI_BAWAAN }} calculateMetadata={metadataStill} />
     <Still id="LembarIkon" component={LembarIkon} width={KANVAS.lebar} height={KANVAS.tinggi} defaultProps={{ data: KOSONG.data }} calculateMetadata={metadataStill} />
   </>
 );

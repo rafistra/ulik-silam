@@ -7,6 +7,13 @@ import { fileURLToPath } from 'node:url';
 import { uraiKonsep } from '../urai-konsep/index.mjs';
 import { ffmpeg } from './ffmpeg.mjs';
 
+/** Posisi gambar sampul sah: x, y −50…50 (% kanvas), skala 1–1,5. Sama dengan jepitPosisi di src/lib/sampul.ts. */
+function jepitPosisi(p) {
+  const o = p && typeof p === 'object' ? p : {};
+  const j = (v, min, maks, b) => Math.min(maks, Math.max(min, typeof v === 'number' && Number.isFinite(v) ? v : b));
+  return { x: Math.round(j(o.x, -50, 50, 0) * 10) / 10, y: Math.round(j(o.y, -50, 50, 0) * 10) / 10, skala: Math.round(j(o.skala, 1, 1.5, 1) * 100) / 100 };
+}
+
 export const AKAR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const EKST_AUDIO = ['wav', 'mp3', 'm4a', 'aac', 'ogg', 'flac', 'opus'];
 const EKST_GAMBAR = ['png', 'jpg', 'jpeg', 'webp'];
@@ -310,7 +317,9 @@ export function siapkan(slug, { basis = null, basisFont = null } = {}) {
     aset.sampul = {};
   }
   d.proyek.judulSampul = judulSampul;
-  const sampul = { adegan: adeganSampul, judul: judulSampul, bawaan, adaKhusus: bawaan.adegan === 'khusus' };
+  // Posisi gambar per platform (`sampul.tiktok`, `sampul.youtube`: {x, y, skala}); tidak ada = bawaan. Dijepit sama dengan src/lib/sampul.ts.
+  const posisi = Object.fromEntries(['tiktok', 'youtube'].map((pl) => [pl, jepitPosisi(pilih[pl])]));
+  const sampul = { adegan: adeganSampul, judul: judulSampul, bawaan, adaKhusus: bawaan.adegan === 'khusus', posisi };
 
   const data = { ...d, warnaPeta, setelan, aset, jeda, petaTerbangun, basis, basisFont, sampul };
   return { data, kurang, peringatan, lokasi, konsep: k };

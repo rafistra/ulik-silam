@@ -2,7 +2,7 @@
 // Render video, sampul, atau buka Remotion Studio untuk satu proyek, lewat komposisi bersama.
 //
 //   node paket/video/render.mjs <slug>                 video → $ASET_DIR/proyek/<slug>/render/<slug>-<tanggal>-<versi>.mp4
-//   node paket/video/render.mjs <slug> --sampul        sampul PNG
+//   node paket/video/render.mjs <slug> --sampul        sampul PNG TikTok dan YouTube (--sampul=tiktok atau --sampul=youtube untuk salah satu)
 //   node paket/video/render.mjs <slug> --studio        Remotion Studio dengan data proyek ini
 //   node paket/video/render.mjs <slug> --cek           hanya cek kelengkapan aset
 //   opsi: --frames=0-89 (potongan uji), --keluar=<berkas>, --json (progres sebagai baris JSON, dipakai katalog),
@@ -38,8 +38,14 @@ if (opsi.cek) {
 
 fs.mkdirSync(lokasi.cache, { recursive: true });
 const fileProps = path.join(lokasi.cache, 'props.json');
-const props = opsi.sampul ? { data, geserBawah: 0 } : { data, durasiNarasi: [] };
-fs.writeFileSync(fileProps, JSON.stringify(props));
+const PLATFORM = ['tiktok', 'youtube'];
+if (opsi.sampul && opsi.sampul !== true && !PLATFORM.includes(opsi.sampul)) {
+  console.error(`--sampul hanya menerima ${PLATFORM.join(' atau ')}.`);
+  process.exit(1);
+}
+const platformSampul = opsi.sampul === true ? PLATFORM : opsi.sampul ? [opsi.sampul] : [];
+const propsSampul = (pl) => ({ data, platform: pl, posisi: data.sampul.posisi[pl] });
+fs.writeFileSync(fileProps, JSON.stringify(opsi.sampul ? propsSampul(platformSampul[0]) : { data, durasiNarasi: [] }));
 
 const npx = process.platform === 'win32' ? 'npx.cmd' : 'npx';
 const browser = opsi.browser || process.env.REMOTION_BROWSER;
@@ -74,19 +80,34 @@ if (opsi.studio) {
 }
 
 fs.mkdirSync(lokasi.render, { recursive: true });
-const keluar = opsi.keluar ? path.resolve(opsi.keluar) : path.join(lokasi.render, `${slug}-${tanggal}-${versi}${opsi.sampul ? '-sampul.png' : opsi.frames ? `-uji-${opsi.frames}.mp4` : '-mentah.mp4'}`);
-lapor('mulai', { keluar, pesan: `Render ${opsi.sampul ? 'sampul' : 'video'} ${slug} → ${keluar}` });
-const perintah = opsi.sampul
-  ? ['still', 'src/index.ts', 'Sampul', keluar, `--props=${fileProps}`, `--public-dir=${lokasi.aset}`]
-  : ['render', 'src/index.ts', 'VideoUlikSilam', keluar, `--props=${fileProps}`, `--public-dir=${lokasi.aset}`, '--codec=h264', '--crf=18', ...(opsi.frames ? [`--frames=${opsi.frames}`] : [])];
-const kode = await jalankan(perintah);
+if (opsi.sampul) {
+  // Satu still per platform; props ditulis ulang sebelum tiap render.
+  const hasil = [];
+  for (const pl of platformSampul) {
+    fs.writeFileSync(fileProps, JSON.stringify(propsSampul(pl)));
+    const k = opsi.keluar && platformSampul.length === 1 ? path.resolve(opsi.keluar) : path.join(lokasi.render, `${slug}-${tanggal}-${versi}-sampul-${pl}.png`);
+    lapor('mulai', { keluar: k, pesan: `Render sampul ${pl === 'tiktok' ? 'TikTok' : 'YouTube'} ${slug} → ${k}` });
+    const kode = await jalankan(['still', 'src/index.ts', 'Sampul', k, `--props=${fileProps}`, `--public-dir=${lokasi.aset}`]);
+    if (kode !== 0) {
+      lapor('gagal', { pesan: `Render sampul ${pl} gagal (kode ${kode}).` });
+      process.exit(kode || 1);
+    }
+    hasil.push(k);
+  }
+  lapor('selesai', { keluar: hasil[hasil.length - 1], pesan: `Selesai: ${hasil.join(', ')}` });
+  process.exit(0);
+}
+
+const keluar = opsi.keluar ? path.resolve(opsi.keluar) : path.join(lokasi.render, `${slug}-${tanggal}-${versi}${opsi.frames ? `-uji-${opsi.frames}.mp4` : '-mentah.mp4'}`);
+lapor('mulai', { keluar, pesan: `Render video ${slug} → ${keluar}` });
+const kode = await jalankan(['render', 'src/index.ts', 'VideoUlikSilam', keluar, `--props=${fileProps}`, `--public-dir=${lokasi.aset}`, '--codec=h264', '--crf=18', ...(opsi.frames ? [`--frames=${opsi.frames}`] : [])]);
 if (kode !== 0) {
   lapor('gagal', { pesan: `Render gagal (kode ${kode}).` });
   process.exit(kode || 1);
 }
 
 // Audio final ke −16 LUFS (puncak −1,5 dBTP), video disalin tanpa encode ulang.
-if (!opsi.sampul && !opsi.frames && !opsi.keluar) {
+if (!opsi.frames && !opsi.keluar) {
   const akhir = keluar.replace(/-mentah\.mp4$/, '.mp4');
   const TARGET = 'I=-16:TP=-1.5:LRA=11';
   const ambilJson = (s) => JSON.parse(s.slice(s.lastIndexOf('{'), s.lastIndexOf('}') + 1));
