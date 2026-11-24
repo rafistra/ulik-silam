@@ -1,0 +1,21 @@
+{
+  "id": "desis-radio-am-dan-ayam-berkokok-jauh",
+  "jenis": "sfx",
+  "judul": "Desis radio AM dan ayam berkokok jauh",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-01-desis-radio-am-dan-ayam-berkokok-jauh.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-01-desis-radio-am-dan-ayam-berkokok-jauh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

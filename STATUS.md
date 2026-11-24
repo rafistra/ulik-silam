@@ -2,16 +2,16 @@
 
 Dibuat otomatis oleh `scripts/buat-status.py` dari `proyek/*/proyek.yaml`. Jangan diedit manual.
 
-Diperbarui: 2026-11-22 · 76 proyek
+Diperbarui: 2026-11-24 · 77 proyek
 
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
 | Brief | 0 | - |
 | Naskah terverifikasi | 32 | - |
-| Aset | 1 | 1 / 2 |
-| Rakit & render | 1 | 1 / 2 |
-| Tayang | 42 | - |
+| Aset | 0 | 0 / 2 |
+| Rakit & render | 0 | 0 / 2 |
+| Tayang | 45 | - |
 | Evaluasi | 0 | - |
 
 ## Naskah terverifikasi
@@ -51,22 +51,12 @@ Diperbarui: 2026-11-22 · 76 proyek
 | pov-tjipto-pes-malang | POV: Kamu Dokter Pribumi di Wabah Pes Malang | POV | Sejarah | - | - | - |
 | pov-wallace-ternate | POV: Kamu Alfred Russel Wallace di Ternate 1858 | POV | Sejarah | - | - | - |
 
-## Aset
-
-| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
-| --- | --- | --- | --- | --- | --- | --- |
-| pov-roehana-koeddoes | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 (prioritas 4) | POV | Sejarah | - | - | - |
-
-## Rakit & render
-
-| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
-| --- | --- | --- | --- | --- | --- | --- |
-| pov-penebang-tebu-gerhana-1983 | POV: Kamu Penebang Tebu di Gerhana Total 1983 (prioritas 1) | POV | Sejarah | - | - | - |
-
 ## Tayang
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
+| pov-penebang-tebu-gerhana-1983 | POV: Kamu Penebang Tebu di Gerhana Total 1983 (prioritas 1) | POV | Sejarah | - | - | - |
+| pov-roehana-koeddoes | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 (prioritas 4) | POV | Sejarah | 2026-11-23 | - | - |
 | narasi-perpindahan-kayan-miau-baru-part-1 | Seberat Langit dan Bumi (Part 1) (judul kerja) | Narasi | Sejarah | 2026-11-21 | - | - |
 | narasi-perpindahan-kayan-miau-baru-part-2 | Miau Baru (Part 2) | Narasi | Sejarah | 2026-11-21 | - | - |
 | pov-doa-kramat-tunggak | POV: Kamu di Malam Terakhir Kramat Tunggak | POV | Rekaan, Sejarah | 2026-11-20 | 5.550 | 1.240 |
@@ -109,3 +99,4 @@ Diperbarui: 2026-11-22 · 76 proyek
 | pov-jan-oherne | POV: Kamu Jan O'Herne di Kamp Ambarawa | POV | Sejarah | 2026-10-18 | 1.018 | 393 |
 | pov-mandor-romusha | POV: Kamu Mandor Romusha di Jalur Saketi–Bayah, 1943 | POV | Sejarah | 2026-10-18 | 961 | 445 |
 | pov-bangsawan-jawa | POV: Kamu Bangsawan Jawa di Abad ke-19 | POV | Sejarah | 2026-10-17 | 1.003 | 374 |
+| carousel-istri-istri-soekarno | Sembilan Istri Soekarno, atau Lebih? | Carousel | Sejarah | - | - | - |

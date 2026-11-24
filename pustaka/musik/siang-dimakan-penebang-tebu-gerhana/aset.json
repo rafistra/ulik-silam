@@ -1,0 +1,22 @@
+{
+  "id": "siang-dimakan-penebang-tebu-gerhana",
+  "jenis": "musik",
+  "judul": "Siang dimakan (Ganjil, menegang, gemuruh lesung, lalu hening takjub)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "cue-2-siang-dimakan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "musik/cue-2-siang-dimakan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

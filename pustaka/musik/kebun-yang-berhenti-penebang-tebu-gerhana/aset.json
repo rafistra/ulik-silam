@@ -1,0 +1,22 @@
+{
+  "id": "kebun-yang-berhenti-penebang-tebu-gerhana",
+  "jenis": "musik",
+  "judul": "Kebun yang berhenti (Pagi pesisir yang tertahan, ritme kerja yang terhenti, khidmat dan was-was)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "cue-1-kebun-yang-berhenti.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "musik/cue-1-kebun-yang-berhenti.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

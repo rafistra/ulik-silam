@@ -1,0 +1,22 @@
+{
+  "id": "mahkota-matahari-penebang-tebu-gerhana",
+  "jenis": "musik",
+  "judul": "Mahkota matahari (Lega yang rapuh, reflektif, hangat di penutup)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "cue-3-mahkota-matahari.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "musik/cue-3-mahkota-matahari.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

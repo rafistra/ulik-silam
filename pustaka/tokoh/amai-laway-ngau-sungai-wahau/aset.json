@@ -1,0 +1,17 @@
+{
+  "id": "amai-laway-ngau-sungai-wahau",
+  "jenis": "tokoh",
+  "judul": "Amai Laway Ngau",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Sungai Wahau, Kalimantan Timur",
+  "tokoh": [
+    "Amai Laway Ngau"
+  ],
+  "alat": "Gemini",
+  "file": [],
+  "dipakai_di": [
+    "narasi-perpindahan-kayan-miau-baru-part-2"
+  ],
+  "catatan": "Gambar lembar karakter belum disimpan; simpan sebagai ilustrasi/lembar-amai-laway-ngau.png di folder aset proyek, atau buat ulang dari prompt.txt."
+}

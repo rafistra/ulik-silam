@@ -1,0 +1,21 @@
+{
+  "id": "tebasan-golok-ke-batang-tebu-dan-lokomotif-uap",
+  "jenis": "sfx",
+  "judul": "Tebasan golok ke batang tebu dan lokomotif uap kecil",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-02-tebasan-golok-ke-batang-tebu-dan-lokomotif-uap-kecil.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-02-tebasan-golok-ke-batang-tebu-dan-lokomotif-uap-kecil.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

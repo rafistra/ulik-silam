@@ -1,0 +1,21 @@
+{
+  "id": "karung-digesekkan-di-genteng-tanah-liat",
+  "jenis": "sfx",
+  "judul": "Karung digesekkan di genteng tanah liat",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-03-karung-digesekkan-di-genteng-tanah-liat.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-03-karung-digesekkan-di-genteng-tanah-liat.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

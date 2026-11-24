@@ -1,0 +1,21 @@
+{
+  "id": "peluit-lokomotif-dan-derit-lori",
+  "jenis": "sfx",
+  "judul": "Peluit lokomotif dan derit lori",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-10-peluit-lokomotif-dan-derit-lori.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-10-peluit-lokomotif-dan-derit-lori.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

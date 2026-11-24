@@ -1,0 +1,21 @@
+{
+  "id": "lesung-kayu-berat-diseret-di-lantai-tanah",
+  "jenis": "sfx",
+  "judul": "Lesung kayu berat diseret di lantai tanah",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-04-lesung-kayu-berat-diseret-di-lantai-tanah.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-04-lesung-kayu-berat-diseret-di-lantai-tanah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

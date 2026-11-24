@@ -1,0 +1,63 @@
+{
+  "id": "penebang-tebu-1983",
+  "jenis": "tokoh",
+  "judul": "Penebang Tebu",
+  "versi": 1,
+  "status": "draf",
+  "era": "1983",
+  "wilayah": "Cepiring, Kendal",
+  "tokoh": [
+    "Penebang Tebu"
+  ],
+  "file": [
+    "lembar-penebang-tebu.png"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah dan tubuh",
+      "pilihan": "Lelaki Jawa ±32 tahun, kurus liat, kulit cokelat gelap terbakar matahari, garis sipit karena silau",
+      "sumber": "Tokoh fiktif",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Caping bambu lebar bertali dagu",
+      "sumber": "Pelindung matahari umum buruh tani dan kebun di Jawa; tidak ditemukan foto penebang PG Cepiring 1983 yang dibuka",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Badan atas",
+      "pilihan": "Kemeja kerja katun khaki-zaitun lengan panjang (digulung) di atas singlet; handuk kotak di leher",
+      "sumber": "Lengan panjang melindungi kulit dari daun tebu yang tajam dan berbulu; foto 1965 pekerja pabrik gula berbaju berkerah biasa (UGM Lembaran Sejarah); tetap tafsir umum",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Kain bawah dan alas kaki",
+      "pilihan": "Celana katun hitam longgar sebatas betis, tanpa alas kaki",
+      "sumber": "Pakaian kerja desa Jawa yang umum; sepatu keselamatan dan sarung tangan modern dihindari",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Alat",
+      "pilihan": "Golok bermata satu dalam sarung kayu",
+      "sumber": "Alat tebas kebun yang umum di Jawa; nama alat tebang khas PG Cepiring tidak ditemukan",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Benda",
+      "pilihan": "Radio transistor portabel bersarung kulit cokelat, antena teleskopik, tanpa merek terbaca",
+      "sumber": "Radio sebagai saluran utama kampanye gerhana (Keeler; NU Online); bentuk radio tafsir era 1980-an",
+      "status": "Tafsir"
+    }
+  ],
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "ilustrasi/lembar-penebang-tebu.png"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kotek-ayam-pelan-dalam-keheningan",
+  "jenis": "sfx",
+  "judul": "Kotek ayam pelan dalam keheningan",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Cepiring, Kendal",
+  "file": [
+    "sfx-06-kotek-ayam-pelan-dalam-keheningan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-penebang-tebu-gerhana-1983",
+      "berkas": "sfx/sfx-06-kotek-ayam-pelan-dalam-keheningan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-penebang-tebu-gerhana-1983"
+  ]
+}
