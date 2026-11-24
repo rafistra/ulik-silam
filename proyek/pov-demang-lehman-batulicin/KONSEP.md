@@ -8,7 +8,7 @@ Kamu adalah Kiai Demang Lehman, panglima Perang Banjar yang lima tahun diburu Be
 | --- | --- |
 | Judul | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 |
 | Slug | pov-demang-lehman-batulicin |
-| Versi | v0 · 2026-11-24 (Tahap 2B, menunggu persetujuan) |
+| Versi | v1 · 2026-11-24 |
 | Durasi | 3:00 maksimum, target ±2:30 (perkiraan naskah ±2:21 termasuk kartu Ulikan; ruang ±9 dtk untuk tempo narator) |
 | Rasio | 9:16 |
 | Platform | TikTok + YouTube Shorts |
@@ -655,6 +655,7 @@ Referensi visual untuk diunggah ke Gemini bersama prompt lembar karakter Demang 
 | Versi | Tanggal | Perubahan | Dampak ke produksi |
 | --- | --- | --- | --- |
 | v0 | 2026-11-24 | Naskah Tahap 2A | - |
+| v1 | 2026-11-24 | Konsep lengkap (Tahap 2B) disetujui Rafi | - |
 
 ## Sumber
 

@@ -4,9 +4,9 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Batulicin dan Martapura, Kalimantan Selatan"
 seri: ""
-tahap: Brief
+tahap: Naskah terverifikasi
 platform: ["TikTok", "YouTube Shorts"]
-versi_konsep: "v0 · 2026-11-24"
+versi_konsep: "v1 · 2026-11-24"
 merek: null
 adegan: 16
 lembar_karakter: ["Demang Lehman 1859", "Demang Lehman 1864"]
@@ -15,4 +15,4 @@ render: ""
 tanggal_render: null
 tanggal_tayang: null
 tautan: {tiktok: null, shorts: null}
-catatan: "Tahap 2B selesai, menunggu persetujuan Rafi. Lembar Demang Lehman 1859 dipakai ulang dari pustaka."
+catatan: "Konsep v1 disetujui 2026-11-24. Lembar Demang Lehman 1859 dipakai ulang dari pustaka."

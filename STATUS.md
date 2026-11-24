@@ -7,18 +7,12 @@ Diperbarui: 2026-11-24 · 78 proyek
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
-| Brief | 1 | - |
-| Naskah terverifikasi | 32 | - |
+| Brief | 0 | - |
+| Naskah terverifikasi | 33 | - |
 | Aset | 0 | 0 / 2 |
 | Rakit & render | 0 | 0 / 2 |
 | Tayang | 45 | - |
 | Evaluasi | 0 | - |
-
-## Brief
-
-| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
-| --- | --- | --- | --- | --- | --- | --- |
-| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | - | - | - |
 
 ## Naskah terverifikasi
 
@@ -32,6 +26,7 @@ Diperbarui: 2026-11-24 · 78 proyek
 | pov-awak-jung-pati-unus | POV: Kamu Awak Jung Pati Unus di Malaka 1513 | POV | Sejarah | - | - | - |
 | pov-awak-macan-tutul-laut-aru | POV: Kamu Awak Kapal Macan Tutul di Laut Aru | POV | Sejarah | - | - | - |
 | pov-awak-teripang-marege | POV: Kamu Awak Perahu Teripang di Marege' 1803 | POV | Sejarah | - | - | - |
+| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | - | - | - |
 | pov-frederick-de-houtman-aceh | POV: Kamu Tawanan Sultan Aceh Tahun 1599 | POV | Sejarah | - | - | - |
 | pov-imam-bonjol-pineleng | POV: Kamu Tuanku Imam Bonjol di Pembuangan Minahasa | POV | Sejarah | - | - | - |
 | pov-karaeng-pattingalloang | POV: Kamu Karaeng Pattingalloang di Makassar 1644 | POV | Sejarah | - | - | - |
