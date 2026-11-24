@@ -1,0 +1,43 @@
+{
+  "EFEK_ADEGAN": {
+    "1": [
+      { "efek": "kedip-pelita", "x": 91, "y": 58, "kuat": 0.8 },
+      { "efek": "debu-cahaya", "x": 50, "y": 38, "lebar": 45, "tinggi": 35 }
+    ],
+    "2": [
+      { "efek": "kedip-pelita", "x": 74, "y": 16, "kuat": 0.8 }
+    ],
+    "4": [
+      { "efek": "kedip-pelita", "x": 52, "y": 61 }
+    ],
+    "6": [
+      { "efek": "kabut", "y": 55, "tinggi": 35 }
+    ],
+    "7": [
+      { "efek": "kabut", "y": 60, "tinggi": 35, "kuat": 0.8 }
+    ],
+    "8": [
+      { "efek": "kedip-pelita", "x": 28, "y": 62 }
+    ],
+    "9": [
+      { "efek": "debu-cahaya", "x": 50, "y": 35, "lebar": 80, "tinggi": 50 },
+      { "efek": "kedip-pelita", "x": 23, "y": 89, "kuat": 0.6 }
+    ],
+    "10": [
+      { "efek": "debu-cahaya", "x": 55, "y": 30, "lebar": 40, "tinggi": 35, "kuat": 0.7 }
+    ],
+    "11": [
+      { "efek": "kabut", "y": 50, "tinggi": 25, "kuat": 0.6 }
+    ],
+    "12": [
+      { "efek": "debu-cahaya", "x": 30, "y": 35, "lebar": 50, "tinggi": 40, "kuat": 0.7 }
+    ],
+    "14": [
+      { "efek": "vinyet-hening" }
+    ],
+    "16": [
+      { "efek": "kedip-pelita", "x": 57, "y": 39 },
+      { "efek": "debu-cahaya", "x": 55, "y": 45, "lebar": 40, "tinggi": 30, "kuat": 0.6 }
+    ]
+  }
+}
