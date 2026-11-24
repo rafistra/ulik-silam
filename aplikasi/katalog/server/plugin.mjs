@@ -7,6 +7,7 @@ import { buatPenjalan, skemaAlat } from './alat.mjs';
 import { siapkan } from '../../../paket/video/siapkan.mjs';
 
 const RENDER = path.join(data.AKAR, 'paket', 'video', 'render.mjs');
+const RENDER_CAROUSEL = path.join(data.AKAR, 'paket', 'carousel', 'render.mjs');
 
 /** Awalan URL /media untuk folder aset proyek yang dipakai komposisi. */
 function basisMedia(slug, folder) {
@@ -82,7 +83,9 @@ export default function katalogPlugin() {
     if (ada && ada.status === 'jalan') throw new Error('Render proyek ini masih berjalan.');
     const t = { slug, jenis, status: 'jalan', selesai: 0, total: 0, pesan: 'Menyiapkan...', keluar: null, log: [], mulai: Date.now() };
     tugas.set(slug, t);
-    const args = [RENDER, slug, '--json', ...(jenis === 'sampul' ? ['--sampul'] : [])];
+    const args = jenis.startsWith('carousel')
+      ? [RENDER_CAROUSEL, slug, '--json', ...(jenis === 'carousel-draf' ? ['--draf'] : [])]
+      : [RENDER, slug, '--json', ...(jenis === 'sampul' ? ['--sampul'] : jenis.startsWith('sampul-') ? [`--sampul=${jenis.slice(7)}`] : [])];
     const p = spawn(process.execPath, args, { cwd: data.AKAR });
     let sisa = '';
     p.stdout.on('data', (b) => {
@@ -96,7 +99,7 @@ export default function katalogPlugin() {
         } catch {
           continue;
         }
-        if (x.jenis === 'progres') Object.assign(t, { selesai: x.selesai, total: x.total, pesan: `Render ${x.selesai}/${x.total} frame` });
+        if (x.jenis === 'progres') Object.assign(t, { selesai: x.selesai, total: x.total, pesan: `Render ${x.selesai}/${x.total} ${jenis.startsWith('carousel') ? 'gambar' : 'frame'}` });
         else if (x.pesan) {
           t.pesan = x.pesan;
           t.log.push(x.pesan);
@@ -182,7 +185,8 @@ export default function katalogPlugin() {
           }
           if (m && m[2] === 'render' && req.method === 'POST') {
             const body = await bacaBody(req);
-            return kirimJson(res, 200, mulaiRender(m[1], body.jenis === 'sampul' ? 'sampul' : 'video'));
+            const jenis = ['sampul', 'sampul-tiktok', 'sampul-youtube', 'carousel', 'carousel-draf'].includes(body.jenis) ? body.jenis : 'video';
+            return kirimJson(res, 200, mulaiRender(m[1], jenis));
           }
           if (m && m[2] === 'studio' && req.method === 'POST') {
             const s = spawn(process.execPath, [RENDER, m[1], '--studio'], { cwd: data.AKAR, detached: true, stdio: 'ignore' });
@@ -200,11 +204,13 @@ export default function katalogPlugin() {
               tahap: (v) => data.TAHAP.includes(v),
               prioritas: (v) => v === null || Number.isInteger(v),
               catatan: (v) => typeof v === 'string',
-              // pilihan sampul: adegan (nomor atau "khusus" untuk ilustrasi/sampul.*) dan judul di layar sampul; null = bawaan
+              // pilihan sampul: adegan (nomor atau "khusus" untuk ilustrasi/sampul.*), judul di layar sampul, dan posisi gambar
+              // per platform (tiktok/youtube: {x, y, skala} angka; dijepit saat dibaca); null = bawaan
               sampul: (v) =>
                 v === null ||
                 (typeof v === 'object' &&
-                  Object.keys(v).every((k) => ['adegan', 'judul'].includes(k)) &&
+                  Object.keys(v).every((k) => ['adegan', 'judul', 'tiktok', 'youtube'].includes(k)) &&
+                  ['tiktok', 'youtube'].every((pl) => v[pl] == null || (typeof v[pl] === 'object' && ['x', 'y', 'skala'].every((k) => Number.isFinite(v[pl][k])))) &&
                   (v.adegan == null || v.adegan === 'khusus' || Number.isInteger(v.adegan)) &&
                   (v.judul == null || (typeof v.judul === 'string' && v.judul.length <= 160))),
             };

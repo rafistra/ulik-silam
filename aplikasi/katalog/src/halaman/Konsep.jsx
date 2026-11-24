@@ -3,7 +3,9 @@ import { marked } from 'marked';
 import { useData, useRender, kirim, toast, DaftarLapisan, Memuat, Salin, angka, tanggal } from '../komponen.jsx';
 import { Player } from '@remotion/player';
 import Pemutar from '../Pemutar.jsx';
-import { Sampul, KANVAS } from '../../../../paket/video/src/pemutar';
+import KonsepCarousel from './Carousel.jsx';
+import { JudulProyek, Produksi } from './bersama.jsx';
+import { Sampul, KANVAS, jepitPosisi, posisiSama, POSISI_BAWAAN, POTONG_TIKTOK, BATAS_SKALA } from '../../../../paket/video/src/pemutar';
 import { promptFlow, namaAsetFlow } from '../../../../paket/urai-konsep/flow.mjs';
 
 const TAB = [
@@ -26,13 +28,18 @@ const ukuran = (b) => (b > 1e6 ? `${(b / 1e6).toFixed(1)} MB` : `${Math.round(b 
 export default function Konsep({ slug, tab }) {
   const { data: info } = useData('/api/info');
   const { data, galat, muatUlang } = useData(`/api/proyek/${slug}`);
+  if (!data || !info) return <Memuat galat={galat} />;
+  if (data.jenis === 'carousel') return <KonsepCarousel slug={slug} tab={tab} data={data} info={info} muatUlang={muatUlang} />;
+  return <KonsepVideo slug={slug} tab={tab} data={data} info={info} muatUlang={muatUlang} />;
+}
+
+function KonsepVideo({ slug, tab, data, info, muatUlang }) {
   const [aktif, setAktif] = useState(1);
   const [pilihMode, setMode] = useState(null);
   const videoRef = useRef(null);
   const pemutarRef = useRef(null);
   const { data: dataVideo, galat: galatVideo } = useData(`/api/proyek/${slug}/video`);
-  const render = data?.aset.render.find((r) => r.jenis === 'video' && !r.mentah) || data?.aset.render.find((r) => r.jenis === 'video');
-  if (!data || !info) return <Memuat galat={galat} />;
+  const render = data.aset.render.find((r) => r.jenis === 'video' && !r.mentah) || data.aset.render.find((r) => r.jenis === 'video');
   const k = data.konsep;
   const m = data.meta;
   // Video yang sudah tayang dibuka dengan render aslinya; pratinjau memakai komposisi bersama terbaru.
@@ -51,22 +58,7 @@ export default function Konsep({ slug, tab }) {
 
   return (
     <>
-      <div className="judul-hal">
-        <div>
-          <p className="kecil">
-            <a href="#/katalog">Katalog</a> <span className="redup">/ {slug}</span>
-          </p>
-          <h1>{m.judul || k?.judul}</h1>
-          <div className="baris-chip" style={{ alignItems: 'center' }}>
-            <DaftarLapisan lapisan={m.lapisan || k?.lapisan} />
-            <span className="pil">{m.tahap}</span>
-            {m.format && <span className="pil">{m.format}</span>}
-            {m.seri && <span className="pil">{m.seri}</span>}
-            {k?.versi && <span className="pil">{k.versi}</span>}
-            <span className="redup kecil">{m.latar || k?.latar}</span>
-          </div>
-        </div>
-      </div>
+      <JudulProyek slug={slug} meta={m} konsep={k} />
 
       <div className="konsep-atas">
         <aside className="pemutar" aria-label="Pratinjau">
@@ -157,21 +149,6 @@ export default function Konsep({ slug, tab }) {
 function Ringkasan({ data, info, muatUlang }) {
   const k = data.konsep;
   const m = data.meta;
-  const [catatan, setCatatan] = useState(m.catatan || '');
-  const [prioritas, setPrioritas] = useState(m.prioritas ?? '');
-  useEffect(() => {
-    setCatatan(m.catatan || '');
-    setPrioritas(m.prioritas ?? '');
-  }, [m.catatan, m.prioritas]);
-  const simpan = async (isi) => {
-    try {
-      await kirim(`/api/proyek/${data.slug}`, isi);
-      toast('proyek.yaml disimpan');
-      muatUlang();
-    } catch (e) {
-      toast(`Gagal: ${e.message}`);
-    }
-  };
   const st = k.statistik;
   const mt = m.metrik_tiktok, ms = m.metrik_shorts;
   return (
@@ -216,49 +193,7 @@ function Ringkasan({ data, info, muatUlang }) {
         )}
       </div>
 
-      <div className="blok">
-        <h2 className="label">Produksi (proyek.yaml)</h2>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 14, alignItems: 'flex-end' }}>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-            <label htmlFor="r-tahap" className="label">
-              Tahap
-            </label>
-            <select id="r-tahap" value={m.tahap} onChange={(e) => simpan({ tahap: e.target.value })}>
-              {info.tahap.map((t) => (
-                <option key={t}>{t}</option>
-              ))}
-            </select>
-          </div>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-            <label htmlFor="r-prio" className="label">
-              Prioritas
-            </label>
-            <input id="r-prio" type="text" inputMode="numeric" value={prioritas} onChange={(e) => setPrioritas(e.target.value.replace(/\D/g, ''))} onBlur={() => simpan({ prioritas: prioritas === '' ? null : +prioritas })} style={{ width: 90 }} />
-          </div>
-          <span className="redup kecil" style={{ paddingBottom: 12 }}>
-            Render {m.tanggal_render || '-'} · tayang{' '}
-            {m.tayang ? Object.entries(m.tayang).map(([p, t]) => `${p} ${t}`).join(', ') : '-'}
-          </span>
-        </div>
-        <label htmlFor="r-catatan" className="label">
-          Catatan
-        </label>
-        <textarea id="r-catatan" value={catatan} onChange={(e) => setCatatan(e.target.value)} />
-        <div>
-          <button type="button" onClick={() => simpan({ catatan })} disabled={catatan === (m.catatan || '')}>
-            Simpan catatan
-          </button>
-        </div>
-        {m.tautan && (
-          <p className="kecil">
-            {Object.entries(m.tautan).map(([p, u]) => (
-              <a key={p} href={u} target="_blank" rel="noreferrer" style={{ marginRight: 16 }}>
-                Buka di {p === 'shorts' ? 'YouTube Shorts' : 'TikTok'}
-              </a>
-            ))}
-          </p>
-        )}
-      </div>
+      <Produksi data={data} info={info} muatUlang={muatUlang} />
 
       <div className="blok">
         <h2 className="label">Ringkasan konsep</h2>
@@ -426,17 +361,30 @@ function Lembar({ data }) {
   if (!data.lembar.length) return <p className="kosong">Tidak ada lembar karakter di konsep ini.</p>;
   return data.lembar.map((l) => (
     <div key={l.nama} className="blok lembar">
-      <div className="gbr">{l.kartu?.gambar ? <img src={l.kartu.gambar} alt={`Lembar karakter ${l.nama}`} loading="lazy" /> : 'Gambar lembar karakter belum ada di pustaka'}</div>
+      <div className="gbr">
+        {l.gambar || l.kartu?.gambar ? (
+          <a href={l.gambar || l.kartu.gambar} target="_blank" rel="noreferrer" style={{ display: 'contents' }}>
+            <img src={l.gambar || l.kartu.gambar} alt={`Lembar karakter ${l.nama}`} loading="lazy" />
+          </a>
+        ) : (
+          <span>
+            Belum ada gambar. Simpan hasil Gemini atau Flow sebagai <code>{l.berkas}</code> di folder aset proyek.
+          </span>
+        )}
+      </div>
       <div style={{ display: 'flex', flexDirection: 'column', gap: 10, minWidth: 0 }}>
         <h2 className="serif">{l.nama}</h2>
         <p className="kecil">
           Nama aset Flow: <code>{namaAsetFlow(l.nama)}</code> <Salin teks={namaAsetFlow(l.nama)} label="Salin nama" />
         </p>
-        {l.kartu && (
-          <p className="kecil">
-            Pustaka: <a href={`#/pustaka/tokoh`}>{l.kartu.id}</a> <span className="pil">{l.kartu.status}</span>
-          </p>
-        )}
+        <p className="kecil redup">
+          Berkas: <code>{l.berkas}</code> {l.gambar ? <span className="status-ada">ada</span> : <span className="status-kurang">belum ada</span>}
+          {l.kartu && (
+            <>
+              {' · '}Pustaka: <a href={`#/pustaka/tokoh`}>{l.kartu.id}</a> <span className="pil">{l.kartu.status}</span>
+            </>
+          )}
+        </p>
         <pre className="prompt">{l.prompt}</pre>
         <div>
           <Salin teks={l.prompt} label="Salin prompt" />
@@ -673,16 +621,95 @@ function Aset({ data, lompat }) {
 
 // ---------- Render ----------
 // ---------- Pilih sampul ----------
-/** Pilihan adegan dan judul sampul, disimpan di proyek.yaml (`sampul`), dengan pratinjau langsung komposisi Sampul. */
+const NAMA_PLATFORM = { tiktok: 'TikTok', youtube: 'YouTube' };
+
+/**
+ * Pratinjau komposisi Sampul yang gambarnya bisa diseret (geser) dan diperbesar (roda mouse atau penggeser).
+ * Posisi dalam % kanvas, sama dengan transform di Sampul.tsx, jadi seretan 1:1 dengan hasil render.
+ * Mode TikTok menampilkan garis potong 3:4 grid profil (hanya di pratinjau).
+ */
+function LayarSampul({ data, platform, posisi, onPosisi }) {
+  const ref = useRef(null);
+  const seret = useRef(null);
+  const posisiRef = useRef(posisi);
+  posisiRef.current = posisi;
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    // Roda mouse untuk zoom; listener native agar preventDefault berlaku (halaman tidak ikut bergulir).
+    const roda = (e) => {
+      e.preventDefault();
+      const p = posisiRef.current;
+      onPosisi(jepitPosisi({ ...p, skala: p.skala + (e.deltaY < 0 ? 0.02 : -0.02) }));
+    };
+    el.addEventListener('wheel', roda, { passive: false });
+    return () => el.removeEventListener('wheel', roda);
+  }, [onPosisi]);
+  const mulai = (e) => {
+    e.currentTarget.setPointerCapture(e.pointerId);
+    seret.current = { x: e.clientX, y: e.clientY, awal: posisi, kotak: e.currentTarget.getBoundingClientRect() };
+  };
+  const gerak = (e) => {
+    const s = seret.current;
+    if (!s) return;
+    const dx = ((e.clientX - s.x) / s.kotak.width) * 100;
+    const dy = ((e.clientY - s.y) / s.kotak.height) * 100;
+    onPosisi(jepitPosisi({ ...s.awal, x: s.awal.x + dx, y: s.awal.y + dy }));
+  };
+  const selesai = () => {
+    seret.current = null;
+  };
+  const potongAtas = (100 * POTONG_TIKTOK.atas) / KANVAS.tinggi;
+  const potongBawah = (100 * POTONG_TIKTOK.bawah) / KANVAS.tinggi;
+  return (
+    <div className="layar layar-sampul">
+      <Player
+        component={Sampul}
+        inputProps={{ data, platform, posisi }}
+        durationInFrames={1}
+        fps={KANVAS.fps}
+        compositionWidth={KANVAS.lebar}
+        compositionHeight={KANVAS.tinggi}
+        acknowledgeRemotionLicense
+        style={{ width: '100%', aspectRatio: '9 / 16' }}
+      />
+      {platform === 'tiktok' && (
+        <>
+          <div className="potong-sampul atas" style={{ height: `${potongAtas}%` }} />
+          <div className="potong-sampul bawah" style={{ height: `${potongBawah}%` }} />
+        </>
+      )}
+      <div
+        ref={ref}
+        className="seret-sampul"
+        role="application"
+        aria-label={`Seret untuk menggeser gambar sampul ${NAMA_PLATFORM[platform]}, gulir untuk memperbesar`}
+        onPointerDown={mulai}
+        onPointerMove={gerak}
+        onPointerUp={selesai}
+        onPointerCancel={selesai}
+      />
+    </div>
+  );
+}
+
+/** Pilihan adegan, judul, dan posisi gambar per platform, disimpan di proyek.yaml (`sampul`), dengan pratinjau langsung. */
 function PilihSampul({ data, dv, sibuk, onRender }) {
   const s = dv.sampul || { adegan: 1, judul: dv.proyek.judulSampul, bawaan: { adegan: 1, judul: dv.proyek.judulSampul } };
+  const kunciPosisi = JSON.stringify(s.posisi || {});
+  const posisiTersimpan = useMemo(() => ({ tiktok: jepitPosisi(s.posisi?.tiktok), youtube: jepitPosisi(s.posisi?.youtube) }), [kunciPosisi]);
   const [adegan, setAdegan] = useState(s.adegan);
   const [judul, setJudul] = useState(s.judul);
+  const [platform, setPlatform] = useState('tiktok');
+  const [posisi, setPosisi] = useState(posisiTersimpan);
   useEffect(() => {
     setAdegan(s.adegan);
     setJudul(s.judul);
   }, [s.adegan, s.judul]);
-  const berubah = adegan !== s.adegan || judul.trim() !== s.judul;
+  useEffect(() => setPosisi(posisiTersimpan), [posisiTersimpan]);
+  const ubahPosisi = useMemo(() => (p) => setPosisi((lama) => ({ ...lama, [platform]: p })), [platform]);
+  const posisiBerubah = ['tiktok', 'youtube'].some((pl) => !posisiSama(posisi[pl], posisiTersimpan[pl]));
+  const berubah = adegan !== s.adegan || judul.trim() !== s.judul || posisiBerubah;
   const adaKhusus = !!data.aset.sampul || s.bawaan.adegan === 'khusus';
   const pratinjau = useMemo(() => {
     const d = { ...dv, proyek: { ...dv.proyek, judulSampul: judul.trim() || s.bawaan.judul } };
@@ -694,8 +721,11 @@ function PilihSampul({ data, dv, sibuk, onRender }) {
     const isi = {
       adegan: adegan === s.bawaan.adegan ? null : adegan,
       judul: !judulBersih || judulBersih === s.bawaan.judul ? null : judulBersih,
+      tiktok: posisiSama(posisi.tiktok, POSISI_BAWAAN) ? null : posisi.tiktok,
+      youtube: posisiSama(posisi.youtube, POSISI_BAWAAN) ? null : posisi.youtube,
     };
-    await kirim(`/api/proyek/${data.slug}`, { sampul: isi.adegan == null && isi.judul == null ? null : isi });
+    const terisi = Object.fromEntries(Object.entries(isi).filter(([, v]) => v != null));
+    await kirim(`/api/proyek/${data.slug}`, { sampul: Object.keys(terisi).length ? terisi : null });
   };
   const simpanSaja = async () => {
     try {
@@ -705,30 +735,43 @@ function PilihSampul({ data, dv, sibuk, onRender }) {
       toast(`Gagal: ${e.message}`);
     }
   };
-  const renderSampul = async () => {
+  const renderSampul = async (pl) => {
     try {
       if (berubah) await simpan();
-      await onRender('sampul');
+      await onRender(`sampul-${pl}`);
     } catch (e) {
       toast(`Gagal: ${e.message}`);
     }
   };
+  const p = posisi[platform];
   const pilihan = [...(adaKhusus ? ['khusus'] : []), ...data.konsep.adegan.map((a) => a.nomor)];
   return (
     <div className="blok">
       <h2 className="label">Sampul</h2>
       <div className="pilih-sampul">
-        <div className="layar">
-          <Player
-            component={Sampul}
-            inputProps={{ data: pratinjau, geserBawah: 0 }}
-            durationInFrames={1}
-            fps={KANVAS.fps}
-            compositionWidth={KANVAS.lebar}
-            compositionHeight={KANVAS.tinggi}
-            acknowledgeRemotionLicense
-            style={{ width: '100%', aspectRatio: '9 / 16' }}
-          />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 10, minWidth: 0 }}>
+          <div className="sakelar-sampul" role="radiogroup" aria-label="Platform sampul">
+            {['tiktok', 'youtube'].map((pl) => (
+              <button key={pl} type="button" role="radio" aria-checked={platform === pl} className={platform === pl ? 'aktif' : ''} onClick={() => setPlatform(pl)}>
+                {NAMA_PLATFORM[pl]}
+              </button>
+            ))}
+          </div>
+          <LayarSampul data={pratinjau} platform={platform} posisi={p} onPosisi={ubahPosisi} />
+          <label className="kecil" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            Zoom
+            <input type="range" min={BATAS_SKALA[0]} max={BATAS_SKALA[1]} step={0.01} value={p.skala} onChange={(e) => ubahPosisi(jepitPosisi({ ...p, skala: +e.target.value }))} style={{ flex: 1 }} />
+            <span style={{ minWidth: 40, textAlign: 'right' }}>{Math.round(p.skala * 100)}%</span>
+          </label>
+          <p className="redup kecil" style={{ margin: 0 }}>
+            Seret gambar untuk menggeser, gulir untuk zoom.
+            {platform === 'tiktok' && ' Area gelap terpotong di grid profil TikTok (3:4).'}{' '}
+            {!posisiSama(p, POSISI_BAWAAN) && (
+              <button type="button" onClick={() => ubahPosisi(POSISI_BAWAAN)} style={{ minHeight: 28, padding: '0 8px' }}>
+                Kembalikan posisi
+              </button>
+            )}
+          </p>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 14, minWidth: 0 }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
@@ -737,7 +780,7 @@ function PilihSampul({ data, dv, sibuk, onRender }) {
             </label>
             <textarea id="judul-sampul" value={judul} rows={2} maxLength={160} onChange={(e) => setJudul(e.target.value)} style={{ minHeight: 64, fontFamily: 'var(--serif)', fontSize: 20, lineHeight: '26px' }} />
             <p className="redup kecil">
-              Maksimal tiga baris di sampul; yang lebih panjang terpotong. Bawaan dari KONSEP.md: “{s.bawaan.judul}”.{' '}
+              Maksimal tiga baris di sampul; yang lebih panjang terpotong. Sama untuk TikTok dan YouTube. Bawaan dari KONSEP.md: “{s.bawaan.judul}”.{' '}
               {judul.trim() !== s.bawaan.judul && (
                 <button type="button" onClick={() => setJudul(s.bawaan.judul)} style={{ minHeight: 28, padding: '0 8px' }}>
                   Kembalikan
@@ -764,8 +807,11 @@ function PilihSampul({ data, dv, sibuk, onRender }) {
             {s.bawaan.adegan !== 'khusus' && <p className="redup kecil">Bawaan: adegan {s.bawaan.adegan}. Pilih gambar yang memperlihatkan sudut pandang tokoh, bukan wajah dari depan.</p>}
           </div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, alignItems: 'center' }}>
-            <button type="button" className="utama" disabled={sibuk} onClick={renderSampul}>
-              {berubah ? 'Simpan dan render sampul' : 'Render sampul'}
+            <button type="button" className="utama" disabled={sibuk} onClick={() => renderSampul('tiktok')}>
+              {berubah ? 'Simpan dan render sampul TikTok' : 'Render sampul TikTok'}
+            </button>
+            <button type="button" className="utama" disabled={sibuk} onClick={() => renderSampul('youtube')}>
+              {berubah ? 'Simpan dan render sampul YouTube' : 'Render sampul YouTube'}
             </button>
             <button type="button" disabled={!berubah} onClick={simpanSaja}>
               Simpan pilihan
@@ -816,7 +862,7 @@ function Render({ data, dataVideo }) {
         {t && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
             <p className={`kecil ${t.status === 'gagal' ? 'status-kurang' : t.status === 'selesai' ? 'status-ada' : ''}`}>
-              {t.jenis === 'sampul' ? 'Sampul' : 'Video'}: {t.pesan}
+              {t.jenis.startsWith('sampul') ? 'Sampul' : 'Video'}: {t.pesan}
             </p>
             {t.total > 0 && (
               <div className="batang">

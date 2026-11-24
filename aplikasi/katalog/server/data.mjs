@@ -1,10 +1,12 @@
-// Membaca repo Ulik Silam: proyek.yaml, KONSEP.md (lewat urai-konsep), kartu pustaka, dan berkas aset.
+// Membaca repo Ulik Silam: proyek.yaml, KONSEP.md (lewat urai-konsep), CAROUSEL.md (lewat urai-carousel), kartu pustaka, dan berkas aset.
 // Katalog hanya menulis proyek.yaml (tahap, prioritas, catatan) dan status kartu pustaka.
 import fs from 'node:fs';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { uraiKonsep } from '../../../paket/urai-konsep/index.mjs';
+import { uraiCarousel } from '../../../paket/urai-carousel/index.mjs';
+import { siapkanCarousel } from '../../../paket/carousel/siapkan.mjs';
 
 export const AKAR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
 export const TAHAP = ['Bank ide', 'Brief', 'Naskah terverifikasi', 'Aset', 'Rakit & render', 'Tayang', 'Evaluasi'];
@@ -49,7 +51,13 @@ export function bacaYaml(file) {
         data[k] = JSON.parse(v);
         continue;
       } catch {
-        // nilai flow gaya YAML (misalnya {ilustrasi: 16}): biarkan sebagai teks
+        // nilai flow gaya YAML sederhana (misalnya {ilustrasi: 16, tiktok: null}): kunci diberi tanda kutip lalu dicoba lagi
+        try {
+          data[k] = JSON.parse(v.replace(/([{,]\s*)([A-Za-z_][\w-]*)\s*:/g, '$1"$2":'));
+          continue;
+        } catch {
+          // biarkan sebagai teks
+        }
       }
     }
     data[k] = v === 'null' ? null : /^-?\d+$/.test(v) ? Number(v) : v;
@@ -96,6 +104,27 @@ function konsep(slug) {
   return nilai;
 }
 
+// ---------- CAROUSEL.md (disimpan sementara per mtime) ----------
+const simpanCarousel = new Map();
+function carousel(slug) {
+  const file = path.join(AKAR, 'proyek', slug, 'CAROUSEL.md');
+  if (!fs.existsSync(file)) return null;
+  const mtime = fs.statSync(file).mtimeMs;
+  const ada = simpanCarousel.get(slug);
+  if (ada && ada.mtime === mtime) return ada;
+  const teks = fs.readFileSync(file, 'utf8');
+  let hasil;
+  try {
+    hasil = uraiCarousel(teks);
+  } catch (e) {
+    hasil = { galat: e.message, slide: [], validasi: { masalah: [e.message], peringatan: [] } };
+  }
+  const nilai = { mtime, hasil, teks };
+  simpanCarousel.set(slug, nilai);
+  return nilai;
+}
+const adalahCarousel = (slug, meta) => meta.format === 'Carousel' || fs.existsSync(path.join(AKAR, 'proyek', slug, 'CAROUSEL.md'));
+
 /** Ambil isi mentah satu bagian `## <judul>` dari KONSEP.md. */
 function bagianMentah(teks, judul) {
   const baris = teks.replace(/\r\n/g, '\n').split('\n');
@@ -119,6 +148,16 @@ function sumberBerkas(slug, meta) {
 const enc = (p) => p.split('/').map(encodeURIComponent).join('/');
 const daftar = (dir, re) => (fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => re.test(f)).sort() : []);
 const dua = (n) => String(n).padStart(2, '0');
+
+/** Slug nama tokoh untuk nama berkas (sama dengan slug() di scripts/panen-pustaka.py). */
+export function slugNama(s) {
+  return s
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
 
 function cariDi(sumber, sub, re) {
   for (const s of sumber) {
@@ -147,6 +186,11 @@ export function asetProyek(slug, meta, k) {
   const sfx = {};
   for (const x of k?.sfx || []) sfx[x.nomor] = cariDi(sumber, 'sfx', new RegExp(`^sfx-0*${x.nomor}-.*${AUDIO.source}`, 'i'));
   const sampul = cariDi(sumber, 'ilustrasi', /^sampul\.(png|jpe?g|webp)$/i);
+  const lembar = {};
+  for (const l of k?.lembarKarakter || []) {
+    const n = slugNama(l.nama);
+    lembar[`lembar-${n}`] = cariDi(sumber, 'ilustrasi', new RegExp(`^lembar-(karakter-)?${n}\\.(png|jpe?g|webp)$`, 'i'));
+  }
 
   const render = [];
   for (const s of sumber) {
@@ -166,7 +210,93 @@ export function asetProyek(slug, meta, k) {
     musik: hitung(musik),
     sfx: hitung(sfx),
   };
-  return { adegan, babak, musik, sfx, sampul, render, kelengkapan, adaFolder: sumber.length > 0 };
+  return { adegan, babak, musik, sfx, sampul, lembar, render, kelengkapan, adaFolder: sumber.length > 0 };
+}
+
+/** Berkas per slide carousel: ilustrasi/slide-XX, arsip/slide-XX, render/tiktok/NN.png, render/instagram/NN.png. */
+export function asetCarousel(slug, meta, c) {
+  const sumber = sumberBerkas(slug, meta);
+  const ilustrasiSlide = (n) => cariDi(sumber, 'ilustrasi', new RegExp(`^slide-${dua(n)}\\.(png|jpe?g|webp)$`, 'i'));
+  const slide = {};
+  for (const s of c?.slide || []) {
+    const src = s.sumber || {};
+    let ilustrasi = null;
+    let berkas = null;
+    if (src.jenis === 'baru') {
+      berkas = `ilustrasi/slide-${dua(s.nomor)}.png`;
+      ilustrasi = ilustrasiSlide(s.nomor);
+    } else if (src.jenis === 'pakai-ulang' && src.slide) {
+      ilustrasi = ilustrasiSlide(s.nomor) || ilustrasiSlide(src.slide);
+    } else if (src.jenis === 'pakai-ulang' && src.video) {
+      berkas = `ilustrasi/slide-${dua(s.nomor)}.png`;
+      const dir = path.join(asetDir(), 'proyek', src.video.slug, 'ilustrasi');
+      const f = daftar(dir, new RegExp(`^adegan-${dua(src.video.adegan)}\\.(png|jpe?g|webp)$`, 'i'))[0];
+      ilustrasi = ilustrasiSlide(s.nomor) || (f ? `/media/aset/proyek/${enc(src.video.slug)}/ilustrasi/${encodeURIComponent(f)}` : null);
+    } else if (src.jenis === 'pustaka') {
+      const kartu = pustaka().find((p) => p.jenis === src.pustaka.jenis && p.id === src.pustaka.id);
+      ilustrasi = ilustrasiSlide(s.nomor) || kartu?.berkas.find((b) => b.ada && GAMBAR.test(b.nama))?.url || null;
+    }
+    const perluArsip = s.foto || src.jenis === 'arsip';
+    // render final di render/<platform>/NN.png, draf di render/draf/<platform>/NN.png (paket/carousel/render.mjs)
+    const hasilRender = (...sub) => {
+      const o = {};
+      for (const pl of ['tiktok', 'instagram']) {
+        const dir = path.join(asetDir(), 'proyek', slug, 'render', ...sub, pl);
+        const f = daftar(dir, new RegExp(`^${dua(s.nomor)}\\.png$`, 'i'))[0];
+        o[pl] = f ? `/media/aset/proyek/${enc(slug)}/render/${[...sub, pl].join('/')}/${f}?v=${Math.round(fs.statSync(path.join(dir, f)).mtimeMs)}` : null;
+      }
+      return o;
+    };
+    const render = hasilRender();
+    const draf = hasilRender('draf');
+    slide[s.nomor] = {
+      ilustrasi,
+      berkasIlustrasi: berkas,
+      arsip: perluArsip ? cariDi(sumber, 'arsip', new RegExp(`^slide-${dua(s.nomor)}\\.(png|jpe?g|webp)$`, 'i')) : null,
+      berkasArsip: perluArsip ? `arsip/slide-${dua(s.nomor)}.png` : null,
+      render,
+      draf,
+    };
+  }
+  const hitung = (pilih) => {
+    const v = Object.values(slide).filter((x) => pilih(x) !== undefined).map(pilih);
+    return { ada: v.filter(Boolean).length, total: v.length };
+  };
+  const kelengkapan = {
+    ilustrasi: hitung((x) => (x.berkasIlustrasi ? x.ilustrasi : undefined)),
+    foto: hitung((x) => (x.berkasArsip ? x.arsip : undefined)),
+    tiktok: hitung((x) => x.render.tiktok),
+    instagram: hitung((x) => x.render.instagram),
+  };
+  const lain = [];
+  for (const s of sumber) {
+    const dir = path.join(s.akar, 'render');
+    for (const f of daftar(dir, GAMBAR)) {
+      const st = fs.statSync(path.join(dir, f));
+      lain.push({ nama: f, url: `${s.url}/render/${encodeURIComponent(f)}`, jenis: 'gambar', ukuran: st.size, tanggal: new Date(st.mtimeMs).toISOString() });
+    }
+  }
+  const lembar = (...sub) =>
+    Object.fromEntries(
+      ['tiktok', 'instagram'].map((pl) => {
+        const f = path.join(asetDir(), 'proyek', slug, 'render', ...sub, pl, 'lembar-kontak.png');
+        return [pl, fs.existsSync(f) ? `/media/aset/proyek/${enc(slug)}/render/${[...sub, pl].join('/')}/lembar-kontak.png?v=${Math.round(fs.statSync(f).mtimeMs)}` : null];
+      }),
+    );
+  // kesiapan render final, dengan aturan yang sama dengan paket/carousel/render.mjs
+  let siapFinal = { ok: false, alasan: [] };
+  try {
+    const x = siapkanCarousel(slug, { salinBerkas: false });
+    const alasan = [
+      ...x.masalah.map((m) => `Kontrak: ${m}`),
+      ...(x.kurang.ilustrasi.length ? [`Ilustrasi belum ada: ${x.kurang.ilustrasi.join(', ')}`] : []),
+      ...(x.kurang.foto.length ? [`Foto arsip belum ada: ${x.kurang.foto.join(', ')}`] : []),
+    ];
+    siapFinal = { ok: !alasan.length, alasan };
+  } catch (e) {
+    siapFinal = { ok: false, alasan: [e.message] };
+  }
+  return { slide, kelengkapan, render: lain, adaFolder: sumber.length > 0, folder: path.join(asetDir(), 'proyek', slug), lembarKontak: lembar(), lembarKontakDraf: lembar('draf'), siapFinal };
 }
 
 // ---------- pustaka ----------
@@ -225,14 +355,17 @@ export function daftarProyek() {
   return slugProyek().map((slug) => {
     const meta = bacaYaml(path.join(AKAR, 'proyek', slug, 'proyek.yaml'));
     const k = konsep(slug)?.hasil;
+    const c = adalahCarousel(slug, meta) ? carousel(slug)?.hasil : null;
     const sumber = sumberBerkas(slug, meta);
-    const gambar = cariDi(sumber, 'ilustrasi', /^sampul\.(png|jpe?g|webp)$/i) || cariDi(sumber, 'ilustrasi', /^adegan-01\.(png|jpe?g|webp)$/i);
+    const gambar = c
+      ? cariDi(sumber, 'ilustrasi', /^slide-01\.(png|jpe?g|webp)$/i)
+      : cariDi(sumber, 'ilustrasi', /^sampul\.(png|jpe?g|webp)$/i) || cariDi(sumber, 'ilustrasi', /^adegan-01\.(png|jpe?g|webp)$/i);
     return {
       slug,
-      judul: meta.judul || k?.judul || slug,
+      judul: meta.judul || k?.judul || c?.judul || slug,
       format: meta.format || '',
-      lapisan: meta.lapisan || k?.lapisan || [],
-      latar: meta.latar || k?.latar || '',
+      lapisan: meta.lapisan || k?.lapisan || c?.lapisan || [],
+      latar: meta.latar || k?.latar || c?.latar || '',
       seri: meta.seri || '',
       tahap: meta.tahap || 'Bank ide',
       prioritas: meta.prioritas ?? null,
@@ -242,9 +375,10 @@ export function daftarProyek() {
       metrikTiktok: meta.metrik_tiktok || null,
       metrikShorts: meta.metrik_shorts || null,
       adegan: k?.adegan?.length || 0,
+      slide: c?.slide?.length || 0,
       tokoh: (k?.lembarKarakter || []).map((l) => l.nama),
       gambar,
-      masalah: k?.validasi?.masalah?.length || 0,
+      masalah: (c || k)?.validasi?.masalah?.length || 0,
     };
   });
 }
@@ -252,17 +386,44 @@ export function daftarProyek() {
 export function detailProyek(slug) {
   if (!slugProyek().includes(slug)) return null;
   const meta = bacaYaml(path.join(AKAR, 'proyek', slug, 'proyek.yaml'));
+  if (adalahCarousel(slug, meta)) {
+    const cc = carousel(slug);
+    const c = cc?.hasil || null;
+    return {
+      slug,
+      meta,
+      jenis: 'carousel',
+      konsep: null,
+      carousel: c,
+      aset: asetCarousel(slug, meta, c),
+      catatanGenre: cc ? bagianMentah(cc.teks, 'Catatan genre') : '',
+      sumberMd: cc ? bagianMentah(cc.teks, 'Sumber') : '',
+      gayaVisualMd: cc ? bagianMentah(cc.teks, 'Gaya visual') : '',
+      pustakaDipakai: pustaka()
+        .filter((p) => (p.dipakai_di || []).includes(slug))
+        .map(({ id, jenis, judul, status }) => ({ id, jenis, judul, status })),
+    };
+  }
   const kk = konsep(slug);
   const k = kk?.hasil || null;
   const aset = asetProyek(slug, meta, k || {});
   const kartuTokoh = pustaka().filter((p) => p.jenis === 'tokoh' && (p.dipakai_di || []).includes(slug));
   const lembar = (k?.lembarKarakter || []).map((l) => {
     const kartu = kartuTokoh.find((p) => p.judul === l.nama);
-    return { ...l, kartu: kartu ? { id: kartu.id, status: kartu.status, gambar: kartu.berkas.find((b) => b.ada && GAMBAR.test(b.nama))?.url || null } : null };
+    // gambar lembar karakter di folder aset proyek: ilustrasi/lembar-<nama-tokoh>.<png|jpg|webp>
+    const berkasLembar = `lembar-${slugNama(l.nama)}`;
+    const gambarProyek = aset.lembar?.[berkasLembar] || null;
+    return {
+      ...l,
+      berkas: `ilustrasi/${berkasLembar}.png`,
+      gambar: gambarProyek,
+      kartu: kartu ? { id: kartu.id, status: kartu.status, gambar: kartu.berkas.find((b) => b.ada && GAMBAR.test(b.nama))?.url || null } : null,
+    };
   });
   return {
     slug,
     meta,
+    jenis: 'video',
     konsep: k,
     lembar,
     aset,

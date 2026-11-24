@@ -1,0 +1,36 @@
+/* Templat slide carousel Ulik Silam. Warna dari variabel --c-* (merek/tokens.json, lihat token.js). */
+.cs-slide { position: absolute; inset: 0; overflow: hidden; background: var(--c-latar); color: var(--c-tinta); font-family: var(--cs-sans); font-weight: 500; }
+.cs-slide p, .cs-slide h3 { margin: 0; }
+.cs-slide .cs-serif { font-family: var(--cs-serif); font-weight: 600; font-feature-settings: 'lnum' 1; }
+.cs-slide .cs-kutipan { font-style: italic; font-weight: 500; }
+.cs-slide .cs-redup { color: var(--c-tinta-redup); }
+.cs-slide.cs-radial { background: radial-gradient(ellipse at 50% 42%, var(--c-tanah) 0%, var(--c-latar) 72%); }
+.cs-slide .cs-latar-gambar { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.cs-slide .cs-latar-kosong { position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 40%, var(--c-tanah), var(--c-latar) 75%); }
+.cs-slide .cs-latar-kosong span { position: absolute; top: 40px; right: 40px; font-size: 26px; color: var(--c-tinta-redup); border: 2px dashed var(--c-garis); padding: 12px 20px; border-radius: 12px; }
+.cs-slide .cs-lapis { position: absolute; inset: 0; }
+.cs-slide .cs-gradasi { top: auto; bottom: 0; background: linear-gradient(to top, color-mix(in srgb, var(--c-latar) 93%, transparent) 0%, var(--c-bayang) 45%, transparent 100%); }
+.cs-slide .cs-cahaya-tengah { background: radial-gradient(ellipse at 50% 42%, color-mix(in srgb, var(--c-tanah) 40%, transparent) 0%, transparent 70%); }
+.cs-slide .cs-hal { position: absolute; display: flex; align-items: center; gap: 14px; color: var(--c-tinta-redup); z-index: 2; }
+.cs-slide .cs-label-lapisan { display: inline-flex; align-items: center; gap: 12px; padding: 10px 20px 10px 16px; border: 3px solid currentColor; border-radius: 8px; background: var(--c-bayang); font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; }
+.cs-slide .cs-label-lapisan svg { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.cs-slide .cs-geser { align-self: flex-end; color: var(--c-pelita); font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; }
+.cs-slide .cs-huruf-label { font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; }
+.cs-slide .cs-label-kecil { color: var(--c-tinta-redup); letter-spacing: 0.1em; text-transform: uppercase; font-weight: 700; }
+.cs-slide .cs-label-netral { color: var(--c-tinta-redup); border: 2px solid var(--c-tinta-redup); border-radius: 8px; padding: 8px 18px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; }
+.cs-slide .cs-angka { font-family: var(--cs-serif); font-weight: 600; color: var(--c-pelita); font-feature-settings: 'lnum' 1; }
+.cs-slide .cs-garis-pelita { display: block; width: 96px; height: 5px; border-radius: 3px; background: var(--c-pelita); }
+.cs-slide .cs-cetakan { background: var(--c-tinta); padding: 16px 16px 22px; box-shadow: 0 24px 60px color-mix(in srgb, black 80%, transparent), 0 0 90px color-mix(in srgb, var(--c-pelita) 20%, transparent); }
+.cs-slide .cs-cetakan img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; }
+.cs-slide .cs-cetakan-kosong { aspect-ratio: 4 / 5; display: flex; align-items: center; justify-content: center; text-align: center; padding: 24px; background: var(--c-tanah); color: var(--c-tinta); font-size: 30px; border: 3px dashed var(--c-tinta-redup); }
+.cs-slide .cs-kotak-naik { display: flex; flex-direction: column; gap: 18px; padding: 40px; border-radius: 28px; border: 3px solid var(--c-garis); background: var(--c-latar-naik); }
+.cs-slide .cs-linimasa { display: flex; flex-direction: column; gap: 44px; border-left: 4px solid var(--c-garis); padding-left: 48px; margin-left: 12px; }
+.cs-slide .cs-titik { position: relative; }
+.cs-slide .cs-titik > i { position: absolute; left: -66px; top: 22px; width: 32px; height: 32px; border-radius: 50%; background: var(--c-pelita); box-shadow: 0 0 36px color-mix(in srgb, var(--c-pelita) 67%, transparent); }
+.cs-slide .cs-tahun { color: var(--c-pelita); margin-bottom: 8px; }
+.cs-slide .cs-draf { position: absolute; top: 28px; right: 28px; z-index: 9; padding: 8px 18px; border-radius: 8px; border: 3px solid var(--c-lapis-mitos); color: var(--c-lapis-mitos); background: var(--c-bayang); font-size: 28px; font-weight: 800; letter-spacing: 0.2em; }
+.cs-zona-aman { position: absolute; border: 4px dashed var(--c-lapis-rekaan); background: color-mix(in srgb, var(--c-lapis-rekaan) 8%, transparent); pointer-events: none; z-index: 5; }
+.cs-lembar { position: absolute; inset: 0; display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(4, 1fr); background: var(--c-latar); }
+.cs-lembar > div { position: relative; overflow: hidden; border: 2px solid var(--c-latar); }
+.cs-lembar > div > .cs-skala { position: absolute; top: 0; left: 0; transform-origin: top left; }
+.cs-lembar > div > b { position: absolute; left: 10px; bottom: 8px; z-index: 3; font: 800 22px var(--cs-sans); color: var(--c-pelita); background: var(--c-bayang); padding: 2px 8px; border-radius: 4px; }

@@ -1,0 +1,9 @@
+{
+  "name": "urai-carousel",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Pengurai CAROUSEL.md Ulik Silam (Kontrak CAROUSEL.md v1.2)",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": { ".": "./index.mjs" }
+}

@@ -155,7 +155,7 @@ export function Kepala({ aktif, cari, onCari }) {
 
 // ---------- lapisan ----------
 export const WARNA_LAPISAN = { Sejarah: 'var(--sejarah)', Legenda: 'var(--legenda)', Mitos: 'var(--mitos)', Rekaan: 'var(--rekaan)' };
-const IKON = {
+export const IKON = {
   Sejarah: (
     <>
       <path d="M8 4h10a2 2 0 0 1 0 4H8" />
