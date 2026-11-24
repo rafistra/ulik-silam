@@ -2,17 +2,23 @@
 
 Dibuat otomatis oleh `scripts/buat-status.py` dari `proyek/*/proyek.yaml`. Jangan diedit manual.
 
-Diperbarui: 2026-11-24 · 77 proyek
+Diperbarui: 2026-11-24 · 78 proyek
 
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
-| Brief | 0 | - |
+| Brief | 1 | - |
 | Naskah terverifikasi | 32 | - |
 | Aset | 0 | 0 / 2 |
 | Rakit & render | 0 | 0 / 2 |
 | Tayang | 45 | - |
 | Evaluasi | 0 | - |
+
+## Brief
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | - | - | - |
 
 ## Naskah terverifikasi
 
