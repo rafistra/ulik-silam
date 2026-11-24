@@ -55,7 +55,7 @@ Diperbarui: 2026-11-24 · 78 proyek
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
-| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | - | - | - |
+| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | 2026-11-24 | - | - |
 
 ## Tayang
 

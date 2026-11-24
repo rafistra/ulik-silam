@@ -11,8 +11,9 @@ merek: "2026-11-22"
 adegan: 16
 lembar_karakter: ["Demang Lehman 1859", "Demang Lehman 1864"]
 aset: {ilustrasi: 16, narasi: 16, musik: 3, sfx: 10}
-render: ""
-tanggal_render: null
+render: "render/pov-demang-lehman-batulicin-2026-11-24-v2.mp4"
+tanggal_render: 2026-11-24
 tanggal_tayang: null
 tautan: {tiktok: null, shorts: null}
-catatan: "Konsep v1 disetujui 2026-11-24. Lembar Demang Lehman 1859 dipakai ulang dari pustaka."
+catatan: "Render final 2026-11-24 (2:21, -16 LUFS). Lembar Demang Lehman 1859 dipakai ulang dari pustaka."
+sampul: {"adegan":10,"judul":"POV: Hari Terakhir Demang Lehman, 1864","tiktok":{"x":12.1,"y":-3.6,"skala":1.22},"youtube":{"x":5.9,"y":-0.3,"skala":1.12}}
