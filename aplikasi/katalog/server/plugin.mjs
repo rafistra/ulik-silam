@@ -1,7 +1,7 @@
 // Plugin Vite: API katalog, berkas media (dengan Range), dan kabar perubahan (SSE).
 import fs from 'node:fs';
 import path from 'node:path';
-import { spawn } from 'node:child_process';
+import { spawn, spawnSync } from 'node:child_process';
 import * as data from './data.mjs';
 import { buatPenjalan, skemaAlat } from './alat.mjs';
 import { siapkan } from '../../../paket/video/siapkan.mjs';
@@ -70,6 +70,26 @@ function kirimBerkas(req, res, file) {
   }
   res.setHeader('Content-Length', st.size);
   fs.createReadStream(file).pipe(res);
+}
+
+/**
+ * Hentikan semua Remotion Studio yang masih berjalan (dibuka dari katalog, terminal, atau sesi lain), agar port 3000
+ * bebas untuk Studio proyek yang diminta. Hanya proses node yang baris perintahnya memuat `remotion ... studio` atau
+ * `render.mjs ... --studio`; server katalog sendiri tidak tersentuh. Mengembalikan jumlah proses yang dihentikan.
+ */
+function hentikanStudio() {
+  if (process.platform === 'win32') {
+    const ps =
+      "Get-CimInstance Win32_Process -Filter \"Name='node.exe'\" | " +
+      "Where-Object { ($_.CommandLine -match 'remotion' -and $_.CommandLine -match '\\sstudio\\s') -or $_.CommandLine -match 'render\\.mjs\\s.*--studio' } | " +
+      'ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue; $_.ProcessId }';
+    const r = spawnSync('powershell', ['-NoProfile', '-Command', ps], { encoding: 'utf8' });
+    return (r.stdout || '').split(/\s+/).filter(Boolean).length;
+  }
+  const r = spawnSync('pgrep', ['-f', 'remotion.* studio |render\\.mjs .*--studio'], { encoding: 'utf8' });
+  const pid = (r.stdout || '').split(/\s+/).filter(Boolean);
+  for (const p of pid) spawnSync('kill', ['-9', p]);
+  return pid.length;
 }
 
 export default function katalogPlugin() {
@@ -189,9 +209,19 @@ export default function katalogPlugin() {
             return kirimJson(res, 200, mulaiRender(m[1], jenis));
           }
           if (m && m[2] === 'studio' && req.method === 'POST') {
-            const s = spawn(process.execPath, [RENDER, m[1], '--studio'], { cwd: data.AKAR, detached: true, stdio: 'ignore' });
+            // Studio lama (proyek lain, terminal, atau sesi lain) menahan port 3000; tanpa dihentikan, Studio baru gagal diam-diam.
+            const lama = hentikanStudio();
+            // Keluaran Studio disimpan agar galatnya bisa dibaca bila Studio tidak terbuka.
+            const log = path.join(data.asetDir(), '_cache', m[1], 'studio.log');
+            fs.mkdirSync(path.dirname(log), { recursive: true });
+            const fd = fs.openSync(log, 'w');
+            const s = spawn(process.execPath, [RENDER, m[1], '--studio'], { cwd: data.AKAR, detached: true, stdio: ['ignore', fd, fd] });
             s.unref();
-            return kirimJson(res, 200, { ok: true, pesan: 'Remotion Studio dibuka di jendela browser baru (port 3000).' });
+            fs.closeSync(fd);
+            return kirimJson(res, 200, {
+              ok: true,
+              pesan: `Remotion Studio dibuka di jendela browser baru (port 3000)${lama ? `; ${lama} proses Studio lama dihentikan` : ''}. Log: ${path.relative(data.AKAR, log)}`,
+            });
           }
           m = p.match(/^\/api\/proyek\/([a-z0-9-]+)$/);
           if (m && req.method === 'GET') {
