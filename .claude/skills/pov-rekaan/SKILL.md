@@ -184,6 +184,7 @@ dengan kpm 130 sampai 135. Angka bawah (130 kpm) adalah batas aman, terutama unt
 Aturan lain:
 
 - Hook maksimal 10 detik yang menaruh penonton di posisi tokoh ("Kamu ...").
+- **Hook harus jelas sekali dengar.** Penonton hanya mendengarnya sekali dalam 3 detik pertama, jadi hindari frasa bermakna ganda dan kontras yang tidak diucapkan. Contoh dari pov-roehana-koeddoes: "anak gadis cukup pandai menyulam" terdengar sebagai pujian ("lumayan pandai"), padahal maksudnya prasangka; diperbaiki menjadi "Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca." Prasangka atau anggapan ditandai sebagai anggapan ("kata orang", "konon"), bukan fakta. Bila penutup menggemakan hook, ubah keduanya bersama.
 - Setiap adegan 8 sampai 12 detik.
 - Narasi orang kedua, kalimat pendek dengan kalimat menohok yang bisa diberi jeda.
 - Satu momen hening/emosional dan penutup sesuai kolom Akhir. Adegan terakhir langsung disambung kartu Ulikan tanpa kalimat penutup tambahan, jadi kalimat terakhir narasi harus sudah terasa sebagai akhir.
@@ -205,6 +206,7 @@ Narasi dibacakan narator AI di ElevenLabs dengan model Eleven v3, dan digenerate
 - **Jeda:** elipsis `...` untuk napas atau ketegangan di dalam narasi. Jeda antar-adegan tidak ditulis di kolom Narasi; `...` penutup paragraf hanya ditambahkan di `### Narasi lengkap (ElevenLabs)`, dan pov-produksi menambahkan jedanya sendiri.
 - Tag hanya di kolom Narasi dan `### Narasi lengkap (ElevenLabs)`. Teks layar, kartu Ulikan, judul, dan caption tidak memakai tag. Di baris `**Adegan <n> · Narasi ...:**` pada bagian prompt, narasi ditulis tanpa tag.
 - Tag tidak mengubah fakta; verifikasi tetap atas teks narasinya.
+- **Pelafalan nama berejaan lama.** ElevenLabs membaca ejaan van Ophuijsen dan ejaan Belanda huruf demi huruf ("Soenting Melajoe" menjadi "suntung melaju"). Di kolom Narasi dan `### Narasi lengkap (ElevenLabs)`, tulis nama koran, organisasi, tempat, dan istilah berejaan lama **sesuai cara bacanya** ("Sunting Melayu", "Utusan Melayu"). Agar subtitle tetap menampilkan ejaan aslinya, catat pasangannya di `### Teks dan subtitle` dengan baris `**Ejaan di subtitle:** Sunting Melayu → Soenting Melajoe, ...`; pov-produksi memasangnya sebagai `SAMARKAN_SUBTITLE` di `setelan.json`. Kata kunci subtitle untuk nama itu ditulis dalam ejaan yang tampil (ejaan lama). Nama orang yang sudah lazim dibaca benar tidak perlu diubah; bila ragu, sebutkan di arahan suara agar Rafi mendengarkan bagian itu.
 
 ### 2A.3 Peta rekaan, tokoh nyata, dan titik cabang
 
@@ -263,6 +265,8 @@ Sebelum menyerahkan naskah, pastikan:
 - [ ] Bagian Sumber hanya berisi halaman yang benar-benar dibuka.
 - [ ] Isi kolom Hindari tidak muncul di naskah.
 - [ ] Setiap kalimat narasi diawali satu tag emosi berformat `[kata]` huruf kecil bahasa Inggris, alurnya wajar, tag bunyi paling banyak satu per adegan dan sudah diperhitungkan dalam durasi; penanda teks layar ada di awal babak yang melompat waktu atau tempat.
+- [ ] Hook dan kalimat penutup jelas sekali dengar (tidak bermakna ganda, kontrasnya diucapkan); anggapan ditandai sebagai anggapan.
+- [ ] Nama berejaan lama di narasi ditulis sesuai cara bacanya, dan pasangan ejaan aslinya tercatat di `**Ejaan di subtitle:**`.
 - [ ] Baris `Lapisan` dan `Latar` terisi di Ringkasan konsep.
 - [ ] Semua detail dari brief yang mengikat masih ada dan urutannya tidak berubah.
 
@@ -330,6 +334,17 @@ Figuran adalah orang yang tampil tanpa lembar karakter (prajurit, abdi, kerumuna
 - Figuran dalam satu kelompok juga beragam (usia, tinggi, wajah), tidak seragam seperti salinan.
 - Di prompt, tambahkan kalimat pembeda, misalnya "The guards are different people from <Nama tokoh>: older and stockier, with plain brown headcloths and no jewelry."
 - Masukkan "background figures copying <Nama tokoh>'s face or outfit, identical faces" ke kalimat "Avoid ...".
+
+**Anak di prompt**
+
+Gemini menolak prompt yang menggabungkan anak dengan paksaan, ancaman, atau sorotan pada tubuh anak, walaupun adegannya wajar secara cerita. Di pov-roehana-koeddoes, dua adegan gagal karena "a mother pulls her daughter's wrist ... the daughter, about ten" dengan lelaki dewasa cemberut menatap, dan "a thin girl of about twelve ... tongue between her teeth" dilihat dari atas. Aturannya:
+
+- Tampilkan anak hanya bila narasi memerlukannya. Bila "gadis" atau "murid" bisa berarti remaja akhir atau perempuan muda, tulis begitu ("a young woman in her late teens"), bukan usia anak.
+- Bila anak memang harus tampil (masa kecil tokoh, teman sebaya), jangan menyebut usia dalam angka; pakai "village children of different ages".
+- Jangan menggabungkan anak dengan kontak fisik yang memaksa (menarik, mendorong, menyeret, mencengkeram), orang dewasa yang mengancam atau mengawasi dengan marah, atau ketakutan dan tangis anak.
+- Jangan menggambarkan tubuh, mulut, atau ekspresi wajah anak secara rinci, dan jangan memakai sudut kamera dari atas ke arah anak.
+- Penolakan atau ejekan disampaikan lewat benda dan jarak, bukan sentuhan: benda yang dikembalikan, anak lain yang berbisik sambil menyeringai dari jauh, sosok dewasa yang menunggu di kejauhan.
+- Bila adegannya memuat orang dewasa saja, tambahkan "Only these adults appear." dan "children" ke kalimat "Avoid ...".
 
 **Arah pandang, ekspresi, dan gerak**
 
@@ -541,6 +556,7 @@ Sebelum menyerahkan dokumen, pastikan:
 - [ ] Deskripsi tokoh baku disalin persis ke prompt lembar karakternya, dan setiap prompt bidikan A memuat deskripsi tangan baku (varian babak yang sesuai) secara persis, dicocokkan dengan skrip, plus apa yang dipegang setiap tangan.
 - [ ] Setiap tokoh yang tampil di prompt adegan punya gerak, ekspresi, dan arah pandang; kontak mata dengan penonton hanya ada di adegan yang menyengajanya, dan adegan lain memuat "characters looking at the camera" di kalimat "Avoid ...".
 - [ ] Setiap prompt yang memuat figuran punya kalimat pembeda dari tokoh berlembar karakter.
+- [ ] Prompt yang memuat anak mengikuti aturan **Anak di prompt** (tanpa usia dalam angka, tanpa paksaan atau ancaman, tanpa sorotan tubuh atau wajah anak, tanpa sudut dari atas).
 - [ ] Tidak ada kalimat tata letak zona di prompt (misalnya "open space in the top third" atau "nothing important in the bottom third"); bidikan ditulis sebagai jenis bidikan dan sudut kamera.
 - [ ] Setiap blok Style of Music memuat durasi target yang sama dengan kolom Durasi target di tabel cue.
 - [ ] Isi kolom Hindari tidak muncul di prompt, audio, judul, maupun caption.
@@ -632,7 +648,8 @@ Kasus khusus dari pov-produksi:
 
 - **Narasi berbeda dari rekaman** (improvisasi, atau ElevenLabs melewatkan atau menambah kata): pov-produksi hanya melaporkan perbedaannya. Bila rekamannya lebih baik dipertahankan, narasi di konsep disamakan dengan rekaman, tetapi verifikasi setiap fakta baru di dalamnya; bila tidak, usulkan generate ulang adegan itu. Fakta yang tidak terkonfirmasi dilaporkan dan diusulkan rekam ulang untuk kalimat itu.
 - **Durasi lewat batas:** usulkan adegan atau kalimat yang dipangkas, dimulai dari yang bukan momen wajib dan bukan hook; Rafi yang memilih.
-- **Ilustrasi tidak bisa dibuat Gemini:** usulkan bidikan pengganti (dari belakang, siluet, orang pertama, benda simbolis) tanpa mengubah narasi.
+- **Ilustrasi tidak bisa dibuat Gemini:** usulkan bidikan pengganti (dari belakang, siluet, orang pertama, benda simbolis) tanpa mengubah narasi. Bila adegannya memuat anak, periksa dulu aturan **Anak di prompt** (bagian Figuran); penyebab paling sering adalah usia anak yang digabung dengan paksaan atau orang dewasa yang mengancam. Periksa juga adegan lain yang memuat anak dan usulkan perbaikannya sekaligus, sebelum Rafi mencobanya.
+- **Nama terbaca salah oleh ElevenLabs:** tulis nama itu sesuai cara bacanya di narasi dan catat ejaan aslinya di `**Ejaan di subtitle:**` (2A.2a). Rafi cukup merekam ulang kalimat yang memuat nama itu; pov-produksi menyambungnya ke rekaman lama.
 
 **Bukan revisi lagi:** jika perubahan menyentuh posisi "kamu", latar, jenis (rekaan berlatar sejarah ↔ sejarah alternatif), titik cabang itu sendiri, atau alur besar, atau lebih dari sepertiga adegan berubah, sampaikan bahwa ini lebih tepat dikerjakan sebagai konsep baru dari Tahap 1 (brief baru) atau dari Tahap 2A, dan tanyakan pilihan Rafi.
 

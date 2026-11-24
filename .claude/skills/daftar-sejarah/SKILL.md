@@ -181,6 +181,7 @@ dengan kpm 130 sampai 135; angka bawah adalah batas aman. Tag suara tidak dihitu
 **Isi tiap bagian**
 
 - **Hook (maksimal 10 detik):** pertanyaan atau kontras yang memancing, plus janji daftarnya. Contoh: "[serious] Mataram melahirkan belasan raja. [curious] Tapi hanya lima yang benar-benar mengubah wajah Jawa." Boleh menyapa penonton ("menurutmu ..."), tetapi tidak menaruh penonton di posisi tokoh. Kriteria disebut singkat di hook atau adegan kedua pembuka. Jangan menyebut nomor 1; bila ingin memancing penasaran, hanya dengan klaim yang benar dan didukung naskah.
+- **Hook harus jelas sekali dengar.** Penonton hanya mendengarnya sekali dalam 3 detik pertama, jadi hindari frasa bermakna ganda dan kontras yang tidak diucapkan. Contoh dari pov-roehana-koeddoes: "anak gadis cukup pandai menyulam" terdengar sebagai pujian ("lumayan pandai"), padahal maksudnya prasangka; diperbaiki menjadi "Kata orang di kampungmu, anak gadis cukup bisa menyulam, tak perlu pandai membaca." Prasangka atau anggapan ditandai sebagai anggapan ("kata orang", "konon"), bukan fakta. Bila penutup menggemakan hook, ubah keduanya bersama.
 - **Setiap entri, pola dasar tiga adegan sesuai jenisnya:**
 
   | Jenis entri | Adegan 1 (penanda entri) | Adegan 2 | Adegan 3 |
@@ -236,6 +237,7 @@ Narasi dibacakan narator AI di ElevenLabs dengan model Eleven v3 dan digenerate 
 - Tag bunyi (`[sighs]`, `[exhales]`) paling banyak satu per adegan dan diperhitungkan dalam durasi.
 - Jeda: elipsis `...` di dalam narasi. `...` penutup paragraf hanya ditambahkan di `### Narasi lengkap (ElevenLabs)`.
 - Tag hanya di kolom Narasi dan `### Narasi lengkap (ElevenLabs)`; tidak di teks layar, kartu Ulikan, judul, caption, atau baris `**Adegan <n> · Narasi ...:**` di bagian prompt.
+- **Pelafalan nama berejaan lama.** ElevenLabs membaca ejaan van Ophuijsen dan ejaan Belanda huruf demi huruf ("Soenting Melajoe" menjadi "suntung melaju"). Di kolom Narasi dan `### Narasi lengkap (ElevenLabs)`, tulis nama koran, organisasi, tempat, dan istilah berejaan lama **sesuai cara bacanya** ("Sunting Melayu", "Utusan Melayu"). Agar subtitle tetap menampilkan ejaan aslinya, catat pasangannya di `### Teks dan subtitle` dengan baris `**Ejaan di subtitle:** Sunting Melayu → Soenting Melajoe, ...`; pov-produksi memasangnya sebagai `SAMARKAN_SUBTITLE` di `setelan.json`. Kata kunci subtitle untuk nama itu ditulis dalam ejaan yang tampil (ejaan lama). Nama orang yang sudah lazim dibaca benar tidak perlu diubah; bila ragu, sebutkan di arahan suara agar Rafi mendengarkan bagian itu.
 
 ### 2A.3 Dasar peringkat
 
@@ -322,6 +324,8 @@ Dikerjakan setelah tabel verifikasi selesai dan sebelum menyerahkan 2A, supaya v
 - [ ] `### Dasar peringkat` terisi untuk semua entri, dan setiap alasan peringkat berstatus Terverifikasi, atau Diperdebatkan dengan penanda.
 - [ ] Narasi tidak mengklaim peringkat sebagai kebenaran mutlak; nomor 1 tidak dibocorkan di hook.
 - [ ] Setiap kalimat narasi diawali tag emosi; tag bunyi paling banyak satu per adegan.
+- [ ] Hook dan kalimat penutup jelas sekali dengar (tidak bermakna ganda, kontrasnya diucapkan); anggapan ditandai sebagai anggapan.
+- [ ] Nama berejaan lama di narasi ditulis sesuai cara bacanya, dan pasangan ejaan aslinya tercatat di `**Ejaan di subtitle:**`.
 - [ ] Bagian Sumber hanya berisi halaman yang benar-benar dibuka; isi kolom Hindari tidak muncul.
 - [ ] Baris `Posisi "kamu"`, `Lapisan`, `Latar`, `Format`, `Jumlah entri`, dan `Kriteria` terisi.
 
@@ -413,6 +417,17 @@ Figuran adalah orang yang tampil tanpa lembar karakter. Agar Gemini tidak menyal
 - Setiap figuran atau kelompok diberi ciri pembeda (usia, perawakan, wajah, rambut, pakaian sesuai status) dengan warna dan aksesori berbeda dari tokoh utama. Unsur khas tokoh utama tidak dipakai figuran.
 - Figuran dalam satu kelompok juga beragam, tidak seragam seperti salinan.
 - Tambahkan kalimat pembeda, misalnya "The courtiers are different people from Sultan Agung: older, plainer headcloths and no jewelry.", dan masukkan "background figures copying <Nama tokoh>'s face or outfit, identical faces" ke kalimat "Avoid ...".
+
+**Anak di prompt**
+
+Gemini menolak prompt yang menggabungkan anak dengan paksaan, ancaman, atau sorotan pada tubuh anak, walaupun adegannya wajar secara cerita. Di pov-roehana-koeddoes, dua adegan gagal karena "a mother pulls her daughter's wrist ... the daughter, about ten" dengan lelaki dewasa cemberut menatap, dan "a thin girl of about twelve ... tongue between her teeth" dilihat dari atas. Aturannya:
+
+- Tampilkan anak hanya bila narasi memerlukannya. Bila "gadis" atau "murid" bisa berarti remaja akhir atau perempuan muda, tulis begitu ("a young woman in her late teens"), bukan usia anak.
+- Bila anak memang harus tampil (masa kecil tokoh, teman sebaya), jangan menyebut usia dalam angka; pakai "village children of different ages".
+- Jangan menggabungkan anak dengan kontak fisik yang memaksa (menarik, mendorong, menyeret, mencengkeram), orang dewasa yang mengancam atau mengawasi dengan marah, atau ketakutan dan tangis anak.
+- Jangan menggambarkan tubuh, mulut, atau ekspresi wajah anak secara rinci, dan jangan memakai sudut kamera dari atas ke arah anak.
+- Penolakan atau ejekan disampaikan lewat benda dan jarak, bukan sentuhan: benda yang dikembalikan, anak lain yang berbisik sambil menyeringai dari jauh, sosok dewasa yang menunggu di kejauhan.
+- Bila adegannya memuat orang dewasa saja, tambahkan "Only these adults appear." dan "children" ke kalimat "Avoid ...".
 
 **Arah pandang, ekspresi, dan gerak**
 
@@ -619,6 +634,7 @@ Alternatif judul: ... / ...
 - [ ] Deskripsi tokoh baku disalin persis ke prompt lembar karakternya (dicocokkan dengan skrip).
 - [ ] Setiap tokoh di prompt punya gerak, ekspresi, dan arah pandang; tatapan ke kamera hanya di adegan yang menyengajanya.
 - [ ] Setiap prompt dengan figuran punya kalimat pembeda; tidak ada peta bertulisan dan tidak ada kalimat tata letak zona.
+- [ ] Prompt yang memuat anak mengikuti aturan **Anak di prompt** (tanpa usia dalam angka, tanpa paksaan atau ancaman, tanpa sorotan tubuh atau wajah anak, tanpa sudut dari atas).
 - [ ] Bunyi penanda entri ada di tabel SFX untuk adegan pertama setiap entri.
 - [ ] Setiap blok Style of Music memuat durasi target yang sama dengan tabel cue; batas cue di batas babak.
 - [ ] `### Narasi lengkap (ElevenLabs)` ada, satu blok per babak, identik dengan kolom Narasi (dicocokkan dengan skrip setelah `...` penutup paragraf diabaikan), jumlah karakter tercatat.
@@ -688,7 +704,8 @@ Kasus khusus dari pov-produksi:
 
 - **Narasi berbeda dari rekaman:** bila rekamannya lebih baik dipertahankan, narasi di konsep disamakan dengan rekaman, tetapi verifikasi setiap fakta baru di dalamnya; bila tidak, usulkan generate ulang adegan itu.
 - **Durasi lewat batas:** usulkan kalimat atau adegan yang dipangkas, dimulai dari yang bukan momen wajib, bukan hook, dan bukan adegan penanda entri; menjaga keseimbangan antarentri. Rafi yang memilih.
-- **Ilustrasi tidak bisa dibuat Gemini:** usulkan bidikan pengganti (dari belakang, siluet, benda simbolis, lanskap) tanpa mengubah narasi.
+- **Ilustrasi tidak bisa dibuat Gemini:** usulkan bidikan pengganti (dari belakang, siluet, benda simbolis, lanskap) tanpa mengubah narasi. Bila adegannya memuat anak, periksa dulu aturan **Anak di prompt** (bagian Figuran); penyebab paling sering adalah usia anak yang digabung dengan paksaan atau orang dewasa yang mengancam. Periksa juga adegan lain yang memuat anak dan usulkan perbaikannya sekaligus, sebelum Rafi mencobanya.
+- **Nama terbaca salah oleh ElevenLabs:** tulis nama itu sesuai cara bacanya di narasi dan catat ejaan aslinya di `**Ejaan di subtitle:**` (2A.2a). Rafi cukup merekam ulang kalimat yang memuat nama itu; pov-produksi menyambungnya ke rekaman lama.
 
 **Bukan revisi lagi:** jika lebih dari separuh entri berganti, jenis daftar berubah (peringkat menjadi kumpulan), atau topiknya berubah, sampaikan bahwa ini lebih tepat dikerjakan sebagai konsep baru dari Tahap 1, dan tanyakan pilihan Rafi.
 
