@@ -8,7 +8,7 @@ Kamu adalah Kiai Demang Lehman, panglima Perang Banjar yang lima tahun diburu Be
 | --- | --- |
 | Judul | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 |
 | Slug | pov-demang-lehman-batulicin |
-| Versi | v1 · 2026-11-24 |
+| Versi | v2 · 2026-11-24 |
 | Durasi | 3:00 maksimum, target ±2:30 (perkiraan naskah ±2:21 termasuk kartu Ulikan; ruang ±9 dtk untuk tempo narator) |
 | Rasio | 9:16 |
 | Platform | TikTok + YouTube Shorts |
@@ -223,7 +223,7 @@ Aspect ratio: 9:16
 
 ```
 Same character as the Demang Lehman 1859 reference image.
-Medium-wide shot through dripping riverbank foliage at the Martapura river landing, thin rain, grey afternoon in 1862, a few years after the reference image.
+Medium-wide shot through dripping riverbank foliage at the Martapura river landing, thin rain, grey afternoon in 1862; Demang Lehman looks a few years older and leaner than in 1859.
 In the foreground Demang Lehman watches half-hidden behind wet leaves, one fist clenched against a tree trunk, brows drawn together, jaw tight. In the middle ground Prince Hidayatullah, a dignified man of about forty with a short beard, in a ragged, faded cotton shirt and plain headcloth, steps down into a rowing boat, head lowered; colonial soldiers steady the boat. Midriver a small black steamer with a tall funnel waits. Prince Hidayatullah and the soldiers are different people from Demang Lehman 1859; the soldiers wear dark blue short jackets, light trousers and dark caps, a mix of Europeans and Indonesians.
 Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, warm ochre and faded gold flashback palette with deep brown shadows, historically accurate 1860s Banjar, South Kalimantan, Dutch East Indies: 1862 Martapura river landing, colonial army of the 1860s, mid-19th-century steamer.
 Avoid characters looking at the camera, royal regalia, crowns, stiff symmetrical poses, parang batik pattern, black velvet peci caps, bright modern sasirangan patterns, Dayak feather ornaments, Javanese court dress, crowns, gold ornaments, World War II uniforms, steel helmets, modern clothing, electric lights, blood, gore, readable text or letters, extra or malformed hands and fingers, text, watermarks.
@@ -656,6 +656,7 @@ Referensi visual untuk diunggah ke Gemini bersama prompt lembar karakter Demang 
 | --- | --- | --- | --- |
 | v0 | 2026-11-24 | Naskah Tahap 2A | - |
 | v1 | 2026-11-24 | Konsep lengkap (Tahap 2B) disetujui Rafi | - |
+| v2 | 2026-11-24 | Prompt Adegan 5: frasa "a few years after the reference image" diganti "looks a few years older and leaner than in 1859" agar tidak terbaca sebagai gambar acuan luar di prompt Google Flow | Belum ada ilustrasi; tidak ada yang dibuat ulang |
 
 ## Sumber
 
