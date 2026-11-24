@@ -13,7 +13,7 @@ Komunikasi dengan Rafi dalam Bahasa Indonesia. Prompt untuk generator AI (Gemini
 - **Isi** (narasi, fakta, prompt, caption): `proyek/<slug>/KONSEP.md` atau `CAROUSEL.md`. Tidak ditulis ulang saat produksi.
 - **Tampilan**: `merek/` (salinan beku sistem desain). Token, warna, huruf, dan logo hanya diambil dari sini; jangan hard-code nilai lain.
 - **Aset pakai ulang**: `pustaka/`. Sebelum menulis prompt atau riset busana baru, cek dulu apakah tokoh, busana, latar, musik, atau SFX-nya sudah ada di pustaka.
-- **Aturan genre dan produksi**: skill di `.claude/skills/`.
+- **Aturan genre dan produksi**: skill di `.claude/skills/`. Di repo ini selalu pakai versi project ini (misalnya `pov-sejarah`), bukan skill akun claude.ai yang bernama sama (misalnya `pov-sejarah:pov-sejarah`); versi akun hanya untuk Claude Chat dan bisa tertinggal. Skill diubah di sini lebih dulu, lalu diunggah ulang ke claude.ai.
 
 ## Batas kerja
 
