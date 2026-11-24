@@ -10,6 +10,9 @@
     "4": [
       { "efek": "kedip-pelita", "x": 52, "y": 61 }
     ],
+    "5": [
+      { "efek": "hujan", "x": -14 }
+    ],
     "6": [
       { "efek": "kabut", "y": 55, "tinggi": 35 }
     ],

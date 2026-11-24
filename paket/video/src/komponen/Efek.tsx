@@ -1,15 +1,16 @@
 // Efek suasana per adegan (setelan EFEK_ADEGAN): digambar kode, deterministik (random() dengan seed tetap), tanpa berkas.
 // Warna hanya dari token merek. Efek berposisi (kedip-pelita, debu-cahaya) ikut transform Ken Burns ilustrasinya,
-// jadi tetap menempel di benda yang sama saat gambar bergerak; kabut dan vinyet menempel ke layar.
+// jadi tetap menempel di benda yang sama saat gambar bergerak; kabut, hujan, dan vinyet menempel ke layar.
 import React from 'react';
 import { AbsoluteFill, interpolate, random, useCurrentFrame } from 'remotion';
 import { KANVAS, WARNA } from '../lib/merek';
 
-export type NamaEfek = 'kedip-pelita' | 'debu-cahaya' | 'kabut' | 'vinyet-hening';
+export type NamaEfek = 'kedip-pelita' | 'debu-cahaya' | 'kabut' | 'hujan' | 'vinyet-hening';
 
 /**
  * Satu efek di satu adegan. `x`, `y`: pusat dalam % kanvas (kedip-pelita: posisi nyala; debu-cahaya: pusat area cahaya).
- * `lebar`, `tinggi`: ukuran area dalam % kanvas (debu-cahaya; kabut memakai `tinggi` dari bawah). `kuat`: pengali 0–2 (bawaan 1).
+ * `lebar`, `tinggi`: ukuran area dalam % kanvas (debu-cahaya; kabut memakai `tinggi` sebagai tebal pita). `kuat`: pengali 0–2 (bawaan 1).
+ * hujan: `kuat` mengatur kerapatan dan keterangan garis hujan; `x` dipakai sebagai kemiringan angin dalam derajat (bawaan 12, negatif = miring ke kiri).
  */
 export type EfekAdegan = { efek: NamaEfek; x?: number; y?: number; lebar?: number; tinggi?: number; kuat?: number };
 
@@ -138,6 +139,52 @@ const Kabut: React.FC<{ e: EfekAdegan; seed: string }> = ({ e, seed }) => {
   );
 };
 
+/**
+ * Hujan: garis-garis tipis yang jatuh miring tertiup angin, dua lapis (jauh: kecil, lambat, redup; dekat: panjang, cepat,
+ * lebih terang), ditambah selubung kelabu tipis agar gambar terasa basah. Posisi tiap tetes deterministik per seed.
+ */
+const Hujan: React.FC<{ e: EfekAdegan; seed: string }> = ({ e, seed }) => {
+  const f = useCurrentFrame();
+  const kuat = Math.min(2, e.kuat ?? 1);
+  const sudut = e.x ?? 12;
+  const geserPerPx = Math.tan((sudut * Math.PI) / 180);
+  const lapis = [
+    { n: 110, panjang: [40, 70], tebal: 2, laju: [40, 55], alfa: 0.4 },
+    { n: 50, panjang: [90, 150], tebal: 3.5, laju: [72, 95], alfa: 0.62 },
+  ];
+  const W = KANVAS.lebar, H = KANVAS.tinggi;
+  return (
+    <AbsoluteFill style={{ overflow: 'hidden' }}>
+      <AbsoluteFill style={{ background: hex(WARNA.latar, 0.12 * kuat) }} />
+      {lapis.flatMap((l, li) =>
+        Array.from({ length: Math.round(l.n * kuat) }, (_, i) => {
+          const r = (k: string) => random(`${seed}-hujan-${li}-${i}-${k}`);
+          const panjang = l.panjang[0] + (l.panjang[1] - l.panjang[0]) * r('p');
+          const laju = l.laju[0] + (l.laju[1] - l.laju[0]) * r('v'); // px per frame
+          const rentang = H + panjang + 200;
+          const y = ((r('y') * rentang + f * laju) % rentang) - panjang - 100;
+          const x = ((r('x') * (W + 400) - 200 + y * geserPerPx) % (W + 400) + (W + 400)) % (W + 400) - 200;
+          return (
+            <div
+              key={`${li}-${i}`}
+              style={{
+                position: 'absolute',
+                left: x,
+                top: y,
+                width: l.tebal,
+                height: panjang,
+                transform: `rotate(${-sudut}deg)`,
+                background: `linear-gradient(to bottom, ${hex(WARNA.tinta, 0)}, ${hex(WARNA.tinta, Math.min(1, l.alfa * kuat))})`,
+                borderRadius: l.tebal,
+              }}
+            />
+          );
+        }),
+      )}
+    </AbsoluteFill>
+  );
+};
+
 /** Tepi layar menggelap pelan sepanjang adegan (momen hening). */
 const VinyetHening: React.FC<{ e: EfekAdegan; durasi: number }> = ({ e, durasi }) => {
   const f = useCurrentFrame();
@@ -157,6 +204,8 @@ export const Efek: React.FC<{ e: EfekAdegan; seed: string; durasi: number }> = (
       return <DebuCahaya e={e} seed={seed} />;
     case 'kabut':
       return <Kabut e={e} seed={seed} />;
+    case 'hujan':
+      return <Hujan e={e} seed={seed} />;
     case 'vinyet-hening':
       return <VinyetHening e={e} durasi={durasi} />;
     default:
