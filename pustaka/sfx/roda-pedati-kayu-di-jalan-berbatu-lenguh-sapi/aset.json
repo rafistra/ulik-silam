@@ -1,0 +1,21 @@
+{
+  "id": "roda-pedati-kayu-di-jalan-berbatu-lenguh-sapi",
+  "jenis": "sfx",
+  "judul": "Roda pedati kayu di jalan berbatu, lenguh sapi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "sfx-03-roda-pedati-kayu-di-jalan-berbatu-lenguh-sapi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "sfx/sfx-03-roda-pedati-kayu-di-jalan-berbatu-lenguh-sapi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

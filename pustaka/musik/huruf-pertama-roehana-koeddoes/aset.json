@@ -1,0 +1,22 @@
+{
+  "id": "huruf-pertama-roehana-koeddoes",
+  "jenis": "musik",
+  "judul": "Huruf pertama (Sunyi tegang lalu nostalgik; saluang tunggal)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "cue-1-huruf-pertama.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "musik/cue-1-huruf-pertama.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

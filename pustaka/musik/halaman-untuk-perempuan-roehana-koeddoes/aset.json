@@ -1,0 +1,22 @@
+{
+  "id": "halaman-untuk-perempuan-roehana-koeddoes",
+  "jenis": "musik",
+  "judul": "Halaman untuk perempuan (Gugup, bangga, lalu hening reflektif; talempong dan gandang pelan, berakhir lembut)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "cue-3-halaman-untuk-perempuan.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "musik/cue-3-halaman-untuk-perempuan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

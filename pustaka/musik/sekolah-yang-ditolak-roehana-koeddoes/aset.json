@@ -1,0 +1,22 @@
+{
+  "id": "sekolah-yang-ditolak-roehana-koeddoes",
+  "jenis": "musik",
+  "judul": "Sekolah yang ditolak (Muram lalu bangkit penuh harap; rabab dan talempong lembut)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "cue-2-sekolah-yang-ditolak.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "musik/cue-2-sekolah-yang-ditolak.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

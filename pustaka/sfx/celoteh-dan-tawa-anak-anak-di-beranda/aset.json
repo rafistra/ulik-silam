@@ -1,0 +1,21 @@
+{
+  "id": "celoteh-dan-tawa-anak-anak-di-beranda",
+  "jenis": "sfx",
+  "judul": "Celoteh dan tawa anak-anak di beranda",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "sfx-02-celoteh-dan-tawa-anak-anak-di-beranda.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "sfx/sfx-02-celoteh-dan-tawa-anak-anak-di-beranda.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

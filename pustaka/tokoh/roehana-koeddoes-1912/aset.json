@@ -1,0 +1,63 @@
+{
+  "id": "roehana-koeddoes-1912",
+  "jenis": "tokoh",
+  "judul": "Roehana Koeddoes",
+  "versi": 1,
+  "status": "draf",
+  "era": "1912",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "tokoh": [
+    "Roehana Koeddoes"
+  ],
+  "file": [
+    "lembar-roehana-koeddoes.png"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Wajah dan usia",
+      "pilihan": "Perempuan Minangkabau 27 tahun, wajah oval, mata tenang",
+      "sumber": "Infobox Wikipedia memuat potret berkapsi \"Roehana Koeddoes, ca. 1900\" [S2]; Historia memuat foto berkapsi \"Rohana Kudus bersama murid-muridnya\" [S5]. v2 mencoba halaman berkas Commons, cermin OsmAnd dan worddisk, API Wikipedia, serta unduhan gambar langsung; semuanya tertutup atau tidak bisa menampilkan gambar, dan tidak ada halaman yang dibuka yang mendeskripsikan wajah atau busananya. Gambar belum dilihat; Rafi perlu membuka dan mengunggahnya ke Gemini (lihat `### Referensi visual untuk diunggah`)",
+      "status": "Rekaan"
+    },
+    {
+      "unsur": "Penutup kepala",
+      "pilihan": "Selendang katun putih-gading panjang dipakai sebagai tengkuluk, dililit longgar di kepala dan bahu, tidak disemat",
+      "sumber": "Kajian kriya Amai Setia: perempuan Koto Gadang, termasuk yang terpelajar, tetap memakai busana asli Koto Gadang dengan \"tengkuluk (selendang)\" [S36]; tingkuluak dulunya bagian pakaian sehari-hari [S42]; selendang Koto Gadang ±2 m × 50 cm [S44]. Selendang bersulam dan berwarna terang adalah kelengkapan adat dan penanda status [S37] [S39], jadi untuk sehari-hari dipilih selendang polos. Warna putih-gading: tafsir sampai potret dilihat",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Baju",
+      "pilihan": "Baju kurung katun indigo gelap polos, longgar, tanpa kerah, belahan kecil di dada, lengan panjang yang lebar, jatuh melewati pinggul sampai di atas lutut",
+      "sumber": "\"Perempuan Kotogadang memakai baju kurung yang longgar, bertangan lebar\" [S36]; baju kurung menutup tubuh dari leher sampai bawah pinggul atau lutut [S38]; baju kurung basiba tanpa kerah dengan belahan kecil di dada [S21]; bentuk baju kurung [S26]. v2 menghapus tepi sulaman emas karena sulaman Koto Gadang tercatat terutama pada selendang dan perlengkapan adat [S36] [S39]. Warna indigo: tafsir",
+      "status": "Terverifikasi"
+    },
+    {
+      "unsur": "Kain bawah",
+      "pilihan": "Kain panjang batik cokelat lembut, tulis tangan, bermotif ranting bunga dan daun kecil yang jarang di dasar krem, tanpa pola geometris",
+      "sumber": "Busana asli perempuan Koto Gadang: \"tengkuluk (selendang) di bawahnya memakai kain batik\" [S36]. Sarung songket Koto Gadang memang ada sebelum 1916 [S23] [S27] [S29], tetapi kodek songket merah bertenun emas tercatat sebagai busana pengantin [S38], jadi v2 memindahkannya ke Hindari untuk pakaian sehari-hari. Motif bunga dipilih agar jauh dari motif keraton Jawa",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Perhiasan",
+      "pilihan": "Satu gelang perak polos",
+      "sumber": "Koto Gadang terkenal dengan kerajinan perak [S16]; makin lama menikah, makin sederhana pakaian dan perhiasan perempuan Koto Gadang [S37]; perhiasan emas besar busana upacara [S23] [S38] sengaja tidak dipakai",
+      "status": "Tafsir"
+    },
+    {
+      "unsur": "Alas kaki",
+      "pilihan": "Tanpa alas kaki di dalam rumah",
+      "sumber": "Selop beludru bersulam tercatat untuk busana pengantin [S38]; untuk di dalam rumah panggung dipilih tanpa alas kaki; tidak ada sumber khusus",
+      "status": "Tafsir"
+    }
+  ],
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "ilustrasi/lembar-roehana-koeddoes.png"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}

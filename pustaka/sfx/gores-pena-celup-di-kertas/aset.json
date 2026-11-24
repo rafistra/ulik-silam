@@ -1,0 +1,21 @@
+{
+  "id": "gores-pena-celup-di-kertas",
+  "jenis": "sfx",
+  "judul": "Gores pena celup di kertas",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Koto Gadang dan Padang, Sumatra Barat",
+  "file": [
+    "sfx-05-gores-pena-celup-di-kertas.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-roehana-koeddoes",
+      "berkas": "sfx/sfx-05-gores-pena-celup-di-kertas.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-roehana-koeddoes"
+  ]
+}
