@@ -9,8 +9,8 @@ Diperbarui: 2026-11-24 · 78 proyek
 | Bank ide | 0 | - |
 | Brief | 0 | - |
 | Naskah terverifikasi | 32 | - |
-| Aset | 1 | 1 / 2 |
-| Rakit & render | 0 | 0 / 2 |
+| Aset | 0 | 0 / 2 |
+| Rakit & render | 1 | 1 / 2 |
 | Tayang | 45 | - |
 | Evaluasi | 0 | - |
 
@@ -51,7 +51,7 @@ Diperbarui: 2026-11-24 · 78 proyek
 | pov-tjipto-pes-malang | POV: Kamu Dokter Pribumi di Wabah Pes Malang | POV | Sejarah | - | - | - |
 | pov-wallace-ternate | POV: Kamu Alfred Russel Wallace di Ternate 1858 | POV | Sejarah | - | - | - |
 
-## Aset
+## Rakit & render
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
