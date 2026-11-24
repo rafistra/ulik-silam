@@ -114,6 +114,8 @@ Hasil tahap ini: laporan singkat bahwa KONSEP.md bisa diproduksi, atau daftar ma
    - Tag suara hanya di kolom Narasi dan `### Narasi lengkap (ElevenLabs)`; bila ada tag, `**Model:**` harus Eleven v3. Bila `### Narasi lengkap (ElevenLabs)` berbeda dari kolom Narasi, sebutkan adegannya; kolom Narasi yang dipakai.
    - **Peta animasi:** setiap adegan bertanda `**Peta animasi**` punya `### Adegan <n>` di `## Peta animasi` dan sebaliknya; minimal dua titik; bingkai memuat semua titik; setiap `Pemicu` (selain `awal` dan `-`) tertulis di narasi adegan itu; ikon `umum:` ada di pustaka ikon (`paket/video/src/peta/ikon/`); ikon `khusus:` punya entri lengkap; batas punya tahun, sumber, gaya, status, dan tidak sesudah masa adegan.
    - Penutup prompt menyebut vector art dan rasio 9:16; bila tidak, beri peringatan (bukan pemblokir).
+   - Prompt adegan yang memuat anak dengan usia dalam angka, paksaan fisik (menarik, mendorong), orang dewasa yang mengancam, atau sorotan wajah dan tubuh anak berisiko ditolak Gemini; sebutkan adegannya sebagai peringatan sebelum Rafi membuat ilustrasi, dan arahkan perbaikannya ke skill genre (aturan **Anak di prompt** di pov-sejarah).
+   - Nama berejaan lama (oe, dj, tj, j untuk y) di kolom Narasi akan dibaca salah oleh ElevenLabs; bila belum ditulis sesuai cara bacanya dengan baris `**Ejaan di subtitle:**`, beri peringatan.
 5. **Format lama** (sebelum kontrak v1): laporkan penyesuaian yang dilakukan pengurai (kolom gabungan, slug turunan, versi v1, model Eleven v3). Bila `## Kartu Ulikan` tidak ada, minta teks dan sumbernya (satu pertanyaan) atau arahkan ke skill genre; jangan mengarangnya.
 
 Serahkan ringkasan (adegan, kata, perkiraan durasi termasuk kartu Ulikan, lapisan, penyesuaian, masalah). Bila tidak ada pemblokir, akhiri dengan "Lanjut ke persiapan aset?". **Berhenti dan tunggu.**
@@ -150,7 +152,8 @@ Opsional. Kuncinya sama dengan nama di `paket/video/src/data/setelan.ts`, dan ya
 
 - `SETELAN_ADEGAN`: per nomor adegan, `gerak` (`zoom-masuk`, `zoom-keluar`, `geser-atas`, `geser-bawah`), `posisiTeksLayar` (`atas`/`tengah`), `kataKunci`, `teksLayarAkhir` (detik), atau `kenBurns` `{ "skala": [awal, akhir], "geserY": [awal, akhir] }` untuk menggeser gambar yang wajahnya tertutup subtitle.
 - `SETELAN_SFX` (detik, volume, ulang), `SETELAN_MUSIK` (ulang, sunyiMulaiAdegan, fadeSunyi), `SETELAN_AUDIO` (volume narasi, musik, musikHening, crossfade, sfx).
-- `GELAP_AWAL`, `GELAP_SESUDAH`, `ADEGAN_FOTO_UTUH`, `TEKS_LAYAR_BAIT`, `SAMARKAN_SUBTITLE`, `POTONG_SUBTITLE`, `FRASA_NARASI`, `SISIP_JEDA`, `SAMPUL_ADEGAN`, `SETELAN_PETA` (`kamera`: `otomatis`, `tetap`, `ikuti`).
+- `GELAP_AWAL`, `GELAP_SESUDAH`, `ADEGAN_FOTO_UTUH`, `TEKS_LAYAR_BAIT`, `SAMARKAN_SUBTITLE`, `POTONG_SUBTITLE`, `FRASA_NARASI`, `SISIP_JEDA`, `SAMPUL_ADEGAN`, `SETELAN_PETA` (`kamera`: `otomatis`, `tetap`, `ikuti`), `EFEK_ADEGAN` (efek suasana per adegan: `kedip-pelita`, `debu-cahaya`, `kabut`, `vinyet-hening`; lihat `paket/video/src/komponen/Efek.tsx`).
+- **Ejaan di subtitle:** bila `### Teks dan subtitle` di KONSEP.md memuat baris `**Ejaan di subtitle:** <ucapan> → <ejaan asli>, ...` (nama berejaan lama yang ditulis sesuai cara bacanya di narasi), pasang setiap pasangan sebagai `SAMARKAN_SUBTITLE` (`{"Sunting Melayu": "Soenting Melajoe"}`). Kata kunci subtitle untuk nama itu diisi lewat `SETELAN_ADEGAN.<n>.kataKunci` dalam ejaan asli, karena kata kunci diwarnai setelah teks diganti.
 
 Contoh: `{ "SETELAN_ADEGAN": { "6": { "kenBurns": { "skala": [1.14, 1.1], "geserY": [-6, -4.5] } } } }`. Setelan hanya mengubah tampilan dan pewaktuan, tidak pernah isi.
 
