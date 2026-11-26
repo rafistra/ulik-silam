@@ -4,11 +4,11 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Sepaku"
 seri: "pov-sepaku-anak-balik"
-tahap: Naskah terverifikasi
+tahap: Aset
 prioritas: 3
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v1 · 2026-11-01"
-merek: null
+merek: "2026-11-22"
 adegan: 16
 lembar_karakter: ["Orang Balik Muda", "Orang Balik Tua", "Tetangga Transmigran"]
 aset: {ilustrasi: 0, narasi: 0, musik: 0, sfx: 0}
