@@ -1,0 +1,30 @@
+{
+  "EFEK_ADEGAN": {
+    "1": [
+      { "efek": "kabut", "y": 35, "tinggi": 35, "kuat": 0.6 }
+    ],
+    "2": [
+      { "efek": "kabut", "y": 40, "tinggi": 30, "kuat": 0.5 }
+    ],
+    "4": [
+      { "efek": "debu-cahaya", "x": 50, "y": 55, "lebar": 70, "tinggi": 35, "kuat": 0.5 }
+    ],
+    "6": [
+      { "efek": "debu-cahaya", "x": 45, "y": 35, "lebar": 70, "tinggi": 35, "kuat": 0.6 }
+    ],
+    "9": [
+      { "efek": "kedip-pelita", "x": 36, "y": 57 }
+    ],
+    "12": [
+      { "efek": "kedip-pelita", "x": 47, "y": 3, "kuat": 0.7 },
+      { "efek": "debu-cahaya", "x": 50, "y": 22, "lebar": 60, "tinggi": 30, "kuat": 0.6 },
+      { "efek": "vinyet-hening" }
+    ],
+    "15": [
+      { "efek": "debu-cahaya", "x": 50, "y": 30, "lebar": 80, "tinggi": 35, "kuat": 0.6 }
+    ],
+    "16": [
+      { "efek": "kabut", "y": 55, "tinggi": 30, "kuat": 0.5 }
+    ]
+  }
+}
