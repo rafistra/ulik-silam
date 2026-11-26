@@ -9,8 +9,8 @@ Diperbarui: 2026-11-27 · 78 proyek
 | Bank ide | 0 | - |
 | Brief | 0 | - |
 | Naskah terverifikasi | 30 | - |
-| Aset | 2 | 2 / 2 |
-| Rakit & render | 0 | 0 / 2 |
+| Aset | 1 | 1 / 2 |
+| Rakit & render | 1 | 1 / 2 |
 | Tayang | 46 | - |
 | Evaluasi | 0 | - |
 
@@ -53,8 +53,13 @@ Diperbarui: 2026-11-27 · 78 proyek
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
-| pov-sepaku-1-anak-balik-1942 | POV: Kamu Anak Suku Balik di Balikpapan, 1942 (prioritas 2) | POV | Sejarah | - | - | - |
 | pov-sepaku-2-orang-balik-2019 | POV: Kamu Orang Balik di Sepaku, 1970-an sampai 2019 (prioritas 3) | POV | Sejarah | - | - | - |
+
+## Rakit & render
+
+| Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
+| --- | --- | --- | --- | --- | --- | --- |
+| pov-sepaku-1-anak-balik-1942 | POV: Kamu Anak Suku Balik di Balikpapan, 1942 (prioritas 2) | POV | Sejarah | - | - | - |
 
 ## Tayang
 

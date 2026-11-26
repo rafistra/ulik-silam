@@ -4,14 +4,14 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Balikpapan dan Sepaku"
 seri: "pov-sepaku-anak-balik"
-tahap: Aset
+tahap: Rakit & render
 prioritas: 2
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v2 · 2026-11-27"
 merek: "2026-11-22"
 adegan: 16
 lembar_karakter: ["Anak Balik", "Ayah", "Ibu"]
-aset: {ilustrasi: 0, narasi: 0, musik: 0, sfx: 0}
+aset: {ilustrasi: 16, narasi: 16, musik: 3, sfx: 9}
 render: ""
 tanggal_render: null
 tanggal_tayang: null
