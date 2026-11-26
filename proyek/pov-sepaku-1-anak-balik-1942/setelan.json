@@ -1,0 +1,39 @@
+{
+  "EFEK_ADEGAN": {
+    "1": [
+      { "efek": "kedip-pelita", "x": 47, "y": 33, "kuat": 0.8 }
+    ],
+    "2": [
+      { "efek": "debu-cahaya", "x": 35, "y": 62, "lebar": 45, "tinggi": 30, "kuat": 0.7 }
+    ],
+    "5": [
+      { "efek": "kedip-pelita", "x": 52, "y": 77 }
+    ],
+    "6": [
+      { "efek": "kedip-pelita", "x": 69, "y": 17, "kuat": 1.2 }
+    ],
+    "7": [
+      { "efek": "kedip-pelita", "x": 31, "y": 38, "kuat": 0.9 },
+      { "efek": "kedip-pelita", "x": 60, "y": 30, "kuat": 0.7 }
+    ],
+    "9": [
+      { "efek": "kedip-pelita", "x": 16, "y": 46 }
+    ],
+    "11": [
+      { "efek": "kabut", "y": 30, "tinggi": 30, "kuat": 0.6 }
+    ],
+    "12": [
+      { "efek": "kedip-pelita", "x": 53, "y": 28, "kuat": 0.7 }
+    ],
+    "13": [
+      { "efek": "kabut", "y": 45, "tinggi": 30, "kuat": 0.6 },
+      { "efek": "debu-cahaya", "x": 50, "y": 25, "lebar": 70, "tinggi": 35, "kuat": 0.6 }
+    ],
+    "15": [
+      { "efek": "kedip-pelita", "x": 47, "y": 82 }
+    ],
+    "16": [
+      { "efek": "kedip-pelita", "x": 84, "y": 66, "kuat": 0.9 }
+    ]
+  }
+}
