@@ -1,4 +1,7 @@
 {
+  "SETELAN_SFX": {
+    "4": { "volume": 0.12 }
+  },
   "EFEK_ADEGAN": {
     "1": [
       { "efek": "kedip-pelita", "x": 47, "y": 33, "kuat": 0.8 }
