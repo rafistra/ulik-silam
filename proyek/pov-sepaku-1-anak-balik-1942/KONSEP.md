@@ -15,7 +15,7 @@ Saat Belanda membumihanguskan kilang Balikpapan menjelang serbuan Jepang, Januar
 | Platform | TikTok, YouTube Shorts |
 | Posisi "kamu" | Anak laki-laki Suku Balik (fiktif), 8 tahun, keluarga pembuat papan di pesisir Balikpapan |
 | Jumlah ilustrasi | 19 (16 adegan + 3 lembar karakter: Anak Balik, Ayah, Ibu) |
-| Versi | v2 · 2026-11-27 |
+| Versi | v3 · 2026-11-27 |
 | Lapisan | Sejarah |
 | Latar | Balikpapan dan Sepaku |
 | Premis | Kilang Balikpapan dibakar Belanda sendiri, dan sebuah keluarga Balik memilih kembali ke hutan leluhurnya. |
@@ -122,7 +122,7 @@ Waktu adalah perkiraan pada 130 kata per menit; durasi akhir mengikuti rekaman. 
 
 | # | Waktu | Bidikan dan visual | Narasi | Teks layar | Suara |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 0:00–0:09 | A. Malam, ambang pintu rumah panggung kayu di pesisir. Tangan kanan "kamu" mencengkeram tiang pintu. Di serambi, ayah berdiri membelakangi, menatap langit merah-jingga di atas deretan cerobong kilang jauh di seberang. | [tense] Kamu delapan tahun. [nervous] Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... [whispers] Ayahmu belum tidur. | Balikpapan, Januari 1942. | Dentum jauh, angin laut, gemeretak api di kejauhan |
+| 1 | 0:00–0:09 | A. Malam, ambang pintu rumah panggung kayu di pesisir. Tangan kanan "kamu" mencengkeram tiang pintu. Di serambi, ayah berdiri membelakangi, menatap langit merah-jingga di atas deretan cerobong kilang jauh di seberang. | [nervous] Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... [whispers] Ayahmu belum tidur. | Balikpapan, Januari 1942. | Dentum jauh, angin laut, gemeretak api di kejauhan |
 | 2 | 0:09–0:19 | B. Siang, kolong rumah panggung. Ayah membelah batang kayu menjadi papan dengan kapak dan baji; "kamu" berjongkok memunguti serpihnya. Laut tenang di belakang. | [calm] Beberapa hari sebelumnya, hidupmu masih sederhana. [calm] Ayahmu membelah batang kayu menjadi papan, seperti kakekmu, seperti leluhurmu dulu. [curious] Kamu memunguti serpihnya. | Beberapa hari sebelumnya. | Kapak membelah kayu, ombak kecil, burung pantai |
 | 3 | 0:19–0:30 | A. Pantai berpasir. Kedua tangan "kamu" memegang serpih papan kecil. Di kejauhan, kapal tanker dan cerobong kilang berasap putih, deretan tangki minyak di bukit. | [curious] Dari pantai, kamu melihat kapal-kapal besar dan cerobong kilang yang tak pernah tidur. [calm] Ribuan orang bekerja di sana, mengolah minyak untuk perusahaan Belanda. | - | Ombak, deru mesin kilang samar, peluit kapal |
 
@@ -206,7 +206,7 @@ Aspect ratio: 9:16
 
 ### Babak 1: Langit Merah
 
-**Adegan 1 · Narasi (0:00–0:09):** Kamu delapan tahun. Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... Ayahmu belum tidur.
+**Adegan 1 · Narasi (0:00–0:09):** Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... Ayahmu belum tidur.
 
 ```
 The viewer is Anak Balik: the hands and forearms in the foreground match the first-person panel of the Anak Balik reference image.
@@ -462,14 +462,14 @@ Pilih voice dewasa yang hangat dan agak rendah; voice menentukan lebih dari tag,
 **Babak 1: Langit Merah**
 
 ```
-[tense] Kamu delapan tahun. [nervous] Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... [whispers] Ayahmu belum tidur...
+[nervous] Langit di atas Balikpapan merah menyala, dan udaranya berbau minyak terbakar... [whispers] Ayahmu belum tidur...
 
 [calm] Beberapa hari sebelumnya, hidupmu masih sederhana. [calm] Ayahmu membelah batang kayu menjadi papan, seperti kakekmu, seperti leluhurmu dulu. [curious] Kamu memunguti serpihnya...
 
 [curious] Dari pantai, kamu melihat kapal-kapal besar dan cerobong kilang yang tak pernah tidur. [calm] Ribuan orang bekerja di sana, mengolah minyak untuk perusahaan Belanda...
 ```
 
-Karakter: 517
+Karakter: 489
 
 **Babak 2: Kabar dari Utara**
 
@@ -681,6 +681,7 @@ Referensi visual untuk diunggah ke Gemini tidak disarankan: foto koleksi yang di
 | --- | --- | --- | --- |
 | v1 | 2026-11-01 | Konsep awal | - |
 | v2 | 2026-11-27 | Pencegahan filter keamanan anak di Gemini (aturan Anak di prompt): usia "eight-year-old" di deskripsi baku dan lembar Anak Balik diganti "a young boy"; Adegan 6: ledakan dipertegas jauh di seberang teluk tanpa orang di dekatnya, Avoid ditambah "people near the explosion, injured people"; Adegan 14: barisan KNIL jauh dan kecil di bingkai, senapan tersandang tidak diarahkan, tidak ada yang menoleh ke arah anak. Narasi tidak berubah | Belum ada ilustrasi; tidak ada yang dibuat ulang |
+| v3 | 2026-11-27 | Adegan 1: kalimat pembuka "Kamu delapan tahun." dihapus; hook langsung dibuka "Langit di atas Balikpapan merah menyala" (tag [nervous]). Kolom Narasi, baris prompt, dan Narasi lengkap Babak 1 ikut diperbarui. Posisi "kamu" sebagai anak tetap tersirat lewat "Ayahmu" dan tangan kecil di bidikan A | Tidak perlu rekam ulang: narasi/adegan-01.wav dipotong dari rekaman babak 1 mulai "Langit" (jeda hening 1,37–1,92 dtk) |
 
 ## Sumber
 
