@@ -26,8 +26,12 @@ export let GELAP_AWAL: Record<number, number> = {};
  */
 export let GELAP_SESUDAH: Record<number, number> = {};
 
-/** Timpa detik mulai, volume, atau ulang per nomor SFX (lihat src/data/audio.ts). */
-export let SETELAN_SFX: Record<number, { detik?: number; volume?: number; ulang?: boolean }> = {};
+/**
+ * Timpa detik mulai, volume, atau ulang per nomor SFX (lihat src/data/audio.ts). `durasi` (detik): lama SFX diputar;
+ * `fadeKeluar` (detik): memudar sampai senyap di akhir durasi itu, untuk berkas yang berhenti mendadak. Tanpa `durasi`,
+ * fade dihitung dari akhir jendela putar (akhir adegan + 3 dtk), jadi isi `durasi` ≤ panjang berkas agar fade terdengar.
+ */
+export let SETELAN_SFX: Record<number, { detik?: number; volume?: number; ulang?: boolean; durasi?: number; fadeKeluar?: number }> = {};
 
 /**
  * Timpa perilaku per nomor cue musik: `ulang: false` agar cue tidak diulang bila lebih pendek dari rentangnya,

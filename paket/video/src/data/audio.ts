@@ -21,6 +21,10 @@ export interface Sfx {
   volume: number;
   /** Bunyi suasana: diulang sepanjang adegan dengan fade. */
   ulang: boolean;
+  /** Lama diputar (detik); tidak ada = sampai berkas habis atau 3 dtk sesudah adegan (setelan.json). */
+  durasi?: number;
+  /** Fade keluar di akhir durasi putar (detik) (setelan.json). */
+  fadeKeluar?: number;
   opsional: boolean;
 }
 

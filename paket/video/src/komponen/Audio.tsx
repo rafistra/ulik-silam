@@ -159,10 +159,20 @@ export const LapisanAudio: React.FC<{ lini: Lini }> = ({ lini }) => {
             </Sequence>
           );
         }
-        const durasi = Math.max(1, Math.min(lini.total - dari, a.akhir - dari + 3 * KANVAS.fps));
+        const jendela = Math.min(lini.total - dari, a.akhir - dari + 3 * KANVAS.fps);
+        const durasi = Math.max(1, s.durasi != null ? Math.min(jendela, Math.round(s.durasi * KANVAS.fps)) : jendela);
+        // fadeKeluar: SFX memudar ke senyap di akhir durasinya (berkas yang berhenti mendadak tidak terdengar terpotong).
+        const fade = s.fadeKeluar ? Math.min(durasi, Math.round(s.fadeKeluar * KANVAS.fps)) : 0;
         return (
           <Sequence key={`s${s.nomor}`} from={dari} durationInFrames={durasi} name={`SFX ${s.nomor} ${s.bunyi}`}>
-            <Html5Audio src={src} volume={s.volume * SETELAN_AUDIO.sfx} />
+            <Html5Audio
+              src={src}
+              volume={
+                fade
+                  ? (f) => s.volume * SETELAN_AUDIO.sfx * interpolate(f, [durasi - fade, durasi], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' })
+                  : s.volume * SETELAN_AUDIO.sfx
+              }
+            />
           </Sequence>
         );
       })}

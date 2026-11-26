@@ -1,6 +1,6 @@
 {
   "SETELAN_SFX": {
-    "4": { "volume": 0.12 }
+    "4": { "volume": 0.12, "durasi": 9.8, "fadeKeluar": 3 }
   },
   "EFEK_ADEGAN": {
     "1": [
