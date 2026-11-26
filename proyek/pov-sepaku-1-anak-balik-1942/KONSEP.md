@@ -15,7 +15,7 @@ Saat Belanda membumihanguskan kilang Balikpapan menjelang serbuan Jepang, Januar
 | Platform | TikTok, YouTube Shorts |
 | Posisi "kamu" | Anak laki-laki Suku Balik (fiktif), 8 tahun, keluarga pembuat papan di pesisir Balikpapan |
 | Jumlah ilustrasi | 19 (16 adegan + 3 lembar karakter: Anak Balik, Ayah, Ibu) |
-| Versi | v1 · 2026-11-01 |
+| Versi | v2 · 2026-11-27 |
 | Lapisan | Sejarah |
 | Latar | Balikpapan dan Sepaku |
 | Premis | Kilang Balikpapan dibakar Belanda sendiri, dan sebuah keluarga Balik memilih kembali ke hutan leluhurnya. |
@@ -47,7 +47,7 @@ Ilustrasi vektor detail dengan palet "Pelita & Bayang": warna tanah hangat, baya
 **Anak Balik** (posisi "kamu")
 
 ```
-Anak Balik is an eight-year-old boy of the Balik people, a small Muslim indigenous community of the East Kalimantan coast, in January 1942. Slim, wiry child's build with warm brown sun-tanned skin, a round face, large dark almond-shaped eyes under straight thick brows, a small flat nose, full lips, and a small healed scar on the left knee. Short black hair, cropped close and slightly uneven. He wears a faded collarless loose cotton shirt in dull off-white with short sleeves and knee-length plain dark brown cotton shorts tied with a cord; barefoot. A folded checked cotton sarong in faded red and dark brown is tied loosely around his waist like a sash. He often holds a small hand-cut wooden plank the length of his forearm, pale ironwood colour, with one notch carved at the top. Alert, watchful posture; restless hands that grip whatever they hold.
+Anak Balik is a young boy of the Balik people, a small Muslim indigenous community of the East Kalimantan coast, in January 1942. Slim, wiry child's build with warm brown sun-tanned skin, a round face, large dark almond-shaped eyes under straight thick brows, a small flat nose, full lips, and a small healed scar on the left knee. Short black hair, cropped close and slightly uneven. He wears a faded collarless loose cotton shirt in dull off-white with short sleeves and knee-length plain dark brown cotton shorts tied with a cord; barefoot. A folded checked cotton sarong in faded red and dark brown is tied loosely around his waist like a sash. He often holds a small hand-cut wooden plank the length of his forearm, pale ironwood colour, with one notch carved at the top. Alert, watchful posture; restless hands that grip whatever they hold.
 ```
 
 **Ayah**
@@ -169,7 +169,7 @@ Buat tiga lembar karakter lebih dulu, simpan dengan nama tokohnya, lalu unggah l
 
 ```
 Character reference sheet of Anak Balik.
-Anak Balik is an eight-year-old boy of the Balik people, a small Muslim indigenous community of the East Kalimantan coast, in January 1942. Slim, wiry child's build with warm brown sun-tanned skin, a round face, large dark almond-shaped eyes under straight thick brows, a small flat nose, full lips, and a small healed scar on the left knee. Short black hair, cropped close and slightly uneven. He wears a faded collarless loose cotton shirt in dull off-white with short sleeves and knee-length plain dark brown cotton shorts tied with a cord; barefoot. A folded checked cotton sarong in faded red and dark brown is tied loosely around his waist like a sash. He often holds a small hand-cut wooden plank the length of his forearm, pale ironwood colour, with one notch carved at the top. Alert, watchful posture; restless hands that grip whatever they hold.
+Anak Balik is a young boy of the Balik people, a small Muslim indigenous community of the East Kalimantan coast, in January 1942. Slim, wiry child's build with warm brown sun-tanned skin, a round face, large dark almond-shaped eyes under straight thick brows, a small flat nose, full lips, and a small healed scar on the left knee. Short black hair, cropped close and slightly uneven. He wears a faded collarless loose cotton shirt in dull off-white with short sleeves and knee-length plain dark brown cotton shorts tied with a cord; barefoot. A folded checked cotton sarong in faded red and dark brown is tied loosely around his waist like a sash. He often holds a small hand-cut wooden plank the length of his forearm, pale ironwood colour, with one notch carved at the top. Alert, watchful posture; restless hands that grip whatever they hold.
 Full-body front, side and back views in a relaxed, natural standing pose, one three-quarter face portrait, one detail panel of the checked sarong and the notched wooden plank, and one first-person panel of his own hands and forearms seen from his eyes: small child's hands with warm brown sun-tanned skin, short uneven nails with dirt under them, faint wood scratches across the knuckles, thin wrists, faded off-white short sleeves ending above the elbow, bare forearms, no jewelry. Plain light background.
 Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, historically accurate 1942 coastal East Kalimantan Muslim commoner clothing in plain and checked cotton.
 Avoid modern Paser ceremonial costume with shanghai collar and gold motifs, parang batik pattern, Dayak feathered headdresses, modern clothing, text, labels, watermarks.
@@ -283,9 +283,9 @@ Aspect ratio: 9:16
 The viewer is Anak Balik: the hands and forearms in the foreground match the first-person panel of the Anak Balik reference image.
 Medium-wide shot at eye level from the shoreline at dusk, looking across the bay at the refinery.
 First-person point of view. Small child's hands with warm brown sun-tanned skin, short uneven nails with dirt under them, faint wood scratches across the knuckles, thin wrists, faded off-white short sleeves ending above the elbow, bare forearms, no jewelry. The left hand presses flat against the left ear; the right hand clutches a pale wood chip.
-Across the water a huge orange fireball bursts from a storage tank, flaming debris arcing outward, while flocks of birds burst from the mangroves.
+Far across the wide bay, a huge orange fireball bursts from a distant storage tank, flaming debris arcing outward over empty water, while flocks of birds burst from the mangroves. No people are near the blast; the shoreline in the foreground is calm and empty.
 Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, grey-blue dusk torn by a blinding orange blast, historically accurate 1942 demolition of the Balikpapan refinery by its own operators.
-Avoid characters looking at the camera, Japanese soldiers, aircraft dropping bombs, extra or malformed hands and fingers, text, watermarks.
+Avoid people near the explosion, injured people, characters looking at the camera, Japanese soldiers, aircraft dropping bombs, extra or malformed hands and fingers, text, watermarks.
 
 Style: detailed vector art
 Aspect ratio: 9:16
@@ -402,7 +402,7 @@ Aspect ratio: 9:16
 The viewer is Anak Balik: the hands and forearms in the foreground match the first-person panel of the Anak Balik reference image.
 Medium-wide shot at eye level in the forest in the morning, looking through ferns at a muddy track.
 First-person point of view. Small child's hands with warm brown sun-tanned skin, short uneven nails with dirt under them, faint wood scratches across the knuckles, thin wrists, faded off-white short sleeves ending above the elbow, bare forearms, no jewelry. Both hands part large fern fronds in the foreground.
-A column of KNIL soldiers trudges north along the track: Indonesian and Dutch soldiers of varied ages in grey-green cotton tunics and breeches, Model 1934 steel helmets with leather neck flaps, ankle boots with puttees, long bolt-action rifles on their shoulders; faces exhausted, uniforms caked with mud; one young soldier glances sideways at the forest without seeing the viewer. They are different people from Ayah, with no red head wrap and no sarong.
+Far down the muddy track, small in the frame, a column of KNIL soldiers trudges north: Indonesian and Dutch soldiers of varied ages in grey-green cotton tunics and breeches, Model 1934 steel helmets with leather neck flaps, ankle boots with puttees, long bolt-action rifles slung on their shoulders, not aimed; faces exhausted, uniforms caked with mud; none of them looks toward the ferns where the viewer hides. They are different people from Ayah, with no red head wrap and no sarong.
 Detailed vector art illustration, clean crisp outlines, flat colors with subtle shading, filtered green morning light with muddy browns, historically accurate 1942 Royal Netherlands East Indies Army infantry uniforms and equipment.
 Avoid characters looking at the camera, stiff symmetrical poses, Japanese soldiers, tanks, modern camouflage, identical faces, extra or malformed hands and fingers, text, watermarks.
 
@@ -672,6 +672,15 @@ Tidak ditemukan foto atau lukisan orang Balik tahun 1940-an, jadi busana keluarg
 | Serdadu KNIL | Komposisi | Prajurit Indonesia dan Belanda beragam usia | Sebagian besar prajurit KNIL adalah orang Indonesia ([Wikipedia](https://en.wikipedia.org/wiki/Royal_Netherlands_East_Indies_Army)) | Terverifikasi |
 
 Referensi visual untuk diunggah ke Gemini tidak disarankan: foto koleksi yang ditemukan bukan dari orang Balik atau belum jelas lisensinya.
+
+## Alur produksi dan checklist
+
+### Riwayat revisi
+
+| Versi | Tanggal | Perubahan | Dampak ke produksi |
+| --- | --- | --- | --- |
+| v1 | 2026-11-01 | Konsep awal | - |
+| v2 | 2026-11-27 | Pencegahan filter keamanan anak di Gemini (aturan Anak di prompt): usia "eight-year-old" di deskripsi baku dan lembar Anak Balik diganti "a young boy"; Adegan 6: ledakan dipertegas jauh di seberang teluk tanpa orang di dekatnya, Avoid ditambah "people near the explosion, injured people"; Adegan 14: barisan KNIL jauh dan kecil di bingkai, senapan tersandang tidak diarahkan, tidak ada yang menoleh ke arah anak. Narasi tidak berubah | Belum ada ilustrasi; tidak ada yang dibuat ulang |
 
 ## Sumber
 
