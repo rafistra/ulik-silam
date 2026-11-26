@@ -2,24 +2,22 @@
 
 Dibuat otomatis oleh `scripts/buat-status.py` dari `proyek/*/proyek.yaml`. Jangan diedit manual.
 
-Diperbarui: 2026-11-24 · 78 proyek
+Diperbarui: 2026-11-27 · 78 proyek
 
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
 | Brief | 0 | - |
-| Naskah terverifikasi | 32 | - |
-| Aset | 0 | 0 / 2 |
-| Rakit & render | 1 | 1 / 2 |
-| Tayang | 45 | - |
+| Naskah terverifikasi | 30 | - |
+| Aset | 2 | 2 / 2 |
+| Rakit & render | 0 | 0 / 2 |
+| Tayang | 46 | - |
 | Evaluasi | 0 | - |
 
 ## Naskah terverifikasi
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
-| pov-sepaku-1-anak-balik-1942 | POV: Kamu Anak Suku Balik di Balikpapan, 1942 (prioritas 2) | POV | Sejarah | - | - | - |
-| pov-sepaku-2-orang-balik-2019 | POV: Kamu Orang Balik di Sepaku, 1970-an sampai 2019 (prioritas 3) | POV | Sejarah | - | - | - |
 | pov-buruh-minyak-sangasanga | POV: Kamu Buruh Minyak di Sangasanga 1947 (prioritas 5) | POV | Sejarah | - | - | - |
 | pov-kuli-deli-rhemrev | POV: Kamu Kuli Kontrak di Kebun Tembakau Deli (prioritas 6) | POV | Sejarah | - | - | - |
 | pov-awak-benares-tambora | POV: Kamu Awak Kapal Inggris saat Tambora Meletus 1815 | POV | Sejarah | - | - | - |
@@ -51,11 +49,12 @@ Diperbarui: 2026-11-24 · 78 proyek
 | pov-tjipto-pes-malang | POV: Kamu Dokter Pribumi di Wabah Pes Malang | POV | Sejarah | - | - | - |
 | pov-wallace-ternate | POV: Kamu Alfred Russel Wallace di Ternate 1858 | POV | Sejarah | - | - | - |
 
-## Rakit & render
+## Aset
 
 | Proyek | Judul | Format | Lapisan | Render | Views TikTok | Views Shorts |
 | --- | --- | --- | --- | --- | --- | --- |
-| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | 2026-11-24 | - | - |
+| pov-sepaku-1-anak-balik-1942 | POV: Kamu Anak Suku Balik di Balikpapan, 1942 (prioritas 2) | POV | Sejarah | - | - | - |
+| pov-sepaku-2-orang-balik-2019 | POV: Kamu Orang Balik di Sepaku, 1970-an sampai 2019 (prioritas 3) | POV | Sejarah | - | - | - |
 
 ## Tayang
 
@@ -63,6 +62,7 @@ Diperbarui: 2026-11-24 · 78 proyek
 | --- | --- | --- | --- | --- | --- | --- |
 | pov-penebang-tebu-gerhana-1983 | POV: Kamu Penebang Tebu di Gerhana Total 1983 (prioritas 1) | POV | Sejarah | - | - | - |
 | pov-roehana-koeddoes | POV: Kamu Roehana Koeddoes di Koto Gadang, 1912 (prioritas 4) | POV | Sejarah | 2026-11-23 | - | - |
+| pov-demang-lehman-batulicin | POV: Kamu Demang Lehman di Hari-Hari Terakhirmu, 1864 | POV | Sejarah | 2026-11-24 | - | - |
 | narasi-perpindahan-kayan-miau-baru-part-1 | Seberat Langit dan Bumi (Part 1) (judul kerja) | Narasi | Sejarah | 2026-11-21 | - | - |
 | narasi-perpindahan-kayan-miau-baru-part-2 | Miau Baru (Part 2) | Narasi | Sejarah | 2026-11-21 | - | - |
 | pov-doa-kramat-tunggak | POV: Kamu di Malam Terakhir Kramat Tunggak | POV | Rekaan, Sejarah | 2026-11-20 | 5.550 | 1.240 |
