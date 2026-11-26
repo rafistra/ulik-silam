@@ -4,7 +4,7 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Batulicin dan Martapura, Kalimantan Selatan"
 seri: ""
-tahap: Rakit & render
+tahap: Tayang
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v2 · 2026-11-24"
 merek: "2026-11-22"
@@ -17,3 +17,4 @@ tanggal_tayang: null
 tautan: {tiktok: null, shorts: null}
 catatan: "Render final 2026-11-24 (2:21, -16 LUFS). Lembar Demang Lehman 1859 dipakai ulang dari pustaka."
 sampul: {"adegan":10,"judul":"POV: Hari Terakhir Demang Lehman, 1864","tiktok":{"x":12.1,"y":-3.6,"skala":1.22},"youtube":{"x":5.9,"y":-0.3,"skala":1.12}}
+prioritas: null
