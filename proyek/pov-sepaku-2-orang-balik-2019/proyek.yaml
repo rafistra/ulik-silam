@@ -14,9 +14,9 @@ lembar_karakter: ["Orang Balik Muda", "Orang Balik Tua", "Tetangga Transmigran"]
 aset: {ilustrasi: 0, narasi: 0, musik: 0, sfx: 0}
 render: ""
 tanggal_render: null
-tanggal_tayang: null
-tautan: {tiktok: null, shorts: null}
-metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
+tautan: {"tiktok": "https://www.tiktok.com/@ulik.silam/video/7712630476485299477"}
 asal_ide: "0-ide/pov-sepaku-anak-balik/pov-sepaku-2-anak-balik-2019.md"
 catatan: "Adegan 8: rekaman berbunyi \"dari orang Jawa\", subtitle \"dari Jawa\" (dibiarkan, 2026-11-27)."
 sampul: {"adegan":13,"tiktok":{"x":-14.5,"y":-0.7,"skala":1.28}}
+metrik_tiktok: {"views": 910, "suka": 37, "komentar": 1, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-28"}
+tayang: {"tiktok": "2026-11-27"}

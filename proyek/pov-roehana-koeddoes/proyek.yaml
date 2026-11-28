@@ -14,9 +14,10 @@ lembar_karakter: ["Roehana Koeddoes"]
 aset: {ilustrasi: 17, narasi: 17, musik: 3, sfx: 7}
 render: "render/pov-roehana-koeddoes-2026-11-23-v7.mp4"
 tanggal_render: 2026-11-23
-tanggal_tayang: null
-tautan: {tiktok: null, shorts: null}
-metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
+tautan: {"tiktok": "https://www.tiktok.com/@ulik.silam/video/7711393560062332167", "shorts": "https://youtube.com/shorts/XR6Cq3wRX8I"}
 asal_ide: "0-ide/pov-roehana-koeddoes.md"
 catatan: ""
 sampul: {"adegan":16,"judul":"POV: Kamu Roehana Koeddoes, 1912","tiktok":{"x":0.8,"y":16.9,"skala":1.09}}
+metrik_tiktok: {"views": 1047, "suka": 62, "komentar": 4, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-28"}
+tayang: {"tiktok": "2026-11-25", "shorts": "2026-11-24"}
+metrik_shorts: {"views": 1248, "jam_tonton": 19.1, "rata_tonton_detik": 55.0, "durasi_detik": 179, "persen_ditonton": 30.7, "subscriber": 7, "impresi": 231, "ctr": 8.23, "periode": "2026-10-15..2026-11-28", "diperbarui": "2026-11-28"}

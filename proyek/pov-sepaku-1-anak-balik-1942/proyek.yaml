@@ -14,9 +14,9 @@ lembar_karakter: ["Anak Balik", "Ayah", "Ibu"]
 aset: {ilustrasi: 16, narasi: 16, musik: 3, sfx: 9}
 render: ""
 tanggal_render: null
-tanggal_tayang: null
-tautan: {tiktok: null, shorts: null}
-metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
+tautan: {"tiktok": "https://www.tiktok.com/@ulik.silam/video/7712629234086235412"}
 asal_ide: "0-ide/pov-sepaku-anak-balik/pov-sepaku-1-anak-balik-1942.md"
 catatan: ""
 sampul: {"tiktok":{"x":-2.1,"y":10.3,"skala":1.5}}
+metrik_tiktok: {"views": 1390, "suka": 61, "komentar": 3, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-28"}
+tayang: {"tiktok": "2026-11-27"}

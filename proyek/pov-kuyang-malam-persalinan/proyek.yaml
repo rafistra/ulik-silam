@@ -4,17 +4,18 @@ format: POV
 lapisan: ["Legenda"]
 latar: "Kampung tepi sungai, Tanah Banjar"
 seri: ""
-tahap: Aset
+tahap: Tayang
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v1 · 2026-11-28"
 merek: null
 adegan: 17
 lembar_karakter: ["Suami", "Nini Jumantan", "Kuyang"]
 aset: {ilustrasi: 0, narasi: 0, musik: 0, sfx: 0}
-render: ""
-tanggal_render: null
-tanggal_tayang: null
-tautan: {tiktok: null, shorts: null}
-metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
+render: "render/pov-kuyang-malam-persalinan-2026-11-28-v1.mp4"
+tanggal_render: 2026-11-28
+tautan: {"tiktok": "https://www.tiktok.com/@ulik.silam/video/7713132663862840628"}
 asal_ide: ""
 catatan: "Kisah makhluk (pakem Banjar). Dokumen konsep: https://claude.ai/artifact/3F5uvg3bPPh5LJqe3pgXLM. Adegan 17 punya alternatif gore di Catatan genre; uji keduanya di Gemini lalu pilih satu."
+sampul: {"adegan":14,"judul":"POV: Ada Kuyang di Malam Istrimu Melahirkan"}
+metrik_tiktok: {"views": 145, "suka": 11, "komentar": 2, "bagikan": null, "sumber": "tiktok-studio", "diperbarui": "2026-11-28"}
+tayang: {"tiktok": "2026-11-28"}
