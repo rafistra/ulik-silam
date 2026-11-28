@@ -2,13 +2,13 @@
 
 Dibuat otomatis oleh `scripts/buat-status.py` dari `proyek/*/proyek.yaml`. Jangan diedit manual.
 
-Diperbarui: 2026-11-27 · 78 proyek
+Diperbarui: 2026-11-28 · 79 proyek
 
 | Tahap | Jumlah | Batas |
 | --- | --- | --- |
 | Bank ide | 0 | - |
 | Brief | 0 | - |
-| Naskah terverifikasi | 30 | - |
+| Naskah terverifikasi | 31 | - |
 | Aset | 0 | 0 / 2 |
 | Rakit & render | 2 | 2 / 2 |
 | Tayang | 46 | - |
@@ -27,6 +27,7 @@ Diperbarui: 2026-11-27 · 78 proyek
 | pov-frederick-de-houtman-aceh | POV: Kamu Tawanan Sultan Aceh Tahun 1599 | POV | Sejarah | - | - | - |
 | pov-imam-bonjol-pineleng | POV: Kamu Tuanku Imam Bonjol di Pembuangan Minahasa | POV | Sejarah | - | - | - |
 | pov-karaeng-pattingalloang | POV: Kamu Karaeng Pattingalloang di Makassar 1644 | POV | Sejarah | - | - | - |
+| pov-kuyang-malam-persalinan | POV: Kamu Berjaga dari Kuyang di Malam Istrimu Melahirkan | POV | Legenda | - | - | - |
 | pov-mas-marco-digoel | POV: Kamu Mas Marco, Dibuang ke Boven Digoel | POV | Sejarah | - | - | - |
 | pov-monginsidi-makassar | POV: Kamu Wolter Monginsidi di Makassar 1947 | POV | Sejarah | - | - | - |
 | pov-orang-rantai-ombilin | POV: Kamu Orang Rantai di Tambang Ombilin | POV | Sejarah | - | - | - |
