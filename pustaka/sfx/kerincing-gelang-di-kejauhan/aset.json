@@ -1,0 +1,21 @@
+{
+  "id": "kerincing-gelang-di-kejauhan",
+  "jenis": "sfx",
+  "judul": "Kerincing gelang di kejauhan (sulit; cadangan: denting tinggi di cue 1)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-05-kerincing-gelang-di-kejauhan.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-05-kerincing-gelang-di-kejauhan.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

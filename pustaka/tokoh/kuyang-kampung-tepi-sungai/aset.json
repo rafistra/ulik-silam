@@ -1,0 +1,32 @@
+{
+  "id": "kuyang-kampung-tepi-sungai",
+  "jenis": "tokoh",
+  "judul": "Kuyang",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "tokoh": [
+    "Kuyang"
+  ],
+  "file": [
+    "lembar-kuyang.jpg"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Kepala berlumur darah",
+      "pilihan": "Tidak dipakai di versi utama",
+      "sumber": "detik 9 Okt 2025",
+      "status": "Dihindari"
+    }
+  ],
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "ilustrasi/lembar-kuyang.jpg"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

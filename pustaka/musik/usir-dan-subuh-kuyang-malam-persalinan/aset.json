@@ -1,0 +1,22 @@
+{
+  "id": "usir-dan-subuh-kuyang-malam-persalinan",
+  "jenis": "musik",
+  "judul": "Usir dan subuh (Puncak gaduh, runtuh menjadi tenang yang palsu, berhenti mati sebelum adegan 17)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "cue-3-usir-dan-subuh.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "musik/cue-3-usir-dan-subuh.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "suami-1900",
+  "jenis": "tokoh",
+  "judul": "Suami",
+  "versi": 1,
+  "status": "draf",
+  "era": "1900",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "tokoh": [
+    "Suami"
+  ],
+  "file": [
+    "lembar-suami.jpg"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Gelang rotan",
+      "pilihan": "Penanda tangan di bidikan A",
+      "sumber": "Tanpa sumber",
+      "status": "Rekaan"
+    }
+  ],
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "ilustrasi/lembar-suami.jpg"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "derak-dan-celah-kuyang-malam-persalinan",
+  "jenis": "musik",
+  "judul": "Derak dan celah (Detak berat dan kayu berderit, putus sesaat di tangis bayi, lalu kembali lebih dingin)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "cue-2-derak-dan-celah.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "musik/cue-2-derak-dan-celah.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

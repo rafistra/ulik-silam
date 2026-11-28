@@ -1,0 +1,22 @@
+{
+  "id": "senja-dan-tanda-kuyang-malam-persalinan",
+  "jenis": "musik",
+  "judul": "Senja dan tanda (Sunyi yang menunggu, mengencang pelan saat cahaya merah dan kerincing muncul)",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "cue-1-senja-dan-tanda.mp3"
+  ],
+  "alat": "Suno",
+  "lisensi": "Belum dicatat: cek paket Suno saat lagu dibuat",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "musik/cue-1-senja-dan-tanda.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

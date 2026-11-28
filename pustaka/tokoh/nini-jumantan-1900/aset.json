@@ -1,0 +1,33 @@
+{
+  "id": "nini-jumantan-1900",
+  "jenis": "tokoh",
+  "judul": "Nini Jumantan",
+  "versi": 1,
+  "status": "draf",
+  "era": "1900",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "tokoh": [
+    "Nini Jumantan"
+  ],
+  "file": [
+    "lembar-nini-jumantan.jpg"
+  ],
+  "alat": "Gemini",
+  "akurasi": [
+    {
+      "unsur": "Giwang emas bermata kaca gelap; bibir merah sirih",
+      "pilihan": "Penanda usia dan kelas",
+      "sumber": "Giwang: Depdikbud 1987; sirih: tafsir",
+      "status": "Tafsir"
+    }
+  ],
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "ilustrasi/lembar-nini-jumantan.jpg"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

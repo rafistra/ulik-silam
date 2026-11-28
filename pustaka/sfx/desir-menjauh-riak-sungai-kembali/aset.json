@@ -1,0 +1,21 @@
+{
+  "id": "desir-menjauh-riak-sungai-kembali",
+  "jenis": "sfx",
+  "judul": "Desir menjauh, riak sungai kembali",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-12-desir-menjauh-riak-sungai-kembali.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-12-desir-menjauh-riak-sungai-kembali.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

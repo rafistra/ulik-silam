@@ -1,0 +1,21 @@
+{
+  "id": "hening-total-lalu-satu-hantaman",
+  "jenis": "sfx",
+  "judul": "Hening total lalu satu hantaman",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-15-hening-total-lalu-satu-hantaman.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-15-hening-total-lalu-satu-hantaman.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

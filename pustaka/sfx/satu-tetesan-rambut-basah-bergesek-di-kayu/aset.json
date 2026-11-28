@@ -1,0 +1,21 @@
+{
+  "id": "satu-tetesan-rambut-basah-bergesek-di-kayu",
+  "jenis": "sfx",
+  "judul": "Satu tetesan, rambut basah bergesek di kayu",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-10-satu-tetesan-rambut-basah-bergesek-di-kayu.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-10-satu-tetesan-rambut-basah-bergesek-di-kayu.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

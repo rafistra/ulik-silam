@@ -1,0 +1,21 @@
+{
+  "id": "tangis-bayi-baru-lahir-lalu-sunyi",
+  "jenis": "sfx",
+  "judul": "Tangis bayi baru lahir, lalu sunyi",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-08-tangis-bayi-baru-lahir-lalu-sunyi.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-08-tangis-bayi-baru-lahir-lalu-sunyi.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}

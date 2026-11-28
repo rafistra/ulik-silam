@@ -1,0 +1,21 @@
+{
+  "id": "derak-pelan-bergerak-di-atap",
+  "jenis": "sfx",
+  "judul": "Derak pelan bergerak di atap",
+  "versi": 1,
+  "status": "draf",
+  "wilayah": "Kampung tepi sungai, Tanah Banjar",
+  "file": [
+    "sfx-06-derak-pelan-bergerak-di-atap.mp3"
+  ],
+  "alat": "Belum dicatat (ElevenLabs SFX atau pustaka bunyi)",
+  "asal": [
+    {
+      "proyek": "pov-kuyang-malam-persalinan",
+      "berkas": "sfx/sfx-06-derak-pelan-bergerak-di-atap.mp3"
+    }
+  ],
+  "dipakai_di": [
+    "pov-kuyang-malam-persalinan"
+  ]
+}
