@@ -51,12 +51,14 @@ const LapisanIlustrasi: React.FC<{ a: AdeganLini }> = ({ a }) => {
     );
   const kemajuan = f / (a.kbAkhir - a.vMulai);
   const utuh = ADEGAN_FOTO_UTUH.includes(a.nomor);
+  const detikKlip = ASET.klip(a.nomor);
+  const klip = detikKlip ? { detik: detikKlip } : null;
   const efek = EFEK_ADEGAN[a.nomor] ?? [];
   const menempel = efek.filter((e) => EFEK_MENEMPEL.includes(e.efek));
   const layar = efek.filter((e) => !EFEK_MENEMPEL.includes(e.efek));
   return (
     <AbsoluteFill style={{ opacity }}>
-      <Ilustrasi nomor={a.nomor} src={ASET.ilustrasi(a.nomor)} gerak={a.gerak} kenBurnsKhusus={a.kenBurns} utuh={utuh} visual={a.visual} kemajuan={kemajuan} />
+      <Ilustrasi nomor={a.nomor} src={ASET.ilustrasi(a.nomor)} gerak={a.gerak} kenBurnsKhusus={a.kenBurns} utuh={utuh} visual={a.visual} kemajuan={kemajuan} klip={klip} />
       {/* Efek berposisi ikut transform Ken Burns ilustrasi agar tetap di benda yang sama (foto utuh: tanpa transform). */}
       {menempel.length ? (
         <AbsoluteFill style={{ overflow: 'hidden' }}>
@@ -179,6 +181,8 @@ export const Video: React.FC<PropsVideo> = ({ data, durasiNarasi }) => {
             visual: terakhir.visual,
             kbMulai: terakhir.vMulai,
             kbAkhir: terakhir.kbAkhir,
+            // Klip video adegan terakhir berlanjut di bawah kartu dari frame tempat adegannya berhenti.
+            klip: ASET.klip(terakhir.nomor) ? { detik: ASET.klip(terakhir.nomor)!, frameAwal: lini.kartuMulai - terakhir.vMulai } : null,
           }}
         />
       </Sequence>

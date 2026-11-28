@@ -114,7 +114,7 @@ button:disabled { opacity: 0.5; cursor: not-allowed; }
 .adegan { display: grid; grid-template-columns: 108px 1fr; gap: 16px; padding: 14px; border-radius: 10px; border: 1px solid var(--garis); background: var(--naik); cursor: pointer; }
 .adegan:hover, .adegan.aktif { border-color: var(--pelita); }
 .adegan .gbr { aspect-ratio: 9 / 16; border-radius: 6px; overflow: hidden; background: var(--tanah); display: flex; align-items: center; justify-content: center; font-size: 11px; color: var(--redup); text-align: center; padding: 4px; }
-.adegan .gbr img { width: 100%; height: 100%; object-fit: cover; }
+.adegan .gbr img, .adegan .gbr video { width: 100%; height: 100%; object-fit: cover; }
 .adegan .narasi { font-family: var(--serif); font-size: 20px; line-height: 27px; }
 .adegan .tag { color: var(--redup); font-family: var(--sans); font-size: 12px; }
 .prompt { white-space: pre-wrap; font-family: ui-monospace, 'Cascadia Mono', Consolas, monospace; font-size: 12.5px; line-height: 1.55; padding: 12px; border-radius: 8px; background: var(--latar); border: 1px solid var(--garis); max-height: 320px; overflow: auto; margin: 0; }
@@ -201,7 +201,7 @@ audio { width: 100%; height: 36px; }
 @media (max-width: 900px) { .pilih-sampul { grid-template-columns: 1fr; } }
 .kisi-sampul { display: grid; grid-template-columns: repeat(auto-fill, minmax(72px, 1fr)); gap: 8px; }
 .opsi-sampul { position: relative; display: block; padding: 0; min-height: 0; aspect-ratio: 9 / 16; border-radius: 6px; overflow: hidden; border: 2px solid var(--garis); background: var(--tanah); }
-.opsi-sampul img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.opsi-sampul img, .opsi-sampul video { width: 100%; height: 100%; object-fit: cover; display: block; }
 .opsi-sampul.aktif { border-color: var(--pelita); box-shadow: 0 0 0 2px var(--pelita); }
 .opsi-sampul .nomor { position: absolute; left: 4px; top: 4px; padding: 1px 6px; border-radius: 4px; background: rgba(20, 17, 15, 0.82); font-size: 11px; font-weight: 800; color: var(--tinta); }
 .opsi-sampul.aktif .nomor { background: var(--pelita); color: var(--on-pelita); }

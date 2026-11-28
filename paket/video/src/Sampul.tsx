@@ -25,13 +25,16 @@ export const Sampul: React.FC<{ data: DataVideo; platform?: PlatformSampul; posi
   muatFont(data.basisFont);
   const a = DAFTAR_ADEGAN.find((x) => x.nomor === SAMPUL_ADEGAN) ?? DAFTAR_ADEGAN[0];
   const src = ASET.sampul ?? ASET.ilustrasi(a.nomor);
+  // Adegan berklip video: sampul memakai frame pertama klip.
+  const detikKlip = ASET.sampul ? null : ASET.klip(a.nomor);
+  const klip = detikKlip ? { detik: detikKlip, frameAwal: 0 } : null;
   const p = jepitPosisi(posisi);
   return (
     <AbsoluteFill style={{ background: WARNA.latar }}>
-      <Ilustrasi nomor={a.nomor} src={src} gerak="zoom-masuk" kemajuan={0} visual={a.visual} blur={32} />
+      <Ilustrasi nomor={a.nomor} src={src} gerak="zoom-masuk" kemajuan={0} visual={a.visual} blur={32} klip={klip} />
       <AbsoluteFill style={{ background: WARNA.latar, opacity: 0.5 }} />
       <AbsoluteFill style={{ transform: `translate(${p.x}%, ${p.y}%) scale(${p.skala})` }}>
-        <Ilustrasi nomor={a.nomor} src={src} gerak="zoom-masuk" kemajuan={0} visual={a.visual} />
+        <Ilustrasi nomor={a.nomor} src={src} gerak="zoom-masuk" kemajuan={0} visual={a.visual} klip={klip} />
       </AbsoluteFill>
       <div
         style={{

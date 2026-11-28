@@ -4,7 +4,7 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Balikpapan dan Sepaku"
 seri: "pov-sepaku-anak-balik"
-tahap: Rakit & render
+tahap: Tayang
 prioritas: 2
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v3 · 2026-11-27"
@@ -19,3 +19,4 @@ tautan: {tiktok: null, shorts: null}
 metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
 asal_ide: "0-ide/pov-sepaku-anak-balik/pov-sepaku-1-anak-balik-1942.md"
 catatan: ""
+sampul: {"tiktok":{"x":-2.1,"y":10.3,"skala":1.5}}

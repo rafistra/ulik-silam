@@ -4,7 +4,7 @@ format: POV
 lapisan: ["Sejarah"]
 latar: "Sepaku"
 seri: "pov-sepaku-anak-balik"
-tahap: Rakit & render
+tahap: Tayang
 prioritas: 3
 platform: ["TikTok", "YouTube Shorts"]
 versi_konsep: "v1 · 2026-11-01"
@@ -19,3 +19,4 @@ tautan: {tiktok: null, shorts: null}
 metrik: {views: null, rata_tonton_detik: null, simpan: null, bagikan: null, diperbarui: null}
 asal_ide: "0-ide/pov-sepaku-anak-balik/pov-sepaku-2-anak-balik-2019.md"
 catatan: "Adegan 8: rekaman berbunyi \"dari orang Jawa\", subtitle \"dari Jawa\" (dibiarkan, 2026-11-27)."
+sampul: {"adegan":13,"tiktok":{"x":-14.5,"y":-0.7,"skala":1.28}}

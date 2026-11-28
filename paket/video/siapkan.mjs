@@ -17,6 +17,8 @@ function jepitPosisi(p) {
 export const AKAR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const EKST_AUDIO = ['wav', 'mp3', 'm4a', 'aac', 'ogg', 'flac', 'opus'];
 const EKST_GAMBAR = ['png', 'jpg', 'jpeg', 'webp'];
+/** Klip video pengganti ilustrasi adegan (tanpa suara; frame terakhir ditahan bila adegan lebih panjang dari klip). */
+const EKST_VIDEO = ['mp4', 'webm', 'mov', 'm4v'];
 const dua = (n) => String(n).padStart(2, '0');
 const kebab = (s) =>
   s
@@ -170,16 +172,30 @@ function cari1(akar, dir, dasar, eks) {
   return f ? `${dir}/${f}` : null;
 }
 
+/** Durasi klip video dalam detik dari keluaran ffmpeg; null bila tidak terbaca. */
+function durasiKlip(berkas) {
+  const r = ffmpeg(['-hide_banner', '-i', berkas]);
+  const m = (r.stdout + r.stderr).match(/Duration: (\d+):(\d+):([\d.]+)/);
+  return m ? +m[1] * 3600 + +m[2] * 60 + +m[3] : null;
+}
+
 export function pindaiAset(akar, d) {
-  const aset = { ilustrasi: {}, narasi: {}, musik: {}, sfx: {}, merek: {}, sampul: {}, peta: {} };
+  const aset = { ilustrasi: {}, klip: {}, narasi: {}, musik: {}, sfx: {}, merek: {}, sampul: {}, peta: {} };
   const kurang = { ilustrasi: [], narasi: [], musik: [], sfx: [], merek: [], peta: [] };
   const s = cari1(akar, 'ilustrasi', 'sampul', EKST_GAMBAR);
   if (s) aset.sampul.gambar = s;
   for (const a of d.adegan) {
     const n = dua(a.nomor);
-    const il = cari1(akar, 'ilustrasi', `adegan-${n}`, EKST_GAMBAR);
+    // Klip video didahulukan bila ada bersama gambar dengan nama yang sama.
+    const klip = cari1(akar, 'ilustrasi', `adegan-${n}`, EKST_VIDEO);
+    const il = klip || cari1(akar, 'ilustrasi', `adegan-${n}`, EKST_GAMBAR);
     if (il) aset.ilustrasi[a.nomor] = il;
     else kurang.ilustrasi.push(`ilustrasi/adegan-${n}.png`);
+    if (klip) {
+      const detik = durasiKlip(path.join(akar, klip));
+      if (detik) aset.klip[a.nomor] = detik;
+      else kurang.ilustrasi.push(`${klip} (durasi klip tidak terbaca)`);
+    }
     const na = cari1(akar, 'narasi', `adegan-${n}`, EKST_AUDIO) || cari1(akar, 'narasi/potongan', `adegan-${n}`, ['wav']);
     if (na) aset.narasi[a.nomor] = na;
     else kurang.narasi.push(`adegan ${a.nomor}`);

@@ -14,6 +14,8 @@ type Peta = Record<string, string>;
 /** Path relatif berkas aset terhadap folder aset proyek (setara public/ di proyek lama). */
 export interface DaftarAset {
   ilustrasi: Peta;
+  /** Durasi (detik) per adegan yang ilustrasinya klip video; adegan bergambar diam tidak ada di sini. */
+  klip?: Record<string, number>;
   narasi: Peta;
   musik: Peta;
   sfx: Peta;
@@ -44,6 +46,8 @@ const ambil = (peta: Peta | undefined, kunci: number | string) => (peta?.[String
 
 export const ASET = {
   ilustrasi: (nomor: number) => ambil(daftar.ilustrasi, nomor),
+  /** Durasi klip video (detik) bila ilustrasi adegan ini klip video; null untuk gambar diam. */
+  klip: (nomor: number): number | null => daftar.klip?.[String(nomor)] ?? null,
   narasi: (nomor: number) => ambil(daftar.narasi, nomor),
   musik: (nomor: number) => ambil(daftar.musik, nomor),
   sfx: (nomor: number) => ambil(daftar.sfx, nomor),

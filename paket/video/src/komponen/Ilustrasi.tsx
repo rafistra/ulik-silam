@@ -1,7 +1,7 @@
 import React from 'react';
-import { AbsoluteFill, Img } from 'remotion';
+import { AbsoluteFill, Freeze, Img, OffthreadVideo } from 'remotion';
 import type { Gerak } from '../data/adegan';
-import { ADEGAN, FOTO_UTUH, HURUF, WARNA } from '../lib/merek';
+import { ADEGAN, FOTO_UTUH, HURUF, KANVAS, WARNA } from '../lib/merek';
 import { dua } from '../lib/data';
 
 /** Ken Burns khusus (setelan tangan): skala dan geser vertikal (% tinggi kanvas, negatif = gambar naik) dari awal ke akhir. */
@@ -38,9 +38,33 @@ export const Ilustrasi: React.FC<{
   kenBurnsKhusus?: KenBurnsKhusus;
   /** Foto asli: tampil utuh tanpa dipotong, di atas foto yang sama yang diburamkan. */
   utuh?: boolean;
-}> = ({ nomor, src, gerak, kemajuan, visual, blur = 0, kenBurnsKhusus, utuh = false }) => {
+  /**
+   * Ilustrasi berupa klip video: `detik` = panjang klip, `frameAwal` = frame klip pada frame 0 Sequence pemanggil
+   * (kartu Ulikan melanjutkan klip adegan terakhir). Klip diputar tanpa suara; setelah habis, frame terakhirnya ditahan.
+   */
+  klip?: { detik: number; frameAwal?: number } | null;
+}> = ({ nomor, src, gerak, kemajuan, visual, blur = 0, kenBurnsKhusus, utuh = false, klip = null }) => {
   const transform = kenBurns(gerak, kemajuan, kenBurnsKhusus);
   const filter = blur > 0 ? `blur(${blur}px)` : undefined;
+  if (src && klip) {
+    // Klip diputar berurutan (OffthreadVideo menahan frame terakhirnya sendiri bila Sequence lebih panjang).
+    // Membekukan frame per frame dengan <Freeze> membuat cache compositor kehabisan frame ("No frame found").
+    const akhirKlip = Math.max(0, Math.floor(klip.detik * KANVAS.fps) - 1);
+    const awal = Math.max(0, Math.round(klip.frameAwal ?? 0));
+    const gaya = { width: '100%', height: '100%', objectFit: 'cover', transform, filter } as const;
+    return (
+      <AbsoluteFill style={{ overflow: 'hidden', backgroundColor: WARNA.latar }}>
+        {awal >= akhirKlip ? (
+          // Klip sudah habis sebelum Sequence ini mulai: tahan frame terakhirnya (satu posisi tetap).
+          <Freeze frame={akhirKlip}>
+            <OffthreadVideo src={src} muted style={gaya} />
+          </Freeze>
+        ) : (
+          <OffthreadVideo src={src} muted trimBefore={awal > 0 ? awal : undefined} style={gaya} />
+        )}
+      </AbsoluteFill>
+    );
+  }
   if (src && utuh) {
     const k = Math.min(1, Math.max(0, kemajuan));
     const [a, b] = FOTO_UTUH.skala;

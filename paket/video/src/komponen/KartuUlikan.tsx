@@ -18,7 +18,15 @@ const tanpaTautan = (s: string) => s.replace(/\[([^\]]+)\]\((?:<[^>]*>|[^)]*)\)/
 export const KartuUlikan: React.FC<{
   teks: string;
   sumber: string;
-  ilustrasi: { nomor: number; src: string | null; gerak: Gerak; visual: string; kbMulai: number; kbAkhir: number };
+  ilustrasi: {
+    nomor: number;
+    src: string | null;
+    gerak: Gerak;
+    visual: string;
+    kbMulai: number;
+    kbAkhir: number;
+    klip?: { detik: number; frameAwal?: number } | null;
+  };
   /** Frame global saat kartu mulai, untuk melanjutkan Ken Burns. */
   mulai: number;
 }> = ({ teks, sumber, ilustrasi, mulai }) => {

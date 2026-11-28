@@ -137,7 +137,7 @@ Cari di `pustaka/` (status `disetujui`) tokoh, musik, dan SFX yang cocok dengan 
 
 | Aset | Berkas di folder aset proyek |
 | --- | --- |
-| Ilustrasi adegan | `ilustrasi/adegan-NN.<png/jpg/webp>`; sampul khusus opsional `ilustrasi/sampul.*` |
+| Ilustrasi adegan | `ilustrasi/adegan-NN.<png/jpg/webp>`, atau klip video `ilustrasi/adegan-NN.<mp4/webm/mov/m4v>` (didahulukan bila keduanya ada; diputar tanpa suara dengan Ken Burns yang sama, frame terakhirnya ditahan bila adegan lebih panjang dari klip, dan di adegan terakhir klip berlanjut di bawah kartu Ulikan; sampul memakai frame pertamanya). Momen kunci klip ditaruh di awal, karena hanya sepanjang adegan yang terlihat. Sampul khusus opsional `ilustrasi/sampul.*` (gambar saja) |
 | Narasi | `narasi/babak-N.<ext>` (satu rekaman per babak; bila babak dibagi dua: `babak-N-a`, `babak-N-b`), dipotong menjadi `narasi/potongan/adegan-NN.wav`; pengganti satu adegan `narasi/adegan-NN.<ext>` |
 | Titik potong manual | `narasi/babak-N.waktu.json` (daftar detik) |
 | Musik | `musik/cue-N-<nama-cue-kebab>.<ext>` (nama cue dari tabel Musik di KONSEP.md) |

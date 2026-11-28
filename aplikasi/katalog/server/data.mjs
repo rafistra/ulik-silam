@@ -173,7 +173,10 @@ export function asetProyek(slug, meta, k) {
   for (const a of k?.adegan || []) {
     const n = dua(a.nomor);
     adegan[a.nomor] = {
-      ilustrasi: cariDi(sumber, 'ilustrasi', new RegExp(`^adegan-${n}\\.(png|jpe?g|webp)$`, 'i')),
+      // Klip video didahulukan, sama dengan paket/video/siapkan.mjs.
+      ilustrasi:
+        cariDi(sumber, 'ilustrasi', new RegExp(`^adegan-${n}\\.(mp4|webm|mov|m4v)$`, 'i')) ||
+        cariDi(sumber, 'ilustrasi', new RegExp(`^adegan-${n}\\.(png|jpe?g|webp)$`, 'i')),
       narasi: cariDi(sumber, 'narasi', new RegExp(`^adegan-${n}\\.`, 'i')) || cariDi(sumber, 'narasi/potongan', new RegExp(`^adegan-${n}\\.`, 'i')),
     };
   }

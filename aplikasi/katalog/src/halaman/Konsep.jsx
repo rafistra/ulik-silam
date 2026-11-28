@@ -8,6 +8,15 @@ import { JudulProyek, Produksi } from './bersama.jsx';
 import { Sampul, KANVAS, jepitPosisi, posisiSama, POSISI_BAWAAN, POTONG_TIKTOK, BATAS_SKALA } from '../../../../paket/video/src/pemutar';
 import { promptFlow, namaAsetFlow } from '../../../../paket/urai-konsep/flow.mjs';
 
+/** Ilustrasi adegan bisa gambar diam atau klip video (adegan-NN.mp4 dan sejenisnya). */
+const KLIP = /\.(mp4|webm|mov|m4v)(\?|$)/i;
+const MediaIlustrasi = ({ src, alt = '', lazy = true }) =>
+  KLIP.test(src) ? (
+    <video src={src} muted loop playsInline autoPlay preload="metadata" aria-label={alt || undefined} />
+  ) : (
+    <img src={src} alt={alt} loading={lazy ? 'lazy' : undefined} />
+  );
+
 const TAB = [
   ['ringkasan', 'Ringkasan'],
   ['naskah', 'Naskah'],
@@ -89,7 +98,7 @@ function KonsepVideo({ slug, tab, data, info, muatUlang }) {
               {render ? (
                 <video ref={videoRef} src={render.url} controls preload="metadata" />
               ) : gambarAktif ? (
-                <img src={gambarAktif} alt={`Ilustrasi adegan ${aktif}`} />
+                <MediaIlustrasi src={gambarAktif} alt={`Ilustrasi adegan ${aktif}`} lazy={false} />
               ) : (
                 <p className="redup kecil" style={{ padding: 20, textAlign: 'center' }}>
                   Belum ada render
@@ -307,7 +316,7 @@ function Naskah({ data, aktif, lompat }) {
             const il = data.aset.adegan[a.nomor]?.ilustrasi;
             return (
               <article key={a.nomor} className={`adegan${aktif === a.nomor ? ' aktif' : ''}`} onClick={() => lompat(a)}>
-                <div className="gbr">{il ? <img src={il} alt="" loading="lazy" /> : 'Belum ada ilustrasi'}</div>
+                <div className="gbr">{il ? <MediaIlustrasi src={il} /> : 'Belum ada ilustrasi'}</div>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 8, minWidth: 0 }}>
                   <div className="baris-chip">
                     <span className="pil">Adegan {a.nomor}</span>
@@ -798,7 +807,7 @@ function PilihSampul({ data, dv, sibuk, onRender }) {
                 const nama = n === 'khusus' ? 'Sampul khusus' : `Adegan ${n}`;
                 return (
                   <button key={n} type="button" role="radio" aria-checked={adegan === n} aria-label={nama} className={`opsi-sampul${adegan === n ? ' aktif' : ''}`} onClick={() => setAdegan(n)} disabled={!src}>
-                    {src ? <img src={src} alt="" loading="lazy" /> : <span className="redup kecil">belum ada</span>}
+                    {src ? <MediaIlustrasi src={src} /> : <span className="redup kecil">belum ada</span>}
                     <span className="nomor">{n === 'khusus' ? 'Khusus' : n}</span>
                   </button>
                 );
