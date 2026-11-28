@@ -1,7 +1,7 @@
 // Lini waktu video: adegan (durasi dari rekaman narasi), kartu Ulikan.
 import { ADEGAN, KANVAS, KARTU_ULIKAN } from './merek';
 import { ADEGAN_TERPAKAI, type AdeganTerpakai } from './data';
-import { GELAP_SESUDAH, SISIP_JEDA } from '../data/setelan';
+import { GELAP_SESUDAH, KEJUTAN, SISIP_JEDA } from '../data/setelan';
 
 /** Jeda sisipan dalam frame: `pada` dihitung dari awal rekaman narasi adegan (tanpa geseran jeda sebelumnya). */
 export interface Sisip {
@@ -50,6 +50,8 @@ export interface AdeganLini extends AdeganTerpakai {
   sisip: Sisip[];
   /** Layar gelap hening di akhir adegan (GELAP_SESUDAH), frame; 0 bila tidak ada. */
   gelapSesudah: number;
+  /** Adegan KEJUTAN: frame global saat ilustrasinya muncul mendadak; null untuk adegan biasa. */
+  muncul: number | null;
   /** Rentang ilustrasi tampil (lebih panjang dari adegan saat crossfade). */
   vMulai: number;
   vAkhir: number;
@@ -80,9 +82,14 @@ export function hitungLini(durasiNarasi: (number | null)[]): Lini {
             .sort((x, y) => x.pada - y.pada);
     const tambah = sisip.reduce((s, g) => s + g.lama, 0);
     const gelapSesudah = f(GELAP_SESUDAH[a.nomor] ?? 0);
-    const durasi =
-      (n != null ? f(ADEGAN.jedaAwal + n + ADEGAN.jedaAkhir + (a.hening ? ADEGAN.jedaHening : 0)) + tambah : f(a.durasiCadangan)) +
-      gelapSesudah;
+    const kejutan = KEJUTAN[a.nomor];
+    // Adegan kejutan: narasi, celah gelap `jeda`, lalu ilustrasi tampil `tampil` detik (menggantikan jeda akhir biasa).
+    const narasiPenuh = n != null ? f(ADEGAN.jedaAwal + n) + tambah : null;
+    const durasi = kejutan
+      ? (narasiPenuh ?? f(a.durasiCadangan)) + f(kejutan.jeda + kejutan.tampil) + gelapSesudah
+      : (n != null ? f(ADEGAN.jedaAwal + n + ADEGAN.jedaAkhir + (a.hening ? ADEGAN.jedaHening : 0)) + tambah : f(a.durasiCadangan)) +
+        gelapSesudah;
+    const muncul = kejutan ? t + (narasiPenuh ?? f(a.durasiCadangan)) + f(kejutan.jeda) : null;
     const x = {
       ...a,
       indeks: i,
@@ -93,6 +100,7 @@ export function hitungLini(durasiNarasi: (number | null)[]): Lini {
       narasiDurasi: n != null ? f(n) : null,
       sisip,
       gelapSesudah,
+      muncul,
       vMulai: t,
       vAkhir: t + durasi,
       kbAkhir: t + durasi,
@@ -118,6 +126,19 @@ export function hitungLini(durasiNarasi: (number | null)[]): Lini {
       a.vAkhir = a.akhir + ADEGAN.crossfade;
       a.kbAkhir = a.vAkhir;
     }
+  });
+  // Kejutan: gambar adegan sebelumnya ditahan sampai narasi adegan ini selesai lalu dipotong ke gelap;
+  // gambar adegan ini muncul mendadak (tanpa crossfade) di frame `muncul`.
+  adegan.forEach((a, i) => {
+    if (a.muncul == null) return;
+    const sebelum = adegan[i - 1];
+    if (sebelum) {
+      sebelum.vAkhir = Math.max(sebelum.akhir, a.narasiDurasi != null ? a.narasiMulai + a.narasiDurasi : a.mulai);
+      sebelum.kbAkhir = sebelum.vAkhir;
+      sebelum.keluar = 'crossfade';
+    }
+    a.vMulai = a.muncul;
+    a.masuk = 'langsung';
   });
   return { adegan, kartuMulai, total };
 }

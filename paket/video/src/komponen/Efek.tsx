@@ -5,12 +5,13 @@ import React from 'react';
 import { AbsoluteFill, interpolate, random, useCurrentFrame } from 'remotion';
 import { KANVAS, WARNA } from '../lib/merek';
 
-export type NamaEfek = 'kedip-pelita' | 'debu-cahaya' | 'kabut' | 'hujan' | 'vinyet-hening';
+export type NamaEfek = 'kedip-pelita' | 'debu-cahaya' | 'kabut' | 'hujan' | 'vinyet-hening' | 'denyut-gelap';
 
 /**
  * Satu efek di satu adegan. `x`, `y`: pusat dalam % kanvas (kedip-pelita: posisi nyala; debu-cahaya: pusat area cahaya).
  * `lebar`, `tinggi`: ukuran area dalam % kanvas (debu-cahaya; kabut memakai `tinggi` sebagai tebal pita). `kuat`: pengali 0–2 (bawaan 1).
  * hujan: `kuat` mengatur kerapatan dan keterangan garis hujan; `x` dipakai sebagai kemiringan angin dalam derajat (bawaan 12, negatif = miring ke kiri).
+ * denyut-gelap: `x` = detak per menit (bawaan 72), `kuat` = pengali gelap.
  */
 export type EfekAdegan = { efek: NamaEfek; x?: number; y?: number; lebar?: number; tinggi?: number; kuat?: number };
 
@@ -193,6 +194,41 @@ const VinyetHening: React.FC<{ e: EfekAdegan; durasi: number }> = ({ e, durasi }
   return <AbsoluteFill style={{ opacity, background: `radial-gradient(ellipse at 50% 45%, ${hex(WARNA.latar, 0)} 45%, ${hex(WARNA.latar, 0.95)} 100%)` }} />;
 };
 
+/**
+ * Tepi layar menggelap berdenyut seperti detak jantung (dug-dug, lalu jeda). `x`: detak per menit (bawaan 72);
+ * `kuat`: pengali gelap (bawaan 1). Dasar gelapnya tipis, puncak denyut menutup tepi lebih rapat.
+ */
+const DenyutGelap: React.FC<{ e: EfekAdegan }> = ({ e }) => {
+  const f = useCurrentFrame();
+  const kuat = e.kuat ?? 1;
+  const periode = (60 / (e.x ?? 72)) * KANVAS.fps;
+  const t = (f % periode) / periode; // 0..1 dalam satu detak
+  const pulsa = (pusat: number, lebar: number) => Math.exp(-(((t - pusat) / lebar) ** 2));
+  const denyut = Math.min(1, pulsa(0.06, 0.05) + 0.7 * pulsa(0.24, 0.05));
+  const opacity = Math.min(1, kuat * (0.35 + 0.45 * denyut));
+  return <AbsoluteFill style={{ opacity, background: `radial-gradient(ellipse at 50% 45%, ${hex(WARNA.latar, 0)} 40%, ${hex(WARNA.latar, 0.97)} 100%)` }} />;
+};
+
+/**
+ * Butiran film abu-abu di seluruh layar (setelan BUTIRAN_FILM), berganti pola tiap 2 frame seperti film tua.
+ * Tanpa warna merek: derau dibuat abu-abu lalu dicampur lewat overlay, jadi hanya mengubah tekstur, bukan rona.
+ */
+export const ButiranFilm: React.FC<{ kuat: number }> = ({ kuat }) => {
+  const f = useCurrentFrame();
+  const pola = Math.floor(f / 2) % 24;
+  return (
+    <AbsoluteFill style={{ opacity: Math.min(1, 0.18 * kuat), mixBlendMode: 'overlay', pointerEvents: 'none' }}>
+      <svg width="100%" height="100%" viewBox={`0 0 ${KANVAS.lebar} ${KANVAS.tinggi}`} preserveAspectRatio="none">
+        <filter id={`butiran-${pola}`} x="0" y="0" width="100%" height="100%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves={2} seed={pola + 1} stitchTiles="stitch" />
+          <feColorMatrix type="saturate" values="0" />
+        </filter>
+        <rect width="100%" height="100%" filter={`url(#butiran-${pola})`} />
+      </svg>
+    </AbsoluteFill>
+  );
+};
+
 export const EFEK_MENEMPEL: NamaEfek[] = ['kedip-pelita', 'debu-cahaya'];
 
 /** Satu efek; `seed` membedakan adegan agar kedip dan debu tidak sama persis. */
@@ -206,6 +242,8 @@ export const Efek: React.FC<{ e: EfekAdegan; seed: string; durasi: number }> = (
       return <Kabut e={e} seed={seed} />;
     case 'hujan':
       return <Hujan e={e} seed={seed} />;
+    case 'denyut-gelap':
+      return <DenyutGelap e={e} />;
     case 'vinyet-hening':
       return <VinyetHening e={e} durasi={durasi} />;
     default:

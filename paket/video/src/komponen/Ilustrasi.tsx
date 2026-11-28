@@ -1,5 +1,6 @@
 import React from 'react';
-import { AbsoluteFill, Freeze, Img, OffthreadVideo } from 'remotion';
+import { Video } from '@remotion/media';
+import { AbsoluteFill, Freeze, Img } from 'remotion';
 import type { Gerak } from '../data/adegan';
 import { ADEGAN, FOTO_UTUH, HURUF, KANVAS, WARNA } from '../lib/merek';
 import { dua } from '../lib/data';
@@ -47,20 +48,20 @@ export const Ilustrasi: React.FC<{
   const transform = kenBurns(gerak, kemajuan, kenBurnsKhusus);
   const filter = blur > 0 ? `blur(${blur}px)` : undefined;
   if (src && klip) {
-    // Klip diputar berurutan (OffthreadVideo menahan frame terakhirnya sendiri bila Sequence lebih panjang).
-    // Membekukan frame per frame dengan <Freeze> membuat cache compositor kehabisan frame ("No frame found").
+    // Klip diputar berurutan dengan <Video> dari @remotion/media (dekode di browser). OffthreadVideo gagal acak
+    // di render ("No frame found at position": cache compositor) saat klip yang sama dipakai di dua Sequence.
     const akhirKlip = Math.max(0, Math.floor(klip.detik * KANVAS.fps) - 1);
     const awal = Math.max(0, Math.round(klip.frameAwal ?? 0));
-    const gaya = { width: '100%', height: '100%', objectFit: 'cover', transform, filter } as const;
+    const gaya = { width: '100%', height: '100%', transform, filter } as const;
     return (
       <AbsoluteFill style={{ overflow: 'hidden', backgroundColor: WARNA.latar }}>
         {awal >= akhirKlip ? (
           // Klip sudah habis sebelum Sequence ini mulai: tahan frame terakhirnya (satu posisi tetap).
           <Freeze frame={akhirKlip}>
-            <OffthreadVideo src={src} muted style={gaya} />
+            <Video src={src} muted objectFit="cover" style={gaya} />
           </Freeze>
         ) : (
-          <OffthreadVideo src={src} muted trimBefore={awal > 0 ? awal : undefined} style={gaya} />
+          <Video src={src} muted objectFit="cover" trimBefore={awal > 0 ? awal : undefined} style={gaya} />
         )}
       </AbsoluteFill>
     );

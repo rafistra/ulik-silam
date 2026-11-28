@@ -27,6 +27,17 @@ export let GELAP_AWAL: Record<number, number> = {};
 export let GELAP_SESUDAH: Record<number, number> = {};
 
 /**
+ * Kejutan (jumpscare) per adegan: { nomor adegan: { jeda, tampil } } dalam detik. Selama narasi adegan itu, ilustrasi
+ * adegan sebelumnya tetap tampil; begitu narasi selesai layar langsung gelap selama `jeda`, lalu ilustrasi adegan ini
+ * muncul mendadak tanpa crossfade dan bertahan `tampil` detik sebelum adegan berikutnya (atau kartu Ulikan).
+ * `zoom` (opsional, mis. 1,6): gambar menyentak masuk ke skala itu dalam 0,15 dtk, berpusat di `fokusY` (% tinggi gambar,
+ * bawaan 50), bergetar selama `getar` detik (`amplitudo` px, bawaan 18, mereda), lalu mundur pelan ke 1; `penuh` detik
+ * terakhir `tampil` menahan gambar di skala 1.
+ * Hantaman SFX diatur lewat SETELAN_SFX dan musik lewat SETELAN_MUSIK.sunyiMulaiAdegan.
+ */
+export let KEJUTAN: Record<number, { jeda: number; tampil: number; zoom?: number; fokusY?: number; getar?: number; amplitudo?: number; penuh?: number }> = {};
+
+/**
  * Timpa detik mulai, volume, atau ulang per nomor SFX (lihat src/data/audio.ts). `durasi` (detik): lama SFX diputar;
  * `fadeKeluar` (detik): memudar sampai senyap di akhir durasi itu, untuk berkas yang berhenti mendadak. Tanpa `durasi`,
  * fade dihitung dari akhir jendela putar (akhir adegan + 3 dtk), jadi isi `durasi` ≤ panjang berkas agar fade terdengar.
@@ -77,6 +88,9 @@ export let SISIP_JEDA: Record<number, { pada: number; lama: number; sfx: number;
  */
 export let EFEK_ADEGAN: Record<number, EfekAdegan[]> = {};
 
+/** Butiran film abu-abu di seluruh video sampai kartu Ulikan, kekuatan 0–2 (0 = mati, bawaan). Lihat ButiranFilm di Efek.tsx. */
+export let BUTIRAN_FILM = 0;
+
 /** Nomor adegan yang ilustrasinya dipakai di sampul (bawaan skill: 1). */
 export let SAMPUL_ADEGAN = 1;
 
@@ -99,7 +113,7 @@ export let SETELAN_AUDIO = {
   sfx: 1,
 };
 
-const BAWAAN = structuredClone({ SETELAN_ADEGAN, ADEGAN_FOTO_UTUH, GELAP_AWAL, GELAP_SESUDAH, SETELAN_SFX, SETELAN_MUSIK, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT, POTONG_SUBTITLE, FRASA_NARASI, SISIP_JEDA, SAMPUL_ADEGAN, SETELAN_PETA, SETELAN_AUDIO, EFEK_ADEGAN });
+const BAWAAN = structuredClone({ SETELAN_ADEGAN, ADEGAN_FOTO_UTUH, GELAP_AWAL, GELAP_SESUDAH, KEJUTAN, SETELAN_SFX, SETELAN_MUSIK, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT, POTONG_SUBTITLE, FRASA_NARASI, SISIP_JEDA, SAMPUL_ADEGAN, SETELAN_PETA, SETELAN_AUDIO, EFEK_ADEGAN, BUTIRAN_FILM });
 export type Setelan = Partial<{ [K in keyof typeof BAWAAN]: (typeof BAWAAN)[K] }>;
 
 /** Pasang setelan proyek; kunci yang tidak diisi kembali ke bawaan. */
@@ -108,6 +122,7 @@ export function pasangSetelan(d: Setelan = {}) {
   ADEGAN_FOTO_UTUH = d.ADEGAN_FOTO_UTUH ?? BAWAAN.ADEGAN_FOTO_UTUH;
   GELAP_AWAL = d.GELAP_AWAL ?? BAWAAN.GELAP_AWAL;
   GELAP_SESUDAH = d.GELAP_SESUDAH ?? BAWAAN.GELAP_SESUDAH;
+  KEJUTAN = d.KEJUTAN ?? BAWAAN.KEJUTAN;
   SETELAN_SFX = d.SETELAN_SFX ?? BAWAAN.SETELAN_SFX;
   SETELAN_MUSIK = d.SETELAN_MUSIK ?? BAWAAN.SETELAN_MUSIK;
   SAMARKAN_SUBTITLE = d.SAMARKAN_SUBTITLE ?? BAWAAN.SAMARKAN_SUBTITLE;
@@ -117,6 +132,7 @@ export function pasangSetelan(d: Setelan = {}) {
   SISIP_JEDA = d.SISIP_JEDA ?? BAWAAN.SISIP_JEDA;
   SAMPUL_ADEGAN = d.SAMPUL_ADEGAN ?? BAWAAN.SAMPUL_ADEGAN;
   EFEK_ADEGAN = d.EFEK_ADEGAN ?? BAWAAN.EFEK_ADEGAN;
+  BUTIRAN_FILM = d.BUTIRAN_FILM ?? BAWAAN.BUTIRAN_FILM;
   SETELAN_PETA = d.SETELAN_PETA ?? BAWAAN.SETELAN_PETA;
   SETELAN_AUDIO = { ...BAWAAN.SETELAN_AUDIO, ...(d.SETELAN_AUDIO || {}) };
 }

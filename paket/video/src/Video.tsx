@@ -1,11 +1,11 @@
 import React, { useMemo } from 'react';
-import { AbsoluteFill, interpolate, Sequence, useCurrentFrame } from 'remotion';
+import { AbsoluteFill, Easing, interpolate, random, Sequence, useCurrentFrame } from 'remotion';
 import { pasangData, type DataVideo } from './data/pasang';
 import { LAPISAN, ULIKAN } from './data/proyek';
 import { LapisanAudio } from './komponen/Audio';
 import { GradasiAtas, GradasiBawah } from './komponen/GradasiBawah';
 import { Ilustrasi, kenBurns } from './komponen/Ilustrasi';
-import { Efek, EFEK_MENEMPEL } from './komponen/Efek';
+import { ButiranFilm, Efek, EFEK_MENEMPEL } from './komponen/Efek';
 import { DATA_PETA } from './data/peta';
 import { PetaRute } from './peta/PetaRute';
 import { KartuUlikan } from './komponen/KartuUlikan';
@@ -17,7 +17,7 @@ import { muatFont } from './lib/font';
 import { hitungLini, jedaTerakhir, keWaktuNarasi, type AdeganLini } from './lib/lini';
 import { ADEGAN, KANVAS, KARTU_ULIKAN, LABEL_LAPISAN, WARNA } from './lib/merek';
 import { kunciPerPotongan, pecahSubtitle, samarkan, waktuDariFrasa, waktuSubtitle } from './lib/subtitle';
-import { ADEGAN_FOTO_UTUH, EFEK_ADEGAN, FRASA_NARASI, GELAP_AWAL, POTONG_SUBTITLE, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT } from './data/setelan';
+import { ADEGAN_FOTO_UTUH, EFEK_ADEGAN, FRASA_NARASI, BUTIRAN_FILM, GELAP_AWAL, KEJUTAN, POTONG_SUBTITLE, SAMARKAN_SUBTITLE, TEKS_LAYAR_BAIT } from './data/setelan';
 
 export type PropsVideo = { data: DataVideo; durasiNarasi: (number | null)[] };
 
@@ -56,8 +56,40 @@ const LapisanIlustrasi: React.FC<{ a: AdeganLini }> = ({ a }) => {
   const efek = EFEK_ADEGAN[a.nomor] ?? [];
   const menempel = efek.filter((e) => EFEK_MENEMPEL.includes(e.efek));
   const layar = efek.filter((e) => !EFEK_MENEMPEL.includes(e.efek));
+  // KEJUTAN.zoom: sentakan masuk cepat ke titik fokus (fokusY, % tinggi gambar), getaran yang mereda selama `getar` detik,
+  // lalu mundur pelan ke skala 1 di akhir `tampil` (kartu Ulikan menyambung di skala 1, tanpa geseran).
+  const kejutan = KEJUTAN[a.nomor];
+  let sentak = 1;
+  let gx = 0;
+  let gy = 0;
+  if (kejutan?.zoom) {
+    const naik = Math.round(0.15 * KANVAS.fps);
+    const getar = Math.round((kejutan.getar ?? 0) * KANVAS.fps);
+    const tahan = naik + getar;
+    // `penuh`: detik terakhir `tampil` yang menahan wujud penuh (skala 1) sebelum adegan berikutnya atau kartu Ulikan.
+    const habis = Math.max(tahan + 1, Math.round((kejutan.tampil - (kejutan.penuh ?? 0)) * KANVAS.fps));
+    sentak =
+      f < naik
+        ? interpolate(f, [0, naik], [1, kejutan.zoom], { ...jepit, easing: Easing.out(Easing.cubic) })
+        : f < tahan
+          ? kejutan.zoom
+          : interpolate(f, [tahan, habis], [kejutan.zoom, 1], { ...jepit, easing: Easing.inOut(Easing.cubic) });
+    if (getar > 0 && f >= naik && f < tahan) {
+      const sisa = 1 - (f - naik) / getar;
+      const kuat = (kejutan.amplitudo ?? 18) * sisa;
+      gx = (random(`getar-x-${a.nomor}-${f}`) * 2 - 1) * kuat;
+      gy = (random(`getar-y-${a.nomor}-${f}`) * 2 - 1) * kuat;
+    }
+  }
+  const asal = `50% ${kejutan?.fokusY ?? 50}%`;
   return (
-    <AbsoluteFill style={{ opacity }}>
+    <AbsoluteFill style={{ opacity, overflow: 'hidden' }}>
+      <AbsoluteFill
+        style={{
+          transform: sentak !== 1 || gx || gy ? `translate(${gx}px, ${gy}px) scale(${sentak})` : undefined,
+          transformOrigin: kejutan?.zoom ? asal : undefined,
+        }}
+      >
       <Ilustrasi nomor={a.nomor} src={ASET.ilustrasi(a.nomor)} gerak={a.gerak} kenBurnsKhusus={a.kenBurns} utuh={utuh} visual={a.visual} kemajuan={kemajuan} klip={klip} />
       {/* Efek berposisi ikut transform Ken Burns ilustrasi agar tetap di benda yang sama (foto utuh: tanpa transform). */}
       {menempel.length ? (
@@ -69,6 +101,7 @@ const LapisanIlustrasi: React.FC<{ a: AdeganLini }> = ({ a }) => {
           </AbsoluteFill>
         </AbsoluteFill>
       ) : null}
+      </AbsoluteFill>
       {layar.map((e, i) => (
         <Efek key={`l${i}`} e={e} seed={`${a.nomor}-l${i}`} durasi={a.vAkhir - a.vMulai} />
       ))}
@@ -186,6 +219,7 @@ export const Video: React.FC<PropsVideo> = ({ data, durasiNarasi }) => {
           }}
         />
       </Sequence>
+      {BUTIRAN_FILM > 0 ? <ButiranFilm kuat={BUTIRAN_FILM} /> : null}
       <LapisanAudio lini={lini} />
     </AbsoluteFill>
   );

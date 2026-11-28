@@ -1,0 +1,208 @@
+{
+  "KEJUTAN": {
+    "17": {
+      "jeda": 0.7,
+      "tampil": 6,
+      "zoom": 1.6,
+      "fokusY": 27,
+      "getar": 0.6,
+      "amplitudo": 18,
+      "penuh": 2
+    }
+  },
+  "SETELAN_ADEGAN": {
+    "17": {
+      "kenBurns": {
+        "skala": [
+          1,
+          1
+        ],
+        "geserY": [
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "SETELAN_SFX": {
+    "1": {
+      "ulang": true,
+      "durasi": 45,
+      "fadeKeluar": 2
+    },
+    "2": {
+      "ulang": true,
+      "volume": 0.25,
+      "durasi": 146.5,
+      "fadeKeluar": 1.5
+    },
+    "13": {
+      "ulang": true,
+      "durasi": 21.5,
+      "fadeKeluar": 1.5
+    },
+    "15": {
+      "detik": -6,
+      "volume": 0.8
+    }
+  },
+  "SETELAN_MUSIK": {
+    "3": {
+      "sunyiMulaiAdegan": 17,
+      "fadeSunyi": 1
+    }
+  },
+  "SAMARKAN_SUBTITLE": {
+    "Malam turun": "Malam pun tiba"
+  },
+  "EFEK_ADEGAN": {
+    "1": [
+      {
+        "efek": "kabut",
+        "y": 32,
+        "tinggi": 22,
+        "kuat": 0.5
+      }
+    ],
+    "2": [
+      {
+        "efek": "kedip-pelita",
+        "x": 49,
+        "y": 84,
+        "kuat": 0.42
+      }
+    ],
+    "4": [
+      {
+        "efek": "kedip-pelita",
+        "x": 63,
+        "y": 82,
+        "kuat": 0.48
+      }
+    ],
+    "5": [
+      {
+        "efek": "kabut",
+        "y": 58,
+        "tinggi": 28,
+        "kuat": 0.8
+      }
+    ],
+    "6": [
+      {
+        "efek": "kedip-pelita",
+        "x": 74,
+        "y": 68,
+        "kuat": 0.96
+      }
+    ],
+    "7": [
+      {
+        "efek": "debu-cahaya",
+        "x": 50,
+        "y": 30,
+        "lebar": 50,
+        "tinggi": 45,
+        "kuat": 0.8
+      }
+    ],
+    "8": [
+      {
+        "efek": "kedip-pelita",
+        "x": 53,
+        "y": 45,
+        "kuat": 0.6
+      },
+      {
+        "efek": "vinyet-hening",
+        "kuat": 0.6
+      }
+    ],
+    "10": [
+      {
+        "efek": "kedip-pelita",
+        "x": 38,
+        "y": 54,
+        "kuat": 0.6
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 64,
+        "kuat": 0.5
+      }
+    ],
+    "11": [
+      {
+        "efek": "kedip-pelita",
+        "x": 10,
+        "y": 53,
+        "kuat": 0.66
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 76,
+        "kuat": 0.7
+      }
+    ],
+    "12": [
+      {
+        "efek": "kedip-pelita",
+        "x": 49,
+        "y": 52,
+        "kuat": 0.72
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 88,
+        "kuat": 0.9
+      }
+    ],
+    "13": [
+      {
+        "efek": "kedip-pelita",
+        "x": 8,
+        "y": 63,
+        "kuat": 1.2
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 100,
+        "kuat": 0.8
+      }
+    ],
+    "14": [
+      {
+        "efek": "kabut",
+        "y": 65,
+        "tinggi": 25,
+        "kuat": 0.8
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 80,
+        "kuat": 0.6
+      }
+    ],
+    "15": [
+      {
+        "efek": "kedip-pelita",
+        "x": 48,
+        "y": 88,
+        "kuat": 0.24
+      },
+      {
+        "efek": "denyut-gelap",
+        "x": 56,
+        "kuat": 0.4
+      }
+    ],
+    "16": [
+      {
+        "efek": "denyut-gelap",
+        "x": 72,
+        "kuat": 0.8
+      }
+    ]
+  },
+  "BUTIRAN_FILM": 1.4
+}
